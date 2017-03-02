@@ -1,0 +1,48 @@
+---
+title: "Vietnam Leeches"
+author: "Douglas Yu"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(vegan)
+```
+
+## Read data
+
+```{r read data}
+lowreadthreshold <- 100
+leechidna <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.xlsx", sheet = "16Svert", skip = 1)
+leechidna <- leechidna[ , 2:720] # can't use dplyr::select because some of the columns have duplicate names, and select can't handle that
+names(leechidna)
+leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae") & Total_reads >= 20) # filter out low-read OTUs but keep slow loris and pangolin
+```
+
+```{r sum read numbers by taxonomy}
+names(leechidna)
+leechidna2 <- leechidna %>% group_by(OTUs_merged_by_taxonomy) %>% summarise_at(vars(WWF1:Total_reads), sum)
+names(leechidna2)
+```
+
+```{r }
+leechidna2$OTUs_merged_by_taxonomy
+```
+
+select out negative control samples
+add incidence column
+filter by taxonomy
+transpose taxonomic subsets to community 
+join sample name to nature reserve name
+heatmap
+ordination biplot to see if i can merge some more OTUs
+
+
+
+
