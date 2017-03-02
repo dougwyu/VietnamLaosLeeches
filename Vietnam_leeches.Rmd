@@ -45,6 +45,15 @@ for(i in 1:length(negctrls)) {
 # leechidna3 <- leechidna2 %>% select(-starts_with(neg[1]), -starts_with(neg[2]), -starts_with(neg[3]), -starts_with(neg[4]), -starts_with(neg[5]), -starts_with(neg[6]), -starts_with(neg[7]), -starts_with(neg[8]), -starts_with(neg[9]), -starts_with(neg[10]), -starts_with(neg[11]), -starts_with(neg[12]), -starts_with(neg[13]), -starts_with(neg[14]), -starts_with(neg[15]), -starts_with(neg[16]), -starts_with(neg[17]), -starts_with(neg[18])) # slow way
 ```
 
+```{r filter by read number}
+# if i want to set cells to 0 that have fewer reads than the negative controls for that batch of samples.  I haven't implemented it yet, but i have generated the negative control matrix.
+leechidna_negctrls <- leechidna2
+leechidna_samples <- colnames(leechidna3)
+leechidna_negctrls <- leechidna_negctrls %>% select(-one_of(leechidna_samples))
+# leechidna_negctrls
+```
+
+
 ```{r add total_reads and incidence columns}
 leechidna3$total_reads <- leechidna3 %>% select(-OTUs_merged_by_taxonomy) %>% rowSums()
 
@@ -54,6 +63,7 @@ leechidna3$incidence <- leechidna3 %>% select(-OTUs_merged_by_taxonomy, -total_r
 # leechidna3$incidence
 # leechidna3$total_reads
 ```
+
 
 ```{r filter by taxonomy}
 taxa_to_remove <- c("Actinopterygii|Amphibia|Archelosauria|lab contamination|laboratory contamination")
@@ -75,6 +85,12 @@ leechidna_Pholidota <- leechidna4 %>% filter(grepl(c("Pholidota"), OTUs_merged_b
 
 ```
 
+```{r transpose to community}
+
+leechidna_Pholidota$total_reads
+
+
+```
 
 transpose taxonomic subsets to community 
 join sample name to nature reserve name
