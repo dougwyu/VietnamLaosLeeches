@@ -36,10 +36,12 @@ names(leechidna2)
 negctrls <- c("BM","H1s","H2s","H3s","Q1s","Q2s","Q3s","XS2","XS5","XS6","XS7","XS8","XS9","SWG1s","SWG2s","XS1s","XS2s","2015Dec")
 
 leechidna3 <- leechidna2
+
 for(i in 1:length(negctrls)) {
 	leechidna3 <- leechidna3 %>% select(-starts_with(negctrls[i]))
 }
 
+# names(leechidna3)
 # leechidna3 <- leechidna2 %>% select(-starts_with(neg[1]), -starts_with(neg[2]), -starts_with(neg[3]), -starts_with(neg[4]), -starts_with(neg[5]), -starts_with(neg[6]), -starts_with(neg[7]), -starts_with(neg[8]), -starts_with(neg[9]), -starts_with(neg[10]), -starts_with(neg[11]), -starts_with(neg[12]), -starts_with(neg[13]), -starts_with(neg[14]), -starts_with(neg[15]), -starts_with(neg[16]), -starts_with(neg[17]), -starts_with(neg[18])) # slow way
 ```
 
@@ -48,13 +50,32 @@ leechidna3$total_reads <- leechidna3 %>% select(-OTUs_merged_by_taxonomy) %>% ro
 
 leechidna3$incidence <- leechidna3 %>% select(-OTUs_merged_by_taxonomy, -total_reads) %>% specnumber(MARGIN=1)
 
-names(leechidna3)
-leechidna3$incidence
+# names(leechidna3)
+# leechidna3$incidence
+# leechidna3$total_reads
+```
+
+```{r filter by taxonomy}
+taxa_to_remove <- c("Actinopterygii|Amphibia|Archelosauria|lab contamination|laboratory contamination")
+leechidna4 <- leechidna3 %>% filter(!grepl(taxa_to_remove, OTUs_merged_by_taxonomy))
+# leechidna4$OTUs_merged_by_taxonomy
+
+leechidna_Mammalia <- leechidna4 %>% filter(!grepl(c("no assignment|root"), OTUs_merged_by_taxonomy))
+
+leechidna_Carnivora <- leechidna4 %>% filter(grepl(c("Carnivora"), OTUs_merged_by_taxonomy))
+
+leechidna_smallcritters <- leechidna4 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Insectivora"), OTUs_merged_by_taxonomy))
+
+leechidna_Artiodactyla <- leechidna4 %>% filter(grepl(c("Artiodactyla"), OTUs_merged_by_taxonomy))
+
+leechidna_Primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_taxonomy))
+
+leechidna_Pholidota <- leechidna4 %>% filter(grepl(c("Pholidota"), OTUs_merged_by_taxonomy))
+
 
 ```
 
-add incidence column
-filter by taxonomy
+
 transpose taxonomic subsets to community 
 join sample name to nature reserve name
 heatmap
