@@ -27,15 +27,25 @@ leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% 
 
 ```{r sum read numbers by taxonomy}
 names(leechidna)
-leechidna2 <- leechidna %>% group_by(OTUs_merged_by_taxonomy) %>% summarise_at(vars(WWF1:Total_reads), sum)
+leechidna2 <- leechidna %>% group_by(OTUs_merged_by_taxonomy) %>% summarise_at(vars(WWF1:WWF465), sum)
 names(leechidna2)
 ```
 
-```{r }
-leechidna2$OTUs_merged_by_taxonomy
+```{r remove negative controls}
+# leechidna2$OTUs_merged_by_taxonomy
+
+negctrls <- c("BM","H1s","H2s","H3s","Q1s","Q2s","Q3s","XS2","XS5","XS6","XS7","XS8","XS9","SWG1s","SWG2s","XS1s","XS2s","2015Dec")
+
+leechidna3 <- leechidna2
+
+for(i in 1:length(negctrls)) {
+	leechidna3 <- leechidna3 %>% select(-starts_with(negctrls[i]))
+}
+
+# leechidna3 <- leechidna2 %>% select(-starts_with(neg[1]), -starts_with(neg[2]), -starts_with(neg[3]), -starts_with(neg[4]), -starts_with(neg[5]), -starts_with(neg[6]), -starts_with(neg[7]), -starts_with(neg[8]), -starts_with(neg[9]), -starts_with(neg[10]), -starts_with(neg[11]), -starts_with(neg[12]), -starts_with(neg[13]), -starts_with(neg[14]), -starts_with(neg[15]), -starts_with(neg[16]), -starts_with(neg[17]), -starts_with(neg[18])) # slow way
 ```
 
-select out negative control samples
+
 add incidence column
 filter by taxonomy
 transpose taxonomic subsets to community 
