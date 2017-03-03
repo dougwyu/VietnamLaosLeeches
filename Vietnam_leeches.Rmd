@@ -23,6 +23,10 @@ leechidna <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.
 leechidna <- leechidna[ , 2:720] # can't use dplyr::select because some of the columns have duplicate names, and select can't handle that
 names(leechidna)
 leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae") & Total_reads >= 20) # filter out low-read OTUs but keep slow loris and pangolin
+
+reserve <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.xlsx", sheet = "Site_codes")
+names(reserve)
+reserve <- reserve %>% select(Sample_16SVert_Row2, Reserve_StdName, Approx_number_leeches)
 ```
 
 ```{r sum read numbers by taxonomy}
@@ -45,7 +49,7 @@ for(i in 1:length(negctrls)) {
 # leechidna3 <- leechidna2 %>% select(-starts_with(neg[1]), -starts_with(neg[2]), -starts_with(neg[3]), -starts_with(neg[4]), -starts_with(neg[5]), -starts_with(neg[6]), -starts_with(neg[7]), -starts_with(neg[8]), -starts_with(neg[9]), -starts_with(neg[10]), -starts_with(neg[11]), -starts_with(neg[12]), -starts_with(neg[13]), -starts_with(neg[14]), -starts_with(neg[15]), -starts_with(neg[16]), -starts_with(neg[17]), -starts_with(neg[18])) # slow way
 ```
 
-```{r filter by read number}
+```{r filter by read number, eval=FALSE}
 # if i want to set cells to 0 that have fewer reads than the negative controls for that batch of samples.  I haven't implemented it yet, but i have generated the negative control matrix.
 leechidna_negctrls <- leechidna2
 leechidna_samples <- colnames(leechidna3)
@@ -66,34 +70,59 @@ leechidna3$incidence <- leechidna3 %>% select(-OTUs_merged_by_taxonomy, -total_r
 
 
 ```{r filter by taxonomy}
-taxa_to_remove <- c("Actinopterygii|Amphibia|Archelosauria|lab contamination|laboratory contamination")
+# change OTU names to format that is acceptable to R as column names
+
+leechidna3$OTUs_merged_by_taxonomy <- make.names(leechidna3$OTUs_merged_by_taxonomy)
+leechidna3$OTUs_merged_by_taxonomy <- gsub("cf..", "cf_", leechidna3$OTUs_merged_by_taxonomy, fixed = TRUE) # fixed = T is to not use grep
+
+# remove some taxa
+taxa_to_remove <- c("Actinopterygii|Amphibia|Archelosauria|lab.contamination|laboratory.contamination")
 leechidna4 <- leechidna3 %>% filter(!grepl(taxa_to_remove, OTUs_merged_by_taxonomy))
 # leechidna4$OTUs_merged_by_taxonomy
 
-leechidna_Mammalia <- leechidna4 %>% filter(!grepl(c("no assignment|root"), OTUs_merged_by_taxonomy))
+# taxonomic subsets
+leechidna_named_mammals <- leechidna4 %>% filter(!grepl(c("no.assignment|root"), OTUs_merged_by_taxonomy))
 
-leechidna_Carnivora <- leechidna4 %>% filter(grepl(c("Carnivora"), OTUs_merged_by_taxonomy))
+leechidna_carnivora <- leechidna4 %>% filter(grepl(c("Carnivora"), OTUs_merged_by_taxonomy))
 
-leechidna_smallcritters <- leechidna4 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Insectivora"), OTUs_merged_by_taxonomy))
+leechidna_critters <- leechidna4 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Insectivora|Pholidota"), OTUs_merged_by_taxonomy))
 
-leechidna_Artiodactyla <- leechidna4 %>% filter(grepl(c("Artiodactyla"), OTUs_merged_by_taxonomy))
+leechidna_artiodactyla <- leechidna4 %>% filter(grepl(c("Artiodactyla"), OTUs_merged_by_taxonomy))
 
-leechidna_Primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_taxonomy))
-
-leechidna_Pholidota <- leechidna4 %>% filter(grepl(c("Pholidota"), OTUs_merged_by_taxonomy))
-
-
+leechidna_primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_taxonomy)) 
 ```
 
 ```{r transpose to community}
+# create site X species tables
+varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
 
-leechidna_Pholidota$total_reads
-
-
+for (i in seq_along(varNames)) {
+  d <- get(paste0("leechidna_", varNames[i])) # get a community subset
+  d_t <- t(d) # transpose
+  colnames(d_t) <- d_t[1,] # move taxonomic names to column names
+  d_t <- as.data.frame(d_t) # coerce to dataframe
+  d_t <- rownames_to_column(d_t, var = "site") # add site names to dataframe
+  d_t <- d_t %>% filter(site != "OTUs_merged_by_taxonomy", site != "incidence", site != "total_reads") # filter out these rows
+  assign(paste0("leechidna_", varNames[i], "_t"), d_t) # assign output to the correct object name
+}
 ```
 
-transpose taxonomic subsets to community 
-join sample name to nature reserve name
+```{r create environment dataset}
+varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+
+for (i in seq_along(varNames)) {
+  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2"))
+  dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches)
+  assign(paste0("reserve_", varNames[i]), dreserve)
+  d <- d %>% select(-site)
+  assign(paste0("leechidna_", varNames[i], "_t"), d)
+}
+rm(d)
+rm(d_t)
+rm(dreserve)
+```
+
 heatmap
 ordination biplot to see if i can merge some more OTUs
 
