@@ -108,14 +108,14 @@ for (i in seq_along(varNames)) {
 ```
 
 https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-loop/
-```{r create environment dataset}
+```{r create environment datasets}
 varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
 
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
-  dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2"))
-  dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches)
-  assign(paste0("reserve_", varNames[i]), dreserve)
+  dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2")) # use the site column to add environment data in correct order
+  dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches) # choose the env columns
+  assign(paste0("reserve_", varNames[i]), dreserve) # create object with correct name
   d <- d %>% select(-site)
   assign(paste0("leechidna_", varNames[i], "_t"), d)
 }
@@ -128,6 +128,16 @@ for (i in seq_along(varNames)) {
   assign(paste0("leechidna_", varNames[i], "_t"), d)
 }
 
+# omit rows that have rowSums = 0, from both OTU and environment datsets
+for (i in seq_along(varNames)) {
+  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  r <- get(paste0("reserve_", varNames[i]))
+  r <- r[which(rowSums(d) > 0), ]
+  d <- d[which(rowSums(d) > 0), ]
+  assign(paste0("leechidna_", varNames[i], "_t"), d)
+  assign(paste0("reserve_", varNames[i]), r)
+}
+
 rm(d)
 rm(d_t)
 rm(dreserve)
@@ -137,13 +147,16 @@ rm(dreserve)
 
 ```{r community analysis}
 communities <- c("leechidna_named_mammals_t", "leechidna_carnivora_t", "leechidna_critters_t", "leechidna_artiodactyla_t", "leechidna_primates_t")
-community <- communities[3]
+community <- communities[5]
 
 rowSums(get(community))
-tabasco(get(community))
+dca <- decorana(get(community))
+tabasco(decostand(get(community), "log"), dca)
+city_complex.jmds <- metaMDS(city_complex.dis, dist="jaccard")
+
 
 ```
-tabasco(decostand(varespec, "log+1"), dca)
+
 heatmap
 ordination biplot to see if i can merge some more OTUs
 
