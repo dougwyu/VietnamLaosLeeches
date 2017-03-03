@@ -107,6 +107,7 @@ for (i in seq_along(varNames)) {
 }
 ```
 
+https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-loop/
 ```{r create environment dataset}
 varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
 
@@ -118,11 +119,31 @@ for (i in seq_along(varNames)) {
   d <- d %>% select(-site)
   assign(paste0("leechidna_", varNames[i], "_t"), d)
 }
+
+# now that site column has been removed, convert the remaining OTU columns to numeric
+# http://stackoverflow.com/questions/2288485/how-to-convert-a-data-frame-column-to-numeric-type
+for (i in seq_along(varNames)) {
+  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  d <- as.data.frame(sapply(d, function(x) as.numeric(as.character(x)))) 
+  assign(paste0("leechidna_", varNames[i], "_t"), d)
+}
+
 rm(d)
 rm(d_t)
 rm(dreserve)
 ```
 
+
+
+```{r community analysis}
+communities <- c("leechidna_named_mammals_t", "leechidna_carnivora_t", "leechidna_critters_t", "leechidna_artiodactyla_t", "leechidna_primates_t")
+community <- communities[3]
+
+rowSums(get(community))
+tabasco(get(community))
+
+```
+tabasco(decostand(varespec, "log+1"), dca)
 heatmap
 ordination biplot to see if i can merge some more OTUs
 
