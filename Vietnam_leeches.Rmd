@@ -27,7 +27,7 @@ leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% 
 
 reserve <- read_excel(inputfile, sheet = "Site_codes")
 names(reserve)
-reserve <- reserve %>% select(Sample_16SVert_Row2, Reserve_StdName, Approx_number_leeches)
+reserve <- reserve %>% select(Sample_16SVert_Row2, Reserve_StdName, Reserve_SubName, Approx_number_leeches)
 ```
 
 ```{r sum read numbers by taxonomy}
@@ -116,7 +116,7 @@ varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "prim
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
   dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2")) # use the site column to add environment data in correct order
-  assign(paste0("OTU_by_Site_", varNames[i]), dreserve) # create site X species tables
+  assign(paste0("OTU_by_Site_", varNames[i]), dreserve) # create site X species tables for outside use
   dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches) # choose the env columns
   assign(paste0("reserve_", varNames[i]), dreserve) # create object with correct name
   d <- d %>% select(-site)
@@ -141,21 +141,24 @@ for (i in seq_along(varNames)) {
   assign(paste0("reserve_", varNames[i]), r)
 }
 
+# change column orders of the site X species tables and write to disk
+for (i in seq_along(varNames)) {
+  otu <- get(paste0("OTU_by_Site_", varNames[i])) # get a community subset
+  otu <- otu %>% select(Reserve_StdName, Reserve_SubName, Approx_number_leeches, everything()) # change the column orders
+  otu <- otu %>% rename(ECEC_code = site)
+  assign(paste0("OTU_by_Site_", varNames[i]), otu) # create object with correct name
+  write.table(get(paste0("OTU_by_Site_", varNames[i])), file = paste0("OTU_by_Site_", varNames[i],".tsv"),sep ="\t", row.names = FALSE)
+}
+
+rm(otu)
 rm(d)
 rm(r)
 rm(d_t)
 rm(dreserve)
 ```
 
-Create Site X Species table, with Reserve_StdName and Reserve_SubName as first two columns.  # not done yet
-```{r Site X Species tables, eval=FALSE}
-varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
-for (i in seq_along(varNames)) {
-
-}
-```
-
+The community analyses aren't that interesting.  Need to do some filtering of samples before doing the analysis. (there are some serious outlier samples)
 
 ```{r community analysis}
 varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
