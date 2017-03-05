@@ -19,10 +19,11 @@ library(vegan)
 
 ```{r read data}
 lowreadthreshold <- 100
-leechidna <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.xlsx", sheet = "16Svert", skip = 1)
+inputfile <- c("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170305.xlsx")
+leechidna <- read_excel(inputfile, sheet = "16Svert", skip = 1)
 leechidna <- leechidna[ , 2:720] # can't use dplyr::select because some of the columns have duplicate names, and select can't handle that
 names(leechidna)
-leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae") & Total_reads >= 20) # filter out low-read OTUs but keep slow loris and pangolin
+leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae") | Genus %in% c("Panthera") & Total_reads >= 20) # filter out low-read OTUs but keep slow loris and pangolin
 
 reserve <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.xlsx", sheet = "Site_codes")
 names(reserve)
@@ -145,44 +146,55 @@ rm(d_t)
 rm(dreserve)
 ```
 
+Create Site X Species table, with Reserve_StdName and Reserve_SubName as first two columns.  # not done yet
+```{r Site X Species tables, eval=FALSE}
+varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+
+for (i in seq_along(varNames)) {
+
+}
+```
+
 
 ```{r community analysis}
 varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
-i <- 3
+
+i <- 2
+
 community <- paste0("leechidna_", varNames[i], "_t") # get a community subset
 reserve <- paste0("reserve_", varNames[i])
 
 rowSums(get(community))
 dca <- decorana(get(community))
 tabasco(decostand(get(community), "log"), dca)
-community.jmds <- metaMDS(decostand(get(community), "log"), dist="jaccard")
-community2.jmds <- metaMDS(get(community), dist="jaccard")
 
 # p1 <- plot(community.jmds, dis="sites")
 # identify(p1, "sites") # interactive method to identify sites by row number. Click on the points that you want to identify. When you have clicked on all the points, click on the Finish button at top right of Plot window. 
-
 ```
 
-```{r}
+```{r basic NMDS plot}
+community.jmds <- metaMDS(decostand(get(community), "log"), dist="jaccard")
+plot(community.jmds, type = "t")
+
+community2.jmds <- metaMDS(get(community), dist="jaccard")
+plot(community2.jmds, type = "t")
+
 plot(community.jmds, display="sites", type="n")
 with(get(reserve),ordiellipse(community.jmds, Reserve_StdName, cex=.5, draw="polygon",col=c("blue"),alpha=10,kind="se",conf=0.95,label=FALSE, show.groups=(c("BachMaExt","BachMaNP", "SWG2015"))))
 with(get(reserve),ordiellipse(community.jmds, Reserve_StdName, cex=.5, draw="polygon",col=c("green"),alpha=10,kind="se",conf=0.95,label=FALSE, show.groups=(c("HueSaoLaNR"))))
 with(get(reserve),ordiellipse(community.jmds, Reserve_StdName, cex=.5, draw="polygon",col=c("yellow"),alpha=10,kind="se",conf=0.95,label=FALSE, show.groups=(c("XeSap"))))
 with(get(reserve),ordiellipse(community.jmds, Reserve_StdName, cex=.5, draw="polygon",col=c("red"),alpha=10,kind="se",conf=0.95,label=FALSE, show.groups=(c("QuangNamSaoLaNR"))))
 ```
-plot(arth.jmds,display="sites",type="n")
-with(arthropods.env,ordisurf(arth.jmds,avpctbare,col="red",main=""))
-with(arthropods.env,ordispider(arth.jmds, treatment,cex=.5, draw="polygon",col=c("red"),alpha=10,kind="se",conf=0.95,
-                               show.groups=(c("Heath"))))
-with(arthropods.env,ordihull(arth.jmds, treatment,cex=.5, draw="polygon",col=c("black"),alpha=100,kind="se",conf=0.95,label=TRUE, 
-                             show.groups=(c("1Control"))))
-with(arthropods.env,ordiellipse(arth.jmds, treatment,cex=.5, draw="polygon",col=c("blue"),alpha=10,kind="se",conf=0.95,label=FALSE, 
-                                show.groups=(c("ForageHarvest","ForestPlough","Disc","Swipe"))))
-with(arthropods.env,ordiellipse(arth.jmds, treatment,cex=.5, draw="polygon",col=c("green"),alpha=50,kind="se",conf=0.95,label=TRUE, 
-                                show.groups=(c("TurfStrip","AgriPlough"))))
-heatmap
-ordination biplot to see if i can merge some more OTUs
 
+```{r cca plot}
+community.ca <- cca(decostand(get(community), "log"))
+community.ca
+plot(community.ca, scaling = 1)
+```
 
-
+```{r decorana}
+community.dca <- decorana(decostand(get(community), "log"))
+community.dca
+plot(community.dca, scaling = 3)
+```
 
