@@ -23,9 +23,9 @@ inputfile <- c("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170305.xlsx")
 leechidna <- read_excel(inputfile, sheet = "16Svert", skip = 1)
 leechidna <- leechidna[ , 2:720] # can't use dplyr::select because some of the columns have duplicate names, and select can't handle that
 names(leechidna)
-leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae") | Genus %in% c("Panthera") & Total_reads >= 20) # filter out low-read OTUs but keep slow loris and pangolin
+leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae")) # filter out low-read OTUs but keep slow loris and pangolin
 
-reserve <- read_excel("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170302.xlsx", sheet = "Site_codes")
+reserve <- read_excel(inputfile, sheet = "Site_codes")
 names(reserve)
 reserve <- reserve %>% select(Sample_16SVert_Row2, Reserve_StdName, Approx_number_leeches)
 ```
@@ -88,7 +88,7 @@ leechidna_carnivora <- leechidna4 %>% filter(grepl(c("Carnivora"), OTUs_merged_b
 
 leechidna_critters <- leechidna4 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Insectivora|Pholidota"), OTUs_merged_by_taxonomy))
 
-leechidna_artiodactyla <- leechidna4 %>% filter(grepl(c("Artiodactyla"), OTUs_merged_by_taxonomy))
+leechidna_cetartiodactyla <- leechidna4 %>% filter(grepl(c("Cetartiodactyla"), OTUs_merged_by_taxonomy))
 
 leechidna_primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_taxonomy)) 
 ```
