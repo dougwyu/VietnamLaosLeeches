@@ -95,7 +95,7 @@ leechidna_primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_
 
 ```{r transpose to community}
 # create site X species tables
-varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechidna_", varNames[i])) # get a community subset
@@ -111,11 +111,12 @@ for (i in seq_along(varNames)) {
 https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-loop/
 
 ```{r create environment datasets}
-varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
   dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2")) # use the site column to add environment data in correct order
+  assign(paste0("OTU_by_Site_", varNames[i]), dreserve) # create site X species tables
   dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches) # choose the env columns
   assign(paste0("reserve_", varNames[i]), dreserve) # create object with correct name
   d <- d %>% select(-site)
@@ -148,7 +149,7 @@ rm(dreserve)
 
 Create Site X Species table, with Reserve_StdName and Reserve_SubName as first two columns.  # not done yet
 ```{r Site X Species tables, eval=FALSE}
-varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
 for (i in seq_along(varNames)) {
 
@@ -157,9 +158,9 @@ for (i in seq_along(varNames)) {
 
 
 ```{r community analysis}
-varNames <- c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
+varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
-i <- 2
+i <- 1
 
 community <- paste0("leechidna_", varNames[i], "_t") # get a community subset
 reserve <- paste0("reserve_", varNames[i])
@@ -174,10 +175,9 @@ tabasco(decostand(get(community), "log"), dca)
 
 ```{r basic NMDS plot}
 community.jmds <- metaMDS(decostand(get(community), "log"), dist="jaccard")
-plot(community.jmds, type = "t")
-
+plot(community.jmds, type = "t", scaling = 2)
 community2.jmds <- metaMDS(get(community), dist="jaccard")
-plot(community2.jmds, type = "t")
+plot(community2.jmds, type = "t", scaling = 2)
 
 plot(community.jmds, display="sites", type="n")
 with(get(reserve),ordiellipse(community.jmds, Reserve_StdName, cex=.5, draw="polygon",col=c("blue"),alpha=10,kind="se",conf=0.95,label=FALSE, show.groups=(c("BachMaExt","BachMaNP", "SWG2015"))))
