@@ -113,6 +113,8 @@ https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-lo
 ```{r create environment datasets}
 varNames <- c("named_mammals", "carnivora", "critters", "cetartiodactyla", "primates")
 
+# add a comment
+
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
   dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2")) # use the site column to add environment data in correct order
