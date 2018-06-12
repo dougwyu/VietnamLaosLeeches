@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(readxl)
 library(vegan)
+sessionInfo()
 ```
 
 ## Read data
@@ -27,7 +28,7 @@ leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% 
 
 reserve <- read_excel(inputfile, sheet = "Site_codes")
 names(reserve)
-reserve <- reserve %>% select(Sample_16SVert_Row2, Reserve_StdName, Reserve_SubName, Approx_number_leeches)
+reserve <- reserve %>% dplyr::select(Sample_16SVert_Row2, Reserve_StdName, Reserve_SubName, Approx_number_leeches)
 ```
 
 ```{r sum read numbers by taxonomy}
@@ -43,7 +44,7 @@ negctrls <- c("BM","H1s","H2s","H3s","Q1s","Q2s","Q3s","XS2","XS5","XS6","XS7","
 leechidna3 <- leechidna2
 
 for(i in 1:length(negctrls)) {
-	leechidna3 <- leechidna3 %>% select(-starts_with(negctrls[i]))
+	leechidna3 <- leechidna3 %>% dplyr::select(-starts_with(negctrls[i]))
 }
 
 # names(leechidna3)
@@ -54,15 +55,15 @@ for(i in 1:length(negctrls)) {
 # if i want to set cells to 0 that have fewer reads than the negative controls for that batch of samples.  I haven't implemented it yet, but i have generated the negative control matrix.
 leechidna_negctrls <- leechidna2
 leechidna_samples <- colnames(leechidna3)
-leechidna_negctrls <- leechidna_negctrls %>% select(-one_of(leechidna_samples))
+leechidna_negctrls <- leechidna_negctrls %>% dplyr::select(-one_of(leechidna_samples))
 # leechidna_negctrls
 ```
 
 
 ```{r add total_reads and incidence columns}
-leechidna3$total_reads <- leechidna3 %>% select(-OTUs_merged_by_taxonomy) %>% rowSums()
+leechidna3$total_reads <- leechidna3 %>% dplyr::select(-OTUs_merged_by_taxonomy) %>% rowSums()
 
-leechidna3$incidence <- leechidna3 %>% select(-OTUs_merged_by_taxonomy, -total_reads) %>% specnumber(MARGIN=1)
+leechidna3$incidence <- leechidna3 %>% dplyr::select(-OTUs_merged_by_taxonomy, -total_reads) %>% specnumber(MARGIN=1)
 
 # names(leechidna3)
 # leechidna3$incidence
@@ -158,7 +159,7 @@ rm(d_t)
 rm(dreserve)
 ```
 
-
+ 
 The community analyses aren't that interesting.  Need to do some filtering of samples before doing the analysis. (there are some serious outlier samples)
 
 ```{r community analysis}
