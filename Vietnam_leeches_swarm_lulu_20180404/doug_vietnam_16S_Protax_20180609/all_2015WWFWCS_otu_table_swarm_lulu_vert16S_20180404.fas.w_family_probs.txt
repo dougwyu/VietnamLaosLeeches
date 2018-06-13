@@ -1,0 +1,1718 @@
+OTU1	20600	-0.00163	2	Artiodactyla,Suidae
+OTU10	25690	-0.0285578	2	Rodentia,Muridae
+OTU100	23295	-0.654274	2	Lagomorpha,Leporidae
+OTU1004	23945	-0.206704	2	Primates,Hominidae
+OTU10088	24171,unk	-0.633561	2	Rodentia,unk
+OTU101			
+OTU10106	25690	-0.0270635	2	Rodentia,Muridae
+OTU10107			
+OTU10108	25690	-0.0291807	2	Rodentia,Muridae
+OTU10111	24171,unk	-0.762157	2	Rodentia,unk
+OTU10126	20645,unk	-0.717319	2	Carnivora,unk
+OTU10129	20600	-0.0576164	2	Artiodactyla,Suidae
+OTU10131	20645,unk	-0.772352	2	Carnivora,unk
+OTU1014	23945	-0.0558511	2	Primates,Hominidae
+OTU10141	20847	-0.78123	2	Carnivora,Mustelidae
+OTU10149	20600	-0.00885431	2	Artiodactyla,Suidae
+OTU10155	20847	-0.493003	2	Carnivora,Mustelidae
+OTU1016			
+OTU1017	20503	-0.0568808	2	Artiodactyla,Cervidae
+OTU10176	20295	-0.123034	2	Artiodactyla,Bovidae
+OTU1018	24171,unk	-0.0932607	2	Rodentia,unk
+OTU10193	27182	-0.00135054	2	Scandentia,Tupaiidae
+OTU10195	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU10196	27182	-0.00135054	2	Scandentia,Tupaiidae
+OTU10197	20295	-0.0276902	2	Artiodactyla,Bovidae
+OTU102	23560,unk	-2.93409	2	Primates,unk
+OTU10205			
+OTU10237	20645,unk	-0.804121	2	Carnivora,unk
+OTU1024	20645,unk	-1.34247	2	Carnivora,unk
+OTU10240	20645,unk	-0.785916	2	Carnivora,unk
+OTU10243	20847	-1.07681	2	Carnivora,Mustelidae
+OTU1026	20847	-0.0826506	2	Carnivora,Mustelidae
+OTU10263	20295	-0.323879	2	Artiodactyla,Bovidae
+OTU103	23693	-0.00667733	2	Primates,Cercopithecidae
+OTU1032	20295	-0.60428	2	Artiodactyla,Bovidae
+OTU1034	20645,unk	-0.799375	2	Carnivora,unk
+OTU10344	20645,unk	-1.90163	2	Carnivora,unk
+OTU10345	20847	-0.00181836	2	Carnivora,Mustelidae
+OTU1036	21029	-0.255136	2	Carnivora,Viverridae
+OTU1037	20847	-0.0237545	2	Carnivora,Mustelidae
+OTU10375	25690	-0.0276679	2	Rodentia,Muridae
+OTU1038	26780	-0.0115207	2	Rodentia,Sciuridae
+OTU10386	25673	-0.0408819	2	Rodentia,Hystricidae
+OTU10388	20600	-0.115803	2	Artiodactyla,Suidae
+OTU1039	7616	-0.0106811	2	Anseriformes,Anatidae
+OTU104	20295	-0.0535572	2	Artiodactyla,Bovidae
+OTU10408	20291,unk	-2.64615	2	Artiodactyla,unk
+OTU10409	20773	-0.936583	2	Carnivora,Herpestidae
+OTU10426	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU10444	20295	-0.032004	2	Artiodactyla,Bovidae
+OTU10447	10172	-0.788628	2	Galliformes,Phasianidae
+OTU1047	20600	-0.00163	2	Artiodactyla,Suidae
+OTU10470	20645,unk	-0.739706	2	Carnivora,unk
+OTU10474	23945	-0.403802	2	Primates,Hominidae
+OTU1048	25690	-0.0649057	2	Rodentia,Muridae
+OTU10481			
+OTU10493	20503	-0.167397	2	Artiodactyla,Cervidae
+OTU10497	20503	-0.168539	2	Artiodactyla,Cervidae
+OTU10513	25690	-0.0774064	2	Rodentia,Muridae
+OTU10517	24171,unk	-0.789926	2	Rodentia,unk
+OTU10519	25690	-0.24091	2	Rodentia,Muridae
+OTU1053	20600	-0.0835713	2	Artiodactyla,Suidae
+OTU10537	23693	-0.97095	2	Primates,Cercopithecidae
+OTU1054	23560,unk	-1.51284	2	Primates,unk
+OTU10545	23693	-0.770815	2	Primates,Cercopithecidae
+OTU10549			
+OTU1055	25690	-0.0341378	2	Rodentia,Muridae
+OTU10552	21029	-0.943595	2	Carnivora,Viverridae
+OTU10557			
+OTU10562	20503	-0.322278	2	Artiodactyla,Cervidae
+OTU10565	20295	-1.18317	2	Artiodactyla,Bovidae
+OTU10576	23693	-0.313327	2	Primates,Cercopithecidae
+OTU10586	20645,unk	-2.42957	2	Carnivora,unk
+OTU10592	20600	-0.0399729	2	Artiodactyla,Suidae
+OTU106	23693	-0.0145469	2	Primates,Cercopithecidae
+OTU10623	20291,unk	-2.69682	2	Artiodactyla,unk
+OTU10651	20503	-0.286801	2	Artiodactyla,Cervidae
+OTU10692	21029	-0.00489339	2	Carnivora,Viverridae
+OTU10693	20847	-0.900868	2	Carnivora,Mustelidae
+OTU10698	20600	-0.00163	2	Artiodactyla,Suidae
+OTU107	20295	-0.0500244	2	Artiodactyla,Bovidae
+OTU10711	24171,unk	-0.634712	2	Rodentia,unk
+OTU10730	20847	-0.00295261	2	Carnivora,Mustelidae
+OTU10731	20847	-0.00162211	2	Carnivora,Mustelidae
+OTU10733	20847	-0.00162211	2	Carnivora,Mustelidae
+OTU10736	20847	-0.00221277	2	Carnivora,Mustelidae
+OTU1075	20847	-0.0141257	2	Carnivora,Mustelidae
+OTU10780	23945	-0.23926	2	Primates,Hominidae
+OTU10791	23945	-0.884936	2	Primates,Hominidae
+OTU10796			
+OTU108			
+OTU10808	23560,unk	-1.67157	2	Primates,unk
+OTU1084	23693	-0.00346493	2	Primates,Cercopithecidae
+OTU10871	20847	-0.00236763	2	Carnivora,Mustelidae
+OTU10873	23560,unk	-2.65928	2	Primates,unk
+OTU10889			
+OTU109	20645,unk	-1.14027	2	Carnivora,unk
+OTU10906	26780	-0.0112285	2	Rodentia,Sciuridae
+OTU10925	21029	-0.0524341	2	Carnivora,Viverridae
+OTU1093	20645,unk	-0.990165	2	Carnivora,unk
+OTU1094	25690	-0.0560867	2	Rodentia,Muridae
+OTU10940	20600	-0.00163	2	Artiodactyla,Suidae
+OTU10941	21029	-0.846464	2	Carnivora,Viverridae
+OTU10951	20715	-0.247581	2	Carnivora,Felidae
+OTU10956	20645,unk	-0.790097	2	Carnivora,unk
+OTU10957	20600	-0.524842	2	Artiodactyla,Suidae
+OTU10972	21029	-0.373989	2	Carnivora,Viverridae
+OTU10997	25690	-0.407973	2	Rodentia,Muridae
+OTU11	20649	-0.00797528	2	Carnivora,Canidae
+OTU110	20645,unk	-0.825747	2	Carnivora,unk
+OTU1100	20847	-0.037947	2	Carnivora,Mustelidae
+OTU11003	20291,unk	-0.886546	2	Artiodactyla,unk
+OTU1101	21029	-0.5867	2	Carnivora,Viverridae
+OTU1102	23693	-0.335563	2	Primates,Cercopithecidae
+OTU11029	20847	-0.17498	2	Carnivora,Mustelidae
+OTU11059	25690	-0.297588	2	Rodentia,Muridae
+OTU11064	21029	-0.850627	2	Carnivora,Viverridae
+OTU11075	20600	-0.48566	2	Artiodactyla,Suidae
+OTU1108	20600	-0.059705	2	Artiodactyla,Suidae
+OTU111	20645,unk	-0.813181	2	Carnivora,unk
+OTU11121	25690	-1.31143	2	Rodentia,Muridae
+OTU11137	20600	-0.215933	2	Artiodactyla,Suidae
+OTU11214	20645,unk	-0.791834	2	Carnivora,unk
+OTU11235	25690	-0.0113312	2	Rodentia,Muridae
+OTU11257			
+OTU11259	20847	-0.00417478	2	Carnivora,Mustelidae
+OTU1127	20645,unk	-0.646896	2	Carnivora,unk
+OTU11291	20847	-0.0080526	2	Carnivora,Mustelidae
+OTU113	20645,unk	-0.979421	2	Carnivora,unk
+OTU11302	20645,unk	-0.700014	2	Carnivora,unk
+OTU1134	17450	-1.23681	2	Passeriformes,Turdidae
+OTU11346	25690	-0.00394402	2	Rodentia,Muridae
+OTU1136	25673	-0.890237	2	Rodentia,Hystricidae
+OTU11361			
+OTU1137	25690	-0.215693	2	Rodentia,Muridae
+OTU11398	23693	-0.452539	2	Primates,Cercopithecidae
+OTU114	20645,unk	-0.757671	2	Carnivora,unk
+OTU1140	20645,unk	-1.4163	2	Carnivora,unk
+OTU11407	23693	-0.233448	2	Primates,Cercopithecidae
+OTU11411	23560,unk	-1.31479	2	Primates,unk
+OTU11447	23693	-0.451174	2	Primates,Cercopithecidae
+OTU11470	23693	-0.233715	2	Primates,Cercopithecidae
+OTU11471	23693	-0.234098	2	Primates,Cercopithecidae
+OTU1149	20295	-0.175016	2	Artiodactyla,Bovidae
+OTU11492	23693	-0.0644803	2	Primates,Cercopithecidae
+OTU115	20847	-0.00790077	2	Carnivora,Mustelidae
+OTU11519	23693	-0.233348	2	Primates,Cercopithecidae
+OTU1152	20715	-0.664054	2	Carnivora,Felidae
+OTU11520	23693	-0.236538	2	Primates,Cercopithecidae
+OTU11527	23693	-0.452541	2	Primates,Cercopithecidae
+OTU11539	23693	-0.452209	2	Primates,Cercopithecidae
+OTU11544	23693	-0.4603	2	Primates,Cercopithecidae
+OTU11560			
+OTU11568	23693	-0.233367	2	Primates,Cercopithecidae
+OTU116	23369	-0.0474755	2	Lagomorpha,Ochotonidae
+OTU11604	23693	-0.450862	2	Primates,Cercopithecidae
+OTU11613	23693	-0.241474	2	Primates,Cercopithecidae
+OTU11626	23693	-0.85053	2	Primates,Cercopithecidae
+OTU1163	25690	-0.0276701	2	Rodentia,Muridae
+OTU11639	25673	-0.00520523	2	Rodentia,Hystricidae
+OTU1164			
+OTU11690	23945	-0.00423394	2	Primates,Hominidae
+OTU117	1,unk	-0.447497	2	Anura,unk
+OTU11727	23693	-0.00667737	2	Primates,Cercopithecidae
+OTU11733	23945	-0.0246067	2	Primates,Hominidae
+OTU11742	20715	-0.936572	2	Carnivora,Felidae
+OTU11747	20715	-0.064845	2	Carnivora,Felidae
+OTU1175	20600	-0.0505934	2	Artiodactyla,Suidae
+OTU11752	20715	-0.125546	2	Carnivora,Felidae
+OTU11759	20645,unk	-0.801146	2	Carnivora,unk
+OTU11761			
+OTU11762			
+OTU11765	23945	-0.00423394	2	Primates,Hominidae
+OTU11766	20715	-0.126405	2	Carnivora,Felidae
+OTU11774	20715	-0.0439212	2	Carnivora,Felidae
+OTU11776			
+OTU11778	20715	-0.0741224	2	Carnivora,Felidae
+OTU11782	21029	-0.00491557	2	Carnivora,Viverridae
+OTU1179			
+OTU118			
+OTU11813	20715	-0.0714687	2	Carnivora,Felidae
+OTU1185	23693	-0.581393	2	Primates,Cercopithecidae
+OTU1186	21029	-0.160942	2	Carnivora,Viverridae
+OTU11861	21029	-0.00275171	2	Carnivora,Viverridae
+OTU11869	24171,unk	-2.75847	2	Rodentia,unk
+OTU1187	22275	-0.0227672	2	Chiroptera,Vespertilionidae
+OTU11883	20503	-0.0167591	2	Artiodactyla,Cervidae
+OTU11888	20503	-0.218868	2	Artiodactyla,Cervidae
+OTU119	20645,unk	-0.644664	2	Carnivora,unk
+OTU11910			
+OTU1198			
+OTU12	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU120	20847	-0.899069	2	Carnivora,Mustelidae
+OTU1204			
+OTU1208	25690	-0.0794569	2	Rodentia,Muridae
+OTU121	20645,unk	-1.86118	2	Carnivora,unk
+OTU1213	20645,unk	-0.61569	2	Carnivora,unk
+OTU1222	23693	-0.00346774	2	Primates,Cercopithecidae
+OTU1224			
+OTU1227	20600	-0.00163	2	Artiodactyla,Suidae
+OTU123	20645,unk	-0.84078	2	Carnivora,unk
+OTU1236	20645,unk	-1.26971	2	Carnivora,unk
+OTU124	26780	-0.0027468	2	Rodentia,Sciuridae
+OTU1242	23693	-0.00787926	2	Primates,Cercopithecidae
+OTU1244	25690	-0.00976805	2	Rodentia,Muridae
+OTU1245	20503	-0.39204	2	Artiodactyla,Cervidae
+OTU1247	14222	-1.91299	2	Passeriformes,Muscicapidae
+OTU1248	20773	-1.01317	2	Carnivora,Herpestidae
+OTU1249	23693	-0.0150837	2	Primates,Cercopithecidae
+OTU125	20645,unk	-0.714673	2	Carnivora,unk
+OTU1250	20847	-0.515768	2	Carnivora,Mustelidae
+OTU1253	20600	-0.176014	2	Artiodactyla,Suidae
+OTU1255	26780	-0.00482851	2	Rodentia,Sciuridae
+OTU126	20645,unk	-0.7433	2	Carnivora,unk
+OTU1261	25690	-0.0285578	2	Rodentia,Muridae
+OTU1264	25690	-0.828574	2	Rodentia,Muridae
+OTU1270	27182	-0.0887048	2	Scandentia,Tupaiidae
+OTU1282	25673	-0.0990937	2	Rodentia,Hystricidae
+OTU129	20645,unk	-0.686132	2	Carnivora,unk
+OTU1294	20600	-0.128869	2	Artiodactyla,Suidae
+OTU1295	20847	-0.0124771	2	Carnivora,Mustelidae
+OTU1298	13399	-0.618152	2	Passeriformes,Leiothrichidae
+OTU13	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU130	23693	-0.00194827	2	Primates,Cercopithecidae
+OTU131	20645,unk	-1.17397	2	Carnivora,unk
+OTU1316			
+OTU1317	20503	-0.30905	2	Artiodactyla,Cervidae
+OTU132	20847	-1.07674	2	Carnivora,Mustelidae
+OTU1323	20645,unk	-2.62481	2	Carnivora,unk
+OTU1327	20503	-0.300943	2	Artiodactyla,Cervidae
+OTU1329	20600	-0.0347367	2	Artiodactyla,Suidae
+OTU133	20600	-0.399164	2	Artiodactyla,Suidae
+OTU1332	21029	-0.21313	2	Carnivora,Viverridae
+OTU134	20847	-0.890673	2	Carnivora,Mustelidae
+OTU1340	23693	-0.090809	2	Primates,Cercopithecidae
+OTU1343	25690	-0.681445	2	Rodentia,Muridae
+OTU135	25690	-0.00201066	2	Rodentia,Muridae
+OTU1358	21029	-0.0104476	2	Carnivora,Viverridae
+OTU1359	21029	-0.125663	2	Carnivora,Viverridae
+OTU136	20645,unk	-1.90163	2	Carnivora,unk
+OTU1366	20503	-0.493258	2	Artiodactyla,Cervidae
+OTU1369			
+OTU137	20295	-0.0974864	2	Artiodactyla,Bovidae
+OTU1370	24171,unk	-0.9912	2	Rodentia,unk
+OTU1371	20645,unk	-1.23074	2	Carnivora,unk
+OTU1375	20503	-0.264576	2	Artiodactyla,Cervidae
+OTU138	20645,unk	-0.774607	2	Carnivora,unk
+OTU1386			
+OTU139	20503	-0.218868	2	Artiodactyla,Cervidae
+OTU1392			
+OTU1393	26780	-0.419133	2	Rodentia,Sciuridae
+OTU1396	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU1397	20773	-0.748136	2	Carnivora,Herpestidae
+OTU1399	20645,unk	-0.885704	2	Carnivora,unk
+OTU14	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU1401			
+OTU1402	20600	-0.092964	2	Artiodactyla,Suidae
+OTU141	23693	-0.578867	2	Primates,Cercopithecidae
+OTU1410	23560,unk	-2.80729	2	Primates,unk
+OTU1411	20645,unk	-0.323172	2	Carnivora,unk
+OTU1415	21029	-0.62267	2	Carnivora,Viverridae
+OTU1419			
+OTU142			
+OTU1420	10709,unk	-2.12192	2	Passeriformes,unk
+OTU1421	20503	-0.38817	2	Artiodactyla,Cervidae
+OTU143	20645,unk	-2.01527	2	Carnivora,unk
+OTU1435			
+OTU1436	25673	-0.0605167	2	Rodentia,Hystricidae
+OTU144	20645,unk	-0.99569	2	Carnivora,unk
+OTU1455	27182	-0.127182	2	Scandentia,Tupaiidae
+OTU1468	20715	-0.784624	2	Carnivora,Felidae
+OTU147	20645,unk	-2.13801	2	Carnivora,unk
+OTU1475	20645,unk	-0.605721	2	Carnivora,unk
+OTU148	23693	-0.167435	2	Primates,Cercopithecidae
+OTU1481	25690	-0.0309924	2	Rodentia,Muridae
+OTU1485	21029	-0.282766	2	Carnivora,Viverridae
+OTU1486	26780	-0.179283	2	Rodentia,Sciuridae
+OTU1488			
+OTU149	25673	-0.0244866	2	Rodentia,Hystricidae
+OTU1497	23945	-0.0676264	2	Primates,Hominidae
+OTU15	25673	-0.00520523	2	Rodentia,Hystricidae
+OTU150			
+OTU1500	25690	-0.0448847	2	Rodentia,Muridae
+OTU1501	24171,unk	-0.0666098	2	Rodentia,unk
+OTU1508	20645,unk	-0.556544	2	Carnivora,unk
+OTU151	20645,unk	-1.09728	2	Carnivora,unk
+OTU1514	16521	-0.957201	2	Passeriformes,Thamnophilidae
+OTU152	20847	-0.00781675	2	Carnivora,Mustelidae
+OTU1521	20847	-0.0160008	2	Carnivora,Mustelidae
+OTU1531	23693	-0.00789984	2	Primates,Cercopithecidae
+OTU1536	20295	-0.169442	2	Artiodactyla,Bovidae
+OTU1539	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU1540	20600	-0.0256951	2	Artiodactyla,Suidae
+OTU155	23693	-0.16775	2	Primates,Cercopithecidae
+OTU1550	21029	-0.578414	2	Carnivora,Viverridae
+OTU156	20649	-0.00812951	2	Carnivora,Canidae
+OTU1560	20600	-0.00163	2	Artiodactyla,Suidae
+OTU157	20600	-0.510567	2	Artiodactyla,Suidae
+OTU1573	20600	-0.230961	2	Artiodactyla,Suidae
+OTU1576	9212	-1.28544	2	Columbiformes,Columbidae
+OTU158	23693	-0.00158291	2	Primates,Cercopithecidae
+OTU1582	20847	-0.071924	2	Carnivora,Mustelidae
+OTU1584	20503	-0.622557	2	Artiodactyla,Cervidae
+OTU1588	23693	-0.00763709	2	Primates,Cercopithecidae
+OTU1589	23295	-1.14278	2	Lagomorpha,Leporidae
+OTU159			
+OTU1591	20847	-0.00216721	2	Carnivora,Mustelidae
+OTU1595	20645,unk	-1.20896	2	Carnivora,unk
+OTU1597	23693	-0.0613752	2	Primates,Cercopithecidae
+OTU1598			
+OTU16	25690	-0.0185073	2	Rodentia,Muridae
+OTU160	20645,unk	-1.31734	2	Carnivora,unk
+OTU1606			
+OTU1607	25690	-0.0214272	2	Rodentia,Muridae
+OTU161	20645,unk	-0.685917	2	Carnivora,unk
+OTU1618	20600	-0.191001	2	Artiodactyla,Suidae
+OTU162	20295	-0.0499019	2	Artiodactyla,Bovidae
+OTU1621	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU1624	20847	-0.0238469	2	Carnivora,Mustelidae
+OTU1629	20645,unk	-0.27425	2	Carnivora,unk
+OTU1633	21013	-0.198602	2	Carnivora,Ursidae
+OTU164	20503	-0.102646	2	Artiodactyla,Cervidae
+OTU1641	25690	-0.157777	2	Rodentia,Muridae
+OTU1643	20645,unk	-1.03972	2	Carnivora,unk
+OTU1645	20600	-0.172242	2	Artiodactyla,Suidae
+OTU165	362	-0.00606673	2	Anura,Bufonidae
+OTU1652			
+OTU1654	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU1657	20295	-0.0660422	2	Artiodactyla,Bovidae
+OTU166	20645,unk	-1.93487	2	Carnivora,unk
+OTU1666	26780	-0.00181484	2	Rodentia,Sciuridae
+OTU1667	26780	-0.152425	2	Rodentia,Sciuridae
+OTU167	20295	-0.100337	2	Artiodactyla,Bovidae
+OTU1677	20295	-0.721868	2	Artiodactyla,Bovidae
+OTU1681	20847	-0.0102705	2	Carnivora,Mustelidae
+OTU1682	20600	-0.850456	2	Artiodactyla,Suidae
+OTU1686	23945	-0.025166	2	Primates,Hominidae
+OTU169	23295	-0.294002	2	Lagomorpha,Leporidae
+OTU1693	23693	-0.00806207	2	Primates,Cercopithecidae
+OTU1695	23560,unk	-1.79003	2	Primates,unk
+OTU1698			
+OTU17	20847	-0.00129876	2	Carnivora,Mustelidae
+OTU170	20645,unk	-1.44842	2	Carnivora,unk
+OTU1702			
+OTU1704	20600	-0.00163	2	Artiodactyla,Suidae
+OTU171	20645,unk	-1.60375	2	Carnivora,unk
+OTU1712	24171,unk	-0.81392	2	Rodentia,unk
+OTU1717	25690	-0.413822	2	Rodentia,Muridae
+OTU1718	20600	-0.0459646	2	Artiodactyla,Suidae
+OTU1720	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU1724	20847	-0.434312	2	Carnivora,Mustelidae
+OTU174	20645,unk	-0.768945	2	Carnivora,unk
+OTU1740	25690	-0.0855929	2	Rodentia,Muridae
+OTU1741	26780	-0.000698634	2	Rodentia,Sciuridae
+OTU1742	20715	-0.689096	2	Carnivora,Felidae
+OTU1743	25673	-0.164965	2	Rodentia,Hystricidae
+OTU1745	21029	-0.12712	2	Carnivora,Viverridae
+OTU1747	25690	-0.155312	2	Rodentia,Muridae
+OTU175	20600	-0.638224	2	Artiodactyla,Suidae
+OTU1753	23693	-0.0264999	2	Primates,Cercopithecidae
+OTU1755	20847	-0.568311	2	Carnivora,Mustelidae
+OTU176	20600	-0.060363	2	Artiodactyla,Suidae
+OTU1761	20503	-0.293499	2	Artiodactyla,Cervidae
+OTU1762	23693	-0.111736	2	Primates,Cercopithecidae
+OTU1767	20600	-0.0969758	2	Artiodactyla,Suidae
+OTU1768	20847	-0.783953	2	Carnivora,Mustelidae
+OTU1771	21029	-1.0823	2	Carnivora,Viverridae
+OTU1774	20715	-0.614092	2	Carnivora,Felidae
+OTU1775			
+OTU1776	21029	-0.157972	2	Carnivora,Viverridae
+OTU1778	23560,unk	-2.92763	2	Primates,unk
+OTU178	24171,unk	-0.414382	2	Rodentia,unk
+OTU1783	20847	-0.150043	2	Carnivora,Mustelidae
+OTU179	20645,unk	-0.963587	2	Carnivora,unk
+OTU1792	20295	-0.0617703	2	Artiodactyla,Bovidae
+OTU1795	20847	-0.0418179	2	Carnivora,Mustelidae
+OTU1796	15251	-0.826346	2	Passeriformes,Pellorneidae
+OTU18	25673	-0.0543555	2	Rodentia,Hystricidae
+OTU180			
+OTU1806	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU1812	10172	-0.00203756	2	Galliformes,Phasianidae
+OTU1819	23560,unk	-1.48311	2	Primates,unk
+OTU182	25673	-0.148864	2	Rodentia,Hystricidae
+OTU1820			
+OTU1826	20503	-0.398954	2	Artiodactyla,Cervidae
+OTU183	20645,unk	-0.708214	2	Carnivora,unk
+OTU1832	20600	-0.217638	2	Artiodactyla,Suidae
+OTU1835	23693	-0.0546684	2	Primates,Cercopithecidae
+OTU1836	25690	-0.00121468	2	Rodentia,Muridae
+OTU1839	23560,unk	-2.13851	2	Primates,unk
+OTU184	23693	-0.573421	2	Primates,Cercopithecidae
+OTU1847	20847	-0.872568	2	Carnivora,Mustelidae
+OTU1848	20773	-0.827206	2	Carnivora,Herpestidae
+OTU185	20645,unk	-0.863057	2	Carnivora,unk
+OTU1850	23560,unk	-2.50683	2	Primates,unk
+OTU1852	20295	-0.0751507	2	Artiodactyla,Bovidae
+OTU1859	20600	-0.00163	2	Artiodactyla,Suidae
+OTU186	20645,unk	-0.926568	2	Carnivora,unk
+OTU1860	20503	-0.368385	2	Artiodactyla,Cervidae
+OTU1862	21029	-0.451762	2	Carnivora,Viverridae
+OTU1864			
+OTU1866	20600	-0.251971	2	Artiodactyla,Suidae
+OTU1868	20600	-0.907425	2	Artiodactyla,Suidae
+OTU1869	20645,unk	-1.16109	2	Carnivora,unk
+OTU187	26780	-0.00106619	2	Rodentia,Sciuridae
+OTU1871			
+OTU1876	21029	-0.500384	2	Carnivora,Viverridae
+OTU1877	25690	-0.0132733	2	Rodentia,Muridae
+OTU1881	27182	-0.159303	2	Scandentia,Tupaiidae
+OTU1882	27217,unk	-0.375662	2	Soricomorpha,unk
+OTU1885	20649	-0.00797528	2	Carnivora,Canidae
+OTU1887	20645,unk	-0.953896	2	Carnivora,unk
+OTU189	23693	-0.573436	2	Primates,Cercopithecidae
+OTU1890	25673	-0.00520523	2	Rodentia,Hystricidae
+OTU1894	20295	-0.0611711	2	Artiodactyla,Bovidae
+OTU1896	10172	-0.123559	2	Galliformes,Phasianidae
+OTU1897	20715	-0.501285	2	Carnivora,Felidae
+OTU1898			
+OTU19	20503	-0.270597	2	Artiodactyla,Cervidae
+OTU1905	26780	-0.010939	2	Rodentia,Sciuridae
+OTU1908	23693	-0.0264925	2	Primates,Cercopithecidae
+OTU1910	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU1915	20600	-0.747687	2	Artiodactyla,Suidae
+OTU1916	20645,unk	-0.624713	2	Carnivora,unk
+OTU1919	20645,unk	-1.68039	2	Carnivora,unk
+OTU192	23693	-0.000434559	2	Primates,Cercopithecidae
+OTU1923	24171,unk	-0.111292	2	Rodentia,unk
+OTU1924	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU193	26780	-0.00160105	2	Rodentia,Sciuridae
+OTU1937	20600	-0.00163	2	Artiodactyla,Suidae
+OTU194	20645,unk	-1.86456	2	Carnivora,unk
+OTU1940	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU1948	24171,unk	-0.83232	2	Rodentia,unk
+OTU195	20645,unk	-1.0967	2	Carnivora,unk
+OTU1954	20645,unk	-1.58289	2	Carnivora,unk
+OTU1955	20715	-0.982956	2	Carnivora,Felidae
+OTU196	23560,unk	-1.19339	2	Primates,unk
+OTU1963	20295	-0.245587	2	Artiodactyla,Bovidae
+OTU197	23693	-0.00310597	2	Primates,Cercopithecidae
+OTU1970	27182	-0.161214	2	Scandentia,Tupaiidae
+OTU1982	20291,unk	-0.800813	2	Artiodactyla,unk
+OTU1985	20600	-0.126881	2	Artiodactyla,Suidae
+OTU199	25673	-0.171247	2	Rodentia,Hystricidae
+OTU1990	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU1993	20503	-0.203676	2	Artiodactyla,Cervidae
+OTU2	23295	-0.0144201	2	Lagomorpha,Leporidae
+OTU20	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU200	20645,unk	-0.641016	2	Carnivora,unk
+OTU2002	24171,unk	-0.0810758	2	Rodentia,unk
+OTU2007	25690	-0.0185073	2	Rodentia,Muridae
+OTU2008	25690	-0.833741	2	Rodentia,Muridae
+OTU2009	20645,unk	-0.770158	2	Carnivora,unk
+OTU2011	20645,unk	-1.67937	2	Carnivora,unk
+OTU2012	20503	-0.632694	2	Artiodactyla,Cervidae
+OTU2017			
+OTU2019	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU202	20847	-0.00847664	2	Carnivora,Mustelidae
+OTU2034	20503	-0.0532233	2	Artiodactyla,Cervidae
+OTU2036	20295	-0.12295	2	Artiodactyla,Bovidae
+OTU204	20645,unk	-1.55908	2	Carnivora,unk
+OTU2040	25690	-0.18636	2	Rodentia,Muridae
+OTU2042	20847	-0.489241	2	Carnivora,Mustelidae
+OTU2043	23295	-0.0144201	2	Lagomorpha,Leporidae
+OTU2047	27182	-0.0821305	2	Scandentia,Tupaiidae
+OTU2050	23693	-0.0611456	2	Primates,Cercopithecidae
+OTU2054	20645,unk	-1.27085	2	Carnivora,unk
+OTU2055	20847	-0.129336	2	Carnivora,Mustelidae
+OTU206	23693	-0.00481994	2	Primates,Cercopithecidae
+OTU2060	20295	-0.0752584	2	Artiodactyla,Bovidae
+OTU207	20645,unk	-1.44869	2	Carnivora,unk
+OTU2072	23945	-0.01821	2	Primates,Hominidae
+OTU2075			
+OTU2081	20291,unk	-1.55427	2	Artiodactyla,unk
+OTU2082	24171,unk	-0.628412	2	Rodentia,unk
+OTU2088	20645,unk	-2.63794	2	Carnivora,unk
+OTU209			
+OTU2090	25690	-0.0729474	2	Rodentia,Muridae
+OTU21	20503	-0.0920195	2	Artiodactyla,Cervidae
+OTU210	20645,unk	-2.63888	2	Carnivora,unk
+OTU2106	23693	-0.00789758	2	Primates,Cercopithecidae
+OTU2119	23560,unk	-2.74607	2	Primates,unk
+OTU212	26780	-0.00127469	2	Rodentia,Sciuridae
+OTU2127	24171,unk	-2.07468	2	Rodentia,unk
+OTU213			
+OTU2132	1758	-0.14386	2	Anura,Dicroglossidae
+OTU215	20503	-0.168995	2	Artiodactyla,Cervidae
+OTU2150	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU2152	20773	-0.187239	2	Carnivora,Herpestidae
+OTU2157	27182	-0.00135054	2	Scandentia,Tupaiidae
+OTU2158	20645,unk	-1.12774	2	Carnivora,unk
+OTU216	25690	-0.0493152	2	Rodentia,Muridae
+OTU217	20503	-0.2014	2	Artiodactyla,Cervidae
+OTU2172	20600	-0.00163	2	Artiodactyla,Suidae
+OTU218			
+OTU2184	20600	-0.673505	2	Artiodactyla,Suidae
+OTU219	25690	-0.278351	2	Rodentia,Muridae
+OTU2195	24171,unk	-0.156026	2	Rodentia,unk
+OTU22	21029	-0.0156911	2	Carnivora,Viverridae
+OTU2202	21029	-0.312621	2	Carnivora,Viverridae
+OTU2204	23295	-1.10151	2	Lagomorpha,Leporidae
+OTU2205	26780	-0.0210534	2	Rodentia,Sciuridae
+OTU221	25673	-0.0912085	2	Rodentia,Hystricidae
+OTU2215	20600	-0.119549	2	Artiodactyla,Suidae
+OTU2219	23693	-0.0131997	2	Primates,Cercopithecidae
+OTU222	20649	-0.559947	2	Carnivora,Canidae
+OTU2220	20632	-0.251253	2	Artiodactyla,Tragulidae
+OTU223	20645,unk	-0.851332	2	Carnivora,unk
+OTU2235			
+OTU2236	20847	-0.051289	2	Carnivora,Mustelidae
+OTU224	27182	-0.0687554	2	Scandentia,Tupaiidae
+OTU2242	23693	-0.015236	2	Primates,Cercopithecidae
+OTU2252			
+OTU226	20645,unk	-0.832145	2	Carnivora,unk
+OTU2260	20773	-0.187239	2	Carnivora,Herpestidae
+OTU2267	20503	-0.755306	2	Artiodactyla,Cervidae
+OTU2268	20503	-0.345089	2	Artiodactyla,Cervidae
+OTU2269			
+OTU227	20645,unk	-1.28475	2	Carnivora,unk
+OTU2272	20295	-0.0934141	2	Artiodactyla,Bovidae
+OTU2276	20847	-0.145039	2	Carnivora,Mustelidae
+OTU2278	20600	-0.217886	2	Artiodactyla,Suidae
+OTU2279	25690	-0.00121468	2	Rodentia,Muridae
+OTU228	20645,unk	-0.813924	2	Carnivora,unk
+OTU2280	25673	-0.0605167	2	Rodentia,Hystricidae
+OTU2283	25690	-0.167775	2	Rodentia,Muridae
+OTU2285	23693	-0.1199	2	Primates,Cercopithecidae
+OTU2286	23693	-0.104695	2	Primates,Cercopithecidae
+OTU229			
+OTU2298	23693	-0.192137	2	Primates,Cercopithecidae
+OTU23	25673	-0.0605167	2	Rodentia,Hystricidae
+OTU230	23295	-0.349959	2	Lagomorpha,Leporidae
+OTU2300	23693	-0.00809739	2	Primates,Cercopithecidae
+OTU2312	23693	-0.113844	2	Primates,Cercopithecidae
+OTU2314	25690	-0.00121468	2	Rodentia,Muridae
+OTU232	20503	-0.298336	2	Artiodactyla,Cervidae
+OTU2322	25690	-0.00121468	2	Rodentia,Muridae
+OTU2326	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU2327	20645,unk	-1.54558	2	Carnivora,unk
+OTU2328	26780	-0.0129291	2	Rodentia,Sciuridae
+OTU2329	25690	-0.0522977	2	Rodentia,Muridae
+OTU2333			
+OTU234	25673	-0.0504092	2	Rodentia,Hystricidae
+OTU2341	21029	-0.352462	2	Carnivora,Viverridae
+OTU2343	23945	-1.00281	2	Primates,Hominidae
+OTU236	20295	-0.0541033	2	Artiodactyla,Bovidae
+OTU2362	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU2375	20600	-0.285855	2	Artiodactyla,Suidae
+OTU238	25673	-0.144015	2	Rodentia,Hystricidae
+OTU2383	20773	-0.187239	2	Carnivora,Herpestidae
+OTU2386	20503	-1.51284	2	Artiodactyla,Cervidae
+OTU2389	27182	-0.159303	2	Scandentia,Tupaiidae
+OTU2393	20600	-0.00163	2	Artiodactyla,Suidae
+OTU2394	20295	-0.0366754	2	Artiodactyla,Bovidae
+OTU24	23945	-0.00311921	2	Primates,Hominidae
+OTU2400	21029	-0.00275171	2	Carnivora,Viverridae
+OTU2409	26780	-0.00591373	2	Rodentia,Sciuridae
+OTU2413	23295	-0.576068	2	Lagomorpha,Leporidae
+OTU2414	20773	-0.187239	2	Carnivora,Herpestidae
+OTU2415	20291,unk	-0.768725	2	Artiodactyla,unk
+OTU242	21029	-0.191035	2	Carnivora,Viverridae
+OTU2436	20847	-0.268017	2	Carnivora,Mustelidae
+OTU2442	23693	-0.179745	2	Primates,Cercopithecidae
+OTU2448	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU245	20645,unk	-0.818757	2	Carnivora,unk
+OTU2457	25690	-0.0329434	2	Rodentia,Muridae
+OTU2458	20847	-0.627147	2	Carnivora,Mustelidae
+OTU2461	20503	-0.159503	2	Artiodactyla,Cervidae
+OTU2464	20847	-0.00129876	2	Carnivora,Mustelidae
+OTU2466	1,unk	-2.54023	2	Anura,unk
+OTU2467	20847	-0.00129876	2	Carnivora,Mustelidae
+OTU247	20847	-0.00232769	2	Carnivora,Mustelidae
+OTU2470	20600	-0.0820774	2	Artiodactyla,Suidae
+OTU2471	20847	-0.12381	2	Carnivora,Mustelidae
+OTU2484			
+OTU2488	20715	-0.353653	2	Carnivora,Felidae
+OTU2495	23945	-0.132715	2	Primates,Hominidae
+OTU2496	25690	-0.00121468	2	Rodentia,Muridae
+OTU25	26780	-0.000698634	2	Rodentia,Sciuridae
+OTU250	20847	-0.0149131	2	Carnivora,Mustelidae
+OTU2502	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU251			
+OTU2512	24171,unk	-1.21602	2	Rodentia,unk
+OTU252	20649	-0.485921	2	Carnivora,Canidae
+OTU2522			
+OTU2529	20503	-0.487594	2	Artiodactyla,Cervidae
+OTU2543	1,unk	-1.28699	2	Anura,unk
+OTU255	20645,unk	-1.08834	2	Carnivora,unk
+OTU2550	25690	-0.242845	2	Rodentia,Muridae
+OTU2557	20847	-1.02842	2	Carnivora,Mustelidae
+OTU256	20645,unk	-0.6132	2	Carnivora,unk
+OTU2560	20600	-0.614514	2	Artiodactyla,Suidae
+OTU257	23295	-0.860031	2	Lagomorpha,Leporidae
+OTU2570	20847	-1.1241	2	Carnivora,Mustelidae
+OTU2572	20645,unk	-0.863247	2	Carnivora,unk
+OTU258	20645,unk	-2.1363	2	Carnivora,unk
+OTU2584	23693	-0.0292189	2	Primates,Cercopithecidae
+OTU2595	26780	-0.419346	2	Rodentia,Sciuridae
+OTU2596	25690	-0.29532	2	Rodentia,Muridae
+OTU26			
+OTU261	23295	-0.105957	2	Lagomorpha,Leporidae
+OTU262	20645,unk	-0.771718	2	Carnivora,unk
+OTU2622	25690	-0.00121468	2	Rodentia,Muridae
+OTU263			
+OTU2638			
+OTU2639	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU264	20645,unk	-1.68698	2	Carnivora,unk
+OTU2641			
+OTU265	23693	-0.316604	2	Primates,Cercopithecidae
+OTU2653	24171,unk	-0.665665	2	Rodentia,unk
+OTU2661	20295	-0.342577	2	Artiodactyla,Bovidae
+OTU2672	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU2674	25673	-0.0605167	2	Rodentia,Hystricidae
+OTU268			
+OTU2680	20649	-0.00797528	2	Carnivora,Canidae
+OTU2683			
+OTU2685	23560,unk	-1.09168	2	Primates,unk
+OTU2687			
+OTU2689	14609	-1.68992	2	Passeriformes,Nectariniidae
+OTU2691	20503	-0.378079	2	Artiodactyla,Cervidae
+OTU27	25690	-0.00275192	2	Rodentia,Muridae
+OTU2704	20715	-0.291247	2	Carnivora,Felidae
+OTU2707			
+OTU271	20645,unk	-2.6356	2	Carnivora,unk
+OTU272			
+OTU2721	24171,unk	-1.28993	2	Rodentia,unk
+OTU2722	20847	-1.42309	2	Carnivora,Mustelidae
+OTU2728	20847	-0.712446	2	Carnivora,Mustelidae
+OTU2730	20600	-0.799006	2	Artiodactyla,Suidae
+OTU2732	20847	-0.12177	2	Carnivora,Mustelidae
+OTU274	20645,unk	-1.58482	2	Carnivora,unk
+OTU2752	20645,unk	-0.541751	2	Carnivora,unk
+OTU2762	20645,unk	-0.80648	2	Carnivora,unk
+OTU2776	10172	-0.00308155	2	Galliformes,Phasianidae
+OTU278	20503	-0.159041	2	Artiodactyla,Cervidae
+OTU2792	25690	-0.00275192	2	Rodentia,Muridae
+OTU28	25690	-0.242845	2	Rodentia,Muridae
+OTU280	27178,unk	-2.77047	2	Scandentia,unk
+OTU2802			
+OTU281	23693	-0.576298	2	Primates,Cercopithecidae
+OTU2818	20295	-0.468855	2	Artiodactyla,Bovidae
+OTU282	23250	-0.000665184	2	Erinaceomorpha,Erinaceidae
+OTU2822	20600	-0.338614	2	Artiodactyla,Suidae
+OTU2823	20773	-0.679557	2	Carnivora,Herpestidae
+OTU283	20295	-0.661827	2	Artiodactyla,Bovidae
+OTU2838	24171,unk	-2.00021	2	Rodentia,unk
+OTU2841	20600	-0.00163	2	Artiodactyla,Suidae
+OTU285	20645,unk	-1.93578	2	Carnivora,unk
+OTU2851	20645,unk	-0.864823	2	Carnivora,unk
+OTU2855	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU2856	20503	-0.795279	2	Artiodactyla,Cervidae
+OTU2860	26780	-0.0568632	2	Rodentia,Sciuridae
+OTU288	20645,unk	-0.804064	2	Carnivora,unk
+OTU2882	20600	-0.0372849	2	Artiodactyla,Suidae
+OTU2887	20295	-0.144722	2	Artiodactyla,Bovidae
+OTU2889	20600	-0.927017	2	Artiodactyla,Suidae
+OTU2894	20503	-0.973871	2	Artiodactyla,Cervidae
+OTU2897			
+OTU2898	23693	-0.0131996	2	Primates,Cercopithecidae
+OTU29	21013	-0.0248163	2	Carnivora,Ursidae
+OTU290	20645,unk	-1.08557	2	Carnivora,unk
+OTU2902	25673	-0.980026	2	Rodentia,Hystricidae
+OTU2908	15639	-1.40907	2	Passeriformes,Ploceidae
+OTU2912	25690	-0.0285578	2	Rodentia,Muridae
+OTU2913	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU2926	20847	-0.0189256	2	Carnivora,Mustelidae
+OTU293	23295	-0.0453717	2	Lagomorpha,Leporidae
+OTU294	20295	-0.547443	2	Artiodactyla,Bovidae
+OTU2959	20645,unk	-1.01279	2	Carnivora,unk
+OTU296	20503	-0.395263	2	Artiodactyla,Cervidae
+OTU2962	23693	-0.0144705	2	Primates,Cercopithecidae
+OTU297	20645,unk	-1.01007	2	Carnivora,unk
+OTU298	20503	-0.166377	2	Artiodactyla,Cervidae
+OTU299	20847	-0.0196047	2	Carnivora,Mustelidae
+OTU2990	20295	-0.197651	2	Artiodactyla,Bovidae
+OTU2993	20600	-0.829573	2	Artiodactyla,Suidae
+OTU3	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU30	25690	-0.00694361	2	Rodentia,Muridae
+OTU300	23693	-0.165555	2	Primates,Cercopithecidae
+OTU3000	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU3001	20600	-0.00163	2	Artiodactyla,Suidae
+OTU301	23295	-0.391511	2	Lagomorpha,Leporidae
+OTU3017			
+OTU3022	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU3024	20291,unk	-2.20199	2	Artiodactyla,unk
+OTU3026	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU3027	25690	-0.247982	2	Rodentia,Muridae
+OTU3036			
+OTU304	20645,unk	-1.92044	2	Carnivora,unk
+OTU3040	25690	-0.423776	2	Rodentia,Muridae
+OTU3048	20847	-0.04	2	Carnivora,Mustelidae
+OTU305	25673	-0.181163	2	Rodentia,Hystricidae
+OTU3068	26780	-0.00276742	2	Rodentia,Sciuridae
+OTU307	20632	-0.0314915	2	Artiodactyla,Tragulidae
+OTU3070	23560,unk	-1.72585	2	Primates,unk
+OTU3074	23560,unk	-1.90183	2	Primates,unk
+OTU309	20715	-0.129828	2	Carnivora,Felidae
+OTU3094	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU31	23560,unk	-1.72858	2	Primates,unk
+OTU3106	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU3113	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU3114	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU3122	25690	-0.0223822	2	Rodentia,Muridae
+OTU3126	21029	-0.0367995	2	Carnivora,Viverridae
+OTU3132	23693	-0.17773	2	Primates,Cercopithecidae
+OTU3137	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU3139	20600	-0.204175	2	Artiodactyla,Suidae
+OTU3157	20847	-0.0150483	2	Carnivora,Mustelidae
+OTU3158	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU316	26780	-0.0741654	2	Rodentia,Sciuridae
+OTU3175	20600	-0.166249	2	Artiodactyla,Suidae
+OTU3185	20503	-0.270597	2	Artiodactyla,Cervidae
+OTU319	20847	-0.00928398	2	Carnivora,Mustelidae
+OTU3190	25673	-1.00415	2	Rodentia,Hystricidae
+OTU3194	20295	-0.084066	2	Artiodactyla,Bovidae
+OTU32	20295	-0.032004	2	Artiodactyla,Bovidae
+OTU3203	20600	-0.00163	2	Artiodactyla,Suidae
+OTU3207	20600	-0.00163	2	Artiodactyla,Suidae
+OTU3219	24171,unk	-1.08478	2	Rodentia,unk
+OTU324	21029	-0.0156316	2	Carnivora,Viverridae
+OTU3240	25690	-0.00121468	2	Rodentia,Muridae
+OTU3241	25690	-0.050249	2	Rodentia,Muridae
+OTU325			
+OTU3257	23693	-0.0525685	2	Primates,Cercopithecidae
+OTU326			
+OTU3265	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU327	20600	-0.0637691	2	Artiodactyla,Suidae
+OTU3273	20645,unk	-0.528187	2	Carnivora,unk
+OTU3277	23295	-1.09184	2	Lagomorpha,Leporidae
+OTU3278	20847	-0.745994	2	Carnivora,Mustelidae
+OTU328	20600	-0.0434295	2	Artiodactyla,Suidae
+OTU3281	21029	-0.669877	2	Carnivora,Viverridae
+OTU3283	20600	-0.471528	2	Artiodactyla,Suidae
+OTU3287	20847	-0.324217	2	Carnivora,Mustelidae
+OTU33	20847	-0.00162211	2	Carnivora,Mustelidae
+OTU3300	20645,unk	-0.476833	2	Carnivora,unk
+OTU3301	20503	-0.312811	2	Artiodactyla,Cervidae
+OTU3302	20503	-0.189394	2	Artiodactyla,Cervidae
+OTU3317	20847	-0.304023	2	Carnivora,Mustelidae
+OTU3319	20645,unk	-1.38493	2	Carnivora,unk
+OTU3331	20715	-1.05404	2	Carnivora,Felidae
+OTU3332	20847	-0.00129876	2	Carnivora,Mustelidae
+OTU3337	23693	-0.802791	2	Primates,Cercopithecidae
+OTU3347	20503	-0.401299	2	Artiodactyla,Cervidae
+OTU3362	25690	-0.0335601	2	Rodentia,Muridae
+OTU3363	20645,unk	-2.58249	2	Carnivora,unk
+OTU3374	20847	-0.00113652	2	Carnivora,Mustelidae
+OTU338	23693	-0.00536173	2	Primates,Cercopithecidae
+OTU3381	26780	-0.133804	2	Rodentia,Sciuridae
+OTU3383	20503	-0.193845	2	Artiodactyla,Cervidae
+OTU339			
+OTU34	20847	-0.0220957	2	Carnivora,Mustelidae
+OTU3404	27182	-0.0354343	2	Scandentia,Tupaiidae
+OTU341	20715	-0.679683	2	Carnivora,Felidae
+OTU342	20645,unk	-0.863063	2	Carnivora,unk
+OTU3434			
+OTU344	20645,unk	-1.27155	2	Carnivora,unk
+OTU345	23560,unk	-1.87889	2	Primates,unk
+OTU3468	23693	-0.091833	2	Primates,Cercopithecidae
+OTU347	20645,unk	-0.535747	2	Carnivora,unk
+OTU348	20715	-0.604189	2	Carnivora,Felidae
+OTU3485	20503	-0.237388	2	Artiodactyla,Cervidae
+OTU3488	20295	-0.0609674	2	Artiodactyla,Bovidae
+OTU3490	20715	-0.414754	2	Carnivora,Felidae
+OTU3491	20715	-0.0191707	2	Carnivora,Felidae
+OTU3497	20715	-0.0714687	2	Carnivora,Felidae
+OTU3498	20773	-0.187239	2	Carnivora,Herpestidae
+OTU35	25690	-0.00107182	2	Rodentia,Muridae
+OTU350	23560,unk	-2.44829	2	Primates,unk
+OTU3504	20600	-0.367778	2	Artiodactyla,Suidae
+OTU3523	20847	-0.437047	2	Carnivora,Mustelidae
+OTU3534	20645,unk	-1.10908	2	Carnivora,unk
+OTU355			
+OTU3556	21029	-0.00275171	2	Carnivora,Viverridae
+OTU3566	21029	-0.8193	2	Carnivora,Viverridae
+OTU357	20645,unk	-0.959386	2	Carnivora,unk
+OTU3575	20600	-0.673495	2	Artiodactyla,Suidae
+OTU358	20645,unk	-0.968709	2	Carnivora,unk
+OTU3581	20291,unk	-1.40397	2	Artiodactyla,unk
+OTU3582	25690	-0.00313672	2	Rodentia,Muridae
+OTU3587	20291,unk	-1.17951	2	Artiodactyla,unk
+OTU359	25690	-0.0244605	2	Rodentia,Muridae
+OTU36	27182	-0.00150066	2	Scandentia,Tupaiidae
+OTU360	20715	-0.159259	2	Carnivora,Felidae
+OTU3605	20600	-0.12595	2	Artiodactyla,Suidae
+OTU3635	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU3639	20645,unk	-0.910577	2	Carnivora,unk
+OTU364	23560,unk	-1.37251	2	Primates,unk
+OTU3648	20503	-0.270597	2	Artiodactyla,Cervidae
+OTU3651	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU3668	23945	-0.194143	2	Primates,Hominidae
+OTU3675	23560,unk	-1.05724	2	Primates,unk
+OTU3677	23945	-0.00311921	2	Primates,Hominidae
+OTU3679	23945	-0.00311921	2	Primates,Hominidae
+OTU368	21029	-0.0705518	2	Carnivora,Viverridae
+OTU3686	20295	-0.084066	2	Artiodactyla,Bovidae
+OTU369			
+OTU3690	20847	-0.226442	2	Carnivora,Mustelidae
+OTU3696	20600	-0.00163	2	Artiodactyla,Suidae
+OTU37	20847	-0.0150483	2	Carnivora,Mustelidae
+OTU3705	20503	-0.270597	2	Artiodactyla,Cervidae
+OTU3715	25673	-0.00520523	2	Rodentia,Hystricidae
+OTU3727	20600	-0.0458774	2	Artiodactyla,Suidae
+OTU3733	21029	-0.113036	2	Carnivora,Viverridae
+OTU3739	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU3747	20645,unk	-2.21516	2	Carnivora,unk
+OTU375	10172	-0.00881651	2	Galliformes,Phasianidae
+OTU3751	20847	-0.135804	2	Carnivora,Mustelidae
+OTU3753	20847	-0.0441548	2	Carnivora,Mustelidae
+OTU3758	20295	-0.0937858	2	Artiodactyla,Bovidae
+OTU376	24171,unk	-0.656974	2	Rodentia,unk
+OTU3766	20645,unk	-1.48921	2	Carnivora,unk
+OTU3769			
+OTU377	20645,unk	-0.678434	2	Carnivora,unk
+OTU3772			
+OTU3776	23693	-0.00216609	2	Primates,Cercopithecidae
+OTU3789	23693	-0.0111109	2	Primates,Cercopithecidae
+OTU3799	20645,unk	-2.25116	2	Carnivora,unk
+OTU38			
+OTU381	26780	-0.001111	2	Rodentia,Sciuridae
+OTU3825	24171,unk	-1.90835	2	Rodentia,unk
+OTU3829	20645,unk	-0.408647	2	Carnivora,unk
+OTU383	23693	-0.574565	2	Primates,Cercopithecidae
+OTU3830	20645,unk	-1.20594	2	Carnivora,unk
+OTU3837	20847	-0.312047	2	Carnivora,Mustelidae
+OTU3840	24171,unk	-0.633561	2	Rodentia,unk
+OTU386	24171,unk	-0.248215	2	Rodentia,unk
+OTU3866	23560,unk	-1.40864	2	Primates,unk
+OTU389			
+OTU39	20715	-0.0191707	2	Carnivora,Felidae
+OTU391			
+OTU3912	23560,unk	-2.36729	2	Primates,unk
+OTU3914	21029	-0.337833	2	Carnivora,Viverridae
+OTU3920	23693	-0.0251204	2	Primates,Cercopithecidae
+OTU3924	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU394	11585	-0.862546	2	Passeriformes,Corvidae
+OTU3963	20645,unk	-1.27671	2	Carnivora,unk
+OTU3965			
+OTU3982			
+OTU3983	25690	-0.0285578	2	Rodentia,Muridae
+OTU4	25690	-0.00121468	2	Rodentia,Muridae
+OTU40	20715	-0.0714687	2	Carnivora,Felidae
+OTU4005			
+OTU4006	20600	-0.156686	2	Artiodactyla,Suidae
+OTU4008	20600	-0.419999	2	Artiodactyla,Suidae
+OTU4009			
+OTU4012	20847	-0.148402	2	Carnivora,Mustelidae
+OTU4013	20645,unk	-0.740275	2	Carnivora,unk
+OTU4016	23693	-0.235473	2	Primates,Cercopithecidae
+OTU4025	25690	-0.00275192	2	Rodentia,Muridae
+OTU4033	21029	-1.08012	2	Carnivora,Viverridae
+OTU405	25690	-0.00057533	2	Rodentia,Muridae
+OTU4050	20600	-0.161952	2	Artiodactyla,Suidae
+OTU4054	20503	-0.29244	2	Artiodactyla,Cervidae
+OTU4059	27182	-0.38277	2	Scandentia,Tupaiidae
+OTU4063	27182	-0.00150066	2	Scandentia,Tupaiidae
+OTU4067	23693	-0.918028	2	Primates,Cercopithecidae
+OTU4069	20645,unk	-0.75749	2	Carnivora,unk
+OTU407	23560,unk	-2.24401	2	Primates,unk
+OTU4070	20847	-0.00129876	2	Carnivora,Mustelidae
+OTU4085			
+OTU41	25690	-0.00223579	2	Rodentia,Muridae
+OTU410	20645,unk	-0.771716	2	Carnivora,unk
+OTU411	20645,unk	-0.874035	2	Carnivora,unk
+OTU4114	20645,unk	-0.686705	2	Carnivora,unk
+OTU4115	20600	-0.141453	2	Artiodactyla,Suidae
+OTU4119	21029	-0.00275171	2	Carnivora,Viverridae
+OTU412	24171,unk	-0.0287708	2	Rodentia,unk
+OTU4124	25673	-0.0543555	2	Rodentia,Hystricidae
+OTU4126	20847	-0.19664	2	Carnivora,Mustelidae
+OTU413	23958	-0.0100197	2	Primates,Hylobatidae
+OTU4130	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU4132	20847	-0.445154	2	Carnivora,Mustelidae
+OTU4142	20847	-0.00768538	2	Carnivora,Mustelidae
+OTU4143	20847	-0.360067	2	Carnivora,Mustelidae
+OTU4144	20847	-0.0892989	2	Carnivora,Mustelidae
+OTU4147	27127	-0.502907	2	Rodentia,Spalacidae
+OTU4149	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU415	23560,unk	-2.5591	2	Primates,unk
+OTU4151	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU4157	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU4158	25673	-0.298118	2	Rodentia,Hystricidae
+OTU416	20645,unk	-0.796986	2	Carnivora,unk
+OTU4162	24171,unk	-0.633561	2	Rodentia,unk
+OTU4169	20645,unk	-1.16645	2	Carnivora,unk
+OTU417	20295	-0.572654	2	Artiodactyla,Bovidae
+OTU4173	20295	-0.099773	2	Artiodactyla,Bovidae
+OTU4176			
+OTU4188	20645,unk	-0.981161	2	Carnivora,unk
+OTU4192	25673	-0.118086	2	Rodentia,Hystricidae
+OTU4194	24171,unk	-0.809961	2	Rodentia,unk
+OTU4197	20847	-0.512314	2	Carnivora,Mustelidae
+OTU42			
+OTU4200	24171,unk	-1.25796	2	Rodentia,unk
+OTU4204	20295	-0.27841	2	Artiodactyla,Bovidae
+OTU421	20645,unk	-1.34592	2	Carnivora,unk
+OTU4212			
+OTU4213	26780	-0.0801043	2	Rodentia,Sciuridae
+OTU4214	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU4216			
+OTU422	25690	-0.0132128	2	Rodentia,Muridae
+OTU4220	20645,unk	-0.286224	2	Carnivora,unk
+OTU4224	20847	-0.871086	2	Carnivora,Mustelidae
+OTU423			
+OTU4232	24171,unk	-0.686107	2	Rodentia,unk
+OTU4235	24171,unk	-0.45491	2	Rodentia,unk
+OTU4244	20295	-0.104977	2	Artiodactyla,Bovidae
+OTU4250	25690	-0.14328	2	Rodentia,Muridae
+OTU4253	20503	-0.306582	2	Artiodactyla,Cervidae
+OTU4255	21029	-0.0828469	2	Carnivora,Viverridae
+OTU4256	21029	-0.0156911	2	Carnivora,Viverridae
+OTU4259			
+OTU4266	20773	-0.674284	2	Carnivora,Herpestidae
+OTU4276	27127	-0.502907	2	Rodentia,Spalacidae
+OTU4283	25690	-0.261626	2	Rodentia,Muridae
+OTU429	25690	-0.65392	2	Rodentia,Muridae
+OTU43	26780	-0.00264783	2	Rodentia,Sciuridae
+OTU430	20645,unk	-0.865331	2	Carnivora,unk
+OTU4316	23945	-0.00311921	2	Primates,Hominidae
+OTU4328	21029	-0.0156911	2	Carnivora,Viverridae
+OTU4333	25673	-0.109135	2	Rodentia,Hystricidae
+OTU4341			
+OTU4356	20503	-1.11791	2	Artiodactyla,Cervidae
+OTU4360	20847	-0.303601	2	Carnivora,Mustelidae
+OTU4362	20847	-0.778662	2	Carnivora,Mustelidae
+OTU4374	20600	-0.00163	2	Artiodactyla,Suidae
+OTU4382	20649	-0.00848044	2	Carnivora,Canidae
+OTU4383	20645,unk	-2.145	2	Carnivora,unk
+OTU4384	24171,unk	-1.54609	2	Rodentia,unk
+OTU439	23560,unk	-1.81359	2	Primates,unk
+OTU44	20847	-0.00113652	2	Carnivora,Mustelidae
+OTU440	23693	-1.03839	2	Primates,Cercopithecidae
+OTU4404	25690	-0.0285578	2	Rodentia,Muridae
+OTU441	20847	-0.213114	2	Carnivora,Mustelidae
+OTU4422	17450	-0.943363	2	Passeriformes,Turdidae
+OTU443	20715	-0.185676	2	Carnivora,Felidae
+OTU4444	20645,unk	-0.706557	2	Carnivora,unk
+OTU4447	20847	-0.637276	2	Carnivora,Mustelidae
+OTU4450	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU4451	20600	-0.0157115	2	Artiodactyla,Suidae
+OTU4452	25690	-0.242845	2	Rodentia,Muridae
+OTU4456	20645,unk	-0.727326	2	Carnivora,unk
+OTU446	20715	-0.507895	2	Carnivora,Felidae
+OTU4471	20645,unk	-1.20593	2	Carnivora,unk
+OTU4477	20600	-0.357428	2	Artiodactyla,Suidae
+OTU4483	23693	-0.064283	2	Primates,Cercopithecidae
+OTU4484	20847	-0.648791	2	Carnivora,Mustelidae
+OTU4486	362	-0.0334173	2	Anura,Bufonidae
+OTU45	362	-0.00375986	2	Anura,Bufonidae
+OTU4502	23693	-0.0195002	2	Primates,Cercopithecidae
+OTU4522	20600	-0.569763	2	Artiodactyla,Suidae
+OTU4523	23945	-0.00311921	2	Primates,Hominidae
+OTU4526	20649	-0.00797528	2	Carnivora,Canidae
+OTU4535	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU4536	20600	-0.572657	2	Artiodactyla,Suidae
+OTU4538	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU4555	20503	-0.0924869	2	Artiodactyla,Cervidae
+OTU4561	23295	-0.0144201	2	Lagomorpha,Leporidae
+OTU4569	21029	-0.318879	2	Carnivora,Viverridae
+OTU457	26780	-0.0384887	2	Rodentia,Sciuridae
+OTU4572	20503	-0.0920195	2	Artiodactyla,Cervidae
+OTU458	26780	-0.00437618	2	Rodentia,Sciuridae
+OTU4583	25690	-0.242845	2	Rodentia,Muridae
+OTU4585	21029	-0.0156911	2	Carnivora,Viverridae
+OTU4586	20600	-0.00163	2	Artiodactyla,Suidae
+OTU4587			
+OTU459	20600	-0.0692647	2	Artiodactyla,Suidae
+OTU4592	20645,unk	-0.72653	2	Carnivora,unk
+OTU46	26780	-0.000694813	2	Rodentia,Sciuridae
+OTU4605	20645,unk	-0.981529	2	Carnivora,unk
+OTU4612	20847	-1.07681	2	Carnivora,Mustelidae
+OTU4614	20645,unk	-0.830632	2	Carnivora,unk
+OTU4615	20645,unk	-1.00496	2	Carnivora,unk
+OTU464	20645,unk	-1.64558	2	Carnivora,unk
+OTU465	23693	-0.000797	2	Primates,Cercopithecidae
+OTU4654			
+OTU4663	21029	-0.813988	2	Carnivora,Viverridae
+OTU4664	23560,unk	-1.5008	2	Primates,unk
+OTU467	27178,unk	-2.17662	2	Scandentia,unk
+OTU4675	27127	-0.502907	2	Rodentia,Spalacidae
+OTU468			
+OTU47	20715	-0.516683	2	Carnivora,Felidae
+OTU470			
+OTU4702	23945	-0.00311921	2	Primates,Hominidae
+OTU472	21029	-0.433937	2	Carnivora,Viverridae
+OTU473	15251	-0.719807	2	Passeriformes,Pellorneidae
+OTU4737	20847	-0.381551	2	Carnivora,Mustelidae
+OTU4752	20847	-0.106259	2	Carnivora,Mustelidae
+OTU4754	20847	-0.00186342	2	Carnivora,Mustelidae
+OTU4757	20645,unk	-2.14189	2	Carnivora,unk
+OTU477	20645,unk	-2.38192	2	Carnivora,unk
+OTU4774	20645,unk	-2.73885	2	Carnivora,unk
+OTU4776			
+OTU478	20503	-0.0517006	2	Artiodactyla,Cervidae
+OTU48	20847	-0.00768538	2	Carnivora,Mustelidae
+OTU4804	23945	-0.232351	2	Primates,Hominidae
+OTU4807			
+OTU4812	20503	-0.0168561	2	Artiodactyla,Cervidae
+OTU4821	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU4822	20291,unk	-2.04696	2	Artiodactyla,unk
+OTU4823	25673	-0.0978564	2	Rodentia,Hystricidae
+OTU4825	20847	-0.22987	2	Carnivora,Mustelidae
+OTU483	20645,unk	-0.807276	2	Carnivora,unk
+OTU4831	20773	-0.187239	2	Carnivora,Herpestidae
+OTU4838	21029	-0.0179932	2	Carnivora,Viverridae
+OTU4842	20503	-0.168115	2	Artiodactyla,Cervidae
+OTU4850	21029	-0.0181093	2	Carnivora,Viverridae
+OTU486			
+OTU4863	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU487	20645,unk	-0.641183	2	Carnivora,unk
+OTU4880			
+OTU4881			
+OTU4888	23560,unk	-2.58994	2	Primates,unk
+OTU489	14222	-1.75606	2	Passeriformes,Muscicapidae
+OTU4890	24171,unk	-1.96189	2	Rodentia,unk
+OTU4893	25673	-0.086624	2	Rodentia,Hystricidae
+OTU4894	23693	-0.965208	2	Primates,Cercopithecidae
+OTU4895	23693	-0.0308734	2	Primates,Cercopithecidae
+OTU4897			
+OTU4899	25673	-0.0476234	2	Rodentia,Hystricidae
+OTU49			
+OTU490	26780	-0.133755	2	Rodentia,Sciuridae
+OTU4900	25673	-0.0829647	2	Rodentia,Hystricidae
+OTU4909	20600	-0.768139	2	Artiodactyla,Suidae
+OTU4922	23693	-0.000859261	2	Primates,Cercopithecidae
+OTU4923			
+OTU4929	25673	-0.0476209	2	Rodentia,Hystricidae
+OTU4950			
+OTU4955	24171,unk	-0.662913	2	Rodentia,unk
+OTU496	26780	-0.00630928	2	Rodentia,Sciuridae
+OTU4961	25673	-0.0279956	2	Rodentia,Hystricidae
+OTU4962	24171,unk	-2.10397	2	Rodentia,unk
+OTU4964	20645,unk	-1.44842	2	Carnivora,unk
+OTU4968	21029	-0.00786797	2	Carnivora,Viverridae
+OTU497	23693	-0.573383	2	Primates,Cercopithecidae
+OTU4984	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU4985	20645,unk	-0.745404	2	Carnivora,unk
+OTU4987	21029	-0.00275171	2	Carnivora,Viverridae
+OTU499	25690	-0.108166	2	Rodentia,Muridae
+OTU4993	21029	-0.00909033	2	Carnivora,Viverridae
+OTU5	27127	-0.502907	2	Rodentia,Spalacidae
+OTU50	23693	-0.316607	2	Primates,Cercopithecidae
+OTU5002	21029	-0.00275171	2	Carnivora,Viverridae
+OTU5006	23693	-0.000639387	2	Primates,Cercopithecidae
+OTU501	23693	-0.00275999	2	Primates,Cercopithecidae
+OTU5020	20645,unk	-1.7338	2	Carnivora,unk
+OTU5022	23693	-0.0063707	2	Primates,Cercopithecidae
+OTU5023			
+OTU5026	20645,unk	-0.884865	2	Carnivora,unk
+OTU5031	20645,unk	-0.680669	2	Carnivora,unk
+OTU5064	23560,unk	-2.1376	2	Primates,unk
+OTU5083	25690	-0.00107182	2	Rodentia,Muridae
+OTU509	21029	-0.197226	2	Carnivora,Viverridae
+OTU5092			
+OTU51			
+OTU5102	23295	-0.864729	2	Lagomorpha,Leporidae
+OTU5104			
+OTU5105	20645,unk	-0.886803	2	Carnivora,unk
+OTU5107			
+OTU511			
+OTU5111	21029	-0.403265	2	Carnivora,Viverridae
+OTU5112	23295	-0.733222	2	Lagomorpha,Leporidae
+OTU5113	21029	-0.0288866	2	Carnivora,Viverridae
+OTU5114	21029	-0.010277	2	Carnivora,Viverridae
+OTU5116	21029	-0.00752514	2	Carnivora,Viverridae
+OTU5119	20600	-0.00163	2	Artiodactyla,Suidae
+OTU5137	23693	-0.000745415	2	Primates,Cercopithecidae
+OTU5143	23693	-0.000716615	2	Primates,Cercopithecidae
+OTU5147	20773	-0.187239	2	Carnivora,Herpestidae
+OTU5149	20645,unk	-0.989634	2	Carnivora,unk
+OTU5154	20600	-0.00163	2	Artiodactyla,Suidae
+OTU518	25673	-0.0490386	2	Rodentia,Hystricidae
+OTU519	21029	-0.0546342	2	Carnivora,Viverridae
+OTU5190	20291,unk	-2.65538	2	Artiodactyla,unk
+OTU5199			
+OTU52	26780	-0.0651263	2	Rodentia,Sciuridae
+OTU5216	20645,unk	-0.522961	2	Carnivora,unk
+OTU5218	20295	-0.513901	2	Artiodactyla,Bovidae
+OTU523	21029	-0.48136	2	Carnivora,Viverridae
+OTU5248	20295	-0.182589	2	Artiodactyla,Bovidae
+OTU5252	20715	-0.628316	2	Carnivora,Felidae
+OTU5256	21029	-0.769498	2	Carnivora,Viverridae
+OTU5257	23945	-0.269298	2	Primates,Hominidae
+OTU5262	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU529			
+OTU5297	20600	-0.0451887	2	Artiodactyla,Suidae
+OTU53	20645,unk	-0.680669	2	Carnivora,unk
+OTU530	25690	-0.0123749	2	Rodentia,Muridae
+OTU5308	20600	-0.00274596	2	Artiodactyla,Suidae
+OTU5309	25690	-0.00121467	2	Rodentia,Muridae
+OTU5314	20715	-1.2573	2	Carnivora,Felidae
+OTU5326	20600	-0.0267889	2	Artiodactyla,Suidae
+OTU5327	25690	-0.043405	2	Rodentia,Muridae
+OTU533	20503	-0.411471	2	Artiodactyla,Cervidae
+OTU5330	25690	-0.610495	2	Rodentia,Muridae
+OTU5333	20291,unk	-1.41565	2	Artiodactyla,unk
+OTU5335	25690	-0.00121468	2	Rodentia,Muridae
+OTU5340	20600	-0.00163	2	Artiodactyla,Suidae
+OTU5343	20600	-0.00163	2	Artiodactyla,Suidae
+OTU5360	25673	-0.00852613	2	Rodentia,Hystricidae
+OTU5370	20600	-0.613809	2	Artiodactyla,Suidae
+OTU539			
+OTU54	21029	-0.00129765	2	Carnivora,Viverridae
+OTU540	20503	-0.164534	2	Artiodactyla,Cervidae
+OTU541			
+OTU5410	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU5411			
+OTU5412	25690	-0.383766	2	Rodentia,Muridae
+OTU5414	20600	-0.0459436	2	Artiodactyla,Suidae
+OTU5416	25690	-0.0506855	2	Rodentia,Muridae
+OTU5419			
+OTU542	26780	-0.00695901	2	Rodentia,Sciuridae
+OTU5420	20295	-0.783422	2	Artiodactyla,Bovidae
+OTU5433	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU5437			
+OTU5450	20503	-0.0594848	2	Artiodactyla,Cervidae
+OTU547	20847	-0.186819	2	Carnivora,Mustelidae
+OTU5477	24171,unk	-1.11764	2	Rodentia,unk
+OTU5479	20291,unk	-1.48089	2	Artiodactyla,unk
+OTU5481	25673	-0.0543555	2	Rodentia,Hystricidae
+OTU5491	20291,unk	-1.05627	2	Artiodactyla,unk
+OTU5498	20503	-0.0168561	2	Artiodactyla,Cervidae
+OTU55	20847	-1.07681	2	Carnivora,Mustelidae
+OTU5510	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU5511	20645,unk	-1.2753	2	Carnivora,unk
+OTU5513	20295	-0.68641	2	Artiodactyla,Bovidae
+OTU5519	25673	-0.0543555	2	Rodentia,Hystricidae
+OTU5543	20600	-0.0829008	2	Artiodactyla,Suidae
+OTU557			
+OTU5587	25690	-0.00193008	2	Rodentia,Muridae
+OTU5595	25690	-0.313253	2	Rodentia,Muridae
+OTU56	25690	-0.0335601	2	Rodentia,Muridae
+OTU5607	27127	-0.502907	2	Rodentia,Spalacidae
+OTU5608	25690	-0.0185073	2	Rodentia,Muridae
+OTU561	20600	-0.249096	2	Artiodactyla,Suidae
+OTU5621	20645,unk	-0.663057	2	Carnivora,unk
+OTU5632	20645,unk	-2.58249	2	Carnivora,unk
+OTU5645	25690	-0.337027	2	Rodentia,Muridae
+OTU5657	25690	-0.00121468	2	Rodentia,Muridae
+OTU5659	25690	-0.00121468	2	Rodentia,Muridae
+OTU566	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU5662			
+OTU5667	26780	-0.000698634	2	Rodentia,Sciuridae
+OTU5668			
+OTU5671	26780	-0.000698634	2	Rodentia,Sciuridae
+OTU5673	20773	-0.317908	2	Carnivora,Herpestidae
+OTU5674			
+OTU5676	20773	-0.187239	2	Carnivora,Herpestidae
+OTU5677	20773	-0.392852	2	Carnivora,Herpestidae
+OTU5680	20773	-0.748032	2	Carnivora,Herpestidae
+OTU5681	24171,unk	-0.569741	2	Rodentia,unk
+OTU5686	20773	-0.187239	2	Carnivora,Herpestidae
+OTU5687	20600	-0.00163	2	Artiodactyla,Suidae
+OTU5689	20645,unk	-1.50748	2	Carnivora,unk
+OTU5690	20645,unk	-1.10999	2	Carnivora,unk
+OTU5695			
+OTU5696	20773	-0.524482	2	Carnivora,Herpestidae
+OTU5699	26780	-0.00434739	2	Rodentia,Sciuridae
+OTU57	20715	-0.247581	2	Carnivora,Felidae
+OTU5700			
+OTU5703	20649	-0.0389697	2	Carnivora,Canidae
+OTU5705			
+OTU5716	20649	-0.370691	2	Carnivora,Canidae
+OTU572	20847	-0.0252188	2	Carnivora,Mustelidae
+OTU5725	20649	-0.117904	2	Carnivora,Canidae
+OTU5726			
+OTU5728	20649	-0.111616	2	Carnivora,Canidae
+OTU5731	20645,unk	-2.73149	2	Carnivora,unk
+OTU5732	20649	-0.0127885	2	Carnivora,Canidae
+OTU5733	24171,unk	-0.631686	2	Rodentia,unk
+OTU5746	20645,unk	-1.29549	2	Carnivora,unk
+OTU5747	25690	-0.00121468	2	Rodentia,Muridae
+OTU5749	20847	-0.301408	2	Carnivora,Mustelidae
+OTU575	20503	-0.500626	2	Artiodactyla,Cervidae
+OTU5760	20645,unk	-0.865764	2	Carnivora,unk
+OTU5763	20645,unk	-0.975741	2	Carnivora,unk
+OTU5790	20649	-0.00797528	2	Carnivora,Canidae
+OTU58	23560,unk	-2.98906	2	Primates,unk
+OTU580	20847	-0.0361067	2	Carnivora,Mustelidae
+OTU5826	20600	-0.0048001	2	Artiodactyla,Suidae
+OTU5827	20600	-0.0272479	2	Artiodactyla,Suidae
+OTU5828	20295	-0.276168	2	Artiodactyla,Bovidae
+OTU5829	20600	-0.00163	2	Artiodactyla,Suidae
+OTU583	21029	-0.11246	2	Carnivora,Viverridae
+OTU5830	23945	-0.00435495	2	Primates,Hominidae
+OTU585	21029	-0.412797	2	Carnivora,Viverridae
+OTU5862	20649	-0.00797528	2	Carnivora,Canidae
+OTU5869	20649	-0.00797528	2	Carnivora,Canidae
+OTU587	20645,unk	-2.89363	2	Carnivora,unk
+OTU5870	20649	-0.0127887	2	Carnivora,Canidae
+OTU5871	20600	-0.00163	2	Artiodactyla,Suidae
+OTU5876	25690	-0.00191895	2	Rodentia,Muridae
+OTU5888			
+OTU5891	25690	-0.0276635	2	Rodentia,Muridae
+OTU59	20645,unk	-0.830632	2	Carnivora,unk
+OTU5900	20600	-0.0029252	2	Artiodactyla,Suidae
+OTU5904			
+OTU5914	23693	-1.15065	2	Primates,Cercopithecidae
+OTU593	20773	-1.01028	2	Carnivora,Herpestidae
+OTU5957	24171,unk	-0.253415	2	Rodentia,unk
+OTU596	25690	-0.0436578	2	Rodentia,Muridae
+OTU597	25690	-0.0376815	2	Rodentia,Muridae
+OTU5978	20645,unk	-2.58249	2	Carnivora,unk
+OTU5984	21029	-0.0156911	2	Carnivora,Viverridae
+OTU599	26780	-0.0154854	2	Rodentia,Sciuridae
+OTU5996	20847	-0.899069	2	Carnivora,Mustelidae
+OTU6	20773	-0.187239	2	Carnivora,Herpestidae
+OTU60	23693	-0.00158262	2	Primates,Cercopithecidae
+OTU600	23295	-0.577718	2	Lagomorpha,Leporidae
+OTU601	24171,unk	-2.72764	2	Rodentia,unk
+OTU6024	25690	-0.357118	2	Rodentia,Muridae
+OTU6026	25690	-0.354753	2	Rodentia,Muridae
+OTU604	21029	-0.0311821	2	Carnivora,Viverridae
+OTU6045	25690	-0.545345	2	Rodentia,Muridae
+OTU6046	25673	-0.00806123	2	Rodentia,Hystricidae
+OTU6049	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU6058	20291,unk	-1.78264	2	Artiodactyla,unk
+OTU606	20645,unk	-1.15697	2	Carnivora,unk
+OTU6068	21029	-0.0032751	2	Carnivora,Viverridae
+OTU6083	20503	-0.307874	2	Artiodactyla,Cervidae
+OTU6089	20600	-0.00163	2	Artiodactyla,Suidae
+OTU609	25690	-0.0585151	2	Rodentia,Muridae
+OTU6090	25673	-0.0279956	2	Rodentia,Hystricidae
+OTU6091	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU61	20295	-0.559835	2	Artiodactyla,Bovidae
+OTU6100	20715	-0.0928483	2	Carnivora,Felidae
+OTU6107	20600	-0.559083	2	Artiodactyla,Suidae
+OTU613	25690	-0.655038	2	Rodentia,Muridae
+OTU6130	23693	-0.084609	2	Primates,Cercopithecidae
+OTU6138	20645,unk	-0.809618	2	Carnivora,unk
+OTU6146	20645,unk	-1.68782	2	Carnivora,unk
+OTU615	27182	-0.0348951	2	Scandentia,Tupaiidae
+OTU6167	20773	-0.187239	2	Carnivora,Herpestidae
+OTU618	20295	-0.0570539	2	Artiodactyla,Bovidae
+OTU619	23945	-0.177265	2	Primates,Hominidae
+OTU6192	21029	-0.00275171	2	Carnivora,Viverridae
+OTU62	20645,unk	-0.708208	2	Carnivora,unk
+OTU6203	25690	-0.00694361	2	Rodentia,Muridae
+OTU6208	20847	-0.00179241	2	Carnivora,Mustelidae
+OTU6209	21029	-0.00275171	2	Carnivora,Viverridae
+OTU6211	20847	-0.00179443	2	Carnivora,Mustelidae
+OTU6228	20503	-0.170358	2	Artiodactyla,Cervidae
+OTU6230	20503	-0.16879	2	Artiodactyla,Cervidae
+OTU6234	25673	-0.114837	2	Rodentia,Hystricidae
+OTU624	20645,unk	-0.814352	2	Carnivora,unk
+OTU6260	20503	-0.0594887	2	Artiodactyla,Cervidae
+OTU6262	20503	-0.677822	2	Artiodactyla,Cervidae
+OTU6263	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU627	20295	-0.00844224	2	Artiodactyla,Bovidae
+OTU6280	25673	-0.0781286	2	Rodentia,Hystricidae
+OTU6286	23560,unk	-1.91077	2	Primates,unk
+OTU6295	20847	-0.381292	2	Carnivora,Mustelidae
+OTU63	23945	-0.511368	2	Primates,Hominidae
+OTU631	24171,unk	-0.567316	2	Rodentia,unk
+OTU6319	24171,unk	-0.445218	2	Rodentia,unk
+OTU632	23693	-0.166949	2	Primates,Cercopithecidae
+OTU6320	24171,unk	-0.731199	2	Rodentia,unk
+OTU6329	24171,unk	-0.543176	2	Rodentia,unk
+OTU633	7271	-0.476726	2	Accipitriformes,Accipitridae
+OTU6336	27178,unk	-1.7989	2	Scandentia,unk
+OTU634	23693	-0.573421	2	Primates,Cercopithecidae
+OTU6345	20773	-0.187239	2	Carnivora,Herpestidae
+OTU635			
+OTU6350	26780	-0.00264783	2	Rodentia,Sciuridae
+OTU64	23693	-0.165422	2	Primates,Cercopithecidae
+OTU6407	24171,unk	-0.633561	2	Rodentia,unk
+OTU6412	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU6416	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU6431	27182	-0.473099	2	Scandentia,Tupaiidae
+OTU6440	24171,unk	-0.505704	2	Rodentia,unk
+OTU6449	23295	-0.0669242	2	Lagomorpha,Leporidae
+OTU646	21029	-0.0285842	2	Carnivora,Viverridae
+OTU6472	20291,unk	-0.94164	2	Artiodactyla,unk
+OTU6477	23693	-0.569774	2	Primates,Cercopithecidae
+OTU65	25690	-0.00293257	2	Rodentia,Muridae
+OTU650	21029	-0.109943	2	Carnivora,Viverridae
+OTU651	20645,unk	-2.89815	2	Carnivora,unk
+OTU6517	20847	-0.242685	2	Carnivora,Mustelidae
+OTU6536	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU655	20645,unk	-0.952914	2	Carnivora,unk
+OTU6557	25690	-0.0285578	2	Rodentia,Muridae
+OTU656	20645,unk	-1.04672	2	Carnivora,unk
+OTU659	20645,unk	-2.19417	2	Carnivora,unk
+OTU6597	27182	-0.00252607	2	Scandentia,Tupaiidae
+OTU66	23693	-0.0258355	2	Primates,Cercopithecidae
+OTU6604	21013	-0.0323328	2	Carnivora,Ursidae
+OTU661	20503	-0.053805	2	Artiodactyla,Cervidae
+OTU6624	21013	-0.0323328	2	Carnivora,Ursidae
+OTU6630			
+OTU6649	20600	-0.00163	2	Artiodactyla,Suidae
+OTU665	20645,unk	-0.884892	2	Carnivora,unk
+OTU6664	20600	-0.0142886	2	Artiodactyla,Suidae
+OTU6672			
+OTU669			
+OTU6695	23945	-0.00973804	2	Primates,Hominidae
+OTU6699			
+OTU67			
+OTU6709	23560,unk	-1.91149	2	Primates,unk
+OTU6756			
+OTU676	23560,unk	-0.747411	2	Primates,unk
+OTU677	21029	-0.436584	2	Carnivora,Viverridae
+OTU6786			
+OTU6798			
+OTU68	23693	-0.00456258	2	Primates,Cercopithecidae
+OTU6816	23945	-0.0053924	2	Primates,Hominidae
+OTU6818	23945	-0.0237133	2	Primates,Hominidae
+OTU6820	20600	-0.00273856	2	Artiodactyla,Suidae
+OTU6824	23945	-0.011381	2	Primates,Hominidae
+OTU6825	20291,unk	-0.804077	2	Artiodactyla,unk
+OTU6828			
+OTU6831			
+OTU689	24171,unk	-0.823023	2	Rodentia,unk
+OTU6892	20847	-0.495667	2	Carnivora,Mustelidae
+OTU69	20645,unk	-1.00496	2	Carnivora,unk
+OTU692	20715	-0.0706617	2	Carnivora,Felidae
+OTU693	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU696	24171,unk	-0.088767	2	Rodentia,unk
+OTU6970	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU6971	20503	-0.180959	2	Artiodactyla,Cervidae
+OTU698	20773	-0.347673	2	Carnivora,Herpestidae
+OTU6984	20600	-0.00163	2	Artiodactyla,Suidae
+OTU6988	21029	-0.00400448	2	Carnivora,Viverridae
+OTU6989	20503	-0.272052	2	Artiodactyla,Cervidae
+OTU699	20645,unk	-2.89363	2	Carnivora,unk
+OTU7	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU70	23560,unk	-1.73319	2	Primates,unk
+OTU701			
+OTU7030	20847	-0.0124523	2	Carnivora,Mustelidae
+OTU7031	20295	-0.433154	2	Artiodactyla,Bovidae
+OTU7035	20503	-0.167899	2	Artiodactyla,Cervidae
+OTU7039	25690	-0.00313672	2	Rodentia,Muridae
+OTU706	20645,unk	-0.673689	2	Carnivora,unk
+OTU708	25690	-0.260775	2	Rodentia,Muridae
+OTU7080	23560,unk	-2.3827	2	Primates,unk
+OTU7092	27127	-0.502907	2	Rodentia,Spalacidae
+OTU7093	20645,unk	-0.852785	2	Carnivora,unk
+OTU7094	27127	-0.502907	2	Rodentia,Spalacidae
+OTU71	23560,unk	-1.51286	2	Primates,unk
+OTU710			
+OTU7114	21029	-0.00327495	2	Carnivora,Viverridae
+OTU7121	20291,unk	-0.860742	2	Artiodactyla,unk
+OTU7126	20847	-0.703552	2	Carnivora,Mustelidae
+OTU7150	20291,unk	-0.755283	2	Artiodactyla,unk
+OTU717	23560,unk	-1.0962	2	Primates,unk
+OTU7174			
+OTU718	17278	-0.999482	2	Passeriformes,Timaliidae
+OTU7186	23693	-0.546204	2	Primates,Cercopithecidae
+OTU7188	23693	-0.524424	2	Primates,Cercopithecidae
+OTU719	10709,unk	-1.71531	2	Passeriformes,unk
+OTU7196	21029	-0.867876	2	Carnivora,Viverridae
+OTU7197	23693	-0.536673	2	Primates,Cercopithecidae
+OTU72	20645,unk	-0.804121	2	Carnivora,unk
+OTU7200	25690	-0.0498578	2	Rodentia,Muridae
+OTU7202	23693	-0.524316	2	Primates,Cercopithecidae
+OTU7228	25673	-0.0279956	2	Rodentia,Hystricidae
+OTU7232	20600	-1.02366	2	Artiodactyla,Suidae
+OTU7235	21029	-1.51877	2	Carnivora,Viverridae
+OTU7238	24171,unk	-1.2865	2	Rodentia,unk
+OTU7242	24171,unk	-0.936687	2	Rodentia,unk
+OTU7243	20649	-0.545163	2	Carnivora,Canidae
+OTU7247	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU725	23693	-0.314006	2	Primates,Cercopithecidae
+OTU7254	20503	-0.0594851	2	Artiodactyla,Cervidae
+OTU7262	20645,unk	-0.846267	2	Carnivora,unk
+OTU7269	25673	-0.340344	2	Rodentia,Hystricidae
+OTU7278	24171,unk	-1.06123	2	Rodentia,unk
+OTU73			
+OTU730	10172	-1.66037	2	Galliformes,Phasianidae
+OTU7313			
+OTU7315			
+OTU7319	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU7325	21029	-0.616541	2	Carnivora,Viverridae
+OTU7340	25690	-0.0910409	2	Rodentia,Muridae
+OTU7346			
+OTU7365	25690	-0.176599	2	Rodentia,Muridae
+OTU7366	25690	-0.0982008	2	Rodentia,Muridae
+OTU7369	25690	-0.214232	2	Rodentia,Muridae
+OTU7373	20847	-0.20037	2	Carnivora,Mustelidae
+OTU7376	20847	-0.0150483	2	Carnivora,Mustelidae
+OTU7389	20645,unk	-1.22448	2	Carnivora,unk
+OTU7392	20645,unk	-2.13801	2	Carnivora,unk
+OTU74	20645,unk	-0.884865	2	Carnivora,unk
+OTU7401	20645,unk	-1.63253	2	Carnivora,unk
+OTU7405	25690	-0.167795	2	Rodentia,Muridae
+OTU7434	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU7437	26780	-0.000698634	2	Rodentia,Sciuridae
+OTU744	20847	-0.216673	2	Carnivora,Mustelidae
+OTU7442	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU7446	20847	-0.119598	2	Carnivora,Mustelidae
+OTU7455	25690	-0.0285578	2	Rodentia,Muridae
+OTU7460	21029	-0.186595	2	Carnivora,Viverridae
+OTU7461	25690	-0.183931	2	Rodentia,Muridae
+OTU7492	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU75	20600	-0.0163978	2	Artiodactyla,Suidae
+OTU750	20503	-0.161043	2	Artiodactyla,Cervidae
+OTU7511	20847	-0.0196072	2	Carnivora,Mustelidae
+OTU7512			
+OTU7515	20503	-0.0594855	2	Artiodactyla,Cervidae
+OTU7516	20503	-0.0595061	2	Artiodactyla,Cervidae
+OTU7519			
+OTU7523	20503	-0.0596998	2	Artiodactyla,Cervidae
+OTU7529	20295	-0.0271853	2	Artiodactyla,Bovidae
+OTU7542	20600	-0.00163	2	Artiodactyla,Suidae
+OTU757	20645,unk	-0.83748	2	Carnivora,unk
+OTU7570	20295	-0.0818026	2	Artiodactyla,Bovidae
+OTU7575	20645,unk	-0.971977	2	Carnivora,unk
+OTU7579	20291,unk	-1.37819	2	Artiodactyla,unk
+OTU7584	25690	-0.0462626	2	Rodentia,Muridae
+OTU7590	25690	-0.0285578	2	Rodentia,Muridae
+OTU7595	24171,unk	-0.633561	2	Rodentia,unk
+OTU7596	20503	-0.184531	2	Artiodactyla,Cervidae
+OTU7597	25690	-0.00191892	2	Rodentia,Muridae
+OTU7599	20291,unk	-1.7437	2	Artiodactyla,unk
+OTU76	20645,unk	-0.608692	2	Carnivora,unk
+OTU7608	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU7609	20503	-0.0594976	2	Artiodactyla,Cervidae
+OTU761	20645,unk	-2.3059	2	Carnivora,unk
+OTU7610	24171,unk	-0.251968	2	Rodentia,unk
+OTU7611	20847	-0.00179444	2	Carnivora,Mustelidae
+OTU762	20503	-0.0901934	2	Artiodactyla,Cervidae
+OTU7621	20645,unk	-0.845525	2	Carnivora,unk
+OTU765	20295	-0.0990428	2	Artiodactyla,Bovidae
+OTU766	24171,unk	-0.0826683	2	Rodentia,unk
+OTU7661			
+OTU768	20847	-0.025185	2	Carnivora,Mustelidae
+OTU7688			
+OTU77	24171,unk	-0.080419	2	Rodentia,unk
+OTU7703			
+OTU7723	23560,unk	-1.73319	2	Primates,unk
+OTU7770	21029	-0.0156911	2	Carnivora,Viverridae
+OTU7771	23560,unk	-2.54197	2	Primates,unk
+OTU7777	25690	-0.0100649	2	Rodentia,Muridae
+OTU7778			
+OTU779	20773	-0.401546	2	Carnivora,Herpestidae
+OTU78	20645,unk	-0.929727	2	Carnivora,unk
+OTU781	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU782	26780	-0.00402739	2	Rodentia,Sciuridae
+OTU7829	20600	-0.33242	2	Artiodactyla,Suidae
+OTU783			
+OTU7837	20645,unk	-0.651285	2	Carnivora,unk
+OTU784			
+OTU7850	20773	-0.397969	2	Carnivora,Herpestidae
+OTU787	21029	-0.606479	2	Carnivora,Viverridae
+OTU788	20645,unk	-2.89363	2	Carnivora,unk
+OTU7888	20847	-0.00768538	2	Carnivora,Mustelidae
+OTU79	20645,unk	-0.94311	2	Carnivora,unk
+OTU790	20645,unk	-0.775226	2	Carnivora,unk
+OTU7904			
+OTU7911			
+OTU7913	26780	-0.00145131	2	Rodentia,Sciuridae
+OTU7915	24171,unk	-1.26173	2	Rodentia,unk
+OTU7919			
+OTU792	20645,unk	-1.6021	2	Carnivora,unk
+OTU7926	20600	-0.0118259	2	Artiodactyla,Suidae
+OTU793	23693	-0.00135491	2	Primates,Cercopithecidae
+OTU794	25690	-0.259923	2	Rodentia,Muridae
+OTU7955	24171,unk	-1.60019	2	Rodentia,unk
+OTU7956	24171,unk	-1.46233	2	Rodentia,unk
+OTU7960			
+OTU7961	24171,unk	-1.04768	2	Rodentia,unk
+OTU7963	20773	-0.237961	2	Carnivora,Herpestidae
+OTU7965	24171,unk	-0.825521	2	Rodentia,unk
+OTU797	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU7988	20291,unk	-1.23257	2	Artiodactyla,unk
+OTU7997	20645,unk	-0.951069	2	Carnivora,unk
+OTU8	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU80			
+OTU801	25690	-0.0101343	2	Rodentia,Muridae
+OTU8050	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU8053	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU8057	20645,unk	-0.692487	2	Carnivora,unk
+OTU8064	25690	-0.157357	2	Rodentia,Muridae
+OTU8066	24171,unk	-1.51176	2	Rodentia,unk
+OTU8068	20645,unk	-1.55052	2	Carnivora,unk
+OTU807	20295	-0.100606	2	Artiodactyla,Bovidae
+OTU808	20295	-0.0840072	2	Artiodactyla,Bovidae
+OTU809	25690	-0.0344232	2	Rodentia,Muridae
+OTU8099	20847	-0.721572	2	Carnivora,Mustelidae
+OTU81	20503	-0.1546	2	Artiodactyla,Cervidae
+OTU8103	20600	-0.00163	2	Artiodactyla,Suidae
+OTU8111	20645,unk	-0.714673	2	Carnivora,unk
+OTU813	25690	-0.460382	2	Rodentia,Muridae
+OTU814			
+OTU8176	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU82	23693	-0.000639387	2	Primates,Cercopithecidae
+OTU820	20600	-0.00163	2	Artiodactyla,Suidae
+OTU8226	27127	-0.502907	2	Rodentia,Spalacidae
+OTU826	23295	-0.131261	2	Lagomorpha,Leporidae
+OTU8284	20715	-0.516683	2	Carnivora,Felidae
+OTU829	20600	-0.0381682	2	Artiodactyla,Suidae
+OTU8295	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU83	20773	-0.492196	2	Carnivora,Herpestidae
+OTU8302	27182	-0.00135035	2	Scandentia,Tupaiidae
+OTU8304	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU8305	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU8317	20291,unk	-0.87446	2	Artiodactyla,unk
+OTU833			
+OTU8337			
+OTU834	25690	-0.136263	2	Rodentia,Muridae
+OTU835	23560,unk	-1.70845	2	Primates,unk
+OTU8374	25690	-0.0273844	2	Rodentia,Muridae
+OTU8381	20645,unk	-2.20349	2	Carnivora,unk
+OTU8386	25673	-0.0601653	2	Rodentia,Hystricidae
+OTU8387	24171,unk	-2.47965	2	Rodentia,unk
+OTU84			
+OTU841	20645,unk	-0.985834	2	Carnivora,unk
+OTU842	20645,unk	-1.12741	2	Carnivora,unk
+OTU8421	24171,unk	-0.0318913	2	Rodentia,unk
+OTU8426			
+OTU843	24171,unk	-0.549197	2	Rodentia,unk
+OTU8430	20645,unk	-0.968562	2	Carnivora,unk
+OTU8437	24171,unk	-1.57826	2	Rodentia,unk
+OTU844	23295	-1.71349	2	Lagomorpha,Leporidae
+OTU8442	23560,unk	-1.76259	2	Primates,unk
+OTU8444	20645,unk	-2.58249	2	Carnivora,unk
+OTU8450			
+OTU8456	20291,unk	-0.993989	2	Artiodactyla,unk
+OTU8458	20503	-0.720213	2	Artiodactyla,Cervidae
+OTU8459	20503	-0.512249	2	Artiodactyla,Cervidae
+OTU846	20645,unk	-1.86347	2	Carnivora,unk
+OTU8460			
+OTU847	25690	-0.10056	2	Rodentia,Muridae
+OTU85	20632	-0.0179243	2	Artiodactyla,Tragulidae
+OTU850	23295	-0.93694	2	Lagomorpha,Leporidae
+OTU852	26780	-0.00855067	2	Rodentia,Sciuridae
+OTU8521	23693	-0.166272	2	Primates,Cercopithecidae
+OTU853	20645,unk	-1.14129	2	Carnivora,unk
+OTU854			
+OTU857	20600	-0.0590921	2	Artiodactyla,Suidae
+OTU86	20295	-0.0818026	2	Artiodactyla,Bovidae
+OTU861	24171,unk	-1.09636	2	Rodentia,unk
+OTU8616	20291,unk	-0.954477	2	Artiodactyla,unk
+OTU8633	24171,unk	-0.582407	2	Rodentia,unk
+OTU8649	20600	-0.0674091	2	Artiodactyla,Suidae
+OTU865	20503	-0.179361	2	Artiodactyla,Cervidae
+OTU8653	20847	-0.383586	2	Carnivora,Mustelidae
+OTU8672	25690	-0.00313672	2	Rodentia,Muridae
+OTU8675	25690	-0.00313672	2	Rodentia,Muridae
+OTU8681	20645,unk	-2.24014	2	Carnivora,unk
+OTU869	20773	-0.661187	2	Carnivora,Herpestidae
+OTU8693	25690	-0.0920741	2	Rodentia,Muridae
+OTU8698	23560,unk	-2.98906	2	Primates,unk
+OTU87	20295	-0.167472	2	Artiodactyla,Bovidae
+OTU8700			
+OTU8708	20645,unk	-1.59497	2	Carnivora,unk
+OTU871	20503	-0.525944	2	Artiodactyla,Cervidae
+OTU8716	20503	-0.168767	2	Artiodactyla,Cervidae
+OTU872	20645,unk	-0.73867	2	Carnivora,unk
+OTU8731	20645,unk	-0.981161	2	Carnivora,unk
+OTU8740	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU876	20645,unk	-0.643804	2	Carnivora,unk
+OTU8761	20645,unk	-2.58249	2	Carnivora,unk
+OTU8765	20645,unk	-0.804121	2	Carnivora,unk
+OTU88	23693	-0.622482	2	Primates,Cercopithecidae
+OTU8805	23560,unk	-2.65748	2	Primates,unk
+OTU882	20847	-0.0616787	2	Carnivora,Mustelidae
+OTU883	20847	-0.0229263	2	Carnivora,Mustelidae
+OTU8844	23693	-0.729302	2	Primates,Cercopithecidae
+OTU8845			
+OTU8854			
+OTU886	1758	-0.034431	2	Anura,Dicroglossidae
+OTU8860	23693	-0.0274788	2	Primates,Cercopithecidae
+OTU8889	20847	-0.468446	2	Carnivora,Mustelidae
+OTU8893	20847	-0.378184	2	Carnivora,Mustelidae
+OTU89	20295	-0.17715	2	Artiodactyla,Bovidae
+OTU8907			
+OTU8926	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU8943			
+OTU8945	20600	-0.00273858	2	Artiodactyla,Suidae
+OTU8947	23295	-2.0503	2	Lagomorpha,Leporidae
+OTU895	20503	-0.328776	2	Artiodactyla,Cervidae
+OTU8951	21029	-0.00275171	2	Carnivora,Viverridae
+OTU896	23693	-1.04215	2	Primates,Cercopithecidae
+OTU8961	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU8964	20503	-0.0932929	2	Artiodactyla,Cervidae
+OTU8965	20600	-0.00163	2	Artiodactyla,Suidae
+OTU8968	20503	-0.0924869	2	Artiodactyla,Cervidae
+OTU897	23693	-0.0929612	2	Primates,Cercopithecidae
+OTU8970			
+OTU8997	20773	-0.189855	2	Carnivora,Herpestidae
+OTU9	21029	-0.00275171	2	Carnivora,Viverridae
+OTU902			
+OTU904	24171,unk	-0.0958919	2	Rodentia,unk
+OTU9044	23693	-1.26433	2	Primates,Cercopithecidae
+OTU9049	20295	-0.311389	2	Artiodactyla,Bovidae
+OTU905	20645,unk	-0.619656	2	Carnivora,unk
+OTU9058	23693	-0.00173797	2	Primates,Cercopithecidae
+OTU9059	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU906	20645,unk	-0.613383	2	Carnivora,unk
+OTU9061	20503	-0.0595064	2	Artiodactyla,Cervidae
+OTU907			
+OTU908	26780	-0.000230777	2	Rodentia,Sciuridae
+OTU91	20645,unk	-0.745404	2	Carnivora,unk
+OTU911	20847	-0.0484674	2	Carnivora,Mustelidae
+OTU912	20645,unk	-0.454152	2	Carnivora,unk
+OTU9125			
+OTU9129	20600	-0.0916303	2	Artiodactyla,Suidae
+OTU913			
+OTU9137			
+OTU9138	20503	-0.0594851	2	Artiodactyla,Cervidae
+OTU9139	20291,unk	-2.9079	2	Artiodactyla,unk
+OTU9140			
+OTU9143			
+OTU9144			
+OTU9147	20291,unk	-1.29864	2	Artiodactyla,unk
+OTU9149			
+OTU9150	20503	-0.0594851	2	Artiodactyla,Cervidae
+OTU9152			
+OTU9153			
+OTU9154			
+OTU9158	20600	-0.09532	2	Artiodactyla,Suidae
+OTU9159	20600	-0.483718	2	Artiodactyla,Suidae
+OTU9160	23945	-0.0065653	2	Primates,Hominidae
+OTU9161			
+OTU9162	20503	-0.0592081	2	Artiodactyla,Cervidae
+OTU9165			
+OTU9170			
+OTU9188	20600	-0.00275474	2	Artiodactyla,Suidae
+OTU92	20773	-0.397969	2	Carnivora,Herpestidae
+OTU920	27182	-0.00907524	2	Scandentia,Tupaiidae
+OTU9201	20600	-0.352402	2	Artiodactyla,Suidae
+OTU9204	25690	-0.48452	2	Rodentia,Muridae
+OTU9207	25690	-0.523223	2	Rodentia,Muridae
+OTU9208	24171,unk	-0.0505224	2	Rodentia,unk
+OTU9222	20503	-0.0163361	2	Artiodactyla,Cervidae
+OTU9225	20503	-0.0924986	2	Artiodactyla,Cervidae
+OTU9238	25690	-0.255312	2	Rodentia,Muridae
+OTU9239	25690	-0.00121468	2	Rodentia,Muridae
+OTU924	20645,unk	-0.968709	2	Carnivora,unk
+OTU9241	20600	-0.543508	2	Artiodactyla,Suidae
+OTU925	20847	-0.0275376	2	Carnivora,Mustelidae
+OTU9251	20503	-0.0920195	2	Artiodactyla,Cervidae
+OTU9253			
+OTU9256	23295	-1.38528	2	Lagomorpha,Leporidae
+OTU9259	20291,unk	-2.27963	2	Artiodactyla,unk
+OTU9260			
+OTU9262	23295	-1.11899	2	Lagomorpha,Leporidae
+OTU9263	20649	-0.0127885	2	Carnivora,Canidae
+OTU9270	20649	-0.0127886	2	Carnivora,Canidae
+OTU9271	20645,unk	-0.900673	2	Carnivora,unk
+OTU9276	20649	-0.0241399	2	Carnivora,Canidae
+OTU9278	20649	-0.0139917	2	Carnivora,Canidae
+OTU9281	20295	-0.274841	2	Artiodactyla,Bovidae
+OTU9285	21029	-0.0156911	2	Carnivora,Viverridae
+OTU93			
+OTU9304	24171,unk	-0.644523	2	Rodentia,unk
+OTU9308	24171,unk	-0.635103	2	Rodentia,unk
+OTU9310	27182	-0.171734	2	Scandentia,Tupaiidae
+OTU9312	23693	-0.00085927	2	Primates,Cercopithecidae
+OTU9332	24171,unk	-1.19083	2	Rodentia,unk
+OTU9344	25690	-0.00971989	2	Rodentia,Muridae
+OTU9346	20847	-0.71683	2	Carnivora,Mustelidae
+OTU9349	20645,unk	-0.662876	2	Carnivora,unk
+OTU935	20600	-0.0374806	2	Artiodactyla,Suidae
+OTU9352	20847	-0.4613	2	Carnivora,Mustelidae
+OTU937			
+OTU9373	27127	-0.320118	2	Rodentia,Spalacidae
+OTU9374	25690	-0.0285578	2	Rodentia,Muridae
+OTU9387			
+OTU939	23945	-0.0165638	2	Primates,Hominidae
+OTU9398	25690	-0.0273891	2	Rodentia,Muridae
+OTU94			
+OTU9412	20847	-0.00232769	2	Carnivora,Mustelidae
+OTU9419			
+OTU942			
+OTU945	20503	-0.216929	2	Artiodactyla,Cervidae
+OTU947	20503	-0.289278	2	Artiodactyla,Cervidae
+OTU9471	20645,unk	-2.20814	2	Carnivora,unk
+OTU9477	25690	-0.242845	2	Rodentia,Muridae
+OTU948	20645,unk	-0.686777	2	Carnivora,unk
+OTU95	23560,unk	-1.81679	2	Primates,unk
+OTU951	20645,unk	-1.29732	2	Carnivora,unk
+OTU952	20600	-0.0483267	2	Artiodactyla,Suidae
+OTU9525	25690	-0.340614	2	Rodentia,Muridae
+OTU9537	23295	-0.0144203	2	Lagomorpha,Leporidae
+OTU9541	25690	-0.375613	2	Rodentia,Muridae
+OTU9543	25690	-0.242845	2	Rodentia,Muridae
+OTU958			
+OTU96			
+OTU960	26780	-0.0456854	2	Rodentia,Sciuridae
+OTU961	10446	-0.111279	2	Gruiformes,Rallidae
+OTU9638	25690	-0.882018	2	Rodentia,Muridae
+OTU964	25690	-0.337391	2	Rodentia,Muridae
+OTU9640	25690	-0.575676	2	Rodentia,Muridae
+OTU967	20645,unk	-1.1612	2	Carnivora,unk
+OTU97	20295	-0.0164074	2	Artiodactyla,Bovidae
+OTU9711	23945	-0.0888923	2	Primates,Hominidae
+OTU9716	23945	-0.00311921	2	Primates,Hominidae
+OTU973	23693	-1.00897	2	Primates,Cercopithecidae
+OTU9736	20847	-0.899069	2	Carnivora,Mustelidae
+OTU9739	25690	-0.0185073	2	Rodentia,Muridae
+OTU9740	20645,unk	-1.90586	2	Carnivora,unk
+OTU975	25673	-0.0880952	2	Rodentia,Hystricidae
+OTU9766	20295	-1.52057	2	Artiodactyla,Bovidae
+OTU9775	20295	-0.18366	2	Artiodactyla,Bovidae
+OTU983	20715	-0.0180034	2	Carnivora,Felidae
+OTU984	20847	-0.382689	2	Carnivora,Mustelidae
+OTU9842	20645,unk	-0.788443	2	Carnivora,unk
+OTU9849	20645,unk	-0.936667	2	Carnivora,unk
+OTU9874	20295	-0.708475	2	Artiodactyla,Bovidae
+OTU9878	20295	-0.0951794	2	Artiodactyla,Bovidae
+OTU9879	20295	-0.163053	2	Artiodactyla,Bovidae
+OTU9896			
+OTU99	23693	-0.0492235	2	Primates,Cercopithecidae
+OTU990	23693	-1.04653	2	Primates,Cercopithecidae
+OTU9901	27182	-0.00135054	2	Scandentia,Tupaiidae
+OTU9907	20847	-0.00118129	2	Carnivora,Mustelidae
+OTU9929	26780	-0.263917	2	Rodentia,Sciuridae
+OTU9946	20295	-0.651802	2	Artiodactyla,Bovidae
+OTU995	25690	-0.155008	2	Rodentia,Muridae
+OTU9957	20295	-0.231642	2	Artiodactyla,Bovidae
+OTU9962	20295	-0.404867	2	Artiodactyla,Bovidae
+OTU9966	20503	-0.0594851	2	Artiodactyla,Cervidae
+OTU997	20645,unk	-1.21944	2	Carnivora,unk
+OTU9982	23560,unk	-2.25503	2	Primates,unk
+OTU9983			
+OTU9984	20645,unk	-0.60928	2	Carnivora,unk
+OTU9986			
+OTU9990	20645,unk	-1.68549	2	Carnivora,unk
