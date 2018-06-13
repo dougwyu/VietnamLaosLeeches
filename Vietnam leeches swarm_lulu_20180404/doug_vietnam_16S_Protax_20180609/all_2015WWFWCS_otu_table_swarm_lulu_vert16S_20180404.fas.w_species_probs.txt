@@ -1,0 +1,1718 @@
+OTU1	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU10	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU100	23335,unk	-0.787975	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU1004	23949,unk	-0.35968	4	Primates,Hominidae,Homo,unk
+OTU10088	27141,unk	-1.16274	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU101			
+OTU10106	26469,unk	-0.621474	4	Rodentia,Muridae,Rattus,unk
+OTU10107			
+OTU10108	26469,unk	-1.09541	4	Rodentia,Muridae,Rattus,unk
+OTU10111			
+OTU10126			
+OTU10129	20614,unk	-0.0828196	4	Artiodactyla,Suidae,Sus,unk
+OTU10131			
+OTU1014	23949,unk	-0.084266	4	Primates,Hominidae,Homo,unk
+OTU10141			
+OTU10149	20614,unk	-0.0561257	4	Artiodactyla,Suidae,Sus,unk
+OTU10155	20872,unk	-2.63523	4	Carnivora,Mustelidae,Lutra,unk
+OTU1016			
+OTU1017	20541,unk	-0.0911889	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU10176	20335,unk	-1.55201	4	Artiodactyla,Bovidae,Capra,unk
+OTU1018			
+OTU10193	27188,unk	-0.00297443	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU10195	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU10196	27188,unk	-0.00297443	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU10197	20319,unk	-0.819643	4	Artiodactyla,Bovidae,Bos,unk
+OTU102			
+OTU10205			
+OTU10237			
+OTU1024	20614,unk	-2.74413	4	Artiodactyla,Suidae,Sus,unk
+OTU10240			
+OTU10243			
+OTU1026	20872,unk	-2.04961	4	Carnivora,Mustelidae,Lutra,unk
+OTU10263	20335,unk	-1.19968	4	Artiodactyla,Bovidae,Capra,unk
+OTU103	23747,unk	-0.0305852	4	Primates,Cercopithecidae,Macaca,unk
+OTU1032	20319,unk	-0.73868	4	Artiodactyla,Bovidae,Bos,unk
+OTU1034			
+OTU10344			
+OTU10345	20895,unk	-0.0654544	4	Carnivora,Mustelidae,Melogale,unk
+OTU1036	21062,unk	-0.751289	4	Carnivora,Viverridae,Paguma,unk
+OTU1037	20895,unk	-0.168207	4	Carnivora,Mustelidae,Melogale,unk
+OTU10375	26294,unk	-1.1205	4	Rodentia,Muridae,Niviventer,unk
+OTU1038	26824,unk	-0.719118	4	Rodentia,Sciuridae,Dremomys,unk
+OTU10386	25677,unk	-0.0432915	4	Rodentia,Hystricidae,Hystrix,unk
+OTU10388	20614,unk	-0.165135	4	Artiodactyla,Suidae,Sus,unk
+OTU1039	7655	-1.05059	4	Anseriformes,Anatidae,Anas,platyrhynchos
+OTU104	20319,unk	-0.548276	4	Artiodactyla,Bovidae,Bos,unk
+OTU10408			
+OTU10409	20798,unk	-1.20609	4	Carnivora,Herpestidae,Herpestes,unk
+OTU10426	20542	-0.269662	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU10444	20328	-0.221431	4	Artiodactyla,Bovidae,Bubalus,bubalis
+OTU10447	10311,unk	-2.41828	4	Galliformes,Phasianidae,Lophura,unk
+OTU1047	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU10470			
+OTU10474	23949,unk	-0.64917	4	Primates,Hominidae,Homo,unk
+OTU1048	26469,unk	-0.917926	4	Rodentia,Muridae,Rattus,unk
+OTU10481			
+OTU10493	20542	-0.197756	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU10497	20541,unk	-0.449121	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU10513	26140,unk	-0.793816	4	Rodentia,Muridae,Maxomys,unk
+OTU10517			
+OTU10519	26140,unk	-1.85771	4	Rodentia,Muridae,Maxomys,unk
+OTU1053	20614,unk	-0.110536	4	Artiodactyla,Suidae,Sus,unk
+OTU10537	23747,unk	-2.67941	4	Primates,Cercopithecidae,Macaca,unk
+OTU1054			
+OTU10545	23747,unk	-2.40709	4	Primates,Cercopithecidae,Macaca,unk
+OTU10549			
+OTU1055	26062,unk	-1.52201	4	Rodentia,Muridae,Leopoldamys,unk
+OTU10552			
+OTU10557			
+OTU10562	20541,unk	-0.442672	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU10565	20614,unk	-1.53561	4	Artiodactyla,Suidae,Sus,unk
+OTU10576	23747,unk	-1.34122	4	Primates,Cercopithecidae,Macaca,unk
+OTU10586			
+OTU10592	20614,unk	-0.0559956	4	Artiodactyla,Suidae,Sus,unk
+OTU106	23747,unk	-0.083034	4	Primates,Cercopithecidae,Macaca,unk
+OTU10623			
+OTU10651	20541,unk	-0.675193	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU10692	21063	-0.119864	4	Carnivora,Viverridae,Paguma,larvata
+OTU10693	20872,unk	-2.59009	4	Carnivora,Mustelidae,Lutra,unk
+OTU10698	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU107	20324	-0.0902492	4	Artiodactyla,Bovidae,Bos,taurus
+OTU10711	27141,unk	-1.16389	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU10730	20901,unk	-0.312718	4	Carnivora,Mustelidae,Mustela,unk
+OTU10731	20901,unk	-0.665432	4	Carnivora,Mustelidae,Mustela,unk
+OTU10733	20901,unk	-0.665432	4	Carnivora,Mustelidae,Mustela,unk
+OTU10736	20901,unk	-0.311636	4	Carnivora,Mustelidae,Mustela,unk
+OTU1075	20895,unk	-0.11751	4	Carnivora,Mustelidae,Melogale,unk
+OTU10780	23949,unk	-0.377194	4	Primates,Hominidae,Homo,unk
+OTU10791	23949,unk	-1.65767	4	Primates,Hominidae,Homo,unk
+OTU10796			
+OTU108			
+OTU10808			
+OTU1084	23747,unk	-0.076243	4	Primates,Cercopithecidae,Macaca,unk
+OTU10871	20872,unk	-0.886633	4	Carnivora,Mustelidae,Lutra,unk
+OTU10873			
+OTU10889			
+OTU109			
+OTU10906	26987,unk	-2.04705	4	Rodentia,Sciuridae,Rheithrosciurus,unk
+OTU10925	21062,unk	-0.682974	4	Carnivora,Viverridae,Paguma,unk
+OTU1093			
+OTU1094	26140,unk	-0.743342	4	Rodentia,Muridae,Maxomys,unk
+OTU10940	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU10941			
+OTU10951	20760,unk	-1.21405	4	Carnivora,Felidae,Prionailurus,unk
+OTU10956			
+OTU10957	20614,unk	-0.785121	4	Artiodactyla,Suidae,Sus,unk
+OTU10972	20798,unk	-1.95353	4	Carnivora,Herpestidae,Herpestes,unk
+OTU10997	26469,unk	-2.14958	4	Rodentia,Muridae,Rattus,unk
+OTU11	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU110			
+OTU1100	20895,unk	-0.251831	4	Carnivora,Mustelidae,Melogale,unk
+OTU11003	20614,unk	-2.20459	4	Artiodactyla,Suidae,Sus,unk
+OTU1101	20750,unk	-2.20142	4	Carnivora,Felidae,Neofelis,unk
+OTU1102	23747,unk	-1.40608	4	Primates,Cercopithecidae,Macaca,unk
+OTU11029	20901,unk	-1.10819	4	Carnivora,Mustelidae,Mustela,unk
+OTU11059			
+OTU11064	20723,unk	-2.05531	4	Carnivora,Felidae,Felis,unk
+OTU11075	20614,unk	-0.75025	4	Artiodactyla,Suidae,Sus,unk
+OTU1108	20614,unk	-0.0794542	4	Artiodactyla,Suidae,Sus,unk
+OTU111			
+OTU11121			
+OTU11137	20614,unk	-0.253345	4	Artiodactyla,Suidae,Sus,unk
+OTU11214	20652,unk	-1.91263	4	Carnivora,Canidae,Canis,unk
+OTU11235	26062,unk	-0.774766	4	Rodentia,Muridae,Leopoldamys,unk
+OTU11257			
+OTU11259	20872,unk	-1.06835	4	Carnivora,Mustelidae,Lutra,unk
+OTU1127			
+OTU11291	20895,unk	-0.180649	4	Carnivora,Mustelidae,Melogale,unk
+OTU113			
+OTU11302			
+OTU1134	17456,unk	-2.36032	4	Passeriformes,Turdidae,Catharus,unk
+OTU11346	26140,unk	-0.0554064	4	Rodentia,Muridae,Maxomys,unk
+OTU1136	25677,unk	-1.00067	4	Rodentia,Hystricidae,Hystrix,unk
+OTU11361			
+OTU1137	26469,unk	-2.71439	4	Rodentia,Muridae,Rattus,unk
+OTU11398	23747,unk	-1.69561	4	Primates,Cercopithecidae,Macaca,unk
+OTU114			
+OTU1140			
+OTU11407	23747,unk	-1.0449	4	Primates,Cercopithecidae,Macaca,unk
+OTU11411			
+OTU11447	23747,unk	-1.69414	4	Primates,Cercopithecidae,Macaca,unk
+OTU11470	23747,unk	-1.04525	4	Primates,Cercopithecidae,Macaca,unk
+OTU11471	23747,unk	-1.04582	4	Primates,Cercopithecidae,Macaca,unk
+OTU1149	20335,unk	-0.297472	4	Artiodactyla,Bovidae,Capra,unk
+OTU11492	23747,unk	-0.350211	4	Primates,Cercopithecidae,Macaca,unk
+OTU115	20895,unk	-0.19391	4	Carnivora,Mustelidae,Melogale,unk
+OTU11519	23747,unk	-1.0448	4	Primates,Cercopithecidae,Macaca,unk
+OTU1152	20760,unk	-1.47151	4	Carnivora,Felidae,Prionailurus,unk
+OTU11520	23747,unk	-1.04988	4	Primates,Cercopithecidae,Macaca,unk
+OTU11527	23747,unk	-1.69612	4	Primates,Cercopithecidae,Macaca,unk
+OTU11539	23747,unk	-1.69529	4	Primates,Cercopithecidae,Macaca,unk
+OTU11544	23747,unk	-1.77033	4	Primates,Cercopithecidae,Macaca,unk
+OTU11560			
+OTU11568	23747,unk	-1.04482	4	Primates,Cercopithecidae,Macaca,unk
+OTU116	23370,unk	-0.655306	4	Lagomorpha,Ochotonidae,Ochotona,unk
+OTU11604	23747,unk	-1.69375	4	Primates,Cercopithecidae,Macaca,unk
+OTU11613	23747,unk	-1.04774	4	Primates,Cercopithecidae,Macaca,unk
+OTU11626	23747,unk	-2.61889	4	Primates,Cercopithecidae,Macaca,unk
+OTU1163	26469,unk	-0.461764	4	Rodentia,Muridae,Rattus,unk
+OTU11639	25677,unk	-0.0112774	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1164			
+OTU11690	23951	-0.0171688	4	Primates,Hominidae,Homo,sapiens
+OTU117			
+OTU11727	23747,unk	-0.0305853	4	Primates,Cercopithecidae,Macaca,unk
+OTU11733	23949,unk	-0.0451968	4	Primates,Hominidae,Homo,unk
+OTU11742	20750,unk	-2.51068	4	Carnivora,Felidae,Neofelis,unk
+OTU11747	20723,unk	-0.807497	4	Carnivora,Felidae,Felis,unk
+OTU1175	20614,unk	-0.0703709	4	Artiodactyla,Suidae,Sus,unk
+OTU11752	20723,unk	-0.982651	4	Carnivora,Felidae,Felis,unk
+OTU11759			
+OTU11761			
+OTU11762			
+OTU11765	23951	-0.0171688	4	Primates,Hominidae,Homo,sapiens
+OTU11766	20723,unk	-0.737101	4	Carnivora,Felidae,Felis,unk
+OTU11774	20725	-0.753666	4	Carnivora,Felidae,Felis,catus
+OTU11776			
+OTU11778	20761	-0.703448	4	Carnivora,Felidae,Prionailurus,bengalensis
+OTU11782	21063	-0.117333	4	Carnivora,Viverridae,Paguma,larvata
+OTU1179			
+OTU118			
+OTU11813	20761	-0.696478	4	Carnivora,Felidae,Prionailurus,bengalensis
+OTU1185	23747,unk	-2.03834	4	Primates,Cercopithecidae,Macaca,unk
+OTU1186	21062,unk	-0.976628	4	Carnivora,Viverridae,Paguma,unk
+OTU11861	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU11869			
+OTU1187	22773,unk	-1.38054	4	Chiroptera,Vespertilionidae,Tylonycteris,unk
+OTU11883	20574	-0.661742	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU11888	20541,unk	-0.242114	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU119			
+OTU11910			
+OTU1198			
+OTU12	20542	-0.268922	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU120			
+OTU1204			
+OTU1208	26140,unk	-0.923183	4	Rodentia,Muridae,Maxomys,unk
+OTU121			
+OTU1213			
+OTU1222	23747,unk	-0.0788111	4	Primates,Cercopithecidae,Macaca,unk
+OTU1224			
+OTU1227	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU123			
+OTU1236			
+OTU124	26799,unk	-0.0242809	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU1242	23747,unk	-0.0448606	4	Primates,Cercopithecidae,Macaca,unk
+OTU1244	26469,unk	-0.355686	4	Rodentia,Muridae,Rattus,unk
+OTU1245	20541,unk	-0.413353	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1247	13687,unk	-2.16471	4	Passeriformes,Malaconotidae,Malaconotus,unk
+OTU1248	20798,unk	-1.05097	4	Carnivora,Herpestidae,Herpestes,unk
+OTU1249	23747,unk	-0.113192	4	Primates,Cercopithecidae,Macaca,unk
+OTU125			
+OTU1250	20872,unk	-1.13466	4	Carnivora,Mustelidae,Lutra,unk
+OTU1253	20614,unk	-0.241425	4	Artiodactyla,Suidae,Sus,unk
+OTU1255	27045,unk	-0.809407	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU126			
+OTU1261	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU1264	25677,unk	-0.95973	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1270	27188,unk	-0.183259	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU1282	25677,unk	-0.135896	4	Rodentia,Hystricidae,Hystrix,unk
+OTU129			
+OTU1294	20614,unk	-0.166008	4	Artiodactyla,Suidae,Sus,unk
+OTU1295	20876,unk	-0.452218	4	Carnivora,Mustelidae,Lutrogale,unk
+OTU1298	13419,unk	-1.38158	4	Passeriformes,Leiothrichidae,Garrulax,unk
+OTU13	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU130	23759	-0.666114	4	Primates,Cercopithecidae,Macaca,nemestrina
+OTU131			
+OTU1316			
+OTU1317	20570,unk	-0.421319	4	Artiodactyla,Cervidae,Rusa,unk
+OTU132			
+OTU1323			
+OTU1327	20541,unk	-0.323207	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1329	20614,unk	-0.0493994	4	Artiodactyla,Suidae,Sus,unk
+OTU133	20614,unk	-2.03188	4	Artiodactyla,Suidae,Sus,unk
+OTU1332	21062,unk	-0.643942	4	Carnivora,Viverridae,Paguma,unk
+OTU134			
+OTU1340	23747,unk	-0.49041	4	Primates,Cercopithecidae,Macaca,unk
+OTU1343	25677,unk	-2.05832	4	Rodentia,Hystricidae,Hystrix,unk
+OTU135	26294,unk	-0.767488	4	Rodentia,Muridae,Niviventer,unk
+OTU1358	21062,unk	-0.155514	4	Carnivora,Viverridae,Paguma,unk
+OTU1359	21062,unk	-0.569573	4	Carnivora,Viverridae,Paguma,unk
+OTU136			
+OTU1366	20541,unk	-0.530966	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1369			
+OTU137	20335,unk	-0.727118	4	Artiodactyla,Bovidae,Capra,unk
+OTU1370	25677,unk	-2.91031	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1371			
+OTU1375	20541,unk	-0.39447	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU138			
+OTU1386			
+OTU139	20541,unk	-0.241131	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1392			
+OTU1393	27045,unk	-2.31854	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU1396	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU1397	20798,unk	-0.754284	4	Carnivora,Herpestidae,Herpestes,unk
+OTU1399			
+OTU14	20574	-0.028692	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU1401			
+OTU1402	20614,unk	-0.113253	4	Artiodactyla,Suidae,Sus,unk
+OTU141			
+OTU1410			
+OTU1411			
+OTU1415	20798,unk	-1.19523	4	Carnivora,Herpestidae,Herpestes,unk
+OTU1419			
+OTU142			
+OTU1420			
+OTU1421	20541,unk	-0.732829	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU143			
+OTU1435			
+OTU1436	25677,unk	-0.167683	4	Rodentia,Hystricidae,Hystrix,unk
+OTU144			
+OTU1455	27188,unk	-0.204692	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU1468	20798,unk	-1.02873	4	Carnivora,Herpestidae,Herpestes,unk
+OTU147			
+OTU1475			
+OTU148	23747,unk	-0.808035	4	Primates,Cercopithecidae,Macaca,unk
+OTU1481	26294,unk	-1.1387	4	Rodentia,Muridae,Niviventer,unk
+OTU1485	21062,unk	-1.92026	4	Carnivora,Viverridae,Paguma,unk
+OTU1486	27045,unk	-2.33381	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU1488			
+OTU149	25677,unk	-0.0281226	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1497	23949,unk	-0.118042	4	Primates,Hominidae,Homo,unk
+OTU15	25677,unk	-0.0112774	4	Rodentia,Hystricidae,Hystrix,unk
+OTU150			
+OTU1500	26140,unk	-1.56583	4	Rodentia,Muridae,Maxomys,unk
+OTU1501			
+OTU1508			
+OTU151			
+OTU1514			
+OTU152	20895,unk	-0.112423	4	Carnivora,Mustelidae,Melogale,unk
+OTU1521	20895,unk	-0.117761	4	Carnivora,Mustelidae,Melogale,unk
+OTU1531	23747,unk	-0.0436293	4	Primates,Cercopithecidae,Macaca,unk
+OTU1536	20335,unk	-0.298047	4	Artiodactyla,Bovidae,Capra,unk
+OTU1539	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU1540	20614,unk	-0.0358805	4	Artiodactyla,Suidae,Sus,unk
+OTU155	23777,unk	-1.34611	4	Primates,Cercopithecidae,Nasalis,unk
+OTU1550	20798,unk	-1.48768	4	Carnivora,Herpestidae,Herpestes,unk
+OTU156	20652,unk	-0.139656	4	Carnivora,Canidae,Canis,unk
+OTU1560	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU157	20614,unk	-0.536	4	Artiodactyla,Suidae,Sus,unk
+OTU1573	20614,unk	-0.315719	4	Artiodactyla,Suidae,Sus,unk
+OTU1576			
+OTU158	23759	-0.631325	4	Primates,Cercopithecidae,Macaca,nemestrina
+OTU1582	20895,unk	-0.43746	4	Carnivora,Mustelidae,Melogale,unk
+OTU1584	20541,unk	-0.781201	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1588	23747,unk	-0.0496229	4	Primates,Cercopithecidae,Macaca,unk
+OTU1589	23335,unk	-1.51068	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU159			
+OTU1591	20895,unk	-0.076866	4	Carnivora,Mustelidae,Melogale,unk
+OTU1595			
+OTU1597	23747,unk	-0.329226	4	Primates,Cercopithecidae,Macaca,unk
+OTU1598			
+OTU16	26294,unk	-0.989743	4	Rodentia,Muridae,Niviventer,unk
+OTU160			
+OTU1606			
+OTU1607	26294,unk	-1.30123	4	Rodentia,Muridae,Niviventer,unk
+OTU161			
+OTU1618	20614,unk	-0.259017	4	Artiodactyla,Suidae,Sus,unk
+OTU162	20335,unk	-0.466638	4	Artiodactyla,Bovidae,Capra,unk
+OTU1621	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU1624	20880,unk	-0.607563	4	Carnivora,Mustelidae,Martes,unk
+OTU1629			
+OTU1633	21016,unk	-0.208886	4	Carnivora,Ursidae,Helarctos,unk
+OTU164	20570,unk	-0.187416	4	Artiodactyla,Cervidae,Rusa,unk
+OTU1641	26469,unk	-2.03418	4	Rodentia,Muridae,Rattus,unk
+OTU1643			
+OTU1645	20614,unk	-0.240223	4	Artiodactyla,Suidae,Sus,unk
+OTU165	631	-0.0898909	4	Anura,Bufonidae,Duttaphrynus,melanostictus
+OTU1652			
+OTU1654	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU1657	20319,unk	-0.767213	4	Artiodactyla,Bovidae,Bos,unk
+OTU166			
+OTU1666	26870,unk	-0.0468362	4	Rodentia,Sciuridae,Hylopetes,unk
+OTU1667	26799,unk	-1.06975	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU167	20335,unk	-0.395162	4	Artiodactyla,Bovidae,Capra,unk
+OTU1677	20319,unk	-0.963805	4	Artiodactyla,Bovidae,Bos,unk
+OTU1681	20895,unk	-0.15528	4	Carnivora,Mustelidae,Melogale,unk
+OTU1682	20614,unk	-1.40799	4	Artiodactyla,Suidae,Sus,unk
+OTU1686	23949,unk	-0.0390191	4	Primates,Hominidae,Homo,unk
+OTU169	23335,unk	-0.348509	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU1693	23747,unk	-0.0575164	4	Primates,Cercopithecidae,Macaca,unk
+OTU1695			
+OTU1698			
+OTU17	20872,unk	-0.764693	4	Carnivora,Mustelidae,Lutra,unk
+OTU170			
+OTU1702			
+OTU1704	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU171			
+OTU1712	25677,unk	-2.97802	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1717	26469,unk	-2.66863	4	Rodentia,Muridae,Rattus,unk
+OTU1718	20614,unk	-0.0656314	4	Artiodactyla,Suidae,Sus,unk
+OTU1720	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU1724	20872,unk	-1.45202	4	Carnivora,Mustelidae,Lutra,unk
+OTU174			
+OTU1740	26140,unk	-1.08062	4	Rodentia,Muridae,Maxomys,unk
+OTU1741	26799,unk	-0.0165759	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU1742	20760,unk	-1.67268	4	Carnivora,Felidae,Prionailurus,unk
+OTU1743	25677,unk	-0.196126	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1745	21062,unk	-0.696556	4	Carnivora,Viverridae,Paguma,unk
+OTU1747	26469,unk	-2.38179	4	Rodentia,Muridae,Rattus,unk
+OTU175	20614,unk	-0.667924	4	Artiodactyla,Suidae,Sus,unk
+OTU1753	23747,unk	-0.214085	4	Primates,Cercopithecidae,Macaca,unk
+OTU1755	20880,unk	-2.02795	4	Carnivora,Mustelidae,Martes,unk
+OTU176	20614,unk	-0.085735	4	Artiodactyla,Suidae,Sus,unk
+OTU1761	20541,unk	-0.393884	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1762	23747,unk	-0.234579	4	Primates,Cercopithecidae,Macaca,unk
+OTU1767	20614,unk	-0.132721	4	Artiodactyla,Suidae,Sus,unk
+OTU1768	20880,unk	-2.7132	4	Carnivora,Mustelidae,Martes,unk
+OTU1771	20895,unk	-2.76624	4	Carnivora,Mustelidae,Melogale,unk
+OTU1774	20614,unk	-1.07856	4	Artiodactyla,Suidae,Sus,unk
+OTU1775			
+OTU1776	21062,unk	-0.773832	4	Carnivora,Viverridae,Paguma,unk
+OTU1778			
+OTU178	27141,unk	-1.38062	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU1783	20895,unk	-0.923335	4	Carnivora,Mustelidae,Melogale,unk
+OTU179	20652,unk	-1.51257	4	Carnivora,Canidae,Canis,unk
+OTU1792	20335,unk	-1.06273	4	Artiodactyla,Bovidae,Capra,unk
+OTU1795	20872,unk	-1.70053	4	Carnivora,Mustelidae,Lutra,unk
+OTU1796	15322	-1.93584	4	Passeriformes,Pellorneidae,Pellorneum,tickelli
+OTU18	25677,unk	-0.0988286	4	Rodentia,Hystricidae,Hystrix,unk
+OTU180			
+OTU1806	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU1812	10295	-0.500262	4	Galliformes,Phasianidae,Gallus,sonneratii
+OTU1819			
+OTU182	25677,unk	-0.224434	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1820			
+OTU1826	20541,unk	-0.430307	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU183			
+OTU1832	20614,unk	-0.263456	4	Artiodactyla,Suidae,Sus,unk
+OTU1835	23747,unk	-0.27426	4	Primates,Cercopithecidae,Macaca,unk
+OTU1836	26062,unk	-0.4316	4	Rodentia,Muridae,Leopoldamys,unk
+OTU1839			
+OTU184	23777,unk	-2.60653	4	Primates,Cercopithecidae,Nasalis,unk
+OTU1847	20901,unk	-2.98932	4	Carnivora,Mustelidae,Mustela,unk
+OTU1848	20798,unk	-0.925413	4	Carnivora,Herpestidae,Herpestes,unk
+OTU185			
+OTU1850			
+OTU1852	20319,unk	-0.676182	4	Artiodactyla,Bovidae,Bos,unk
+OTU1859	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU186			
+OTU1860	20541,unk	-0.50906	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1862	21030,unk	-0.984518	4	Carnivora,Viverridae,Arctictis,unk
+OTU1864			
+OTU1866	20614,unk	-0.32984	4	Artiodactyla,Suidae,Sus,unk
+OTU1868	20614,unk	-0.929775	4	Artiodactyla,Suidae,Sus,unk
+OTU1869	20614,unk	-2.72407	4	Artiodactyla,Suidae,Sus,unk
+OTU187	27045,unk	-1.2941	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU1871			
+OTU1876	21074,unk	-1.116	4	Carnivora,Viverridae,Viverra,unk
+OTU1877	26062,unk	-0.852988	4	Rodentia,Muridae,Leopoldamys,unk
+OTU1881	27188,unk	-0.32714	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU1882	27658,unk	-2.50635	4	Soricomorpha,Talpidae,Euroscaptor,unk
+OTU1885	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU1887			
+OTU189	23777,unk	-2.60654	4	Primates,Cercopithecidae,Nasalis,unk
+OTU1890	25677,unk	-0.0112774	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1894	20335,unk	-0.7102	4	Artiodactyla,Bovidae,Capra,unk
+OTU1896	10188,unk	-1.73892	4	Galliformes,Phasianidae,Arborophila,unk
+OTU1897	20720,unk	-1.40212	4	Carnivora,Felidae,Catopuma,unk
+OTU1898			
+OTU19	20541,unk	-0.398342	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU1905	26799,unk	-0.098568	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU1908	23747,unk	-0.173856	4	Primates,Cercopithecidae,Macaca,unk
+OTU1910	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU1915	20614,unk	-1.14061	4	Artiodactyla,Suidae,Sus,unk
+OTU1916			
+OTU1919			
+OTU192	23751	-0.0540566	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU1923			
+OTU1924	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU193	26945,unk	-0.0363985	4	Rodentia,Sciuridae,Petaurista,unk
+OTU1937	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU194			
+OTU1940	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU1948	25677,unk	-2.90927	4	Rodentia,Hystricidae,Hystrix,unk
+OTU195			
+OTU1954			
+OTU1955	20798,unk	-1.07936	4	Carnivora,Herpestidae,Herpestes,unk
+OTU196			
+OTU1963	20319,unk	-0.481309	4	Artiodactyla,Bovidae,Bos,unk
+OTU197	23747,unk	-0.0146188	4	Primates,Cercopithecidae,Macaca,unk
+OTU1970	27188,unk	-0.321737	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU1982	20614,unk	-1.8393	4	Artiodactyla,Suidae,Sus,unk
+OTU1985	20614,unk	-0.162617	4	Artiodactyla,Suidae,Sus,unk
+OTU199	25677,unk	-0.345716	4	Rodentia,Hystricidae,Hystrix,unk
+OTU1990	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU1993	20541,unk	-0.268134	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2	23338	-0.0228964	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU20	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU200			
+OTU2002			
+OTU2007	26294,unk	-0.989743	4	Rodentia,Muridae,Niviventer,unk
+OTU2008	25677,unk	-1.06129	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2009			
+OTU2011			
+OTU2012	20570,unk	-1.42144	4	Artiodactyla,Cervidae,Rusa,unk
+OTU2017			
+OTU2019	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU202	20895,unk	-0.087656	4	Carnivora,Mustelidae,Melogale,unk
+OTU2034	20541,unk	-0.382733	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2036	20319,unk	-1.07971	4	Artiodactyla,Bovidae,Bos,unk
+OTU204			
+OTU2040	26140,unk	-1.6326	4	Rodentia,Muridae,Maxomys,unk
+OTU2042	20895,unk	-1.65757	4	Carnivora,Mustelidae,Melogale,unk
+OTU2043	23338	-0.0228964	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU2047	27188,unk	-0.159641	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU2050	23747,unk	-0.286074	4	Primates,Cercopithecidae,Macaca,unk
+OTU2054			
+OTU2055	20880,unk	-0.937008	4	Carnivora,Mustelidae,Martes,unk
+OTU206	23747,unk	-0.0255977	4	Primates,Cercopithecidae,Macaca,unk
+OTU2060	20335,unk	-0.523042	4	Artiodactyla,Bovidae,Capra,unk
+OTU207			
+OTU2072	23949,unk	-0.0741899	4	Primates,Hominidae,Homo,unk
+OTU2075			
+OTU2081			
+OTU2082			
+OTU2088			
+OTU209			
+OTU2090	26062,unk	-1.9742	4	Rodentia,Muridae,Leopoldamys,unk
+OTU21	20541,unk	-0.594015	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU210			
+OTU2106	23747,unk	-0.0432976	4	Primates,Cercopithecidae,Macaca,unk
+OTU2119			
+OTU212	26982,unk	-0.0326172	4	Rodentia,Sciuridae,Ratufa,unk
+OTU2127			
+OTU213			
+OTU2132	1824,unk	-0.382668	4	Anura,Dicroglossidae,Limnonectes,unk
+OTU215	20570,unk	-0.641652	4	Artiodactyla,Cervidae,Rusa,unk
+OTU2150	20574	-0.0286924	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU2152	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2157	27188,unk	-0.00297443	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU2158			
+OTU216	26469,unk	-1.22652	4	Rodentia,Muridae,Rattus,unk
+OTU217	20541,unk	-0.21586	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2172	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU218			
+OTU2184	20614,unk	-0.751335	4	Artiodactyla,Suidae,Sus,unk
+OTU219	26469,unk	-2.22869	4	Rodentia,Muridae,Rattus,unk
+OTU2195	27141,unk	-2.6099	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU22	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU2202	20798,unk	-2.67715	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2204	23335,unk	-1.37158	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU2205	27045,unk	-0.568451	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU221	25677,unk	-0.131627	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2215	20614,unk	-0.155283	4	Artiodactyla,Suidae,Sus,unk
+OTU2219	23747,unk	-0.0950527	4	Primates,Cercopithecidae,Macaca,unk
+OTU222	20652,unk	-0.66095	4	Carnivora,Canidae,Canis,unk
+OTU2220	20638,unk	-0.268363	4	Artiodactyla,Tragulidae,Tragulus,unk
+OTU223			
+OTU2235			
+OTU2236	20872,unk	-1.38613	4	Carnivora,Mustelidae,Lutra,unk
+OTU224	27188,unk	-0.135446	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU2242	23747,unk	-0.0860648	4	Primates,Cercopithecidae,Macaca,unk
+OTU2252			
+OTU226			
+OTU2260	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2267	20541,unk	-1.16645	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2268	20541,unk	-0.492238	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2269			
+OTU227			
+OTU2272	20319,unk	-1.97152	4	Artiodactyla,Bovidae,Bos,unk
+OTU2276	20895,unk	-0.790283	4	Carnivora,Mustelidae,Melogale,unk
+OTU2278	20614,unk	-0.326351	4	Artiodactyla,Suidae,Sus,unk
+OTU2279	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU228			
+OTU2280	25677,unk	-0.167683	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2283	26469,unk	-1.55848	4	Rodentia,Muridae,Rattus,unk
+OTU2285	23747,unk	-0.373704	4	Primates,Cercopithecidae,Macaca,unk
+OTU2286	23747,unk	-0.656936	4	Primates,Cercopithecidae,Macaca,unk
+OTU229			
+OTU2298	23747,unk	-0.834238	4	Primates,Cercopithecidae,Macaca,unk
+OTU23	25677,unk	-0.167683	4	Rodentia,Hystricidae,Hystrix,unk
+OTU230	23335,unk	-0.420217	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU2300	23747,unk	-0.0455797	4	Primates,Cercopithecidae,Macaca,unk
+OTU2312	23747,unk	-0.508581	4	Primates,Cercopithecidae,Macaca,unk
+OTU2314	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU232	20541,unk	-0.403141	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2322	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU2326	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU2327			
+OTU2328	26824,unk	-0.434637	4	Rodentia,Sciuridae,Dremomys,unk
+OTU2329	26140,unk	-0.493036	4	Rodentia,Muridae,Maxomys,unk
+OTU2333			
+OTU234	25677,unk	-0.0998394	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2341	21062,unk	-1.66638	4	Carnivora,Viverridae,Paguma,unk
+OTU2343	23949,unk	-1.53973	4	Primates,Hominidae,Homo,unk
+OTU236	20335,unk	-0.506399	4	Artiodactyla,Bovidae,Capra,unk
+OTU2362	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU2375	20614,unk	-0.47141	4	Artiodactyla,Suidae,Sus,unk
+OTU238	25677,unk	-0.191419	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2383	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2386	20541,unk	-2.6943	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2389	27188,unk	-0.319826	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU2393	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU2394	20319,unk	-1.04354	4	Artiodactyla,Bovidae,Bos,unk
+OTU24	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU2400	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU2409	26824,unk	-0.330248	4	Rodentia,Sciuridae,Dremomys,unk
+OTU2413	23335,unk	-0.721685	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU2414	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2415	20614,unk	-2.19057	4	Artiodactyla,Suidae,Sus,unk
+OTU242	21030,unk	-1.59924	4	Carnivora,Viverridae,Arctictis,unk
+OTU2436	20895,unk	-1.31641	4	Carnivora,Mustelidae,Melogale,unk
+OTU2442	23747,unk	-0.83259	4	Primates,Cercopithecidae,Macaca,unk
+OTU2448	20574	-0.0286924	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU245			
+OTU2457	26469,unk	-0.724648	4	Rodentia,Muridae,Rattus,unk
+OTU2458	20880,unk	-2.47789	4	Carnivora,Mustelidae,Martes,unk
+OTU2461	20541,unk	-0.199861	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2464	20872,unk	-0.764693	4	Carnivora,Mustelidae,Lutra,unk
+OTU2466			
+OTU2467	20872,unk	-0.764693	4	Carnivora,Mustelidae,Lutra,unk
+OTU247	20850	-0.234045	4	Carnivora,Mustelidae,Aonyx,cinereus
+OTU2470	20614,unk	-0.119458	4	Artiodactyla,Suidae,Sus,unk
+OTU2471	20872,unk	-2.4287	4	Carnivora,Mustelidae,Lutra,unk
+OTU2484			
+OTU2488	20760,unk	-1.23377	4	Carnivora,Felidae,Prionailurus,unk
+OTU2495	23949,unk	-0.157232	4	Primates,Hominidae,Homo,unk
+OTU2496	26062,unk	-0.4316	4	Rodentia,Muridae,Leopoldamys,unk
+OTU25	26799,unk	-0.0165759	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU250	20895,unk	-0.437514	4	Carnivora,Mustelidae,Melogale,unk
+OTU2502	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU251			
+OTU2512			
+OTU252	20652,unk	-0.618965	4	Carnivora,Canidae,Canis,unk
+OTU2522			
+OTU2529	20541,unk	-0.833468	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2543			
+OTU255			
+OTU2550	26140,unk	-1.79646	4	Rodentia,Muridae,Maxomys,unk
+OTU2557	27188,unk	-2.33778	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU256			
+OTU2560	20614,unk	-0.874964	4	Artiodactyla,Suidae,Sus,unk
+OTU257	23335,unk	-1.00191	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU2570			
+OTU2572			
+OTU258			
+OTU2584	23747,unk	-0.158751	4	Primates,Cercopithecidae,Macaca,unk
+OTU2595	27045,unk	-2.48236	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU2596	26469,unk	-2.13744	4	Rodentia,Muridae,Rattus,unk
+OTU26			
+OTU261	23335,unk	-0.16879	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU262			
+OTU2622	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU263			
+OTU2638			
+OTU2639	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU264			
+OTU2641			
+OTU265	23747,unk	-1.96264	4	Primates,Cercopithecidae,Macaca,unk
+OTU2653	25677,unk	-1.29505	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2661	20335,unk	-2.96934	4	Artiodactyla,Bovidae,Capra,unk
+OTU2672	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU2674	25677,unk	-0.167683	4	Rodentia,Hystricidae,Hystrix,unk
+OTU268			
+OTU2680	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU2683			
+OTU2685	23955,unk	-2.13005	4	Primates,Hominidae,Pongo,unk
+OTU2687			
+OTU2689	14610,unk	-2.78442	4	Passeriformes,Nectariniidae,Aethopyga,unk
+OTU2691	20541,unk	-0.443049	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU27	26140,unk	-0.361686	4	Rodentia,Muridae,Maxomys,unk
+OTU2704	20760,unk	-0.943568	4	Carnivora,Felidae,Prionailurus,unk
+OTU2707			
+OTU271			
+OTU272			
+OTU2721			
+OTU2722	20798,unk	-1.90024	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2728	20895,unk	-2.65001	4	Carnivora,Mustelidae,Melogale,unk
+OTU2730	20614,unk	-1.19193	4	Artiodactyla,Suidae,Sus,unk
+OTU2732	20880,unk	-0.803459	4	Carnivora,Mustelidae,Martes,unk
+OTU274			
+OTU2752	20798,unk	-2.57795	4	Carnivora,Herpestidae,Herpestes,unk
+OTU2762			
+OTU2776	10191	-0.076661	4	Galliformes,Phasianidae,Arborophila,brunneopectus
+OTU278	20541,unk	-0.460665	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2792	26140,unk	-0.361686	4	Rodentia,Muridae,Maxomys,unk
+OTU28	26140,unk	-1.79646	4	Rodentia,Muridae,Maxomys,unk
+OTU280			
+OTU2802			
+OTU281	23777,unk	-2.60943	4	Primates,Cercopithecidae,Nasalis,unk
+OTU2818	20319,unk	-2.62961	4	Artiodactyla,Bovidae,Bos,unk
+OTU282	23269	-0.0145525	4	Erinaceomorpha,Erinaceidae,Hylomys,suillus
+OTU2822	20614,unk	-0.369354	4	Artiodactyla,Suidae,Sus,unk
+OTU2823	20798,unk	-0.872194	4	Carnivora,Herpestidae,Herpestes,unk
+OTU283	20541,unk	-0.845659	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2838			
+OTU2841	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU285			
+OTU2851			
+OTU2855	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2856	20541,unk	-1.07235	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2860	27045,unk	-1.40423	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU288			
+OTU2882	20614,unk	-0.0505166	4	Artiodactyla,Suidae,Sus,unk
+OTU2887	20319,unk	-2.50411	4	Artiodactyla,Bovidae,Bos,unk
+OTU2889	20614,unk	-1.37774	4	Artiodactyla,Suidae,Sus,unk
+OTU2894	20614,unk	-1.25774	4	Artiodactyla,Suidae,Sus,unk
+OTU2897			
+OTU2898	23747,unk	-0.094902	4	Primates,Cercopithecidae,Macaca,unk
+OTU29	21016,unk	-0.0889138	4	Carnivora,Ursidae,Helarctos,unk
+OTU290	20652,unk	-2.2002	4	Carnivora,Canidae,Canis,unk
+OTU2902	25677,unk	-1.10874	4	Rodentia,Hystricidae,Hystrix,unk
+OTU2908	15688,unk	-1.43053	4	Passeriformes,Ploceidae,Ploceus,unk
+OTU2912	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU2913	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2926	20895,unk	-0.17446	4	Carnivora,Mustelidae,Melogale,unk
+OTU293	23340	-0.0710257	4	Lagomorpha,Leporidae,Oryctolagus,cuniculus
+OTU294	20319,unk	-0.780597	4	Artiodactyla,Bovidae,Bos,unk
+OTU2959			
+OTU296	20541,unk	-0.625004	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU2962	23747,unk	-0.0732452	4	Primates,Cercopithecidae,Macaca,unk
+OTU297			
+OTU298	20541,unk	-0.30891	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU299	20895,unk	-0.529874	4	Carnivora,Mustelidae,Melogale,unk
+OTU2990	20335,unk	-0.705644	4	Artiodactyla,Bovidae,Capra,unk
+OTU2993	20614,unk	-0.973738	4	Artiodactyla,Suidae,Sus,unk
+OTU3	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU30	26294,unk	-0.654955	4	Rodentia,Muridae,Niviventer,unk
+OTU300	23747,unk	-0.805496	4	Primates,Cercopithecidae,Macaca,unk
+OTU3000	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3001	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU301	23335,unk	-0.509786	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU3017			
+OTU3022	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU3024			
+OTU3026	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU3027	26140,unk	-1.80778	4	Rodentia,Muridae,Maxomys,unk
+OTU3036			
+OTU304			
+OTU3040	26140,unk	-2.09118	4	Rodentia,Muridae,Maxomys,unk
+OTU3048	20872,unk	-1.66761	4	Carnivora,Mustelidae,Lutra,unk
+OTU305	25677,unk	-0.20755	4	Rodentia,Hystricidae,Hystrix,unk
+OTU3068	26824,unk	-0.0867168	4	Rodentia,Sciuridae,Dremomys,unk
+OTU307	20638,unk	-0.0353017	4	Artiodactyla,Tragulidae,Tragulus,unk
+OTU3070			
+OTU3074			
+OTU309	20750,unk	-1.02443	4	Carnivora,Felidae,Neofelis,unk
+OTU3094	20542	-0.269662	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU31			
+OTU3106	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU3113	20574	-0.0286924	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU3114	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU3122	26062,unk	-1.47018	4	Rodentia,Muridae,Leopoldamys,unk
+OTU3126	21062,unk	-0.422306	4	Carnivora,Viverridae,Paguma,unk
+OTU3132	23747,unk	-0.933783	4	Primates,Cercopithecidae,Macaca,unk
+OTU3137	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU3139	20614,unk	-0.260261	4	Artiodactyla,Suidae,Sus,unk
+OTU3157	20872,unk	-0.49457	4	Carnivora,Mustelidae,Lutra,unk
+OTU3158	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU316	27045,unk	-0.851057	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU3175	20614,unk	-0.234276	4	Artiodactyla,Suidae,Sus,unk
+OTU3185	20541,unk	-0.401992	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU319	20872,unk	-0.967132	4	Carnivora,Mustelidae,Lutra,unk
+OTU3190	25677,unk	-1.18158	4	Rodentia,Hystricidae,Hystrix,unk
+OTU3194	20319,unk	-1.96217	4	Artiodactyla,Bovidae,Bos,unk
+OTU32	20328	-0.221431	4	Artiodactyla,Bovidae,Bubalus,bubalis
+OTU3203	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU3207	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU3219	25677,unk	-2.74638	4	Rodentia,Hystricidae,Hystrix,unk
+OTU324	21062,unk	-0.146964	4	Carnivora,Viverridae,Paguma,unk
+OTU3240	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU3241	26062,unk	-1.69806	4	Rodentia,Muridae,Leopoldamys,unk
+OTU325			
+OTU3257	23747,unk	-0.342083	4	Primates,Cercopithecidae,Macaca,unk
+OTU326			
+OTU3265	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU327	20614,unk	-0.0770191	4	Artiodactyla,Suidae,Sus,unk
+OTU3273			
+OTU3277	23335,unk	-1.47014	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU3278	20895,unk	-2.67549	4	Carnivora,Mustelidae,Melogale,unk
+OTU328	20614,unk	-0.060925	4	Artiodactyla,Suidae,Sus,unk
+OTU3281	20872,unk	-2.32796	4	Carnivora,Mustelidae,Lutra,unk
+OTU3283	20614,unk	-0.533244	4	Artiodactyla,Suidae,Sus,unk
+OTU3287	20880,unk	-1.69534	4	Carnivora,Mustelidae,Martes,unk
+OTU33	20901,unk	-0.665432	4	Carnivora,Mustelidae,Mustela,unk
+OTU3300			
+OTU3301	20541,unk	-0.434158	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3302	20541,unk	-0.298754	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3317	20901,unk	-1.65699	4	Carnivora,Mustelidae,Mustela,unk
+OTU3319			
+OTU3331	20614,unk	-1.1903	4	Artiodactyla,Suidae,Sus,unk
+OTU3332	20872,unk	-0.764693	4	Carnivora,Mustelidae,Lutra,unk
+OTU3337	23747,unk	-2.49519	4	Primates,Cercopithecidae,Macaca,unk
+OTU3347	20541,unk	-0.690892	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3362	26469,unk	-0.702813	4	Rodentia,Muridae,Rattus,unk
+OTU3363			
+OTU3374	20882	-0.00968435	4	Carnivora,Mustelidae,Martes,flavigula
+OTU338	23747,unk	-0.0272116	4	Primates,Cercopithecidae,Macaca,unk
+OTU3381	27045,unk	-1.16945	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU3383	20541,unk	-0.279619	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU339			
+OTU34	20901,unk	-0.702828	4	Carnivora,Mustelidae,Mustela,unk
+OTU3404	27188,unk	-0.0761343	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU341	20760,unk	-1.27536	4	Carnivora,Felidae,Prionailurus,unk
+OTU342			
+OTU3434			
+OTU344			
+OTU345			
+OTU3468	23747,unk	-0.499845	4	Primates,Cercopithecidae,Macaca,unk
+OTU347			
+OTU348	20720,unk	-1.22374	4	Carnivora,Felidae,Catopuma,unk
+OTU3485	20570,unk	-0.562409	4	Artiodactyla,Cervidae,Rusa,unk
+OTU3488	20319,unk	-0.902274	4	Artiodactyla,Bovidae,Bos,unk
+OTU3490	20723,unk	-1.37312	4	Carnivora,Felidae,Felis,unk
+OTU3491	20725	-0.371208	4	Carnivora,Felidae,Felis,catus
+OTU3497	20761	-0.696478	4	Carnivora,Felidae,Prionailurus,bengalensis
+OTU3498	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU35	26062,unk	-0.325201	4	Rodentia,Muridae,Leopoldamys,unk
+OTU350			
+OTU3504	20614,unk	-0.512004	4	Artiodactyla,Suidae,Sus,unk
+OTU3523	20895,unk	-2.02609	4	Carnivora,Mustelidae,Melogale,unk
+OTU3534			
+OTU355			
+OTU3556	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU3566	20798,unk	-1.59482	4	Carnivora,Herpestidae,Herpestes,unk
+OTU357			
+OTU3575	20614,unk	-1.04724	4	Artiodactyla,Suidae,Sus,unk
+OTU358			
+OTU3581			
+OTU3582	26294,unk	-0.382166	4	Rodentia,Muridae,Niviventer,unk
+OTU3587	20614,unk	-1.68025	4	Artiodactyla,Suidae,Sus,unk
+OTU359	26294,unk	-1.1397	4	Rodentia,Muridae,Niviventer,unk
+OTU36	27188,unk	-0.00328077	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU360	20750,unk	-1.10371	4	Carnivora,Felidae,Neofelis,unk
+OTU3605	20614,unk	-0.185327	4	Artiodactyla,Suidae,Sus,unk
+OTU3635	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU3639	20652,unk	-1.27399	4	Carnivora,Canidae,Canis,unk
+OTU364			
+OTU3648	20541,unk	-0.401992	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3651	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU3668	23949,unk	-0.332054	4	Primates,Hominidae,Homo,unk
+OTU3675			
+OTU3677	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU3679	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU368	21062,unk	-0.355815	4	Carnivora,Viverridae,Paguma,unk
+OTU3686	20319,unk	-1.96229	4	Artiodactyla,Bovidae,Bos,unk
+OTU369			
+OTU3690	20872,unk	-1.01049	4	Carnivora,Mustelidae,Lutra,unk
+OTU3696	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU37	20872,unk	-0.49457	4	Carnivora,Mustelidae,Lutra,unk
+OTU3705	20541,unk	-0.401992	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU3715	25677,unk	-0.0112774	4	Rodentia,Hystricidae,Hystrix,unk
+OTU3727	20614,unk	-0.0655442	4	Artiodactyla,Suidae,Sus,unk
+OTU3733	21062,unk	-0.49487	4	Carnivora,Viverridae,Paguma,unk
+OTU3739	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU3747			
+OTU375	10311,unk	-0.155699	4	Galliformes,Phasianidae,Lophura,unk
+OTU3751	20880,unk	-0.978747	4	Carnivora,Mustelidae,Martes,unk
+OTU3753	20895,unk	-0.295515	4	Carnivora,Mustelidae,Melogale,unk
+OTU3758	20319,unk	-0.507262	4	Artiodactyla,Bovidae,Bos,unk
+OTU376	25677,unk	-1.05939	4	Rodentia,Hystricidae,Hystrix,unk
+OTU3766			
+OTU3769			
+OTU377	20652,unk	-2.76644	4	Carnivora,Canidae,Canis,unk
+OTU3772			
+OTU3776	23747,unk	-0.0122117	4	Primates,Cercopithecidae,Macaca,unk
+OTU3789	23747,unk	-0.0557473	4	Primates,Cercopithecidae,Macaca,unk
+OTU3799			
+OTU38			
+OTU381	26980,unk	-1.58218	4	Rodentia,Sciuridae,Pteromyscus,unk
+OTU3825			
+OTU3829			
+OTU383	23777,unk	-2.60767	4	Primates,Cercopithecidae,Nasalis,unk
+OTU3830			
+OTU3837	20901,unk	-1.88546	4	Carnivora,Mustelidae,Mustela,unk
+OTU3840	27141,unk	-1.16274	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU386	27141,unk	-1.97293	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU3866			
+OTU389			
+OTU39	20725	-0.371208	4	Carnivora,Felidae,Felis,catus
+OTU391			
+OTU3912			
+OTU3914	21062,unk	-1.12749	4	Carnivora,Viverridae,Paguma,unk
+OTU3920	23747,unk	-0.166953	4	Primates,Cercopithecidae,Macaca,unk
+OTU3924	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU394	11735	-1.24101	4	Passeriformes,Corvidae,Urocissa,erythroryncha
+OTU3963			
+OTU3965			
+OTU3982			
+OTU3983	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU4	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU40	20761	-0.696478	4	Carnivora,Felidae,Prionailurus,bengalensis
+OTU4005			
+OTU4006	20614,unk	-0.219773	4	Artiodactyla,Suidae,Sus,unk
+OTU4008	20614,unk	-0.645978	4	Artiodactyla,Suidae,Sus,unk
+OTU4009			
+OTU4012	20901,unk	-1.35686	4	Carnivora,Mustelidae,Mustela,unk
+OTU4013			
+OTU4016	23747,unk	-1.04784	4	Primates,Cercopithecidae,Macaca,unk
+OTU4025	26140,unk	-0.361686	4	Rodentia,Muridae,Maxomys,unk
+OTU4033	20798,unk	-1.95816	4	Carnivora,Herpestidae,Herpestes,unk
+OTU405	26250	-1.1596	4	Rodentia,Muridae,Mus,musculus
+OTU4050	20614,unk	-0.210936	4	Artiodactyla,Suidae,Sus,unk
+OTU4054	20541,unk	-0.342652	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU4059	27188,unk	-0.699118	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU4063	27188,unk	-0.00328077	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU4067	23949,unk	-2.04402	4	Primates,Hominidae,Homo,unk
+OTU4069	21011	-1.53794	4	Carnivora,Procyonidae,Procyon,lotor
+OTU407			
+OTU4070	20872,unk	-0.764693	4	Carnivora,Mustelidae,Lutra,unk
+OTU4085			
+OTU41	26469,unk	-0.384721	4	Rodentia,Muridae,Rattus,unk
+OTU410			
+OTU411			
+OTU4114			
+OTU4115	20614,unk	-0.209985	4	Artiodactyla,Suidae,Sus,unk
+OTU4119	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU412			
+OTU4124	25677,unk	-0.0988286	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4126	20872,unk	-1.21649	4	Carnivora,Mustelidae,Lutra,unk
+OTU413	23962,unk	-0.421966	4	Primates,Hylobatidae,Hylobates,unk
+OTU4130	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU4132	20880,unk	-1.74705	4	Carnivora,Mustelidae,Martes,unk
+OTU4142	20895,unk	-0.482061	4	Carnivora,Mustelidae,Melogale,unk
+OTU4143	20872,unk	-0.69072	4	Carnivora,Mustelidae,Lutra,unk
+OTU4144	20872,unk	-0.353658	4	Carnivora,Mustelidae,Lutra,unk
+OTU4147	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU4149	20574	-0.028692	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU415			
+OTU4151	20574	-0.0286924	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU4157	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU4158	25677,unk	-0.3259	4	Rodentia,Hystricidae,Hystrix,unk
+OTU416			
+OTU4162	27141,unk	-1.16274	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU4169			
+OTU417	20319,unk	-1.01119	4	Artiodactyla,Bovidae,Bos,unk
+OTU4173	20319,unk	-1.98961	4	Artiodactyla,Bovidae,Bos,unk
+OTU4176			
+OTU4188			
+OTU4192	25677,unk	-0.155996	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4194	25677,unk	-2.27364	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4197	20880,unk	-1.78656	4	Carnivora,Mustelidae,Martes,unk
+OTU42			
+OTU4200			
+OTU4204			
+OTU421			
+OTU4212			
+OTU4213	26824,unk	-1.28854	4	Rodentia,Sciuridae,Dremomys,unk
+OTU4214	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU4216			
+OTU422	26294,unk	-0.702173	4	Rodentia,Muridae,Niviventer,unk
+OTU4220			
+OTU4224	20880,unk	-2.50135	4	Carnivora,Mustelidae,Martes,unk
+OTU423			
+OTU4232			
+OTU4235	25677,unk	-1.54363	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4244	20319,unk	-0.937941	4	Artiodactyla,Bovidae,Bos,unk
+OTU4250	26140,unk	-2.03759	4	Rodentia,Muridae,Maxomys,unk
+OTU4253	20541,unk	-0.393331	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU4255	21062,unk	-0.566966	4	Carnivora,Viverridae,Paguma,unk
+OTU4256	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU4259			
+OTU4266	20798,unk	-0.71689	4	Carnivora,Herpestidae,Herpestes,unk
+OTU4276	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU4283	26294,unk	-2.32279	4	Rodentia,Muridae,Niviventer,unk
+OTU429			
+OTU43	26824,unk	-0.251389	4	Rodentia,Sciuridae,Dremomys,unk
+OTU430			
+OTU4316	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU4328	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU4333	25677,unk	-0.132773	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4341			
+OTU4356	20541,unk	-1.47841	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU4360	20872,unk	-0.64233	4	Carnivora,Mustelidae,Lutra,unk
+OTU4362	20880,unk	-2.56589	4	Carnivora,Mustelidae,Martes,unk
+OTU4374	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU4382	20658	-0.0094678	4	Carnivora,Canidae,Canis,lupus
+OTU4383			
+OTU4384			
+OTU439			
+OTU44	20882	-0.00968435	4	Carnivora,Mustelidae,Martes,flavigula
+OTU440			
+OTU4404	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU441	20901,unk	-1.30951	4	Carnivora,Mustelidae,Mustela,unk
+OTU4422	17481,unk	-1.44569	4	Passeriformes,Turdidae,Geokichla,unk
+OTU443	20760,unk	-0.989085	4	Carnivora,Felidae,Prionailurus,unk
+OTU4444			
+OTU4447	20872,unk	-1.63561	4	Carnivora,Mustelidae,Lutra,unk
+OTU4450	20542	-0.269662	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU4451	20614,unk	-0.0226547	4	Artiodactyla,Suidae,Sus,unk
+OTU4452	26140,unk	-1.79712	4	Rodentia,Muridae,Maxomys,unk
+OTU4456			
+OTU446	20760,unk	-1.16146	4	Carnivora,Felidae,Prionailurus,unk
+OTU4471			
+OTU4477	20614,unk	-0.450401	4	Artiodactyla,Suidae,Sus,unk
+OTU4483	23747,unk	-1.07092	4	Primates,Cercopithecidae,Macaca,unk
+OTU4484	20872,unk	-1.64712	4	Carnivora,Mustelidae,Lutra,unk
+OTU4486	678,unk	-0.555091	4	Anura,Bufonidae,Ingerophrynus,unk
+OTU45	683	-0.0746693	4	Anura,Bufonidae,Ingerophrynus,galeatus
+OTU4502	23747,unk	-0.0944578	4	Primates,Cercopithecidae,Macaca,unk
+OTU4522	20614,unk	-0.870879	4	Artiodactyla,Suidae,Sus,unk
+OTU4523	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU4526	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU4535	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU4536	20614,unk	-0.833092	4	Artiodactyla,Suidae,Sus,unk
+OTU4538	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU4555	20541,unk	-0.113394	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU4561	23338	-0.0228964	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU4569	21074,unk	-0.830008	4	Carnivora,Viverridae,Viverra,unk
+OTU457	27045,unk	-0.825163	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU4572	20541,unk	-0.594003	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU458	26799,unk	-0.0418965	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU4583	26140,unk	-1.79646	4	Rodentia,Muridae,Maxomys,unk
+OTU4585	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU4586	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU4587			
+OTU459	20614,unk	-0.0951896	4	Artiodactyla,Suidae,Sus,unk
+OTU4592			
+OTU46	26824,unk	-0.0926902	4	Rodentia,Sciuridae,Dremomys,unk
+OTU4605			
+OTU4612			
+OTU4614			
+OTU4615			
+OTU464			
+OTU465	23751	-0.0510725	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU4654			
+OTU4663	20798,unk	-0.853718	4	Carnivora,Herpestidae,Herpestes,unk
+OTU4664			
+OTU467			
+OTU4675	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU468			
+OTU47	21030,unk	-1.35213	4	Carnivora,Viverridae,Arctictis,unk
+OTU470			
+OTU4702	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU472	20720,unk	-2.03153	4	Carnivora,Felidae,Catopuma,unk
+OTU473	15292,unk	-1.56099	4	Passeriformes,Pellorneidae,Malacocincla,unk
+OTU4737	20895,unk	-1.69451	4	Carnivora,Mustelidae,Melogale,unk
+OTU4752	20895,unk	-0.603932	4	Carnivora,Mustelidae,Melogale,unk
+OTU4754	20895,unk	-0.0740241	4	Carnivora,Mustelidae,Melogale,unk
+OTU4757			
+OTU477			
+OTU4774			
+OTU4776			
+OTU478	20541,unk	-0.356351	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU48	20895,unk	-0.482061	4	Carnivora,Mustelidae,Melogale,unk
+OTU4804	23949,unk	-0.280753	4	Primates,Hominidae,Homo,unk
+OTU4807			
+OTU4812	20574	-0.0513886	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU4821	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU4822			
+OTU4823	25677,unk	-0.241472	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4825	20872,unk	-1.61606	4	Carnivora,Mustelidae,Lutra,unk
+OTU483			
+OTU4831	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU4838	21062,unk	-0.31611	4	Carnivora,Viverridae,Paguma,unk
+OTU4842	20570,unk	-0.418729	4	Artiodactyla,Cervidae,Rusa,unk
+OTU4850	21062,unk	-0.316226	4	Carnivora,Viverridae,Paguma,unk
+OTU486			
+OTU4863	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU487			
+OTU4880			
+OTU4881			
+OTU4888			
+OTU489	15688,unk	-1.90827	4	Passeriformes,Ploceidae,Ploceus,unk
+OTU4890			
+OTU4893	25677,unk	-0.133398	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4894	23747,unk	-2.14426	4	Primates,Cercopithecidae,Macaca,unk
+OTU4895	23747,unk	-0.176025	4	Primates,Cercopithecidae,Macaca,unk
+OTU4897			
+OTU4899	25677,unk	-0.0611693	4	Rodentia,Hystricidae,Hystrix,unk
+OTU49			
+OTU490	27045,unk	-1.12559	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU4900	25677,unk	-0.0983384	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4909	20614,unk	-1.08515	4	Artiodactyla,Suidae,Sus,unk
+OTU4922	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU4923			
+OTU4929	25677,unk	-0.0611668	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4950			
+OTU4955	25677,unk	-0.934377	4	Rodentia,Hystricidae,Hystrix,unk
+OTU496	27045,unk	-0.342601	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU4961	25677,unk	-0.0568644	4	Rodentia,Hystricidae,Hystrix,unk
+OTU4962			
+OTU4964			
+OTU4968	21062,unk	-0.160452	4	Carnivora,Viverridae,Paguma,unk
+OTU497	23777,unk	-2.60658	4	Primates,Cercopithecidae,Nasalis,unk
+OTU4984	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU4985			
+OTU4987	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU499	26469,unk	-2.76637	4	Rodentia,Muridae,Rattus,unk
+OTU4993	21062,unk	-0.724117	4	Carnivora,Viverridae,Paguma,unk
+OTU5	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU50	23747,unk	-1.96264	4	Primates,Cercopithecidae,Macaca,unk
+OTU5002	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU5006	23751	-0.836092	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU501	23747,unk	-0.0769624	4	Primates,Cercopithecidae,Macaca,unk
+OTU5020			
+OTU5022	23747,unk	-0.0340299	4	Primates,Cercopithecidae,Macaca,unk
+OTU5023			
+OTU5026			
+OTU5031			
+OTU5064			
+OTU5083	26062,unk	-0.325201	4	Rodentia,Muridae,Leopoldamys,unk
+OTU509	21062,unk	-0.550982	4	Carnivora,Viverridae,Paguma,unk
+OTU5092			
+OTU51			
+OTU5102	23335,unk	-1.05995	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU5104			
+OTU5105			
+OTU5107			
+OTU511			
+OTU5111	21062,unk	-2.46854	4	Carnivora,Viverridae,Paguma,unk
+OTU5112	23335,unk	-0.957995	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU5113	21062,unk	-0.246521	4	Carnivora,Viverridae,Paguma,unk
+OTU5114	21062,unk	-0.159114	4	Carnivora,Viverridae,Paguma,unk
+OTU5116	21062,unk	-0.137738	4	Carnivora,Viverridae,Paguma,unk
+OTU5119	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5137	23751	-0.0256792	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU5143	23751	-0.0256128	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU5147	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5149	20798,unk	-1.56052	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5154	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU518	25677,unk	-0.0619326	4	Rodentia,Hystricidae,Hystrix,unk
+OTU519	21062,unk	-0.594455	4	Carnivora,Viverridae,Paguma,unk
+OTU5190			
+OTU5199			
+OTU52	26799,unk	-0.574309	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU5216			
+OTU5218	20319,unk	-2.19364	4	Artiodactyla,Bovidae,Bos,unk
+OTU523	21030,unk	-0.717212	4	Carnivora,Viverridae,Arctictis,unk
+OTU5248	20335,unk	-0.84864	4	Artiodactyla,Bovidae,Capra,unk
+OTU5252	20760,unk	-1.28537	4	Carnivora,Felidae,Prionailurus,unk
+OTU5256	20798,unk	-1.22309	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5257	23949,unk	-0.455643	4	Primates,Hominidae,Homo,unk
+OTU5262	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU529			
+OTU5297	20614,unk	-0.0648543	4	Artiodactyla,Suidae,Sus,unk
+OTU53			
+OTU530	26469,unk	-1.09021	4	Rodentia,Muridae,Rattus,unk
+OTU5308	20623	-0.295665	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5309	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5314	20798,unk	-2.2196	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5326	20614,unk	-0.0374472	4	Artiodactyla,Suidae,Sus,unk
+OTU5327	26469,unk	-1.25841	4	Rodentia,Muridae,Rattus,unk
+OTU533	20541,unk	-0.506101	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU5330	20614,unk	-1.71048	4	Artiodactyla,Suidae,Sus,unk
+OTU5333			
+OTU5335	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5340	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5343	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5360	25677,unk	-0.0127079	4	Rodentia,Hystricidae,Hystrix,unk
+OTU5370	20614,unk	-0.676937	4	Artiodactyla,Suidae,Sus,unk
+OTU539			
+OTU54	21077	-0.00840917	4	Carnivora,Viverridae,Viverra,tangalunga
+OTU540	20541,unk	-0.481151	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU541			
+OTU5410	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU5411			
+OTU5412	26469,unk	-2.33461	4	Rodentia,Muridae,Rattus,unk
+OTU5414	20614,unk	-0.0656169	4	Artiodactyla,Suidae,Sus,unk
+OTU5416	26294,unk	-1.38139	4	Rodentia,Muridae,Niviventer,unk
+OTU5419			
+OTU542	26824,unk	-0.266425	4	Rodentia,Sciuridae,Dremomys,unk
+OTU5420	20319,unk	-2.94238	4	Artiodactyla,Bovidae,Bos,unk
+OTU5433	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU5437			
+OTU5450	20541,unk	-0.0696884	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU547	20880,unk	-0.524722	4	Carnivora,Mustelidae,Martes,unk
+OTU5477	25677,unk	-1.8727	4	Rodentia,Hystricidae,Hystrix,unk
+OTU5479			
+OTU5481	25677,unk	-0.0988286	4	Rodentia,Hystricidae,Hystrix,unk
+OTU5491			
+OTU5498	20574	-0.0513881	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU55			
+OTU5510	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU5511	20614,unk	-2.64328	4	Artiodactyla,Suidae,Sus,unk
+OTU5513	20319,unk	-2.09642	4	Artiodactyla,Bovidae,Bos,unk
+OTU5519	25677,unk	-0.0988286	4	Rodentia,Hystricidae,Hystrix,unk
+OTU5543	20614,unk	-0.120287	4	Artiodactyla,Suidae,Sus,unk
+OTU557			
+OTU5587	26062,unk	-0.406156	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5595	26469,unk	-2.22702	4	Rodentia,Muridae,Rattus,unk
+OTU56	26469,unk	-0.702813	4	Rodentia,Muridae,Rattus,unk
+OTU5607	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU5608	26294,unk	-0.989743	4	Rodentia,Muridae,Niviventer,unk
+OTU561	20614,unk	-0.354024	4	Artiodactyla,Suidae,Sus,unk
+OTU5621			
+OTU5632			
+OTU5645	26469,unk	-2.1179	4	Rodentia,Muridae,Rattus,unk
+OTU5657	26062,unk	-0.4316	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5659	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU566	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU5662			
+OTU5667	26799,unk	-0.0165759	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU5668			
+OTU5671	26799,unk	-0.0165759	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU5673	20798,unk	-0.332336	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5674			
+OTU5676	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5677	20798,unk	-0.404345	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5680	20798,unk	-0.870583	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5681			
+OTU5686	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5687	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5689			
+OTU5690			
+OTU5695			
+OTU5696	20798,unk	-0.646949	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5699	26799,unk	-0.03932	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU57	20760,unk	-1.21405	4	Carnivora,Felidae,Prionailurus,unk
+OTU5700			
+OTU5703	20652,unk	-0.0905639	4	Carnivora,Canidae,Canis,unk
+OTU5705			
+OTU5716	20652,unk	-0.421916	4	Carnivora,Canidae,Canis,unk
+OTU572	20895,unk	-0.380966	4	Carnivora,Mustelidae,Melogale,unk
+OTU5725	20652,unk	-0.129986	4	Carnivora,Canidae,Canis,unk
+OTU5726			
+OTU5728	20652,unk	-0.121227	4	Carnivora,Canidae,Canis,unk
+OTU5731			
+OTU5732	20658	-0.0247078	4	Carnivora,Canidae,Canis,lupus
+OTU5733	27141,unk	-1.16087	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU5746			
+OTU5747	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5749	20895,unk	-1.51974	4	Carnivora,Mustelidae,Melogale,unk
+OTU575	20541,unk	-0.521757	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU5760	20652,unk	-2.9759	4	Carnivora,Canidae,Canis,unk
+OTU5763	20541,unk	-2.92744	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU5790	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU58			
+OTU580	20872,unk	-0.697502	4	Carnivora,Mustelidae,Lutra,unk
+OTU5826	20623	-0.734195	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5827	20614,unk	-0.0379169	4	Artiodactyla,Suidae,Sus,unk
+OTU5828	20335,unk	-2.62151	4	Artiodactyla,Bovidae,Capra,unk
+OTU5829	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU583	21058,unk	-0.314678	4	Carnivora,Viverridae,Hemigalus,unk
+OTU5830	23951	-0.0177516	4	Primates,Hominidae,Homo,sapiens
+OTU585	21030,unk	-1.38829	4	Carnivora,Viverridae,Arctictis,unk
+OTU5862	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU5869	20658	-0.0089682	4	Carnivora,Canidae,Canis,lupus
+OTU587			
+OTU5870	20658	-0.024708	4	Carnivora,Canidae,Canis,lupus
+OTU5871	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5876	26062,unk	-0.406104	4	Rodentia,Muridae,Leopoldamys,unk
+OTU5888			
+OTU5891	26294,unk	-1.12047	4	Rodentia,Muridae,Niviventer,unk
+OTU59			
+OTU5900	20623	-0.289518	4	Artiodactyla,Suidae,Sus,scrofa
+OTU5904			
+OTU5914			
+OTU593	20798,unk	-1.02858	4	Carnivora,Herpestidae,Herpestes,unk
+OTU5957	27141,unk	-1.97809	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU596	26469,unk	-0.702297	4	Rodentia,Muridae,Rattus,unk
+OTU597	26140,unk	-1.5582	4	Rodentia,Muridae,Maxomys,unk
+OTU5978			
+OTU5984	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU599	27045,unk	-0.594307	4	Rodentia,Sciuridae,Sundasciurus,unk
+OTU5996			
+OTU6	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU60	23747,unk	-0.0382437	4	Primates,Cercopithecidae,Macaca,unk
+OTU600	23335,unk	-0.795836	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU601			
+OTU6024	26469,unk	-2.34139	4	Rodentia,Muridae,Rattus,unk
+OTU6026	26140,unk	-2.34864	4	Rodentia,Muridae,Maxomys,unk
+OTU604	21062,unk	-0.43445	4	Carnivora,Viverridae,Paguma,unk
+OTU6045			
+OTU6046	25677,unk	-0.0097262	4	Rodentia,Hystricidae,Hystrix,unk
+OTU6049	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU6058			
+OTU606			
+OTU6068	21063	-0.115003	4	Carnivora,Viverridae,Paguma,larvata
+OTU6083	20541,unk	-0.416501	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6089	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU609	26140,unk	-0.686678	4	Rodentia,Muridae,Maxomys,unk
+OTU6090	25677,unk	-0.0568644	4	Rodentia,Hystricidae,Hystrix,unk
+OTU6091	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU61	20319,unk	-0.840631	4	Artiodactyla,Bovidae,Bos,unk
+OTU6100	20760,unk	-0.496561	4	Carnivora,Felidae,Prionailurus,unk
+OTU6107	20614,unk	-0.819518	4	Artiodactyla,Suidae,Sus,unk
+OTU613			
+OTU6130	23747,unk	-0.288456	4	Primates,Cercopithecidae,Macaca,unk
+OTU6138			
+OTU6146			
+OTU615	27188,unk	-0.0737126	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU6167	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU618	20319,unk	-0.174705	4	Artiodactyla,Bovidae,Bos,unk
+OTU619	23949,unk	-0.256324	4	Primates,Hominidae,Homo,unk
+OTU6192	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU62			
+OTU6203	26294,unk	-0.654955	4	Rodentia,Muridae,Niviventer,unk
+OTU6208	20895,unk	-0.0667381	4	Carnivora,Mustelidae,Melogale,unk
+OTU6209	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU6211	20895,unk	-0.0658675	4	Carnivora,Mustelidae,Melogale,unk
+OTU6228	20541,unk	-0.21162	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6230	20541,unk	-0.493891	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6234	25677,unk	-0.161343	4	Rodentia,Hystricidae,Hystrix,unk
+OTU624			
+OTU6260	20541,unk	-0.0699678	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6262	20541,unk	-1.11765	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6263	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU627	20319,unk	-0.564111	4	Artiodactyla,Bovidae,Bos,unk
+OTU6280	25677,unk	-0.0831973	4	Rodentia,Hystricidae,Hystrix,unk
+OTU6286			
+OTU6295	20895,unk	-1.68582	4	Carnivora,Mustelidae,Melogale,unk
+OTU63	23949,unk	-1.23272	4	Primates,Hominidae,Homo,unk
+OTU631			
+OTU6319	25677,unk	-2.45127	4	Rodentia,Hystricidae,Hystrix,unk
+OTU632	23747,unk	-2.20663	4	Primates,Cercopithecidae,Macaca,unk
+OTU6320	25677,unk	-1.18452	4	Rodentia,Hystricidae,Hystrix,unk
+OTU6329	25677,unk	-1.64483	4	Rodentia,Hystricidae,Hystrix,unk
+OTU633	7354,unk	-2.19052	4	Accipitriformes,Accipitridae,Buteo,unk
+OTU6336			
+OTU634	23777,unk	-2.60653	4	Primates,Cercopithecidae,Nasalis,unk
+OTU6345	20798,unk	-0.551346	4	Carnivora,Herpestidae,Herpestes,unk
+OTU635			
+OTU6350	26824,unk	-0.251389	4	Rodentia,Sciuridae,Dremomys,unk
+OTU64	23777,unk	-1.26806	4	Primates,Cercopithecidae,Nasalis,unk
+OTU6407	27141,unk	-1.16274	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU6412	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU6416	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6431	27188,unk	-0.787355	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU6440	25677,unk	-1.65169	4	Rodentia,Hystricidae,Hystrix,unk
+OTU6449	23335,unk	-0.319897	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU646	21062,unk	-0.21726	4	Carnivora,Viverridae,Paguma,unk
+OTU6472			
+OTU6477	23747,unk	-2.00203	4	Primates,Cercopithecidae,Macaca,unk
+OTU65	26469,unk	-0.268621	4	Rodentia,Muridae,Rattus,unk
+OTU650	21062,unk	-0.324063	4	Carnivora,Viverridae,Paguma,unk
+OTU651			
+OTU6517	20872,unk	-0.769569	4	Carnivora,Mustelidae,Lutra,unk
+OTU6536	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU655			
+OTU6557	26469,unk	-0.517126	4	Rodentia,Muridae,Rattus,unk
+OTU656			
+OTU659			
+OTU6597	27188,unk	-0.00530846	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU66	23747,unk	-0.0707606	4	Primates,Cercopithecidae,Macaca,unk
+OTU6604	21016,unk	-0.113118	4	Carnivora,Ursidae,Helarctos,unk
+OTU661	20541,unk	-0.0822227	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU6624	21016,unk	-0.113118	4	Carnivora,Ursidae,Helarctos,unk
+OTU6630			
+OTU6649	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU665			
+OTU6664	20614,unk	-0.0212041	4	Artiodactyla,Suidae,Sus,unk
+OTU6672			
+OTU669			
+OTU6695	23949,unk	-0.0835342	4	Primates,Hominidae,Homo,unk
+OTU6699			
+OTU67			
+OTU6709			
+OTU6756			
+OTU676			
+OTU677	20720,unk	-2.06505	4	Carnivora,Felidae,Catopuma,unk
+OTU6786			
+OTU6798			
+OTU68	23747,unk	-0.0242996	4	Primates,Cercopithecidae,Macaca,unk
+OTU6816	23951	-0.0182734	4	Primates,Hominidae,Homo,sapiens
+OTU6818	23949,unk	-0.0392801	4	Primates,Hominidae,Homo,unk
+OTU6820	20623	-0.295657	4	Artiodactyla,Suidae,Sus,scrofa
+OTU6824	23949,unk	-0.0523773	4	Primates,Hominidae,Homo,unk
+OTU6825	20614,unk	-1.32136	4	Artiodactyla,Suidae,Sus,unk
+OTU6828			
+OTU6831			
+OTU689			
+OTU6892	20880,unk	-2.21849	4	Carnivora,Mustelidae,Martes,unk
+OTU69			
+OTU692	20723,unk	-0.650315	4	Carnivora,Felidae,Felis,unk
+OTU693	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU696			
+OTU6970	20542	-0.269662	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU6971	20541,unk	-0.268123	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU698	20798,unk	-0.353845	4	Carnivora,Herpestidae,Herpestes,unk
+OTU6984	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU6988	21063	-0.116041	4	Carnivora,Viverridae,Paguma,larvata
+OTU6989	20541,unk	-0.343877	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU699			
+OTU7	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU70			
+OTU701			
+OTU7030	20895,unk	-0.663336	4	Carnivora,Mustelidae,Melogale,unk
+OTU7031	20319,unk	-2.16392	4	Artiodactyla,Bovidae,Bos,unk
+OTU7035	20542	-0.268922	4	Artiodactyla,Cervidae,Muntiacus,atherodes
+OTU7039	26294,unk	-0.382221	4	Rodentia,Muridae,Niviventer,unk
+OTU706			
+OTU708	26469,unk	-2.07436	4	Rodentia,Muridae,Rattus,unk
+OTU7080			
+OTU7092	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU7093			
+OTU7094	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU71			
+OTU710			
+OTU7114	21063	-0.115003	4	Carnivora,Viverridae,Paguma,larvata
+OTU7121	20614,unk	-2.95206	4	Artiodactyla,Suidae,Sus,unk
+OTU7126	20872,unk	-2.08659	4	Carnivora,Mustelidae,Lutra,unk
+OTU7150	20614,unk	-2.74994	4	Artiodactyla,Suidae,Sus,unk
+OTU717	23949,unk	-1.94807	4	Primates,Hominidae,Homo,unk
+OTU7174			
+OTU718	17281,unk	-2.05906	4	Passeriformes,Timaliidae,Macronus,unk
+OTU7186	23747,unk	-1.85022	4	Primates,Cercopithecidae,Macaca,unk
+OTU7188	23747,unk	-1.81086	4	Primates,Cercopithecidae,Macaca,unk
+OTU719			
+OTU7196	20798,unk	-1.67212	4	Carnivora,Herpestidae,Herpestes,unk
+OTU7197	23747,unk	-1.83686	4	Primates,Cercopithecidae,Macaca,unk
+OTU72			
+OTU7200	26469,unk	-0.704269	4	Rodentia,Muridae,Rattus,unk
+OTU7202	23747,unk	-1.81134	4	Primates,Cercopithecidae,Macaca,unk
+OTU7228	25677,unk	-0.0568644	4	Rodentia,Hystricidae,Hystrix,unk
+OTU7232	20614,unk	-1.43508	4	Artiodactyla,Suidae,Sus,unk
+OTU7235	20614,unk	-2.56505	4	Artiodactyla,Suidae,Sus,unk
+OTU7238			
+OTU7242			
+OTU7243	20652,unk	-0.626429	4	Carnivora,Canidae,Canis,unk
+OTU7247	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU725	23747,unk	-1.39371	4	Primates,Cercopithecidae,Macaca,unk
+OTU7254	20541,unk	-0.0699642	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7262			
+OTU7269	25677,unk	-0.370457	4	Rodentia,Hystricidae,Hystrix,unk
+OTU7278			
+OTU73			
+OTU730			
+OTU7313			
+OTU7315			
+OTU7319	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU7325	21062,unk	-1.50674	4	Carnivora,Viverridae,Paguma,unk
+OTU7340	26294,unk	-1.98352	4	Rodentia,Muridae,Niviventer,unk
+OTU7346			
+OTU7365	26140,unk	-1.88549	4	Rodentia,Muridae,Maxomys,unk
+OTU7366	26294,unk	-1.81045	4	Rodentia,Muridae,Niviventer,unk
+OTU7369	26294,unk	-2.65339	4	Rodentia,Muridae,Niviventer,unk
+OTU7373	20901,unk	-0.860839	4	Carnivora,Mustelidae,Mustela,unk
+OTU7376	20872,unk	-0.49457	4	Carnivora,Mustelidae,Lutra,unk
+OTU7389			
+OTU7392			
+OTU74			
+OTU7401			
+OTU7405	26140,unk	-1.82053	4	Rodentia,Muridae,Maxomys,unk
+OTU7434	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU7437	26799,unk	-0.0165759	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU744	20901,unk	-1.25826	4	Carnivora,Mustelidae,Mustela,unk
+OTU7442	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU7446	20872,unk	-0.961053	4	Carnivora,Mustelidae,Lutra,unk
+OTU7455	26469,unk	-0.517126	4	Rodentia,Muridae,Rattus,unk
+OTU7460	21062,unk	-1.65692	4	Carnivora,Viverridae,Paguma,unk
+OTU7461	26469,unk	-1.55789	4	Rodentia,Muridae,Rattus,unk
+OTU7492	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU75	20614,unk	-0.0627722	4	Artiodactyla,Suidae,Sus,unk
+OTU750	20541,unk	-0.471778	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7511	20895,unk	-0.529877	4	Carnivora,Mustelidae,Melogale,unk
+OTU7512			
+OTU7515	20541,unk	-0.0699646	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7516	20541,unk	-0.0699852	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7519			
+OTU7523	20541,unk	-0.0701789	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7529	20319,unk	-0.80172	4	Artiodactyla,Bovidae,Bos,unk
+OTU7542	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU757			
+OTU7570	20319,unk	-0.394386	4	Artiodactyla,Bovidae,Bos,unk
+OTU7575			
+OTU7579	20614,unk	-2.79374	4	Artiodactyla,Suidae,Sus,unk
+OTU7584	26469,unk	-0.700517	4	Rodentia,Muridae,Rattus,unk
+OTU7590	26469,unk	-0.517126	4	Rodentia,Muridae,Rattus,unk
+OTU7595	27141,unk	-1.16274	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU7596	20541,unk	-0.348184	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU7597	26062,unk	-0.406104	4	Rodentia,Muridae,Leopoldamys,unk
+OTU7599			
+OTU76			
+OTU7608	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU7609	20541,unk	-0.0699767	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU761			
+OTU7610			
+OTU7611	20895,unk	-0.0658675	4	Carnivora,Mustelidae,Melogale,unk
+OTU762	20570,unk	-0.234545	4	Artiodactyla,Cervidae,Rusa,unk
+OTU7621			
+OTU765	20335,unk	-0.774454	4	Artiodactyla,Bovidae,Capra,unk
+OTU766			
+OTU7661			
+OTU768	20901,unk	-0.428944	4	Carnivora,Mustelidae,Mustela,unk
+OTU7688			
+OTU77			
+OTU7703			
+OTU7723			
+OTU7770	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU7771			
+OTU7777	26294,unk	-0.769177	4	Rodentia,Muridae,Niviventer,unk
+OTU7778			
+OTU779	20798,unk	-0.42356	4	Carnivora,Herpestidae,Herpestes,unk
+OTU78			
+OTU781	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU782	26824,unk	-0.216873	4	Rodentia,Sciuridae,Dremomys,unk
+OTU7829	20614,unk	-0.453705	4	Artiodactyla,Suidae,Sus,unk
+OTU783			
+OTU7837			
+OTU784			
+OTU7850	20798,unk	-0.410781	4	Carnivora,Herpestidae,Herpestes,unk
+OTU787	21062,unk	-1.70327	4	Carnivora,Viverridae,Paguma,unk
+OTU788			
+OTU7888	20895,unk	-0.482061	4	Carnivora,Mustelidae,Melogale,unk
+OTU79			
+OTU790			
+OTU7904			
+OTU7911			
+OTU7913	26824,unk	-0.193025	4	Rodentia,Sciuridae,Dremomys,unk
+OTU7915			
+OTU7919			
+OTU792			
+OTU7926	20614,unk	-0.0257607	4	Artiodactyla,Suidae,Sus,unk
+OTU793	23747,unk	-0.0413054	4	Primates,Cercopithecidae,Macaca,unk
+OTU794	26140,unk	-2.23082	4	Rodentia,Muridae,Maxomys,unk
+OTU7955			
+OTU7956			
+OTU7960			
+OTU7961			
+OTU7963	20798,unk	-0.254736	4	Carnivora,Herpestidae,Herpestes,unk
+OTU7965			
+OTU797	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU7988			
+OTU7997			
+OTU8	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU80			
+OTU801	26294,unk	-0.643117	4	Rodentia,Muridae,Niviventer,unk
+OTU8050	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU8053	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU8057			
+OTU8064	26294,unk	-2.15831	4	Rodentia,Muridae,Niviventer,unk
+OTU8066			
+OTU8068			
+OTU807	20335,unk	-0.290365	4	Artiodactyla,Bovidae,Capra,unk
+OTU808	20335,unk	-1.48619	4	Artiodactyla,Bovidae,Capra,unk
+OTU809	26062,unk	-1.34061	4	Rodentia,Muridae,Leopoldamys,unk
+OTU8099	20895,unk	-2.63404	4	Carnivora,Mustelidae,Melogale,unk
+OTU81	20541,unk	-0.446064	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8103	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU8111			
+OTU813	26140,unk	-1.10538	4	Rodentia,Muridae,Maxomys,unk
+OTU814			
+OTU8176	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU82	23751	-0.836092	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU820	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU8226	27142	-0.664538	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU826	23335,unk	-0.201201	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU8284	21030,unk	-1.35213	4	Carnivora,Viverridae,Arctictis,unk
+OTU829	20614,unk	-0.0483483	4	Artiodactyla,Suidae,Sus,unk
+OTU8295	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU83	20798,unk	-0.5013	4	Carnivora,Herpestidae,Herpestes,unk
+OTU8302	27188,unk	-0.00297424	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU8304	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8305	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8317	20614,unk	-1.88383	4	Artiodactyla,Suidae,Sus,unk
+OTU833			
+OTU8337			
+OTU834	26469,unk	-2.7948	4	Rodentia,Muridae,Rattus,unk
+OTU835			
+OTU8374	26062,unk	-1.35737	4	Rodentia,Muridae,Leopoldamys,unk
+OTU8381			
+OTU8386	25677,unk	-0.0700107	4	Rodentia,Hystricidae,Hystrix,unk
+OTU8387			
+OTU84			
+OTU841			
+OTU842			
+OTU8421			
+OTU8426			
+OTU843			
+OTU8430			
+OTU8437			
+OTU844	23335,unk	-2.1565	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU8442			
+OTU8444			
+OTU8450			
+OTU8456	20614,unk	-2.09329	4	Artiodactyla,Suidae,Sus,unk
+OTU8458	20541,unk	-1.42523	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8459	20541,unk	-1.03432	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU846			
+OTU8460			
+OTU847	26469,unk	-1.04366	4	Rodentia,Muridae,Rattus,unk
+OTU85	20638,unk	-0.0191527	4	Artiodactyla,Tragulidae,Tragulus,unk
+OTU850	23335,unk	-1.13524	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU852	26799,unk	-0.0788362	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU8521	23747,unk	-0.838752	4	Primates,Cercopithecidae,Macaca,unk
+OTU853			
+OTU854			
+OTU857	20614,unk	-0.0786674	4	Artiodactyla,Suidae,Sus,unk
+OTU86	20319,unk	-0.394386	4	Artiodactyla,Bovidae,Bos,unk
+OTU861	25677,unk	-1.98065	4	Rodentia,Hystricidae,Hystrix,unk
+OTU8616	20614,unk	-1.47246	4	Artiodactyla,Suidae,Sus,unk
+OTU8633	25677,unk	-2.84152	4	Rodentia,Hystricidae,Hystrix,unk
+OTU8649	20614,unk	-0.0978938	4	Artiodactyla,Suidae,Sus,unk
+OTU865	20541,unk	-0.235062	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8653	20901,unk	-1.32856	4	Carnivora,Mustelidae,Mustela,unk
+OTU8672	26294,unk	-0.382166	4	Rodentia,Muridae,Niviventer,unk
+OTU8675	26294,unk	-0.382221	4	Rodentia,Muridae,Niviventer,unk
+OTU8681			
+OTU869	20798,unk	-0.681216	4	Carnivora,Herpestidae,Herpestes,unk
+OTU8693	26062,unk	-2.27249	4	Rodentia,Muridae,Leopoldamys,unk
+OTU8698			
+OTU87	20335,unk	-0.283599	4	Artiodactyla,Bovidae,Capra,unk
+OTU8700			
+OTU8708			
+OTU871	20541,unk	-0.585433	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8716	20541,unk	-0.493868	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU872			
+OTU8731			
+OTU8740	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU876			
+OTU8761			
+OTU8765			
+OTU88	23777,unk	-2.69645	4	Primates,Cercopithecidae,Nasalis,unk
+OTU8805			
+OTU882	20895,unk	-0.356743	4	Carnivora,Mustelidae,Melogale,unk
+OTU883	20895,unk	-0.169335	4	Carnivora,Mustelidae,Melogale,unk
+OTU8844	23747,unk	-2.37396	4	Primates,Cercopithecidae,Macaca,unk
+OTU8845			
+OTU8854			
+OTU886	1824,unk	-0.104051	4	Anura,Dicroglossidae,Limnonectes,unk
+OTU8860	23747,unk	-0.165982	4	Primates,Cercopithecidae,Macaca,unk
+OTU8889	20895,unk	-1.70938	4	Carnivora,Mustelidae,Melogale,unk
+OTU8893	20895,unk	-1.61912	4	Carnivora,Mustelidae,Melogale,unk
+OTU89	20335,unk	-0.764943	4	Artiodactyla,Bovidae,Capra,unk
+OTU8907			
+OTU8926	20541,unk	-0.253565	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8943			
+OTU8945	20623	-0.295657	4	Artiodactyla,Suidae,Sus,scrofa
+OTU8947	23335,unk	-2.55941	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU895	20541,unk	-0.418652	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8951	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU896			
+OTU8961	20574	-0.028692	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU8964	20541,unk	-0.0997369	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU8965	20623	-0.271848	4	Artiodactyla,Suidae,Sus,scrofa
+OTU8968	20541,unk	-0.113413	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU897	23747,unk	-0.741652	4	Primates,Cercopithecidae,Macaca,unk
+OTU8970			
+OTU8997	20798,unk	-0.202633	4	Carnivora,Herpestidae,Herpestes,unk
+OTU9	21063	-0.0713944	4	Carnivora,Viverridae,Paguma,larvata
+OTU902			
+OTU904			
+OTU9044			
+OTU9049	20319,unk	-1.16857	4	Artiodactyla,Bovidae,Bos,unk
+OTU905			
+OTU9058	23751	-0.990869	4	Primates,Cercopithecidae,Macaca,fascicularis
+OTU9059	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU906			
+OTU9061	20541,unk	-0.0697087	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU907			
+OTU908	27087	-0.431281	4	Rodentia,Sciuridae,Tamias,sonomae
+OTU91			
+OTU911	20895,unk	-0.281886	4	Carnivora,Mustelidae,Melogale,unk
+OTU912			
+OTU9125			
+OTU9129	20614,unk	-0.116072	4	Artiodactyla,Suidae,Sus,unk
+OTU913			
+OTU9137			
+OTU9138	20541,unk	-0.0696874	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9139			
+OTU9140			
+OTU9143			
+OTU9144			
+OTU9147			
+OTU9149			
+OTU9150	20541,unk	-0.0696875	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9152			
+OTU9153			
+OTU9154			
+OTU9158	20614,unk	-0.139804	4	Artiodactyla,Suidae,Sus,unk
+OTU9159	20614,unk	-0.748285	4	Artiodactyla,Suidae,Sus,unk
+OTU9160	23951	-0.319385	4	Primates,Hominidae,Homo,sapiens
+OTU9161			
+OTU9162	20541,unk	-0.253383	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9165			
+OTU9170			
+OTU9188	20623	-0.295673	4	Artiodactyla,Suidae,Sus,scrofa
+OTU92	20798,unk	-0.410781	4	Carnivora,Herpestidae,Herpestes,unk
+OTU920	27188,unk	-0.0192646	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU9201	20614,unk	-0.422423	4	Artiodactyla,Suidae,Sus,unk
+OTU9204	26469,unk	-2.86289	4	Rodentia,Muridae,Rattus,unk
+OTU9207	26469,unk	-2.89705	4	Rodentia,Muridae,Rattus,unk
+OTU9208			
+OTU9222	20574	-0.0286924	4	Artiodactyla,Cervidae,Rusa,unicolor
+OTU9225	20541,unk	-0.113406	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9238			
+OTU9239	26062,unk	-0.431618	4	Rodentia,Muridae,Leopoldamys,unk
+OTU924			
+OTU9241	20614,unk	-0.665762	4	Artiodactyla,Suidae,Sus,unk
+OTU925	20872,unk	-0.405674	4	Carnivora,Mustelidae,Lutra,unk
+OTU9251	20541,unk	-0.594003	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9253			
+OTU9256	23335,unk	-1.69511	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU9259			
+OTU9260			
+OTU9262	23335,unk	-1.36044	4	Lagomorpha,Leporidae,Nesolagus,unk
+OTU9263	20658	-0.0247078	4	Carnivora,Canidae,Canis,lupus
+OTU9270	20658	-0.0247079	4	Carnivora,Canidae,Canis,lupus
+OTU9271			
+OTU9276	20658	-0.383556	4	Carnivora,Canidae,Canis,lupus
+OTU9278	20658	-0.0258961	4	Carnivora,Canidae,Canis,lupus
+OTU9281	20319,unk	-1.99115	4	Artiodactyla,Bovidae,Bos,unk
+OTU9285	21062,unk	-0.303878	4	Carnivora,Viverridae,Paguma,unk
+OTU93			
+OTU9304	27141,unk	-1.1737	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU9308	27141,unk	-1.16428	4	Rodentia,Spalacidae,Rhizomys,unk
+OTU9310	27188,unk	-0.325551	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU9312	23747,unk	-0.0839309	4	Primates,Cercopithecidae,Macaca,unk
+OTU9332			
+OTU9344	26294,unk	-0.935809	4	Rodentia,Muridae,Niviventer,unk
+OTU9346	20895,unk	-2.41798	4	Carnivora,Mustelidae,Melogale,unk
+OTU9349			
+OTU935	20614,unk	-0.0506239	4	Artiodactyla,Suidae,Sus,unk
+OTU9352	20895,unk	-2.04215	4	Carnivora,Mustelidae,Melogale,unk
+OTU937			
+OTU9373	27142	-0.362574	4	Rodentia,Spalacidae,Rhizomys,pruinosus
+OTU9374	26469,unk	-0.517575	4	Rodentia,Muridae,Rattus,unk
+OTU9387			
+OTU939	23949,unk	-0.0347165	4	Primates,Hominidae,Homo,unk
+OTU9398	26294,unk	-1.29409	4	Rodentia,Muridae,Niviventer,unk
+OTU94			
+OTU9412	20850	-0.234045	4	Carnivora,Mustelidae,Aonyx,cinereus
+OTU9419			
+OTU942			
+OTU945	20541,unk	-0.25138	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU947	20541,unk	-0.384816	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU9471			
+OTU9477	26140,unk	-1.79646	4	Rodentia,Muridae,Maxomys,unk
+OTU948			
+OTU95			
+OTU951			
+OTU952	20614,unk	-0.33442	4	Artiodactyla,Suidae,Sus,unk
+OTU9525	26469,unk	-2.89789	4	Rodentia,Muridae,Rattus,unk
+OTU9537	23338	-0.0228966	4	Lagomorpha,Leporidae,Nesolagus,timminsi
+OTU9541	26140,unk	-2.42033	4	Rodentia,Muridae,Maxomys,unk
+OTU9543	26140,unk	-1.79646	4	Rodentia,Muridae,Maxomys,unk
+OTU958			
+OTU96			
+OTU960	26824,unk	-0.944249	4	Rodentia,Sciuridae,Dremomys,unk
+OTU961	10595	-0.138852	4	Gruiformes,Rallidae,Rallina,eurizonoides
+OTU9638			
+OTU964	26469,unk	-2.18064	4	Rodentia,Muridae,Rattus,unk
+OTU9640	26140,unk	-2.85221	4	Rodentia,Muridae,Maxomys,unk
+OTU967			
+OTU97	20335,unk	-0.228156	4	Artiodactyla,Bovidae,Capra,unk
+OTU9711	23949,unk	-0.15841	4	Primates,Hominidae,Homo,unk
+OTU9716	23951	-0.00477891	4	Primates,Hominidae,Homo,sapiens
+OTU973			
+OTU9736			
+OTU9739	26294,unk	-0.989743	4	Rodentia,Muridae,Niviventer,unk
+OTU9740			
+OTU975	25677,unk	-0.173187	4	Rodentia,Hystricidae,Hystrix,unk
+OTU9766	20319,unk	-2.74668	4	Artiodactyla,Bovidae,Bos,unk
+OTU9775	20335,unk	-0.733798	4	Artiodactyla,Bovidae,Capra,unk
+OTU983	20725	-0.320323	4	Carnivora,Felidae,Felis,catus
+OTU984	20880,unk	-1.30796	4	Carnivora,Mustelidae,Martes,unk
+OTU9842			
+OTU9849			
+OTU9874	20319,unk	-1.38127	4	Artiodactyla,Bovidae,Bos,unk
+OTU9878	20335,unk	-1.33442	4	Artiodactyla,Bovidae,Capra,unk
+OTU9879	20319,unk	-1.54405	4	Artiodactyla,Bovidae,Bos,unk
+OTU9896			
+OTU99	23747,unk	-0.27628	4	Primates,Cercopithecidae,Macaca,unk
+OTU990			
+OTU9901	27188,unk	-0.00297443	4	Scandentia,Tupaiidae,Tupaia,unk
+OTU9907	20898	-0.645653	4	Carnivora,Mustelidae,Melogale,moschata
+OTU9929	26799,unk	-1.581	4	Rodentia,Sciuridae,Callosciurus,unk
+OTU9946	20541,unk	-1.79151	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU995	26469,unk	-1.33539	4	Rodentia,Muridae,Rattus,unk
+OTU9957	20319,unk	-1.81087	4	Artiodactyla,Bovidae,Bos,unk
+OTU9962	20335,unk	-2.61188	4	Artiodactyla,Bovidae,Capra,unk
+OTU9966	20541,unk	-0.0699642	4	Artiodactyla,Cervidae,Muntiacus,unk
+OTU997			
+OTU9982			
+OTU9983			
+OTU9984			
+OTU9986			
+OTU9990			
