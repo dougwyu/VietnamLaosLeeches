@@ -1,0 +1,1718 @@
+OTU1 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU10 26289,unk -0.944728 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU100 23333,unk -0.0589132 4 Lagomorpha,Leporidae,Nesolagus,unk 0.892 Nesolagus_timminsi_Andi001
+OTU1004 23946,unk -0.833358 4 Primates,Hominidae,Homo,unk 0.828 Homo_sapiens_D38112
+OTU10088 27137 -0.0386793 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU101     0.480 Pelobates_syriacus_DQ642107
+OTU10106 26289,unk -0.271322 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_cremoriventer_KY117573
+OTU10107     0.478 Aotus_lemurinus_FJ785421
+OTU10108 26289,unk -0.428092 4 Rodentia,Muridae,Niviventer,unk 0.867 Niviventer_cremoriventer_KY117573
+OTU10111     0.711 Rattus_norvegicus_NC001665
+OTU10126     0.714 Herpestes_brachyurus_KY117547
+OTU10129 20613,unk -0.219627 4 Artiodactyla,Suidae,Sus,unk 0.860 Sus_scrofa_KT965278
+OTU10131     0.708 Martes_flavigula_NC012141
+OTU1014 23946,unk -0.213601 4 Primates,Hominidae,Homo,unk 0.883 Homo_sapiens_KF161078
+OTU10141     0.750 Gulo_gulo_KR611313
+OTU10149 20613,unk -0.24358 4 Artiodactyla,Suidae,Sus,unk 0.935 Sus_barbatus_KP789021
+OTU10155     0.775 Meles_meles_EU344980
+OTU1016     0.522 Alouatta_seniculus_HQ644333
+OTU1017 20540,unk -0.0856651 4 Artiodactyla,Cervidae,Muntiacus,unk 0.912 Muntiacus_feae_AF108036
+OTU10176 20343,unk -0.741633 4 Artiodactyla,Bovidae,Capricornis,unk 0.837 Capricornis_sumatraensis_JN093096
+OTU1018 27136,unk -0.144839 4 Rodentia,Spalacidae,Rhizomys,unk 0.879 Rhizomys_pruinosus_NC021478
+OTU10193 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU10195 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU10196 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU10197 20345 -0.0687444 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 0.978 Capricornis_milneedwardsii_NC023457
+OTU102     0.638 Trachypithecus_cristatus_NC023971
+OTU10205     0.600 Arctocephalus_forsteri_AF513820
+OTU10237     0.722 Callorhinus_ursinus_AM181016
+OTU1024     0.744 Rhinolophus_acuminatus_AY956397
+OTU10240     0.700 Callorhinus_ursinus_AM181016
+OTU10243     0.767 Callorhinus_ursinus_AM181016
+OTU1026 20850,unk -0.76937 4 Carnivora,Mustelidae,Arctonyx,unk 0.835 Arctonyx_collaris_NC020645
+OTU10263     0.791 Naemorhedus_caudatus_FJ469673
+OTU103 23744,unk -0.0678648 4 Primates,Cercopithecidae,Macaca,unk 0.914 Macaca_mulatta_AY360297
+OTU1032 20540,unk -1.28677 4 Artiodactyla,Cervidae,Muntiacus,unk 0.802 Muntiacus_atherodes_KY117559
+OTU1034     0.700 Callorhinus_ursinus_AM181016
+OTU10344     0.644 Eumetopias_jubatus_GU475464
+OTU10345 20897 -0.0822125 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU1036 21060,unk -1.23059 4 Carnivora,Viverridae,Paguma,unk 0.890 Paguma_larvata_KP233214
+OTU1037 20894,unk -0.414249 4 Carnivora,Mustelidae,Melogale,unk 0.879 Melogale_moschata_NC020644
+OTU10375 26289,unk -0.416045 4 Rodentia,Muridae,Niviventer,unk 0.867 Niviventer_cremoriventer_KY117573
+OTU1038 27091,unk -2.45005 4 Rodentia,Sciuridae,Tamiops,unk 0.780 Tamiops_swinhoei_KP027416
+OTU10386 25674,unk -0.0887111 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU10388 20613,unk -0.409203 4 Artiodactyla,Suidae,Sus,unk 0.840 Sus_philippensis_AY920910
+OTU1039 7640 -1.5742 4 Anseriformes,Anatidae,Anas,falcata 1.000 Anas_falcata_KC759527
+OTU104 20343,unk -0.447256 4 Artiodactyla,Bovidae,Capricornis,unk 0.912 Capricornis_milneedwardsii_NC023457
+OTU10408     0.644 Sus_scrofa_KT965278
+OTU10409 20797,unk -1.93126 4 Carnivora,Herpestidae,Herpestes,unk 0.780 Herpestes_javanicus_KY117548
+OTU10426 20551 -0.192401 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU10444 20343,unk -1.04985 4 Artiodactyla,Bovidae,Capricornis,unk 0.815 Capricornis_sumatraensis_JN093096
+OTU10447     0.822 Arborophila_gingica_FJ752425
+OTU1047 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU10470     0.730 Martes_flavigula_NC012141
+OTU10474 23946,unk -1.41135 4 Primates,Hominidae,Homo,unk 0.806 Homo_sapiens_AY963586
+OTU1048 26289,unk -2.799 4 Rodentia,Muridae,Niviventer,unk 0.731 Niviventer_excelsior_JQ927552
+OTU10481     0.518 Macaca_nigra_KY117592
+OTU10493 20551 -0.182004 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 1.000 Muntiacus_vaginalis_KY052092
+OTU10497 20540,unk -0.560526 4 Artiodactyla,Cervidae,Muntiacus,unk 0.824 Muntiacus_atherodes_KY117559
+OTU10513     0.824 Maxomys_surifer_KY117567
+OTU10517     0.711 Rattus_tanezumi_KF011916
+OTU10519     0.780 Maxomys_surifer_KY117566
+OTU1053 20613,unk -0.258438 4 Artiodactyla,Suidae,Sus,unk 0.860 Sus_scrofa_KT965278
+OTU10537     0.730 Macaca_mulatta_AY360314
+OTU1054     0.699 Nasalis_larvatus_U39012
+OTU10545     0.733 Macaca_mulatta_AY360314
+OTU10549     0.478 Aotus_lemurinus_FJ785421
+OTU1055 26289,unk -1.43543 4 Rodentia,Muridae,Niviventer,unk 0.785 Niviventer_confucianus_KJ152220
+OTU10552     0.731 Paguma_larvata_KP233214
+OTU10557     0.644 Alouatta_seniculus_HQ644333
+OTU10562 20540,unk -0.46889 4 Artiodactyla,Cervidae,Muntiacus,unk 0.846 Muntiacus_atherodes_KY117559
+OTU10565 20613,unk -1.82909 4 Artiodactyla,Suidae,Sus,unk 0.800 Sus_barbatus_KP789021
+OTU10576 23744,unk -1.95415 4 Primates,Cercopithecidae,Macaca,unk 0.763 Macaca_assamensis_KF990122
+OTU10586     0.633 Callorhinus_ursinus_AM181016
+OTU10592 20613,unk -0.146372 4 Artiodactyla,Suidae,Sus,unk 0.878 Sus_barbatus_KP789021
+OTU106 23744,unk -0.175187 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_mulatta_DQ334829
+OTU10623     0.648 Sus_scrofa_KT316289
+OTU10651 20551 -0.320333 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.956 Muntiacus_vaginalis_KY052092
+OTU10692 21061 -0.226506 4 Carnivora,Viverridae,Paguma,larvata 0.978 Paguma_larvata_KP233214
+OTU10693     0.756 Melogale_moschata_NC020644
+OTU10698 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU107 20459,unk -0.851543 4 Artiodactyla,Bovidae,Pseudoryx,unk 0.802 Pseudoryx_nghetinhensis_EF536352
+OTU10711 27137 -0.0386794 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU10730 20908 -0.232112 4 Carnivora,Mustelidae,Mustela,kathiah 0.978 Mustela_kathiah_NC023210
+OTU10731 20908 -0.22376 4 Carnivora,Mustelidae,Mustela,kathiah 1.000 Mustela_kathiah_NC023210
+OTU10733 20908 -0.22376 4 Carnivora,Mustelidae,Mustela,kathiah 1.000 Mustela_kathiah_NC023210
+OTU10736 20908 -0.231897 4 Carnivora,Mustelidae,Mustela,kathiah 0.978 Mustela_kathiah_NC023210
+OTU1075 20894,unk -0.28261 4 Carnivora,Mustelidae,Melogale,unk 0.899 Melogale_moschata_NC020644
+OTU10780 23946,unk -0.874855 4 Primates,Hominidae,Homo,unk 0.828 Homo_sapiens_AY963586
+OTU10791     0.756 Homo_sapiens_KF162206
+OTU10796     0.607 Macaca_nigra_KP072068
+OTU108     0.383 Limnonectes_lauhachindai_KP939072
+OTU10808     0.689 Simias_concolor_JF293095
+OTU1084 23744,unk -0.434766 4 Primates,Cercopithecidae,Macaca,unk 0.935 Macaca_fascicularis_KM851028
+OTU10871 20851 -0.0623516 4 Carnivora,Mustelidae,Arctonyx,collaris 0.955 Arctonyx_collaris_NC020645
+OTU10873     0.644 Aotus_trivirgatus_DQ334827
+OTU10889     0.567 Macaca_mulatta_AY360297
+OTU109     0.678 Callorhinus_ursinus_AM181016
+OTU10906 26865,unk -2.31463 4 Rodentia,Sciuridae,Hylopetes,unk 0.753 Hylopetes_phayrei_KC447305
+OTU10925 21060,unk -1.53186 4 Carnivora,Viverridae,Paguma,unk 0.857 Paguma_larvata_KP233214
+OTU1093     0.689 Callorhinus_ursinus_AM181016
+OTU1094 26289,unk -0.903921 4 Rodentia,Muridae,Niviventer,unk 0.828 Niviventer_excelsior_JQ927552
+OTU10940 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU10941     0.758 Paguma_larvata_KP233214
+OTU10951 20749,unk -1.50941 4 Carnivora,Felidae,Neofelis,unk 0.857 Neofelis_nebulosa_AY499301
+OTU10956     0.742 Procyon_lotor_AB462205
+OTU10957 20613,unk -1.65951 4 Artiodactyla,Suidae,Sus,unk 0.778 Sus_scrofa_KP294522
+OTU10972 20797,unk -2.28938 4 Carnivora,Herpestidae,Herpestes,unk 0.824 Herpestes_semitorquatus_HSE4
+OTU10997     0.778 Leopoldamys_edwardsi_KM434322
+OTU11 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU110     0.744 Callorhinus_ursinus_AM181016
+OTU1100 20894,unk -0.612962 4 Carnivora,Mustelidae,Melogale,unk 0.859 Melogale_moschata_NC020644
+OTU11003     0.733 Sus_scrofa_KP294522
+OTU1101 20719,unk -2.94308 4 Carnivora,Felidae,Catopuma,unk 0.822 Catopuma_temminckii_KX224504
+OTU1102 23744,unk -1.95943 4 Primates,Cercopithecidae,Macaca,unk 0.763 Macaca_mulatta_AY360298
+OTU11029 20900,unk -1.70759 4 Carnivora,Mustelidae,Mustela,unk 0.809 Mustela_altaica_KC815122
+OTU11059     0.767 Leopoldamys_edwardsi_KM434322
+OTU11064     0.822 Mirounga_leonina_AY377389
+OTU11075 20613,unk -1.65884 4 Artiodactyla,Suidae,Sus,unk 0.779 Sus_barbatus_KP789021
+OTU1108 20613,unk -0.182145 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU111     0.689 Arctocephalus_forsteri_AF513820
+OTU11121     0.734 Sus_barbatus_KP789021
+OTU11137 20613,unk -0.391673 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_barbatus_KP789021
+OTU11214     0.780 Canis_lupus_JF342838
+OTU11235 26289,unk -0.806489 4 Rodentia,Muridae,Niviventer,unk 0.814 Niviventer_confucianus_KJ152220
+OTU11257     0.523 Leontopithecus_rosalia_KC757399
+OTU11259 20851 -0.27406 4 Carnivora,Mustelidae,Arctonyx,collaris 0.933 Arctonyx_collaris_NC020645
+OTU1127     0.711 Arctocephalus_forsteri_AF513820
+OTU11291 20894,unk -0.370654 4 Carnivora,Mustelidae,Melogale,unk 0.921 Melogale_moschata_NC020644
+OTU113     0.730 Leopardus_guigna_KF979222
+OTU11302     0.708 Martes_foina_HM106325
+OTU1134 17542,unk -2.12574 4 Passeriformes,Turdidae,Turdus,unk 0.900 Turdus_philomelos_AF151421
+OTU11346 26289,unk -1.34847 4 Rodentia,Muridae,Niviventer,unk 0.780 Niviventer_excelsior_JQ927552
+OTU1136 25674,unk -1.10686 4 Rodentia,Hystricidae,Hystrix,unk 0.804 Hystrix_indica_JN714143
+OTU11361     0.628 Macaca_nigra_KP072068
+OTU1137     0.791 Otomys_irroratus_AF141253
+OTU11398 23744,unk -2.41981 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_nigra_KP072068
+OTU114     0.722 Callorhinus_ursinus_AM181016
+OTU1140     0.663 Eumetopias_jubatus_GU475464
+OTU11407 23744,unk -1.58936 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU11411     0.705 Macaca_mulatta_AY360309
+OTU11447 23744,unk -2.41958 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_nigra_KP072068
+OTU11470 23744,unk -1.5889 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU11471 23744,unk -1.58973 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU1149 20343,unk -0.598445 4 Artiodactyla,Bovidae,Capricornis,unk 0.880 Capricornis_sumatraensis_JN093096
+OTU11492 23744,unk -0.62821 4 Primates,Cercopithecidae,Macaca,unk 0.818 Macaca_nigra_KP072068
+OTU115 20894,unk -0.314694 4 Carnivora,Mustelidae,Melogale,unk 0.919 Melogale_moschata_NC020644
+OTU11519 23744,unk -1.58874 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU1152 20797,unk -1.66185 4 Carnivora,Herpestidae,Herpestes,unk 0.882 Herpestes_brachyurus_KY117547
+OTU11520 23744,unk -1.59113 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nemestrina_KP765688
+OTU11527 23744,unk -2.42002 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_nigra_KP072068
+OTU11539 23744,unk -2.42012 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_nigra_KP072068
+OTU11544 23744,unk -2.46822 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_maura_KY117591
+OTU11560     0.633 Cercopithecus_pogonias_AF435503
+OTU11568 23744,unk -1.58874 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU116 23372 -0.0978909 4 Lagomorpha,Ochotonidae,Ochotona,curzoniae 0.978 Ochotona_curzoniae_EF535828
+OTU11604 23744,unk -2.41936 4 Primates,Cercopithecidae,Macaca,unk 0.750 Macaca_nigra_KP072068
+OTU11613 23744,unk -1.5666 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_maura_KY117591
+OTU11626     0.727 Macaca_nigra_KP072068
+OTU1163 26289,unk -1.32982 4 Rodentia,Muridae,Niviventer,unk 0.789 Niviventer_confucianus_KJ152220
+OTU11639 25674,unk -0.255846 4 Rodentia,Hystricidae,Hystrix,unk 0.978 Hystrix_indica_JN714143
+OTU1164     0.500 Limnonectes_doriae_GU934330
+OTU11690 23948 -0.020611 4 Primates,Hominidae,Homo,sapiens 0.978 Homo_sapiens_KF161065
+OTU117     0.771 Limnonectes_kohchangae_KR827893
+OTU11727 23744,unk -0.0678648 4 Primates,Cercopithecidae,Macaca,unk 0.914 Macaca_mulatta_AY360297
+OTU11733 23946,unk -0.140393 4 Primates,Hominidae,Homo,unk 0.890 Homo_sapiens_KF161065
+OTU11742     0.758 Panthera_onca_KR132590
+OTU11747 20759,unk -1.09886 4 Carnivora,Felidae,Prionailurus,unk 0.833 Prionailurus_viverrinus_KR132596
+OTU1175 20613,unk -0.177879 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU11752 20759,unk -1.75474 4 Carnivora,Felidae,Prionailurus,unk 0.798 Prionailurus_viverrinus_KR132596
+OTU11759     0.705 Felis_catus_U20753
+OTU11761     0.461 Alouatta_seniculus_HQ644333
+OTU11762     0.552 Cercopithecus_nictitans_JQ256975
+OTU11765 23948 -0.020611 4 Primates,Hominidae,Homo,sapiens 0.978 Homo_sapiens_KF161065
+OTU11766 20759,unk -2.98404 4 Carnivora,Felidae,Prionailurus,unk 0.747 Prionailurus_bengalensis_KX857793
+OTU11774 20749,unk -1.08016 4 Carnivora,Felidae,Neofelis,unk 0.835 Neofelis_nebulosa_AY499301
+OTU11776     0.481 Saguinus_oedipus_KC757409
+OTU11778 20760 -0.839669 4 Carnivora,Felidae,Prionailurus,bengalensis 0.978 Prionailurus_bengalensis_KX857796
+OTU11782 21061 -0.224068 4 Carnivora,Viverridae,Paguma,larvata 0.978 Paguma_larvata_KP233214
+OTU1179     0.408 Rhinolophus_yunnanensis_FJ375765
+OTU118     0.670 Thamnophilus_nigrocinereus_KJ909192
+OTU11813 20760 -0.838727 4 Carnivora,Felidae,Prionailurus,bengalensis 1.000 Prionailurus_bengalensis_KX857796
+OTU1185 23744,unk -2.8334 4 Primates,Cercopithecidae,Macaca,unk 0.742 Macaca_mulatta_AY360298
+OTU1186 21060,unk -1.82402 4 Carnivora,Viverridae,Paguma,unk 0.848 Paguma_larvata_KP233214
+OTU11861 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU11869     0.611 Atherurus_africanus_KJ193006
+OTU1187 22771,unk -2.65568 4 Chiroptera,Vespertilionidae,Tylonycteris,unk 0.901 Tylonycteris_pachypus_AY495538
+OTU11883 20573 -0.190492 4 Artiodactyla,Cervidae,Rusa,unicolor 0.956 Rusa_unicolor_NC008414
+OTU11888 20540,unk -0.158479 4 Artiodactyla,Cervidae,Muntiacus,unk 0.911 Muntiacus_truongsonensis_AF108033
+OTU119     0.756 Arctocephalus_forsteri_AF513820
+OTU11910     0.448 Aotus_lemurinus_FJ785421
+OTU1198      
+OTU12 20551 -0.192086 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU120     0.744 Gulo_gulo_KR611313
+OTU1204     0.581 Vulpes_ferrilata_KT033906
+OTU1208 26289,unk -1.00616 4 Rodentia,Muridae,Niviventer,unk 0.830 Niviventer_excelsior_JQ927552
+OTU121     0.644 Arctocephalus_forsteri_AF513820
+OTU1213     0.711 Arctocephalus_forsteri_AF513820
+OTU1222 23744,unk -0.28569 4 Primates,Cercopithecidae,Macaca,unk 0.935 Macaca_fascicularis_KM851032
+OTU1224     0.600 Alouatta_seniculus_HQ644333
+OTU1227 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU123     0.700 Callorhinus_ursinus_AM181016
+OTU1236     0.667 Arctocephalus_forsteri_AF513820
+OTU124 26794,unk -0.161951 4 Rodentia,Sciuridae,Callosciurus,unk 0.933 Callosciurus_erythraeus_KM502568
+OTU1242 23744,unk -0.102232 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_arctoides_KM360179
+OTU1244 26289,unk -0.601111 4 Rodentia,Muridae,Niviventer,unk 0.835 Niviventer_cremoriventer_KY117573
+OTU1245 20540,unk -0.256547 4 Artiodactyla,Cervidae,Muntiacus,unk 0.914 Muntiacus_truongsonensis_AF108033
+OTU1247 13686,unk -2.83837 4 Passeriformes,Malaconotidae,Malaconotus,unk 0.898 Malaconotus_sulfureopectus_AF096476
+OTU1248 20797,unk -1.08375 4 Carnivora,Herpestidae,Herpestes,unk 0.851 Herpestes_semitorquatus_HSE4
+OTU1249 23744,unk -0.18819 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_fascicularis_KM851036
+OTU125     0.733 Eumetopias_jubatus_GU475464
+OTU1250 20871,unk -2.05963 4 Carnivora,Mustelidae,Lutra,unk 0.809 Lutra_lutra_NC011358
+OTU1253 20613,unk -0.578221 4 Artiodactyla,Suidae,Sus,unk 0.828 Sus_scrofa_KT965278
+OTU1255 27091,unk -0.307486 4 Rodentia,Sciuridae,Tamiops,unk 0.912 Tamiops_swinhoei_KP027416
+OTU126     0.711 Callorhinus_ursinus_AM181016
+OTU1261 26289,unk -0.944729 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU1264 25674,unk -0.546962 4 Rodentia,Hystricidae,Hystrix,unk 0.843 Hystrix_indica_JN714143
+OTU1270 27183,unk -0.812968 4 Scandentia,Tupaiidae,Tupaia,unk 0.815 Tupaia_belangeri_JF795301
+OTU1282 25674,unk -0.260843 4 Rodentia,Hystricidae,Hystrix,unk 0.870 Hystrix_indica_JN714143
+OTU129     0.733 Arctocephalus_forsteri_AF513820
+OTU1294 20613,unk -0.374585 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_scrofa_KT965278
+OTU1295 20849 -0.914737 4 Carnivora,Mustelidae,Aonyx,cinereus 0.955 Aonyx_cinereus_NC035814
+OTU1298 13439 -1.60767 4 Passeriformes,Leiothrichidae,Garrulax,leucolophus 0.960 Garrulax_leucolophus_AF094655
+OTU13 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU130 23756 -0.38774 4 Primates,Cercopithecidae,Macaca,nemestrina 0.956 Macaca_nemestrina_KY117594
+OTU131     0.674 Gulo_gulo_KR611313
+OTU1316     0.613 Pan_paniscus_U63487
+OTU1317 20569,unk -0.731731 4 Artiodactyla,Cervidae,Rusa,unk 0.868 Rusa_unicolor_NC008414
+OTU132     0.767 Callorhinus_ursinus_AM181016
+OTU1323     0.622 Arctocephalus_forsteri_AF513820
+OTU1327 20540,unk -0.215685 4 Artiodactyla,Cervidae,Muntiacus,unk 0.903 Muntiacus_truongsonensis_AF108033
+OTU1329 20613,unk -0.134084 4 Artiodactyla,Suidae,Sus,unk 0.881 Sus_barbatus_KP789021
+OTU133     0.787 Potamochoerus_porcus_KJ193193
+OTU1332 21060,unk -1.24263 4 Carnivora,Viverridae,Paguma,unk 0.879 Paguma_larvata_KP233214
+OTU134     0.744 Gulo_gulo_KR611313
+OTU1340 23744,unk -0.828241 4 Primates,Cercopithecidae,Macaca,unk 0.806 Macaca_mulatta_AY360312
+OTU1343 25674,unk -2.01331 4 Rodentia,Hystricidae,Hystrix,unk 0.775 Hystrix_indica_JN714143
+OTU135 26289,unk -0.034955 4 Rodentia,Muridae,Niviventer,unk 0.955 Niviventer_cremoriventer_KY117572
+OTU1358 21060,unk -0.864741 4 Carnivora,Viverridae,Paguma,unk 0.914 Paguma_larvata_KP233214
+OTU1359 21060,unk -1.11187 4 Carnivora,Viverridae,Paguma,unk 0.891 Paguma_larvata_KP233214
+OTU136     0.644 Eumetopias_jubatus_GU475464
+OTU1366 20540,unk -0.381978 4 Artiodactyla,Cervidae,Muntiacus,unk 0.882 Muntiacus_truongsonensis_AF108033
+OTU1369     0.609 Eumetopias_jubatus_GU475464
+OTU137 20343,unk -0.880782 4 Artiodactyla,Bovidae,Capricornis,unk 0.824 Capricornis_sumatraensis_JN093096
+OTU1370     0.739 Hystrix_indica_JN714143
+OTU1371     0.667 Arctocephalus_forsteri_AF513820
+OTU1375 20540,unk -0.31803 4 Artiodactyla,Cervidae,Muntiacus,unk 0.867 Muntiacus_atherodes_KY117559
+OTU138     0.700 Callorhinus_ursinus_AM181016
+OTU1386      
+OTU139 20540,unk -0.158021 4 Artiodactyla,Cervidae,Muntiacus,unk 0.911 Muntiacus_truongsonensis_AF108033
+OTU1392     0.600 Ommatophoca_rossii_AY377385
+OTU1393     0.747 Tamiops_swinhoei_KP027416
+OTU1396 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU1397 20797,unk -0.566557 4 Carnivora,Herpestidae,Herpestes,unk 0.925 Herpestes_brachyurus_KY117547
+OTU1399     0.730 Martes_flavigula_NC012141
+OTU14 20573 -0.0678144 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU1401     0.573 Equus_hemionus_JX312730
+OTU1402 20613,unk -0.211948 4 Artiodactyla,Suidae,Sus,unk 0.870 Sus_barbatus_KP789021
+OTU141     0.742 Semnopithecus_johnii_HQ149050
+OTU1410     0.644 Alouatta_seniculus_HQ644333
+OTU1411     0.756 Arctocephalus_forsteri_AF513820
+OTU1415 20797,unk -1.36876 4 Carnivora,Herpestidae,Herpestes,unk 0.848 Herpestes_semitorquatus_HSE4
+OTU1419     0.511 Alouatta_seniculus_HQ644333
+OTU142     0.542 Cercopithecus_mona_JQ256980
+OTU1420     0.716 Ardeola_bacchus_KJ190952
+OTU1421 20540,unk -1.00054 4 Artiodactyla,Cervidae,Muntiacus,unk 0.805 Muntiacus_crinifrons_EF523630
+OTU143     0.640 Eumetopias_jubatus_GU475464
+OTU1435     0.522 Aotus_lemurinus_FJ785421
+OTU1436 25674,unk -0.194811 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU144     0.733 Leopardus_colocolo_AF006411
+OTU1455 27183,unk -0.847225 4 Scandentia,Tupaiidae,Tupaia,unk 0.822 Tupaia_belangeri_JF795301
+OTU1468 20797,unk -1.06687 4 Carnivora,Herpestidae,Herpestes,unk 0.846 Herpestes_javanicus_KY117548
+OTU147     0.640 Eumetopias_jubatus_GU475464
+OTU1475     0.711 Arctocephalus_forsteri_AF513820
+OTU148 23744,unk -1.28351 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_mulatta_AY360308
+OTU1481 26289,unk -0.493869 4 Rodentia,Muridae,Niviventer,unk 0.857 Niviventer_excelsior_JQ927552
+OTU1485 20797,unk -2.51333 4 Carnivora,Herpestidae,Herpestes,unk 0.826 Herpestes_semitorquatus_HSE4
+OTU1486 27091,unk -2.76303 4 Rodentia,Sciuridae,Tamiops,unk 0.780 Tamiops_swinhoei_AY227466
+OTU1488     0.570 Eumetopias_jubatus_GU475464
+OTU149 25674,unk -0.0541373 4 Rodentia,Hystricidae,Hystrix,unk 0.913 Hystrix_indica_JN714143
+OTU1497 23946,unk -0.281965 4 Primates,Hominidae,Homo,unk 0.871 Homo_sapiens_AY963586
+OTU15 25674,unk -0.255846 4 Rodentia,Hystricidae,Hystrix,unk 0.978 Hystrix_indica_JN714143
+OTU150     0.516 Pan_paniscus_GU189665
+OTU1500 26289,unk -1.45905 4 Rodentia,Muridae,Niviventer,unk 0.785 Niviventer_confucianus_KJ152220
+OTU1501 27136,unk -0.189197 4 Rodentia,Spalacidae,Rhizomys,unk 0.868 Rhizomys_pruinosus_NC021478
+OTU1508     0.753 Eumetopias_jubatus_GU475464
+OTU151     0.730 Cystophora_cristata_AM181028
+OTU1514     0.793 Xiphorhynchus_lachrymosus_JN622057
+OTU152 20894,unk -0.369227 4 Carnivora,Mustelidae,Melogale,unk 0.933 Melogale_moschata_NC020644
+OTU1521 20894,unk -0.275242 4 Carnivora,Mustelidae,Melogale,unk 0.901 Melogale_moschata_NC020644
+OTU1531 23744,unk -0.101572 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_fuscata_KM401548
+OTU1536 20343,unk -0.547971 4 Artiodactyla,Bovidae,Capricornis,unk 0.890 Capricornis_sumatraensis_JN093096
+OTU1539 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU1540 20613,unk -0.0965274 4 Artiodactyla,Suidae,Sus,unk 0.892 Sus_scrofa_KT965278
+OTU155 23744,unk -2.11409 4 Primates,Cercopithecidae,Macaca,unk 0.742 Macaca_mulatta_AY360318
+OTU1550 20797,unk -1.64786 4 Carnivora,Herpestidae,Herpestes,unk 0.846 Herpestes_semitorquatus_HSE4
+OTU156 20690 -0.818143 4 Carnivora,Canidae,Vulpes,ferrilata 1.000 Vulpes_ferrilata_KT033906
+OTU1560 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU157 20613,unk -0.85493 4 Artiodactyla,Suidae,Sus,unk 0.862 Sus_scrofa_KT965278
+OTU1573 20613,unk -0.676914 4 Artiodactyla,Suidae,Sus,unk 0.819 Sus_scrofa_KT965278
+OTU1576     0.871 Bycanistes_brevis_HM640210
+OTU158 23756 -0.367599 4 Primates,Cercopithecidae,Macaca,nemestrina 0.957 Macaca_nemestrina_KP765688
+OTU1582 20894,unk -0.967597 4 Carnivora,Mustelidae,Melogale,unk 0.835 Melogale_moschata_NC020644
+OTU1584 20540,unk -0.635564 4 Artiodactyla,Cervidae,Muntiacus,unk 0.851 Muntiacus_atherodes_KY117559
+OTU1588 23744,unk -0.104245 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_arctoides_KM360179
+OTU1589 23333,unk -0.11905 4 Lagomorpha,Leporidae,Nesolagus,unk 0.857 Nesolagus_timminsi_Andi001
+OTU159      
+OTU1591 20897 -0.0899253 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU1595     0.667 Arctocephalus_forsteri_AF513820
+OTU1597 23744,unk -0.596283 4 Primates,Cercopithecidae,Macaca,unk 0.818 Macaca_arctoides_KM360179
+OTU1598     0.578 Saguinus_leucopus_EU497286
+OTU16 26289,unk -0.243484 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_cremoriventer_KY117573
+OTU160     0.667 Arctocephalus_forsteri_AF513820
+OTU1606     0.449 Limnonectes_limborgi_GU934358
+OTU1607 26289,unk -0.529842 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_confucianus_KJ152220
+OTU161     0.733 Arctocephalus_forsteri_AF513820
+OTU1618 20613,unk -0.588942 4 Artiodactyla,Suidae,Sus,unk 0.828 Sus_scrofa_KT965278
+OTU162 20343,unk -0.540892 4 Artiodactyla,Bovidae,Capricornis,unk 0.868 Capricornis_sumatraensis_JN093096
+OTU1621 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU1624 20894,unk -1.13465 4 Carnivora,Mustelidae,Melogale,unk 0.865 Melogale_moschata_KP726273
+OTU1629     0.733 Arctocephalus_forsteri_AF513820
+OTU1633 21021,unk -0.616022 4 Carnivora,Ursidae,Ursus,unk 0.910 Ursus_thibetanus_NC011118
+OTU164 20569,unk -0.440987 4 Artiodactyla,Cervidae,Rusa,unk 0.912 Rusa_unicolor_NC008414
+OTU1641     0.802 Pelomys_campanae_AF141242
+OTU1643     0.685 Martes_flavigula_NC012141
+OTU1645 20613,unk -0.5721 4 Artiodactyla,Suidae,Sus,unk 0.828 Sus_scrofa_KT965278
+OTU165 631 -0.369671 4 Anura,Bufonidae,Duttaphrynus,melanostictus 1.000 Duttaphrynus_melanostictus_JQ621933
+OTU1652     0.415 Leptopelis_palmatus_HQ130756
+OTU1654 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU1657 20343,unk -0.385006 4 Artiodactyla,Bovidae,Capricornis,unk 0.890 Capricornis_milneedwardsii_NC023457
+OTU166     0.644 Arctocephalus_forsteri_AF513820
+OTU1666 26865,unk -0.0657438 4 Rodentia,Sciuridae,Hylopetes,unk 0.934 Hylopetes_phayrei_KC447305
+OTU1667 26794,unk -1.59539 4 Rodentia,Sciuridae,Callosciurus,unk 0.783 Callosciurus_erythraeus_KM502568
+OTU167 20343,unk -0.785904 4 Artiodactyla,Bovidae,Capricornis,unk 0.846 Capricornis_sumatraensis_JN093096
+OTU1677 20540,unk -1.19699 4 Artiodactyla,Cervidae,Muntiacus,unk 0.802 Muntiacus_atherodes_KY117559
+OTU1681 20894,unk -0.291719 4 Carnivora,Mustelidae,Melogale,unk 0.909 Melogale_moschata_NC020644
+OTU1682 20613,unk -2.74498 4 Artiodactyla,Suidae,Sus,unk 0.747 Sus_scrofa_KX094894
+OTU1686 23946,unk -0.123543 4 Primates,Hominidae,Homo,unk 0.911 Homo_sapiens_KF162206
+OTU169 23335 -0.622233 4 Lagomorpha,Leporidae,Nesolagus,timminsi 0.923 Nesolagus_timminsi_Andi001
+OTU1693 23744,unk -0.110675 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_assamensis_KF990122
+OTU1695     0.677 Chlorocebus_sabaeus_KJ193021
+OTU1698     0.491 Oryctolagus_cuniculus_KC984210
+OTU17 20851 -0.03497 4 Carnivora,Mustelidae,Arctonyx,collaris 0.978 Arctonyx_collaris_NC020645
+OTU170     0.663 Eumetopias_jubatus_GU475464
+OTU1702     0.527 Aotus_trivirgatus_DQ334827
+OTU1704 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU171     0.656 Callorhinus_ursinus_AM181016
+OTU1712     0.745 Atherurus_africanus_KJ193006
+OTU1717     0.778 Leopoldamys_edwardsi_KM434322
+OTU1718 20613,unk -0.175243 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU1720 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU1724 20613,unk -2.08352 4 Artiodactyla,Suidae,Sus,unk 0.831 Sus_scrofa_KT316289
+OTU174     0.700 Gulo_gulo_KR611313
+OTU1740 26289,unk -0.948818 4 Rodentia,Muridae,Niviventer,unk 0.835 Niviventer_excelsior_JQ927552
+OTU1741 26798 -0.0384428 4 Rodentia,Sciuridae,Callosciurus,erythraeus 0.978 Callosciurus_erythraeus_KM502568
+OTU1742 21029,unk -2.45818 4 Carnivora,Viverridae,Arctictis,unk 0.848 Arctictis_binturong_KY117560
+OTU1743 25674,unk -0.308387 4 Rodentia,Hystricidae,Hystrix,unk 0.846 Hystrix_indica_JN714143
+OTU1745 21060,unk -1.21453 4 Carnivora,Viverridae,Paguma,unk 0.892 Paguma_larvata_KP233214
+OTU1747 26289,unk -2.49138 4 Rodentia,Muridae,Niviventer,unk 0.769 Niviventer_confucianus_KJ152220
+OTU175 20613,unk -0.923695 4 Artiodactyla,Suidae,Sus,unk 0.857 Sus_scrofa_AY243487
+OTU1753 23744,unk -0.303166 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_nigra_KP072068
+OTU1755     0.764 Martes_flavigula_NC012141
+OTU176 20613,unk -0.218514 4 Artiodactyla,Suidae,Sus,unk 0.862 Sus_scrofa_JN714158
+OTU1761 20540,unk -0.267646 4 Artiodactyla,Cervidae,Muntiacus,unk 0.891 Muntiacus_crinifrons_EF523631
+OTU1762 23744,unk -0.334623 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_nigra_KP072068
+OTU1767 20613,unk -0.311533 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_scrofa_KT965278
+OTU1768     0.744 Martes_flavigula_NC012141
+OTU1771     0.761 Melogale_moschata_NC020644
+OTU1774 20613,unk -1.11396 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_scrofa_KT965278
+OTU1775     0.567 Aotus_trivirgatus_DQ334827
+OTU1776 21060,unk -1.79163 4 Carnivora,Viverridae,Paguma,unk 0.844 Paguma_larvata_KP233214
+OTU1778     0.638 Trachypithecus_cristatus_NC023971
+OTU178 27137 -0.36677 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.936 Rhizomys_pruinosus_NC021478
+OTU1783 20894,unk -1.55858 4 Carnivora,Mustelidae,Melogale,unk 0.811 Melogale_moschata_NC020644
+OTU179     0.802 Chrysocyon_brachyurus_KJ508409
+OTU1792 20343,unk -0.472056 4 Artiodactyla,Bovidae,Capricornis,unk 0.854 Capricornis_milneedwardsii_NC023457
+OTU1795 20850,unk -0.504555 4 Carnivora,Mustelidae,Arctonyx,unk 0.856 Arctonyx_collaris_NC020645
+OTU1796 15321 -1.4938 4 Passeriformes,Pellorneidae,Pellorneum,tickelli 0.980 Pellorneum_tickelli_AF484382
+OTU18 25671,unk -0.666556 4 Rodentia,Hystricidae,Atherurus,unk 0.894 Atherurus_africanus_KJ193006
+OTU180     0.336 Spea_hammondii_AY236822
+OTU1806 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU1812 10292 -0.680498 4 Galliformes,Phasianidae,Gallus,gallus 1.000 Gallus_gallus_X52392
+OTU1819     0.700 Cercopithecus_pogonias_AF435503
+OTU182 25671,unk -0.879863 4 Rodentia,Hystricidae,Atherurus,unk 0.851 Atherurus_africanus_KJ193006
+OTU1820     0.486 Hylomantis_lemur_FJ784594
+OTU1826 20540,unk -0.297805 4 Artiodactyla,Cervidae,Muntiacus,unk 0.892 Muntiacus_truongsonensis_AF108033
+OTU183     0.711 Galidia_elegans_AF006403
+OTU1832 20613,unk -0.442255 4 Artiodactyla,Suidae,Sus,unk 0.842 Sus_barbatus_KP789021
+OTU1835 23744,unk -0.49562 4 Primates,Cercopithecidae,Macaca,unk 0.828 Macaca_nigra_KP072068
+OTU1836 26289,unk -0.0951072 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU1839     0.656 Symphalangus_syndactylus_AB504750
+OTU184     0.742 Nasalis_larvatus_U39012
+OTU1847     0.744 Melogale_moschata_NC020644
+OTU1848 20797,unk -1.34874 4 Carnivora,Herpestidae,Herpestes,unk 0.817 Herpestes_semitorquatus_HSE4
+OTU185     0.711 Leopardus_colocolo_AF006411
+OTU1850     0.649 Cercopithecus_pogonias_AF435503
+OTU1852 20343,unk -0.349319 4 Artiodactyla,Bovidae,Capricornis,unk 0.876 Capricornis_crispus_U87029
+OTU1859 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU186     0.689 Galidia_elegans_AF006403
+OTU1860 20540,unk -0.484888 4 Artiodactyla,Cervidae,Muntiacus,unk 0.854 Muntiacus_atherodes_KY117559
+OTU1862 21029,unk -1.85782 4 Carnivora,Viverridae,Arctictis,unk 0.849 Arctictis_binturong_KY117560
+OTU1864     0.556 Plecturocebus_cupreus_KC959986
+OTU1866 20613,unk -0.681262 4 Artiodactyla,Suidae,Sus,unk 0.822 Sus_scrofa_KP294522
+OTU1868 20613,unk -1.27873 4 Artiodactyla,Suidae,Sus,unk 0.867 Sus_scrofa_AY243487
+OTU1869     0.733 Sus_scrofa_KP294522
+OTU187 26794,unk -2.46413 4 Rodentia,Sciuridae,Callosciurus,unk 0.736 Callosciurus_notatus_KY117542
+OTU1871     0.622 Alouatta_seniculus_HQ644333
+OTU1876 21072,unk -1.57702 4 Carnivora,Viverridae,Viverra,unk 0.844 Viverra_tangalunga_VTA
+OTU1877 26289,unk -0.819507 4 Rodentia,Muridae,Niviventer,unk 0.813 Niviventer_confucianus_KJ152220
+OTU1881 27183,unk -1.29541 4 Scandentia,Tupaiidae,Tupaia,unk 0.796 Tupaia_belangeri_JF795299
+OTU1882 27653,unk -2.60373 4 Soricomorpha,Talpidae,Euroscaptor,unk 0.851 Euroscaptor_longirostris_JQ433891
+OTU1885 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU1887     0.689 Arctocephalus_forsteri_AF513820
+OTU189     0.742 Nasalis_larvatus_U39012
+OTU1890 25674,unk -0.255846 4 Rodentia,Hystricidae,Hystrix,unk 0.978 Hystrix_indica_JN714143
+OTU1894 20343,unk -0.283945 4 Artiodactyla,Bovidae,Capricornis,unk 0.890 Capricornis_milneedwardsii_NC023457
+OTU1896 10187,unk -2.15997 4 Galliformes,Phasianidae,Arborophila,unk 0.863 Arborophila_brunneopectus_KC352730
+OTU1897 20719,unk -1.42343 4 Carnivora,Felidae,Catopuma,unk 0.901 Catopuma_temminckii_KX224504
+OTU1898     0.618 Macaca_leonina_KP330231
+OTU19 20551 -0.396891 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.946 Muntiacus_vaginalis_KY052092
+OTU1905 26794,unk -0.213251 4 Rodentia,Sciuridae,Callosciurus,unk 0.878 Callosciurus_erythraeus_KM502568
+OTU1908 23744,unk -0.312447 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_assamensis_KF990122
+OTU1910 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU1915 20613,unk -2.30234 4 Artiodactyla,Suidae,Sus,unk 0.763 Sus_scrofa_KT965278
+OTU1916     0.733 Eumetopias_jubatus_GU475464
+OTU1919     0.656 Callorhinus_ursinus_AM181016
+OTU192 23746 -0.0120345 4 Primates,Cercopithecidae,Macaca,assamensis 1.000 Macaca_assamensis_KF990122
+OTU1923 27136,unk -0.117467 4 Rodentia,Spalacidae,Rhizomys,unk 0.880 Rhizomys_pruinosus_NC021478
+OTU1924 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU193 26948 -0.0989933 4 Rodentia,Sciuridae,Petaurista,philippensis 0.956 Petaurista_philippensis_JX572159
+OTU1937 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU194     0.644 Arctocephalus_forsteri_AF513820
+OTU1940 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU1948     0.744 Hydrochoerus_hydrochaeris_AF069533
+OTU195     0.678 Callorhinus_ursinus_AM181016
+OTU1954     0.656 Callorhinus_ursinus_AM181016
+OTU1955 20797,unk -1.05826 4 Carnivora,Herpestidae,Herpestes,unk 0.860 Herpestes_brachyurus_KY117547
+OTU196     0.699 Homo_sapiens_AY963586
+OTU1963 20343,unk -1.39403 4 Artiodactyla,Bovidae,Capricornis,unk 0.802 Capricornis_sumatraensis_JN093096
+OTU197 23744,unk -0.156879 4 Primates,Cercopithecidae,Macaca,unk 0.935 Macaca_mulatta_AY360298
+OTU1970 27183,unk -1.24012 4 Scandentia,Tupaiidae,Tupaia,unk 0.796 Tupaia_belangeri_JF795301
+OTU1982     0.745 Potamochoerus_porcus_KJ193193
+OTU1985 20613,unk -0.360152 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_scrofa_KT965278
+OTU199 25671,unk -0.882683 4 Rodentia,Hystricidae,Atherurus,unk 0.851 Atherurus_africanus_KJ193006
+OTU1990 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU1993 20540,unk -0.275561 4 Artiodactyla,Cervidae,Muntiacus,unk 0.868 Muntiacus_atherodes_KY117559
+OTU2 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU20 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU200     0.711 Arctocephalus_forsteri_AF513820
+OTU2002 27136,unk -0.189869 4 Rodentia,Spalacidae,Rhizomys,unk 0.868 Rhizomys_pruinosus_NC021478
+OTU2007 26289,unk -0.243484 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_cremoriventer_KY117573
+OTU2008 25674,unk -0.834482 4 Rodentia,Hystricidae,Hystrix,unk 0.817 Hystrix_indica_JN714143
+OTU2009     0.689 Arctocephalus_forsteri_AF513820
+OTU2011     0.656 Callorhinus_ursinus_AM181016
+OTU2012     0.756 Rusa_unicolor_NC008414
+OTU2017     0.600 Saguinus_leucopus_EU497286
+OTU2019 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU202 20894,unk -0.231951 4 Carnivora,Mustelidae,Melogale,unk 0.922 Melogale_moschata_NC020644
+OTU2034 20540,unk -0.266663 4 Artiodactyla,Cervidae,Muntiacus,unk 0.868 Muntiacus_atherodes_KY117559
+OTU2036 20343,unk -0.629526 4 Artiodactyla,Bovidae,Capricornis,unk 0.859 Capricornis_milneedwardsii_NC023457
+OTU204     0.656 Callorhinus_ursinus_AM181016
+OTU2040 26289,unk -1.93411 4 Rodentia,Muridae,Niviventer,unk 0.800 Niviventer_excelsior_JQ927552
+OTU2042 20894,unk -2.4426 4 Carnivora,Mustelidae,Melogale,unk 0.791 Melogale_moschata_KP726273
+OTU2043 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU2047 27183,unk -0.723092 4 Scandentia,Tupaiidae,Tupaia,unk 0.822 Tupaia_belangeri_JF795301
+OTU2050 23744,unk -0.497231 4 Primates,Cercopithecidae,Macaca,unk 0.828 Macaca_nigra_KP072068
+OTU2054     0.667 Eumetopias_jubatus_GU475464
+OTU2055 20894,unk -1.68803 4 Carnivora,Mustelidae,Melogale,unk 0.820 Melogale_moschata_KP726273
+OTU206 23744,unk -0.0877417 4 Primates,Cercopithecidae,Macaca,unk 0.914 Macaca_arctoides_KM360179
+OTU2060 20343,unk -0.64807 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_sumatraensis_JN093096
+OTU207     0.663 Eumetopias_jubatus_GU475464
+OTU2072 23946,unk -0.448704 4 Primates,Hominidae,Homo,unk 0.933 Homo_sapiens_KF162206
+OTU2075      
+OTU2081 23333,unk -0.969787 4 Lagomorpha,Leporidae,Nesolagus,unk 0.779 Nesolagus_timminsi_Andi001
+OTU2082     0.685 Trichys_fasciculata_KY117590
+OTU2088     0.622 Arctocephalus_forsteri_AF513820
+OTU209     0.611 Galidia_elegans_AF006403
+OTU2090 26289,unk -2.14174 4 Rodentia,Muridae,Niviventer,unk 0.761 Niviventer_confucianus_KJ152220
+OTU21 20552 -0.0458581 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 1.000 Muntiacus_vuquangensis_AF108034
+OTU210     0.622 Arctocephalus_forsteri_AF513820
+OTU2106 23744,unk -0.101624 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_mulatta_AY360312
+OTU2119     0.644 Rhinopithecus_strykeri_JQ821838
+OTU212 26979 -0.166594 4 Rodentia,Sciuridae,Ratufa,bicolor 0.956 Ratufa_bicolor_KF575124
+OTU2127 23333,unk -0.542176 4 Lagomorpha,Leporidae,Nesolagus,unk 0.800 Nesolagus_timminsi_Andi001
+OTU213     0.551 Aotus_trivirgatus_DQ334827
+OTU2132 1824,unk -1.11765 4 Anura,Dicroglossidae,Limnonectes,unk 0.904 Limnonectes_limborgi_GU934358
+OTU215 20540,unk -0.590058 4 Artiodactyla,Cervidae,Muntiacus,unk 0.912 Muntiacus_rooseveltorum_AF108031
+OTU2150 20573 -0.0678151 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU2152 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU2157 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU2158     0.678 Callorhinus_ursinus_AM181016
+OTU216 26289,unk -0.738549 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_cremoriventer_KY117573
+OTU217 20540,unk -0.220203 4 Artiodactyla,Cervidae,Muntiacus,unk 0.945 Muntiacus_truongsonensis_AF108033
+OTU2172 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU218     0.606 Chiasmocleis_panamensis_KF671187
+OTU2184 20613,unk -0.782307 4 Artiodactyla,Suidae,Sus,unk 0.822 Sus_scrofa_AY243488
+OTU219     0.775 Sundamys_muelleri_NC035818
+OTU2195 27136,unk -0.0994525 4 Rodentia,Spalacidae,Rhizomys,unk 0.902 Rhizomys_pruinosus_NC021478
+OTU22 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU2202     0.802 Genetta_pardina_KJ193104
+OTU2204 23333,unk -0.0850005 4 Lagomorpha,Leporidae,Nesolagus,unk 0.868 Nesolagus_timminsi_Andi001
+OTU2205 27091,unk -0.894083 4 Rodentia,Sciuridae,Tamiops,unk 0.857 Tamiops_swinhoei_KP027416
+OTU221 25674,unk -0.176916 4 Rodentia,Hystricidae,Hystrix,unk 0.870 Hystrix_indica_JN714143
+OTU2215 20613,unk -0.368236 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_scrofa_KT965278
+OTU2219 23744,unk -0.171391 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_arctoides_KM360179
+OTU222     0.846 Chrysocyon_brachyurus_KJ508409
+OTU2220 20637,unk -0.220329 4 Artiodactyla,Tragulidae,Tragulus,unk 0.871 Tragulus_kanchil_NC020753
+OTU223     0.700 Callorhinus_ursinus_AM181016
+OTU2235     0.567 Cercopithecus_pogonias_AF435503
+OTU2236 20850,unk -0.569894 4 Carnivora,Mustelidae,Arctonyx,unk 0.856 Arctonyx_collaris_NC020645
+OTU224 27183,unk -0.611434 4 Scandentia,Tupaiidae,Tupaia,unk 0.824 Tupaia_belangeri_JF795303
+OTU2242 23744,unk -0.180939 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_arctoides_KM360179
+OTU2252     0.589 Macaca_nigra_KP072068
+OTU226     0.689 Neophoca_cinerea_AM181020
+OTU2260 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU2267 20540,unk -1.15845 4 Artiodactyla,Cervidae,Muntiacus,unk 0.811 Muntiacus_crinifrons_EF523631
+OTU2268 20540,unk -0.482922 4 Artiodactyla,Cervidae,Muntiacus,unk 0.848 Muntiacus_crinifrons_EF523631
+OTU2269      
+OTU227     0.667 Eumetopias_jubatus_GU475464
+OTU2272 20343,unk -0.601211 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_crispus_U87029
+OTU2276 20894,unk -1.37991 4 Carnivora,Mustelidae,Melogale,unk 0.820 Melogale_moschata_NC020644
+OTU2278 20613,unk -0.797884 4 Artiodactyla,Suidae,Sus,unk 0.811 Sus_scrofa_JN714158
+OTU2279 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU228     0.689 Arctocephalus_forsteri_AF513820
+OTU2280 25674,unk -0.194811 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU2283     0.793 Rattus_norvegicus_NC001665
+OTU2285 23744,unk -0.543067 4 Primates,Cercopithecidae,Macaca,unk 0.828 Macaca_mulatta_KJ567051
+OTU2286 23744,unk -0.885745 4 Primates,Cercopithecidae,Macaca,unk 0.806 Macaca_mulatta_KJ567051
+OTU229     0.589 Aotus_trivirgatus_DQ334827
+OTU2298 23744,unk -1.29476 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_mulatta_AY360318
+OTU23 25674,unk -0.194811 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU230 23333,unk -0.331588 4 Lagomorpha,Leporidae,Nesolagus,unk 0.914 Nesolagus_timminsi_Andi001
+OTU2300 23744,unk -0.10551 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_assamensis_KF990122
+OTU2312 23744,unk -0.841264 4 Primates,Cercopithecidae,Macaca,unk 0.806 Macaca_mulatta_AY360318
+OTU2314 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU232 20540,unk -0.279686 4 Artiodactyla,Cervidae,Muntiacus,unk 0.890 Muntiacus_atherodes_KY117559
+OTU2322 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU2326 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU2327     0.659 Procyon_lotor_AB462205
+OTU2328 26794,unk -2.99312 4 Rodentia,Sciuridae,Callosciurus,unk 0.714 Callosciurus_notatus_KY117541
+OTU2329 26289,unk -2.5128 4 Rodentia,Muridae,Niviventer,unk 0.736 Niviventer_excelsior_JQ927552
+OTU2333     0.582 Spea_bombifrons_JX564896
+OTU234 25671,unk -0.666418 4 Rodentia,Hystricidae,Atherurus,unk 0.894 Atherurus_africanus_KJ193006
+OTU2341     0.804 Paguma_larvata_KP233214
+OTU2343 23946,unk -2.72894 4 Primates,Hominidae,Homo,unk 0.774 Homo_sapiens_JQ044886
+OTU236 20343,unk -0.387158 4 Artiodactyla,Bovidae,Capricornis,unk 0.934 Capricornis_sumatraensis_JN093096
+OTU2362 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU2375 20613,unk -1.11359 4 Artiodactyla,Suidae,Sus,unk 0.791 Sus_scrofa_KX094894
+OTU238 25674,unk -0.294258 4 Rodentia,Hystricidae,Hystrix,unk 0.848 Hystrix_indica_JN714143
+OTU2383 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU2386 23333,unk -1.93316 4 Lagomorpha,Leporidae,Nesolagus,unk 0.761 Nesolagus_timminsi_Andi001
+OTU2389 27183,unk -1.23624 4 Scandentia,Tupaiidae,Tupaia,unk 0.796 Tupaia_belangeri_JF795301
+OTU2393 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU2394 20343,unk -0.36524 4 Artiodactyla,Bovidae,Capricornis,unk 0.911 Capricornis_crispus_U87029
+OTU24 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU2400 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU2409 27091,unk -1.9685 4 Rodentia,Sciuridae,Tamiops,unk 0.802 Tamiops_swinhoei_KP027416
+OTU2413 23333,unk -0.056905 4 Lagomorpha,Leporidae,Nesolagus,unk 0.889 Nesolagus_timminsi_Andi001
+OTU2414 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU2415     0.731 Sus_scrofa_KT194217
+OTU242 21072,unk -2.7113 4 Carnivora,Viverridae,Viverra,unk 0.785 Viverra_tangalunga_VTA
+OTU2436 20894,unk -2.1326 4 Carnivora,Mustelidae,Melogale,unk 0.789 Melogale_moschata_NC020644
+OTU2442 23744,unk -1.28651 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_fascicularis_AF420036
+OTU2448 20573 -0.0678151 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU245     0.689 Arctocephalus_forsteri_AF513820
+OTU2457 26289,unk -0.73073 4 Rodentia,Muridae,Niviventer,unk 0.835 Niviventer_cremoriventer_KY117573
+OTU2458     0.753 Martes_flavigula_NC012141
+OTU2461 20540,unk -0.175602 4 Artiodactyla,Cervidae,Muntiacus,unk 0.899 Muntiacus_atherodes_KY117559
+OTU2464 20851 -0.03497 4 Carnivora,Mustelidae,Arctonyx,collaris 0.978 Arctonyx_collaris_NC020645
+OTU2466     0.691 Smilisca_baudinii_DQ830819
+OTU2467 20851 -0.03497 4 Carnivora,Mustelidae,Arctonyx,collaris 0.978 Arctonyx_collaris_NC020645
+OTU247 20849 -0.224044 4 Carnivora,Mustelidae,Aonyx,cinereus 1.000 Aonyx_cinereus_KY117536
+OTU2470 20613,unk -0.313833 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_barbatus_KP789021
+OTU2471 20850,unk -1.12401 4 Carnivora,Mustelidae,Arctonyx,unk 0.815 Arctonyx_collaris_NC020645
+OTU2484     0.556 Alouatta_seniculus_HQ644333
+OTU2488 20759,unk -2.39034 4 Carnivora,Felidae,Prionailurus,unk 0.798 Prionailurus_bengalensis_KX857793
+OTU2495 23946,unk -0.302866 4 Primates,Hominidae,Homo,unk 0.892 Homo_sapiens_JQ044886
+OTU2496 26289,unk -0.0951072 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU25 26798 -0.0384428 4 Rodentia,Sciuridae,Callosciurus,erythraeus 0.978 Callosciurus_erythraeus_KM502568
+OTU250 20894,unk -0.494064 4 Carnivora,Mustelidae,Melogale,unk 0.900 Melogale_moschata_NC020644
+OTU2502 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU251     0.471 Colobus_satanas_KJ193061
+OTU2512     0.722 Budorcas_taxicolor_FJ207524
+OTU252     0.831 Chrysocyon_brachyurus_KJ508409
+OTU2522      
+OTU2529 20540,unk -1.04114 4 Artiodactyla,Cervidae,Muntiacus,unk 0.809 Muntiacus_atherodes_KY117559
+OTU2543     0.748 Limnonectes_limborgi_GU934358
+OTU255     0.678 Callorhinus_ursinus_AM181016
+OTU2550     0.791 Maxomys_surifer_KY117566
+OTU2557     0.753 Tupaia_belangeri_JF795301
+OTU256     0.733 Arctocephalus_forsteri_AF513820
+OTU2560 20613,unk -1.71601 4 Artiodactyla,Suidae,Sus,unk 0.778 Sus_scrofa_KP294522
+OTU257 23333,unk -0.0625335 4 Lagomorpha,Leporidae,Nesolagus,unk 0.892 Nesolagus_timminsi_Andi001
+OTU2570     0.767 Callorhinus_ursinus_AM181016
+OTU2572     0.700 Melogale_moschata_NC020644
+OTU258     0.637 Galidia_elegans_AF006403
+OTU2584 23744,unk -0.310632 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_mulatta_AY360318
+OTU2595     0.747 Tamiops_swinhoei_AY227466
+OTU2596     0.772 Rattus_fuscipes_GU570664
+OTU26     0.622 Alouatta_seniculus_HQ644333
+OTU261 23335 -0.0526841 4 Lagomorpha,Leporidae,Nesolagus,timminsi 0.945 Nesolagus_timminsi_Andi001
+OTU262     0.700 Callorhinus_ursinus_AM181016
+OTU2622 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU263      
+OTU2638     0.611 Eumetopias_jubatus_GU475464
+OTU2639 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU264     0.655 Eumetopias_jubatus_GU475464
+OTU2641      
+OTU265 23744,unk -2.35702 4 Primates,Cercopithecidae,Macaca,unk 0.742 Macaca_mulatta_AY360318
+OTU2653 25674,unk -1.94883 4 Rodentia,Hystricidae,Hystrix,unk 0.768 Hystrix_indica_JN714143
+OTU2661 20343,unk -2.20998 4 Artiodactyla,Bovidae,Capricornis,unk 0.778 Capricornis_crispus_U87029
+OTU2672 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU2674 25674,unk -0.194811 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU268     0.544 Cercopithecus_mona_JQ256980
+OTU2680 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU2683     0.560 Tupaia_belangeri_JF795301
+OTU2685     0.753 Pongo_pygmaeus_HQ912722
+OTU2687     0.589 Cercopithecus_pogonias_AF435503
+OTU2689     0.880 Phoenicurus_phoenicurus_JX255932
+OTU2691 20540,unk -0.358924 4 Artiodactyla,Cervidae,Muntiacus,unk 0.871 Muntiacus_atherodes_KY117559
+OTU27 26289,unk -1.00163 4 Rodentia,Muridae,Niviventer,unk 0.802 Niviventer_excelsior_JQ927552
+OTU2704 20759,unk -2.13587 4 Carnivora,Felidae,Prionailurus,unk 0.800 Prionailurus_viverrinus_KR132596
+OTU2707     0.511 Macaca_assamensis_KF990122
+OTU271     0.622 Arctocephalus_forsteri_AF513820
+OTU272     0.521 Rhizomys_pruinosus_NC021478
+OTU2721 23333,unk -0.473082 4 Lagomorpha,Leporidae,Nesolagus,unk 0.811 Nesolagus_timminsi_Andi001
+OTU2722 20797,unk -2.7435 4 Carnivora,Herpestidae,Herpestes,unk 0.780 Herpestes_javanicus_KY117548
+OTU2728     0.744 Melogale_moschata_NC020644
+OTU2730 20613,unk -2.37131 4 Artiodactyla,Suidae,Sus,unk 0.763 Sus_scrofa_KT965278
+OTU2732 20879,unk -1.61407 4 Carnivora,Mustelidae,Martes,unk 0.843 Martes_flavigula_NC012141
+OTU274     0.656 Leopardus_guigna_KF979222
+OTU2752 23333,unk -0.315458 4 Lagomorpha,Leporidae,Nesolagus,unk 0.837 Nesolagus_timminsi_Andi001
+OTU2762     0.686 Eumetopias_jubatus_GU475464
+OTU2776 10190 -0.137262 4 Galliformes,Phasianidae,Arborophila,brunneopectus 1.000 Arborophila_brunneopectus_KC352730
+OTU278 20540,unk -0.269918 4 Artiodactyla,Cervidae,Muntiacus,unk 0.890 Muntiacus_atherodes_KY117559
+OTU2792 26289,unk -1.00163 4 Rodentia,Muridae,Niviventer,unk 0.802 Niviventer_excelsior_JQ927552
+OTU28     0.791 Maxomys_surifer_KY117566
+OTU280     0.663 Tupaia_nicobarica_JF795316
+OTU2802     0.556 Alouatta_seniculus_HQ644333
+OTU281     0.742 Nasalis_larvatus_U39012
+OTU2818 20343,unk -2.09361 4 Artiodactyla,Bovidae,Capricornis,unk 0.787 Capricornis_crispus_U87029
+OTU282 23267 -0.271801 4 Erinaceomorpha,Erinaceidae,Hylomys,suillus 0.978 Hylomys_suillus_AY121770
+OTU2822 20613,unk -0.458984 4 Artiodactyla,Suidae,Sus,unk 0.856 Sus_barbatus_KP789021
+OTU2823 20797,unk -1.38848 4 Carnivora,Herpestidae,Herpestes,unk 0.793 Herpestes_javanicus_KY117548
+OTU283 20551 -1.03053 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.934 Muntiacus_vaginalis_KY052092
+OTU2838 23333,unk -1.73274 4 Lagomorpha,Leporidae,Nesolagus,unk 0.755 Nesolagus_timminsi_Andi001
+OTU2841 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU285     0.644 Arctocephalus_forsteri_AF513820
+OTU2851     0.705 Martes_flavigula_NC012141
+OTU2855 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU2856 20540,unk -1.22198 4 Artiodactyla,Cervidae,Muntiacus,unk 0.807 Muntiacus_reevesi_KY117561
+OTU2860 27091,unk -1.60419 4 Rodentia,Sciuridae,Tamiops,unk 0.824 Tamiops_swinhoei_AY227466
+OTU288     0.700 Gulo_gulo_KR611313
+OTU2882 20613,unk -0.123603 4 Artiodactyla,Suidae,Sus,unk 0.883 Sus_scrofa_KT965278
+OTU2887 20343,unk -0.94326 4 Artiodactyla,Bovidae,Capricornis,unk 0.822 Capricornis_crispus_U87029
+OTU2889 20613,unk -2.5781 4 Artiodactyla,Suidae,Sus,unk 0.756 Sus_scrofa_KP294522
+OTU2894 20613,unk -1.67333 4 Artiodactyla,Suidae,Sus,unk 0.800 Sus_scrofa_JN601070
+OTU2897     0.543 Aotus_lemurinus_FJ785421
+OTU2898 23744,unk -0.171452 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_arctoides_KM360179
+OTU29 21027 -0.0714009 4 Carnivora,Ursidae,Ursus,thibetanus 0.978 Ursus_thibetanus_NC011118
+OTU290     0.780 Canis_lupus_HQ845257
+OTU2902 25674,unk -1.18527 4 Rodentia,Hystricidae,Hystrix,unk 0.800 Hystrix_indica_JN714143
+OTU2908 15687,unk -1.59821 4 Passeriformes,Ploceidae,Ploceus,unk 0.900 Ploceus_philippinus_KJ442619
+OTU2912 26289,unk -0.944729 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU2913 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU2926 20894,unk -0.378233 4 Carnivora,Mustelidae,Melogale,unk 0.888 Melogale_moschata_NC020644
+OTU293 23333,unk -0.53822 4 Lagomorpha,Leporidae,Nesolagus,unk 0.796 Nesolagus_timminsi_Andi001
+OTU294 20540,unk -0.750926 4 Artiodactyla,Cervidae,Muntiacus,unk 0.890 Muntiacus_atherodes_KY117559
+OTU2959     0.685 Callorhinus_ursinus_AM181016
+OTU296 20540,unk -0.427489 4 Artiodactyla,Cervidae,Muntiacus,unk 0.870 Muntiacus_crinifrons_EF523631
+OTU2962 23744,unk -0.148822 4 Primates,Cercopithecidae,Macaca,unk 0.879 Macaca_fascicularis_KM851028
+OTU297     0.722 Martes_flavigula_NC012141
+OTU298 20540,unk -0.258885 4 Artiodactyla,Cervidae,Muntiacus,unk 0.934 Muntiacus_crinifrons_EF523630
+OTU299 20894,unk -0.637902 4 Carnivora,Mustelidae,Melogale,unk 0.888 Melogale_moschata_NC020644
+OTU2990 20343,unk -1.82781 4 Artiodactyla,Bovidae,Capricornis,unk 0.780 Capricornis_sumatraensis_JN093096
+OTU2993 20613,unk -1.36803 4 Artiodactyla,Suidae,Sus,unk 0.800 Sus_scrofa_KT316289
+OTU3 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU30 26289,unk -0.0809606 4 Rodentia,Muridae,Niviventer,unk 0.933 Niviventer_cremoriventer_KY117573
+OTU300 23744,unk -1.28297 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_fuscata_KM401548
+OTU3000 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU3001 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU301 23333,unk -0.090142 4 Lagomorpha,Leporidae,Nesolagus,unk 0.900 Nesolagus_timminsi_Andi001
+OTU3017     0.609 Eumetopias_jubatus_GU475464
+OTU3022 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU3024     0.659 Philantomba_maxwellii_U87016
+OTU3026 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU3027     0.791 Maxomys_surifer_KY117566
+OTU3036     0.500 Aotus_lemurinus_FJ785421
+OTU304     0.644 Arctocephalus_forsteri_AF513820
+OTU3040     0.778 Maxomys_surifer_KY117567
+OTU3048 20850,unk -0.501342 4 Carnivora,Mustelidae,Arctonyx,unk 0.856 Arctonyx_collaris_NC020645
+OTU305 25674,unk -0.366243 4 Rodentia,Hystricidae,Hystrix,unk 0.839 Hystrix_indica_JN714143
+OTU3068 26794,unk -2.4438 4 Rodentia,Sciuridae,Callosciurus,unk 0.736 Callosciurus_notatus_KY117541
+OTU307 20637,unk -0.170188 4 Artiodactyla,Tragulidae,Tragulus,unk 0.914 Tragulus_kanchil_NC020753
+OTU3070     0.678 Macaca_mulatta_AY360297
+OTU3074     0.678 Cercopithecus_pogonias_AF435503
+OTU309 20760 -1.21027 4 Carnivora,Felidae,Prionailurus,bengalensis 0.956 Prionailurus_bengalensis_KX857796
+OTU3094 20551 -0.192401 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU31     0.681 Trachypithecus_cristatus_NC023971
+OTU3106 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU3113 20573 -0.0678151 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU3114 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU3122 26289,unk -0.555794 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_confucianus_KJ152220
+OTU3126 21060,unk -1.01146 4 Carnivora,Viverridae,Paguma,unk 0.890 Paguma_larvata_KP233214
+OTU3132 23744,unk -1.25353 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_mulatta_AY360297
+OTU3137 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU3139 20613,unk -0.55219 4 Artiodactyla,Suidae,Sus,unk 0.835 Sus_barbatus_KP789021
+OTU3157 20872 -1.21926 4 Carnivora,Mustelidae,Lutra,lutra 0.933 Lutra_lutra_NC011358
+OTU3158 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU316 27091,unk -1.79812 4 Rodentia,Sciuridae,Tamiops,unk 0.813 Tamiops_swinhoei_AY227466
+OTU3175 20613,unk -0.559039 4 Artiodactyla,Suidae,Sus,unk 0.828 Sus_scrofa_KT965278
+OTU3185 20551 -0.398342 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.946 Muntiacus_vaginalis_KY052092
+OTU319 20850,unk -0.367374 4 Carnivora,Mustelidae,Arctonyx,unk 0.910 Arctonyx_collaris_NC020645
+OTU3190 25674,unk -1.40469 4 Rodentia,Hystricidae,Hystrix,unk 0.789 Hystrix_indica_JN714143
+OTU3194 20343,unk -0.594887 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_crispus_U87029
+OTU32 20343,unk -1.04985 4 Artiodactyla,Bovidae,Capricornis,unk 0.815 Capricornis_sumatraensis_JN093096
+OTU3203 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU3207 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU3219     0.756 Hydrochoerus_hydrochaeris_AF069533
+OTU324 21061 -0.55087 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU3240 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU3241 26289,unk -1.78469 4 Rodentia,Muridae,Niviventer,unk 0.772 Niviventer_confucianus_KJ152220
+OTU325     0.522 Cercopithecus_mona_JQ256980
+OTU3257 23744,unk -0.524037 4 Primates,Cercopithecidae,Macaca,unk 0.826 Macaca_nigra_KP072068
+OTU326     0.585 Cercopithecus_pogonias_AF435503
+OTU3265 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU327 20613,unk -0.161987 4 Artiodactyla,Suidae,Sus,unk 0.883 Sus_scrofa_KT965278
+OTU3273     0.711 Eumetopias_jubatus_GU475464
+OTU3277 23333,unk -0.121919 4 Lagomorpha,Leporidae,Nesolagus,unk 0.857 Nesolagus_timminsi_Andi001
+OTU3278     0.744 Melogale_moschata_NC020644
+OTU328 20613,unk -0.159277 4 Artiodactyla,Suidae,Sus,unk 0.875 Sus_barbatus_KP789021
+OTU3281     0.811 Paradoxurus_jerdoni_PJE1
+OTU3283 20613,unk -0.823836 4 Artiodactyla,Suidae,Sus,unk 0.831 Sus_scrofa_KP294522
+OTU3287 20894,unk -2.16108 4 Carnivora,Mustelidae,Melogale,unk 0.798 Melogale_moschata_KP726273
+OTU33 20908 -0.22376 4 Carnivora,Mustelidae,Mustela,kathiah 1.000 Mustela_kathiah_NC023210
+OTU3300     0.728 Eumetopias_jubatus_GU475464
+OTU3301 20540,unk -0.352957 4 Artiodactyla,Cervidae,Muntiacus,unk 0.868 Muntiacus_reevesi_KY117561
+OTU3302 20540,unk -0.361754 4 Artiodactyla,Cervidae,Muntiacus,unk 0.852 Muntiacus_atherodes_KY117559
+OTU3317 20900,unk -2.14641 4 Carnivora,Mustelidae,Mustela,unk 0.798 Mustela_kathiah_NC023210
+OTU3319     0.722 Rhinolophus_acuminatus_AY956397
+OTU3331 20613,unk -1.37669 4 Artiodactyla,Suidae,Sus,unk 0.859 Sus_scrofa_AY243487
+OTU3332 20851 -0.03497 4 Carnivora,Mustelidae,Arctonyx,collaris 0.978 Arctonyx_collaris_NC020645
+OTU3337     0.742 Oryctolagus_cuniculus_KC984210
+OTU3347 20540,unk -1.05069 4 Artiodactyla,Cervidae,Muntiacus,unk 0.798 Muntiacus_truongsonensis_AF108033
+OTU3362 26289,unk -0.64385 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_confucianus_KJ152220
+OTU3363     0.624 Callorhinus_ursinus_AM181016
+OTU3374 20881 -0.0488546 4 Carnivora,Mustelidae,Martes,flavigula 1.000 Martes_flavigula_NC012141
+OTU338 23744,unk -0.093671 4 Primates,Cercopithecidae,Macaca,unk 0.914 Macaca_arctoides_KJ567055
+OTU3381 27091,unk -2.35318 4 Rodentia,Sciuridae,Tamiops,unk 0.791 Tamiops_swinhoei_KP027416
+OTU3383 20540,unk -0.342545 4 Artiodactyla,Cervidae,Muntiacus,unk 0.854 Muntiacus_atherodes_KY117559
+OTU339     0.544 Cercopithecus_mona_JQ256980
+OTU34 20900,unk -0.731378 4 Carnivora,Mustelidae,Mustela,unk 0.888 Mustela_frenata_HM106321
+OTU3404 27183,unk -0.409043 4 Scandentia,Tupaiidae,Tupaia,unk 0.846 Tupaia_belangeri_JF795299
+OTU341 21060,unk -1.81791 4 Carnivora,Viverridae,Paguma,unk 0.870 Paguma_larvata_KP233214
+OTU342     0.711 Leopardus_colocolo_AF006411
+OTU3434     0.628 Cercopithecus_pogonias_AF435503
+OTU344     0.667 Arctocephalus_forsteri_AF513820
+OTU345     0.677 Chlorocebus_sabaeus_KJ193021
+OTU3468 23744,unk -0.829972 4 Primates,Cercopithecidae,Macaca,unk 0.806 Macaca_mulatta_AY360293
+OTU347     0.722 Callorhinus_ursinus_AM181016
+OTU348 20719,unk -1.48065 4 Carnivora,Felidae,Catopuma,unk 0.923 Catopuma_temminckii_NC027115
+OTU3485 20569,unk -1.69932 4 Artiodactyla,Cervidae,Rusa,unk 0.800 Rusa_unicolor_NC008414
+OTU3488 20343,unk -0.376345 4 Artiodactyla,Bovidae,Capricornis,unk 0.890 Capricornis_milneedwardsii_NC023457
+OTU3490 20759,unk -1.77736 4 Carnivora,Felidae,Prionailurus,unk 0.841 Prionailurus_bengalensis_KX857793
+OTU3491 20749,unk -0.928313 4 Carnivora,Felidae,Neofelis,unk 0.879 Neofelis_nebulosa_AY499301
+OTU3497 20760 -0.838727 4 Carnivora,Felidae,Prionailurus,bengalensis 1.000 Prionailurus_bengalensis_KX857796
+OTU3498 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU35 26289,unk -0.0931 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU350     0.656 Nasalis_larvatus_U39012
+OTU3504 20613,unk -1.08873 4 Artiodactyla,Suidae,Sus,unk 0.800 Sus_scrofa_KP294522
+OTU3523 20894,unk -2.96936 4 Carnivora,Mustelidae,Melogale,unk 0.767 Melogale_moschata_NC020644
+OTU3534     0.685 Gulo_gulo_KR611313
+OTU355     0.657 Limnonectes_kohchangae_GU934332
+OTU3556 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU3566 20797,unk -2.20607 4 Carnivora,Herpestidae,Herpestes,unk 0.796 Herpestes_javanicus_KY117548
+OTU357     0.689 Leopardus_colocolo_AF006411
+OTU3575 20613,unk -2.15671 4 Artiodactyla,Suidae,Sus,unk 0.764 Sus_scrofa_KT194217
+OTU358     0.689 Galidia_elegans_AF006403
+OTU3581     0.685 Sus_scrofa_KT194217
+OTU3582 26289,unk -0.0522027 4 Rodentia,Muridae,Niviventer,unk 0.956 Niviventer_excelsior_JQ927552
+OTU3587 20613,unk -2.9614 4 Artiodactyla,Suidae,Sus,unk 0.753 Sus_scrofa_KP294522
+OTU359 26289,unk -0.406275 4 Rodentia,Muridae,Niviventer,unk 0.867 Niviventer_excelsior_JQ927552
+OTU36 27184 -0.122392 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795299
+OTU360 20749,unk -1.21109 4 Carnivora,Felidae,Neofelis,unk 0.897 Neofelis_nebulosa_AY499301
+OTU3605 20613,unk -0.474409 4 Artiodactyla,Suidae,Sus,unk 0.833 Sus_barbatus_KP789021
+OTU3635 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU3639     0.802 Canis_lupus_KU290753
+OTU364     0.699 Cercocebus_torquatus_KJ193044
+OTU3648 20551 -0.398342 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.946 Muntiacus_vaginalis_KY052092
+OTU3651 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU3668 23946,unk -0.820049 4 Primates,Hominidae,Homo,unk 0.828 Homo_sapiens_AY963586
+OTU3675     0.697 Homo_sapiens_X93334
+OTU3677 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU3679 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU368 21061 -1.30168 4 Carnivora,Viverridae,Paguma,larvata 0.923 Paguma_larvata_KP233214
+OTU3686 20343,unk -0.594905 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_crispus_U87029
+OTU369     0.467 Eothenomys_melanogaster_KP997311
+OTU3690 20900,unk -1.5363 4 Carnivora,Mustelidae,Mustela,unk 0.837 Mustela_frenata_HM106321
+OTU3696 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU37 20872 -1.21926 4 Carnivora,Mustelidae,Lutra,lutra 0.933 Lutra_lutra_NC011358
+OTU3705 20551 -0.398342 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.946 Muntiacus_vaginalis_KY052092
+OTU3715 25674,unk -0.255846 4 Rodentia,Hystricidae,Hystrix,unk 0.978 Hystrix_indica_JN714143
+OTU3727 20613,unk -0.175194 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU3733 21060,unk -1.24523 4 Carnivora,Viverridae,Paguma,unk 0.870 Paguma_larvata_KP233214
+OTU3739 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU3747     0.635 Eumetopias_jubatus_GU475464
+OTU375 10316 -0.309899 4 Galliformes,Phasianidae,Lophura,ignita 0.960 Lophura_ignita_AB164627
+OTU3751 20879,unk -1.69683 4 Carnivora,Mustelidae,Martes,unk 0.843 Martes_flavigula_NC012141
+OTU3753 20894,unk -0.682295 4 Carnivora,Mustelidae,Melogale,unk 0.854 Melogale_moschata_NC020644
+OTU3758 20343,unk -0.887805 4 Artiodactyla,Bovidae,Capricornis,unk 0.824 Capricornis_sumatraensis_JN093096
+OTU376 25674,unk -1.7756 4 Rodentia,Hystricidae,Hystrix,unk 0.774 Hystrix_indica_JN714143
+OTU3766     0.659 Eumetopias_jubatus_GU475464
+OTU3769     0.539 Aotus_lemurinus_FJ785421
+OTU377     0.767 Lycalopex_culpaeus_DQ402045
+OTU3772     0.589 Macaca_nigra_KY117592
+OTU3776 23744,unk -0.030725 4 Primates,Cercopithecidae,Macaca,unk 0.935 Macaca_nigra_KP072068
+OTU3789 23744,unk -0.106306 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_mulatta_AY360318
+OTU3799     0.636 Martes_flavigula_NC012141
+OTU38     0.500 Aotus_lemurinus_FJ785421
+OTU381     0.956 Belomys_pearsonii_AY227483
+OTU3825 23333,unk -0.574049 4 Lagomorpha,Leporidae,Nesolagus,unk 0.798 Nesolagus_timminsi_Andi001
+OTU3829     0.736 Eumetopias_jubatus_GU475464
+OTU383     0.742 Nasalis_larvatus_U39012
+OTU3830     0.780 Callorhinus_ursinus_AM181016
+OTU3837 20900,unk -2.16419 4 Carnivora,Mustelidae,Mustela,unk 0.798 Mustela_frenata_HM106321
+OTU3840 27137 -0.0386793 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU386 27136,unk -0.169458 4 Rodentia,Spalacidae,Rhizomys,unk 0.914 Rhizomys_pruinosus_NC021478
+OTU3866     0.699 Chlorocebus_sabaeus_KJ193019
+OTU389     0.489 Maxomys_surifer_KY117565
+OTU39 20749,unk -0.928313 4 Carnivora,Felidae,Neofelis,unk 0.879 Neofelis_nebulosa_AY499301
+OTU391     0.421 Agalychnis_annae_GQ366221
+OTU3912     0.656 Trachypithecus_cristatus_NC023971
+OTU3914 21060,unk -1.96907 4 Carnivora,Viverridae,Paguma,unk 0.846 Paguma_larvata_KP233214
+OTU3920 23744,unk -0.300798 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_arctoides_KM360179
+OTU3924 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU394 11734 -1.2303 4 Passeriformes,Corvidae,Urocissa,erythroryncha 0.980 Urocissa_erythroryncha_JQ423932
+OTU3963     0.671 Callorhinus_ursinus_AM181016
+OTU3965     0.522 Rhinoceros_sondaicus_FJ905815
+OTU3982      
+OTU3983 26289,unk -0.944729 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU4 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU40 20760 -0.838727 4 Carnivora,Felidae,Prionailurus,bengalensis 1.000 Prionailurus_bengalensis_KX857796
+OTU4005     0.622 Alouatta_seniculus_HQ644333
+OTU4006 20613,unk -0.518068 4 Artiodactyla,Suidae,Sus,unk 0.831 Sus_barbatus_KP789021
+OTU4008 20613,unk -1.46185 4 Artiodactyla,Suidae,Sus,unk 0.785 Sus_barbatus_KP789021
+OTU4009     0.589 Aotus_trivirgatus_DQ334827
+OTU4012 20900,unk -1.5898 4 Carnivora,Mustelidae,Mustela,unk 0.820 Mustela_altaica_KC815122
+OTU4013     0.730 Martes_flavigula_NC012141
+OTU4016 23744,unk -1.59077 4 Primates,Cercopithecidae,Macaca,unk 0.773 Macaca_nigra_KP072068
+OTU4025 26289,unk -1.00163 4 Rodentia,Muridae,Niviventer,unk 0.802 Niviventer_excelsior_JQ927552
+OTU4033 20797,unk -2.72736 4 Carnivora,Herpestidae,Herpestes,unk 0.778 Herpestes_semitorquatus_HSE4
+OTU405 26245 -0.563249 4 Rodentia,Muridae,Mus,musculus 1.000 Mus_musculus_V00665
+OTU4050 20613,unk -0.43272 4 Artiodactyla,Suidae,Sus,unk 0.840 Sus_scrofa_JN601070
+OTU4054 20540,unk -0.277891 4 Artiodactyla,Cervidae,Muntiacus,unk 0.878 Muntiacus_crinifrons_EF523631
+OTU4059 27183,unk -2.26322 4 Scandentia,Tupaiidae,Tupaia,unk 0.772 Tupaia_belangeri_JF795299
+OTU4063 27184 -0.122392 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795299
+OTU4067     0.761 Homo_sapiens_HM041971
+OTU4069 21010 -2.15151 4 Carnivora,Procyonidae,Procyon,lotor 0.979 Procyon_lotor_AM711899
+OTU407     0.660 Trachypithecus_cristatus_NC023971
+OTU4070 20851 -0.03497 4 Carnivora,Mustelidae,Arctonyx,collaris 0.978 Arctonyx_collaris_NC020645
+OTU4085     0.589 Cercopithecus_campbelli_KJ193272
+OTU41 26289,unk -0.476502 4 Rodentia,Muridae,Niviventer,unk 0.856 Niviventer_excelsior_JQ927552
+OTU410     0.689 Arctocephalus_forsteri_AF513820
+OTU411     0.722 Callorhinus_ursinus_AM181016
+OTU4114     0.708 Felis_catus_U20753
+OTU4115 20613,unk -0.536974 4 Artiodactyla,Suidae,Sus,unk 0.828 Sus_barbatus_KP789021
+OTU4119 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU412 27136,unk -1.15949 4 Rodentia,Spalacidae,Rhizomys,unk 0.798 Rhizomys_pruinosus_NC021478
+OTU4124 25671,unk -0.666556 4 Rodentia,Hystricidae,Atherurus,unk 0.894 Atherurus_africanus_KJ193006
+OTU4126 20900,unk -1.98423 4 Carnivora,Mustelidae,Mustela,unk 0.802 Mustela_frenata_HM106321
+OTU413 23977 -0.270336 4 Primates,Hylobatidae,Nomascus,siki 1.000 Nomascus_siki_HQ622805
+OTU4130 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU4132     0.775 Martes_flavigula_NC012141
+OTU4142 20894,unk -0.658015 4 Carnivora,Mustelidae,Melogale,unk 0.933 Melogale_moschata_NC020644
+OTU4143 20871,unk -1.36295 4 Carnivora,Mustelidae,Lutra,unk 0.831 Lutra_sumatrana_KY117556
+OTU4144 20871,unk -0.87365 4 Carnivora,Mustelidae,Lutra,unk 0.854 Lutra_sumatrana_KY117556
+OTU4147 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU4149 20573 -0.0678144 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU415     0.648 Cercopithecus_cephus_AF435515
+OTU4151 20573 -0.0678151 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU4157 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU4158 25674,unk -0.620534 4 Rodentia,Hystricidae,Hystrix,unk 0.817 Hystrix_indica_JN714143
+OTU416     0.756 Arctocephalus_forsteri_AF513820
+OTU4162 27137 -0.0386793 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU4169     0.682 Martes_flavigula_NC012141
+OTU417 20540,unk -1.31302 4 Artiodactyla,Cervidae,Muntiacus,unk 0.802 Muntiacus_atherodes_KY117559
+OTU4173 20343,unk -0.609596 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_crispus_U87029
+OTU4176     0.633 Cercopithecus_pogonias_AF435503
+OTU4188     0.682 Eumetopias_jubatus_GU475464
+OTU4192 25674,unk -0.484968 4 Rodentia,Hystricidae,Hystrix,unk 0.860 Hystrix_indica_JN714143
+OTU4194     0.758 Atherurus_africanus_KJ193000
+OTU4197     0.773 Martes_flavigula_NC012141
+OTU42     0.567 Cercopithecus_pogonias_AF435503
+OTU4200     0.722 Melogale_moschata_NC020644
+OTU4204 20343,unk -1.91014 4 Artiodactyla,Bovidae,Capricornis,unk 0.785 Capricornis_milneedwardsii_NC023457
+OTU421     0.667 Leopardus_colocolo_AF006411
+OTU4212     0.625 Saguinus_leucopus_EU497286
+OTU4213     0.806 Dremomys_rufigenis_AY227454
+OTU4214 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU4216     0.539 Callosciurus_erythraeus_KM502568
+OTU422 26289,unk -0.221454 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_excelsior_JQ927552
+OTU4220     0.724 Canis_lupus_NC009686
+OTU4224     0.780 Callorhinus_ursinus_AM181016
+OTU423     0.570 Cercopithecus_denti_JQ256988
+OTU4232     0.714 Hystrix_indica_JN714143
+OTU4235 25674,unk -2.7711 4 Rodentia,Hystricidae,Hystrix,unk 0.747 Hystrix_indica_JN714143
+OTU4244 20343,unk -0.5522 4 Artiodactyla,Bovidae,Capricornis,unk 0.854 Capricornis_crispus_U87029
+OTU4250 26289,unk -2.44007 4 Rodentia,Muridae,Niviventer,unk 0.763 Niviventer_cremoriventer_KY117573
+OTU4253 20540,unk -0.339866 4 Artiodactyla,Cervidae,Muntiacus,unk 0.867 Muntiacus_atherodes_KY117559
+OTU4255 21060,unk -1.29882 4 Carnivora,Viverridae,Paguma,unk 0.870 Paguma_larvata_KP233214
+OTU4256 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU4259      
+OTU4266 20797,unk -0.840847 4 Carnivora,Herpestidae,Herpestes,unk 0.846 Herpestes_brachyurus_KY117547
+OTU4276 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU4283 26289,unk -1.99592 4 Rodentia,Muridae,Niviventer,unk 0.800 Niviventer_confucianus_KJ152220
+OTU429     0.739 Maxomys_surifer_KY117566
+OTU43 27091,unk -1.11736 4 Rodentia,Sciuridae,Tamiops,unk 0.843 Tamiops_swinhoei_KP027416
+OTU430     0.708 Leopardus_guigna_KF979222
+OTU4316 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU4328 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU4333 25674,unk -0.210616 4 Rodentia,Hystricidae,Hystrix,unk 0.860 Hystrix_indica_JN714143
+OTU4341     0.611 Cercopithecus_pogonias_AF435503
+OTU4356 20540,unk -1.78138 4 Artiodactyla,Cervidae,Muntiacus,unk 0.802 Muntiacus_vuquangensis_AF108034
+OTU4360 20871,unk -1.26325 4 Carnivora,Mustelidae,Lutra,unk 0.831 Lutra_sumatrana_KY117556
+OTU4362     0.750 Martes_flavigula_NC012141
+OTU4374 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU4382 20657 -0.856044 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_KU291019
+OTU4383 23333,unk -0.339384 4 Lagomorpha,Leporidae,Nesolagus,unk 0.819 Nesolagus_timminsi_Andi001
+OTU4384 23333,unk -1.94086 4 Lagomorpha,Leporidae,Nesolagus,unk 0.755 Nesolagus_timminsi_Andi001
+OTU439     0.674 Cercopithecus_cephus_AF435515
+OTU44 20881 -0.0488546 4 Carnivora,Mustelidae,Martes,flavigula 1.000 Martes_flavigula_NC012141
+OTU440     0.720 Nasalis_larvatus_U39012
+OTU4404 26289,unk -0.944729 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU441 20850,unk -1.44782 4 Carnivora,Mustelidae,Arctonyx,unk 0.809 Arctonyx_collaris_NC020645
+OTU4422 17497 -1.6291 4 Passeriformes,Turdidae,Geokichla,princei 0.959 Geokichla_princei_AF151422
+OTU443 20759,unk -1.78285 4 Carnivora,Felidae,Prionailurus,unk 0.822 Prionailurus_bengalensis_KX857793
+OTU4444     0.706 Eumetopias_jubatus_GU475464
+OTU4447 20900,unk -2.57424 4 Carnivora,Mustelidae,Mustela,unk 0.791 Mustela_frenata_HM106321
+OTU4450 20551 -0.192401 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU4451 20613,unk -0.0693653 4 Artiodactyla,Suidae,Sus,unk 0.910 Sus_barbatus_KP789021
+OTU4452     0.791 Maxomys_surifer_KY117566
+OTU4456     0.692 Herpestes_semitorquatus_HSE4
+OTU446 20759,unk -1.55222 4 Carnivora,Felidae,Prionailurus,unk 0.889 Prionailurus_bengalensis_NC016189
+OTU4471     0.678 Melogale_moschata_NC020644
+OTU4477 20613,unk -0.891157 4 Artiodactyla,Suidae,Sus,unk 0.817 Sus_scrofa_KT965278
+OTU4483 23744,unk -1.4887 4 Primates,Cercopithecidae,Macaca,unk 0.763 Macaca_fuscata_KM401548
+OTU4484 20900,unk -2.57897 4 Carnivora,Mustelidae,Mustela,unk 0.791 Mustela_frenata_HM106321
+OTU4486 678,unk -1.49307 4 Anura,Bufonidae,Ingerophrynus,unk 0.925 Ingerophrynus_galeatus_EU366289
+OTU45 683 -0.339557 4 Anura,Bufonidae,Ingerophrynus,galeatus 1.000 Ingerophrynus_galeatus_EU366289
+OTU4502 23744,unk -0.181053 4 Primates,Cercopithecidae,Macaca,unk 0.871 Macaca_mulatta_AY360318
+OTU4522 20613,unk -1.84688 4 Artiodactyla,Suidae,Sus,unk 0.774 Sus_barbatus_KP789021
+OTU4523 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU4526 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU4535 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU4536 20613,unk -1.7 4 Artiodactyla,Suidae,Sus,unk 0.778 Sus_scrofa_KP294522
+OTU4538 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU4555 20552 -0.0652254 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 0.978 Muntiacus_vuquangensis_AF108034
+OTU4561 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU4569 21072,unk -1.16688 4 Carnivora,Viverridae,Viverra,unk 0.856 Viverra_tangalunga_VTA
+OTU457 27091,unk -1.26409 4 Rodentia,Sciuridae,Tamiops,unk 0.835 Tamiops_swinhoei_KP027416
+OTU4572 20552 -0.045853 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 1.000 Muntiacus_vuquangensis_AF108034
+OTU458 26794,unk -0.100086 4 Rodentia,Sciuridae,Callosciurus,unk 0.911 Callosciurus_erythraeus_KM502568
+OTU4583     0.791 Maxomys_surifer_KY117566
+OTU4585 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU4586 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU4587      
+OTU459 20613,unk -0.234915 4 Artiodactyla,Suidae,Sus,unk 0.860 Sus_scrofa_KT965278
+OTU4592 23333,unk -0.566782 4 Lagomorpha,Leporidae,Nesolagus,unk 0.811 Nesolagus_timminsi_Andi001
+OTU46 27091,unk -1.19353 4 Rodentia,Sciuridae,Tamiops,unk 0.843 Tamiops_swinhoei_KP027416
+OTU4605     0.733 Martes_foina_HM106325
+OTU4612     0.767 Callorhinus_ursinus_AM181016
+OTU4614     0.756 Arctocephalus_forsteri_AF513820
+OTU4615     0.689 Callorhinus_ursinus_AM181016
+OTU464     0.656 Leopardus_guigna_KF979222
+OTU465 23748 -0.594427 4 Primates,Cercopithecidae,Macaca,fascicularis 0.978 Macaca_fascicularis_KM851028
+OTU4654      
+OTU4663 20797,unk -0.821832 4 Carnivora,Herpestidae,Herpestes,unk 0.913 Herpestes_semitorquatus_HSE4
+OTU4664     0.677 Homo_sapiens_AY882412
+OTU467     0.681 Tupaia_minor_JF795313
+OTU4675 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU468     0.578 Alouatta_seniculus_HQ644333
+OTU47 20749,unk -1.84421 4 Carnivora,Felidae,Neofelis,unk 0.867 Neofelis_nebulosa_AY499301
+OTU470     0.611 Callorhinus_ursinus_AM181016
+OTU4702 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU472 20719,unk -2.47696 4 Carnivora,Felidae,Catopuma,unk 0.848 Catopuma_temminckii_KX224504
+OTU473 15292 -1.57562 4 Passeriformes,Pellorneidae,Malacocincla,abbotti 0.960 Malacocincla_abbotti_AF484370
+OTU4737 20894,unk -2.74785 4 Carnivora,Mustelidae,Melogale,unk 0.770 Melogale_moschata_NC020644
+OTU4752 20894,unk -1.28469 4 Carnivora,Mustelidae,Melogale,unk 0.818 Melogale_moschata_NC020644
+OTU4754 20897 -0.0884931 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU4757     0.635 Arctocephalus_pusillus_AM181018
+OTU477     0.633 Callorhinus_ursinus_AM181016
+OTU4774     0.624 Melogale_moschata_NC020644
+OTU4776     0.554 Melogale_moschata_NC020644
+OTU478 20540,unk -0.286195 4 Artiodactyla,Cervidae,Muntiacus,unk 0.912 Muntiacus_atherodes_KY117559
+OTU48 20894,unk -0.658015 4 Carnivora,Mustelidae,Melogale,unk 0.933 Melogale_moschata_NC020644
+OTU4804 23946,unk -0.542971 4 Primates,Hominidae,Homo,unk 0.867 Homo_sapiens_KF162206
+OTU4807     0.453 Hynobius_leechii_DQ888060
+OTU4812 20573 -0.0836697 4 Artiodactyla,Cervidae,Rusa,unicolor 0.978 Rusa_unicolor_NC008414
+OTU4821 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU4822     0.659 Sus_barbatus_KP789021
+OTU4823 25671,unk -0.751357 4 Rodentia,Hystricidae,Atherurus,unk 0.872 Atherurus_africanus_KJ193006
+OTU4825 20894,unk -2.4034 4 Carnivora,Mustelidae,Melogale,unk 0.779 Melogale_moschata_KP726273
+OTU483     0.722 Callorhinus_ursinus_AM181016
+OTU4831 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU4838 21060,unk -1.04323 4 Carnivora,Viverridae,Paguma,unk 0.914 Paguma_larvata_KP233214
+OTU4842 20569,unk -1.49535 4 Artiodactyla,Cervidae,Rusa,unk 0.805 Rusa_unicolor_NC008414
+OTU4850 21060,unk -1.04342 4 Carnivora,Viverridae,Paguma,unk 0.914 Paguma_larvata_KP233214
+OTU486     0.602 Rhizomys_pruinosus_NC021478
+OTU4863 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU487     0.711 Arctocephalus_forsteri_AF513820
+OTU4880     0.552 Macaca_arctoides_KJ567055
+OTU4881     0.540 Atherurus_africanus_KJ193006
+OTU4888     0.644 Homo_sapiens_KC346233
+OTU489 15687,unk -2.42034 4 Passeriformes,Ploceidae,Ploceus,unk 0.840 Ploceus_philippinus_KJ442619
+OTU4890     0.630 Atherurus_africanus_KJ193006
+OTU4893 25674,unk -0.183196 4 Rodentia,Hystricidae,Hystrix,unk 0.868 Hystrix_indica_JN714143
+OTU4894 23744,unk -2.62808 4 Primates,Cercopithecidae,Macaca,unk 0.753 Macaca_arctoides_KM360179
+OTU4895 23744,unk -0.349492 4 Primates,Cercopithecidae,Macaca,unk 0.844 Macaca_arctoides_KJ567055
+OTU4897     0.583 Macaca_arctoides_KJ567055
+OTU4899 25674,unk -0.113044 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU49     0.636 Limnonectes_kohchangae_KR827893
+OTU490 27091,unk -2.33161 4 Rodentia,Sciuridae,Tamiops,unk 0.791 Tamiops_swinhoei_KP027416
+OTU4900 25674,unk -0.189172 4 Rodentia,Hystricidae,Hystrix,unk 0.870 Hystrix_indica_JN714143
+OTU4909 20613,unk -2.11538 4 Artiodactyla,Suidae,Sus,unk 0.772 Sus_barbatus_KP789021
+OTU4922 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU4923     0.600 Macaca_assamensis_KF990122
+OTU4929 25674,unk -0.113042 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU4950     0.506 Saguinus_geoffroyi_U39008
+OTU4955 25674,unk -1.72153 4 Rodentia,Hystricidae,Hystrix,unk 0.771 Hystrix_indica_JN714143
+OTU496 27091,unk -0.441661 4 Rodentia,Sciuridae,Tamiops,unk 0.901 Tamiops_swinhoei_KP027416
+OTU4961 25674,unk -0.0764246 4 Rodentia,Hystricidae,Hystrix,unk 0.913 Hystrix_indica_JN714143
+OTU4962     0.626 Atherurus_africanus_KJ193006
+OTU4964     0.663 Eumetopias_jubatus_GU475464
+OTU4968 21060,unk -0.800708 4 Carnivora,Viverridae,Paguma,unk 0.911 Paguma_larvata_KP233214
+OTU497     0.742 Nasalis_larvatus_U39012
+OTU4984 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU4985     0.700 Arctocephalus_forsteri_AF513820
+OTU4987 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU499     0.806 Otomys_irroratus_AF141253
+OTU4993 21061 -0.292545 4 Carnivora,Viverridae,Paguma,larvata 0.957 Paguma_larvata_KP233214
+OTU5 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU50 23744,unk -2.35702 4 Primates,Cercopithecidae,Macaca,unk 0.742 Macaca_mulatta_AY360318
+OTU5002 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU5006 23754 -0.0135603 4 Primates,Cercopithecidae,Macaca,mulatta 1.000 Macaca_mulatta_AY360312
+OTU501 23744,unk -0.283979 4 Primates,Cercopithecidae,Macaca,unk 0.935 Macaca_fascicularis_KM851032
+OTU5020     0.659 Martes_flavigula_NC012141
+OTU5022 23744,unk -0.0927685 4 Primates,Cercopithecidae,Macaca,unk 0.901 Macaca_assamensis_KF990122
+OTU5023     0.567 Cercopithecus_mona_JQ256980
+OTU5026     0.744 Callorhinus_ursinus_AM181016
+OTU5031     0.744 Callorhinus_ursinus_AM181016
+OTU5064     0.656 Homo_sapiens_AY714029
+OTU5083 26289,unk -0.0931 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU509 21060,unk -1.27985 4 Carnivora,Viverridae,Paguma,unk 0.870 Paguma_larvata_KP233214
+OTU5092     0.705 Nesolagus_timminsi_Andi001
+OTU51     0.654 Limnonectes_kohchangae_KR827893
+OTU5102 23333,unk -0.061327 4 Lagomorpha,Leporidae,Nesolagus,unk 0.879 Nesolagus_timminsi_Andi001
+OTU5104     0.652 Nesolagus_timminsi_Andi001
+OTU5105     0.697 Paguma_larvata_KP233214
+OTU5107 23333,unk -1.33367 4 Lagomorpha,Leporidae,Nesolagus,unk 0.762 Nesolagus_timminsi_Andi001
+OTU511     0.589 Aotus_lemurinus_FJ785421
+OTU5111 23333,unk -2.12413 4 Lagomorpha,Leporidae,Nesolagus,unk 0.796 Nesolagus_timminsi_Andi001
+OTU5112 23333,unk -0.071388 4 Lagomorpha,Leporidae,Nesolagus,unk 0.876 Nesolagus_timminsi_Andi001
+OTU5113 21060,unk -0.848973 4 Carnivora,Viverridae,Paguma,unk 0.891 Paguma_larvata_KP233214
+OTU5114 21060,unk -0.842518 4 Carnivora,Viverridae,Paguma,unk 0.913 Paguma_larvata_KP233214
+OTU5116 21061 -1.0807 4 Carnivora,Viverridae,Paguma,larvata 0.923 Paguma_larvata_KP233214
+OTU5119 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU5137 23748 -0.038094 4 Primates,Cercopithecidae,Macaca,fascicularis 0.978 Macaca_fascicularis_KM851035
+OTU5143 23748 -0.038062 4 Primates,Cercopithecidae,Macaca,fascicularis 0.978 Macaca_fascicularis_KM851035
+OTU5147 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU5149 20797,unk -2.60116 4 Carnivora,Herpestidae,Herpestes,unk 0.774 Herpestes_semitorquatus_HSE4
+OTU5154 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU518 25674,unk -0.113348 4 Rodentia,Hystricidae,Hystrix,unk 0.891 Hystrix_indica_JN714143
+OTU519 21060,unk -1.61442 4 Carnivora,Viverridae,Paguma,unk 0.849 Paguma_larvata_KP233214
+OTU5190     0.648 Oryx_leucoryx_U87021
+OTU5199     0.611 Aotus_lemurinus_FJ785421
+OTU52 26794,unk -0.887844 4 Rodentia,Sciuridae,Callosciurus,unk 0.818 Callosciurus_erythraeus_KY117538
+OTU5216     0.711 Eumetopias_jubatus_GU475464
+OTU5218 20343,unk -2.65658 4 Artiodactyla,Bovidae,Capricornis,unk 0.766 Capricornis_milneedwardsii_NC023457
+OTU523 21029,unk -1.30448 4 Carnivora,Viverridae,Arctictis,unk 0.878 Arctictis_binturong_KY117560
+OTU5248 20343,unk -0.714609 4 Artiodactyla,Bovidae,Capricornis,unk 0.846 Capricornis_milneedwardsii_NC023457
+OTU5252 20759,unk -2.66764 4 Carnivora,Felidae,Prionailurus,unk 0.791 Prionailurus_viverrinus_KR132596
+OTU5256 20797,unk -1.47 4 Carnivora,Herpestidae,Herpestes,unk 0.832 Herpestes_semitorquatus_HSE4
+OTU5257 23946,unk -1.06757 4 Primates,Hominidae,Homo,unk 0.817 Homo_sapiens_JQ044886
+OTU5262 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU529      
+OTU5297 20613,unk -0.174826 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU53     0.744 Callorhinus_ursinus_AM181016
+OTU530 26289,unk -0.597417 4 Rodentia,Muridae,Niviventer,unk 0.833 Niviventer_confucianus_KJ152220
+OTU5308 20622 -0.0273652 4 Artiodactyla,Suidae,Sus,scrofa 0.978 Sus_scrofa_NC014692
+OTU5309 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU5314 20797,unk -2.9717 4 Carnivora,Herpestidae,Herpestes,unk 0.778 Herpestes_brachyurus_KY117547
+OTU5326 20613,unk -0.101126 4 Artiodactyla,Suidae,Sus,unk 0.892 Sus_barbatus_KP789021
+OTU5327 26289,unk -0.6957 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_excelsior_JQ927552
+OTU533 20540,unk -0.479804 4 Artiodactyla,Cervidae,Muntiacus,unk 0.851 Muntiacus_atherodes_KY117559
+OTU5330 20613,unk -1.94591 4 Artiodactyla,Suidae,Sus,unk 0.789 Sus_scrofa_AY243488
+OTU5333     0.700 Moschus_anhuiensis_KC013352
+OTU5335 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU5340 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU5343 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU5360 25674,unk -0.0461055 4 Rodentia,Hystricidae,Hystrix,unk 0.957 Hystrix_indica_JN714143
+OTU5370 20613,unk -1.08755 4 Artiodactyla,Suidae,Sus,unk 0.831 Sus_barbatus_KP789021
+OTU539     0.607 Callorhinus_ursinus_AM181016
+OTU54 21075 -0.366685 4 Carnivora,Viverridae,Viverra,tangalunga 1.000 Viverra_tangalunga_VTA
+OTU540 20540,unk -0.328777 4 Artiodactyla,Cervidae,Muntiacus,unk 0.868 Muntiacus_atherodes_KY117559
+OTU541     0.567 Cercopithecus_cephus_JQ256947
+OTU5410 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU5411     0.558 Oligoryzomys_flavescens_JQ627262
+OTU5412     0.767 Rattus_tiomanicus_NC029888
+OTU5414 20613,unk -0.175525 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_barbatus_KP789021
+OTU5416 26289,unk -0.863566 4 Rodentia,Muridae,Niviventer,unk 0.835 Niviventer_excelsior_JQ927552
+OTU5419     0.544 Oligoryzomys_flavescens_JQ627262
+OTU542 26794,unk -2.85264 4 Rodentia,Sciuridae,Callosciurus,unk 0.719 Callosciurus_notatus_KY117541
+OTU5420 20343,unk -2.32598 4 Artiodactyla,Bovidae,Capricornis,unk 0.787 Capricornis_crispus_U87029
+OTU5433 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU5437     0.589 Leopoldamys_edwardsi_KM434322
+OTU5450 20540,unk -0.254785 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU547 20879,unk -1.35006 4 Carnivora,Mustelidae,Martes,unk 0.843 Martes_flavigula_NC012141
+OTU5477 25671,unk -2.31476 4 Rodentia,Hystricidae,Atherurus,unk 0.780 Atherurus_africanus_KJ193006
+OTU5479     0.682 Sus_scrofa_KT194217
+OTU5481 25671,unk -0.666556 4 Rodentia,Hystricidae,Atherurus,unk 0.894 Atherurus_africanus_KJ193006
+OTU5491     0.712 Axis_porcinus_KY117537
+OTU5498 20573 -0.083669 4 Artiodactyla,Cervidae,Rusa,unicolor 0.978 Rusa_unicolor_NC008414
+OTU55     0.767 Callorhinus_ursinus_AM181016
+OTU5510 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU5511     0.742 Sus_scrofa_KT316289
+OTU5513 20343,unk -2.47345 4 Artiodactyla,Bovidae,Capricornis,unk 0.779 Capricornis_milneedwardsii_NC023457
+OTU5519 25671,unk -0.666556 4 Rodentia,Hystricidae,Atherurus,unk 0.894 Atherurus_africanus_KJ193006
+OTU5543 20613,unk -0.315621 4 Artiodactyla,Suidae,Sus,unk 0.849 Sus_barbatus_KP789021
+OTU557     0.541 Pelobates_cultripes_DQ642099
+OTU5587 26289,unk -0.155606 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_confucianus_KJ152220
+OTU5595     0.769 Rattus_fuscipes_GU570664
+OTU56 26289,unk -0.64385 4 Rodentia,Muridae,Niviventer,unk 0.844 Niviventer_confucianus_KJ152220
+OTU5607 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU5608 26289,unk -0.243484 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_cremoriventer_KY117573
+OTU561 20613,unk -0.825493 4 Artiodactyla,Suidae,Sus,unk 0.813 Sus_barbatus_KP789021
+OTU5621     0.711 Eumetopias_jubatus_GU475464
+OTU5632     0.624 Callorhinus_ursinus_AM181016
+OTU5645     0.772 Rattus_lutreolus_GU570661
+OTU5657 26289,unk -0.0951072 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU5659 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU566 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU5662     0.529 Herpestes_semitorquatus_HSE4
+OTU5667 26798 -0.0384428 4 Rodentia,Sciuridae,Callosciurus,erythraeus 0.978 Callosciurus_erythraeus_KM502568
+OTU5668     0.589 Sus_barbatus_KP789021
+OTU5671 26798 -0.0384428 4 Rodentia,Sciuridae,Callosciurus,erythraeus 0.978 Callosciurus_erythraeus_KM502568
+OTU5673 20797,unk -0.266801 4 Carnivora,Herpestidae,Herpestes,unk 0.935 Herpestes_semitorquatus_HSE4
+OTU5674     0.530 Herpestes_semitorquatus_HSE4
+OTU5676 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU5677 20797,unk -0.419006 4 Carnivora,Herpestidae,Herpestes,unk 0.891 Herpestes_semitorquatus_HSE4
+OTU5680 20797,unk -1.4334 4 Carnivora,Herpestidae,Herpestes,unk 0.809 Herpestes_semitorquatus_HSE4
+OTU5681     0.695 Atherurus_africanus_KJ193006
+OTU5686 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU5687 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU5689     0.659 Herpestes_semitorquatus_HSE4
+OTU5690     0.674 Herpestes_semitorquatus_HSE4
+OTU5695     0.609 Herpestes_semitorquatus_HSE4
+OTU5696 20797,unk -1.29404 4 Carnivora,Herpestidae,Herpestes,unk 0.809 Herpestes_semitorquatus_HSE4
+OTU5699 26794,unk -0.0996991 4 Rodentia,Sciuridae,Callosciurus,unk 0.911 Callosciurus_erythraeus_KM502568
+OTU57 20749,unk -1.50941 4 Carnivora,Felidae,Neofelis,unk 0.857 Neofelis_nebulosa_AY499301
+OTU5700     0.473 Callosciurus_erythraeus_KM502568
+OTU5703 20651,unk -2.45357 4 Carnivora,Canidae,Canis,unk 0.933 Canis_lupus_EF152486
+OTU5705     0.570 Canis_lupus_AF064568
+OTU5716     0.839 Canis_lupus_EF152486
+OTU572 20894,unk -0.499159 4 Carnivora,Mustelidae,Melogale,unk 0.888 Melogale_moschata_NC020644
+OTU5725     0.890 Canis_lupus_AF064568
+OTU5726     0.602 Canis_latrans_KF661096
+OTU5728     0.899 Canis_lupus_HQ845257
+OTU5731     0.622 Canis_latrans_KF661096
+OTU5732 20657 -1.72917 4 Carnivora,Canidae,Canis,lupus 0.978 Canis_lupus_EF152486
+OTU5733 27137 -0.0386782 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU5746     0.682 Martes_flavigula_NC012141
+OTU5747 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU5749 20894,unk -2.06526 4 Carnivora,Mustelidae,Melogale,unk 0.798 Melogale_moschata_NC020644
+OTU575 20540,unk -0.32509 4 Artiodactyla,Cervidae,Muntiacus,unk 0.913 Muntiacus_truongsonensis_AF108033
+OTU5760     0.763 Cephalophus_dorsalis_KJ193262
+OTU5763     0.763 Cephalophus_dorsalis_KJ193262
+OTU5790 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU58     0.633 Aotus_lemurinus_FJ785421
+OTU580 20900,unk -1.15412 4 Carnivora,Mustelidae,Mustela,unk 0.872 Mustela_frenata_HM106321
+OTU5826 20622 -0.232698 4 Artiodactyla,Suidae,Sus,scrofa 0.957 Sus_scrofa_NC014692
+OTU5827 20613,unk -0.101821 4 Artiodactyla,Suidae,Sus,unk 0.892 Sus_barbatus_KP789021
+OTU5828 20343,unk -1.80143 4 Artiodactyla,Bovidae,Capricornis,unk 0.787 Capricornis_milneedwardsii_NC023457
+OTU5829 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU583 21072,unk -2.29683 4 Carnivora,Viverridae,Viverra,unk 0.796 Viverra_tangalunga_VTA
+OTU5830 23948 -0.0207373 4 Primates,Hominidae,Homo,sapiens 0.978 Homo_sapiens_KC346233
+OTU585 21072,unk -2.10352 4 Carnivora,Viverridae,Viverra,unk 0.826 Viverra_tangalunga_VTA
+OTU5862 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU5869 20657 -1.31428 4 Carnivora,Canidae,Canis,lupus 1.000 Canis_lupus_EF152486
+OTU587     0.616 Eumetopias_jubatus_GU475464
+OTU5870 20657 -1.72917 4 Carnivora,Canidae,Canis,lupus 0.978 Canis_lupus_EF152486
+OTU5871 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU5876 26289,unk -0.155592 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_confucianus_KJ152220
+OTU5888     0.534 Aotus_trivirgatus_DQ334827
+OTU5891 26289,unk -0.415955 4 Rodentia,Muridae,Niviventer,unk 0.867 Niviventer_cremoriventer_KY117573
+OTU59     0.756 Arctocephalus_forsteri_AF513820
+OTU5900 20622 -0.0284042 4 Artiodactyla,Suidae,Sus,scrofa 0.978 Sus_scrofa_JN714158
+OTU5904     0.600 Alionycteris_paucidentata_GQ410339
+OTU5914     0.717 Chlorocebus_sabaeus_KJ193019
+OTU593 20797,unk -0.972471 4 Carnivora,Herpestidae,Herpestes,unk 0.875 Herpestes_semitorquatus_HSE4
+OTU5957 27136,unk -0.169455 4 Rodentia,Spalacidae,Rhizomys,unk 0.914 Rhizomys_pruinosus_NC021478
+OTU596 26289,unk -1.40737 4 Rodentia,Muridae,Niviventer,unk 0.789 Niviventer_excelsior_JQ927552
+OTU597 26289,unk -1.44694 4 Rodentia,Muridae,Niviventer,unk 0.785 Niviventer_confucianus_KJ152220
+OTU5978     0.624 Callorhinus_ursinus_AM181016
+OTU5984 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU599 27091,unk -0.725936 4 Rodentia,Sciuridae,Tamiops,unk 0.867 Tamiops_swinhoei_KP027416
+OTU5996     0.744 Gulo_gulo_KR611313
+OTU6 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU60 23746 -0.707073 4 Primates,Cercopithecidae,Macaca,assamensis 0.935 Macaca_assamensis_KF990122
+OTU600 23333,unk -0.0695706 4 Lagomorpha,Leporidae,Nesolagus,unk 0.879 Nesolagus_timminsi_Andi001
+OTU601     0.628 Rhizomys_pruinosus_NC021478
+OTU6024     0.769 Maxomys_surifer_KY117566
+OTU6026     0.769 Maxomys_surifer_KY117566
+OTU604 21060,unk -1.00989 4 Carnivora,Viverridae,Paguma,unk 0.892 Paguma_larvata_KP233214
+OTU6045     0.747 Maxomys_surifer_KY117566
+OTU6046 25674,unk -0.0413924 4 Rodentia,Hystricidae,Hystrix,unk 0.957 Hystrix_indica_JN714143
+OTU6049 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU6058     0.692 Nesolagus_timminsi_Andi001
+OTU606     0.678 Leopardus_guigna_KF979222
+OTU6068 21061 -0.221851 4 Carnivora,Viverridae,Paguma,larvata 0.978 Paguma_larvata_KP233214
+OTU6083 20540,unk -0.452596 4 Artiodactyla,Cervidae,Muntiacus,unk 0.846 Muntiacus_crinifrons_EF523631
+OTU6089 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU609 26289,unk -2.35516 4 Rodentia,Muridae,Niviventer,unk 0.747 Niviventer_confucianus_KJ152220
+OTU6090 25674,unk -0.0764246 4 Rodentia,Hystricidae,Hystrix,unk 0.913 Hystrix_indica_JN714143
+OTU6091 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU61 20540,unk -0.910714 4 Artiodactyla,Cervidae,Muntiacus,unk 0.846 Muntiacus_atherodes_KY117559
+OTU6100 20759,unk -0.777352 4 Carnivora,Felidae,Prionailurus,unk 0.911 Prionailurus_planiceps_KR135743
+OTU6107 20613,unk -1.70112 4 Artiodactyla,Suidae,Sus,unk 0.778 Sus_scrofa_KP294522
+OTU613     0.753 Neotoma_nelsoni_KC758852
+OTU6130 23744,unk -0.453392 4 Primates,Cercopithecidae,Macaca,unk 0.835 Macaca_mulatta_KJ567051
+OTU6138     0.700 Callorhinus_ursinus_AM181016
+OTU6146     0.656 Martes_flavigula_NC012141
+OTU615 27183,unk -0.392383 4 Scandentia,Tupaiidae,Tupaia,unk 0.846 Tupaia_belangeri_JF795301
+OTU6167 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU618 20343,unk -1.9425 4 Artiodactyla,Bovidae,Capricornis,unk 0.758 Capricornis_sumatraensis_JN093096
+OTU619 23946,unk -0.578555 4 Primates,Hominidae,Homo,unk 0.849 Homo_sapiens_AY963586
+OTU6192 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU62     0.711 Arctocephalus_forsteri_AF513820
+OTU6203 26289,unk -0.0809606 4 Rodentia,Muridae,Niviventer,unk 0.933 Niviventer_cremoriventer_KY117573
+OTU6208 20897 -0.0827402 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU6209 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU6211 20897 -0.0821335 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU6228 20551 -0.641769 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.934 Muntiacus_vaginalis_KY052092
+OTU6230 20551 -0.231518 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.956 Muntiacus_vaginalis_KY052092
+OTU6234 25674,unk -0.262003 4 Rodentia,Hystricidae,Hystrix,unk 0.870 Hystrix_indica_JN714143
+OTU624     0.689 Arctocephalus_forsteri_AF513820
+OTU6260 20540,unk -0.254936 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU6262 20540,unk -1.66761 4 Artiodactyla,Cervidae,Muntiacus,unk 0.789 Muntiacus_vuquangensis_AF108034
+OTU6263 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU627 20459,unk -0.975899 4 Artiodactyla,Bovidae,Pseudoryx,unk 0.780 Pseudoryx_nghetinhensis_EF536352
+OTU6280 25674,unk -0.165274 4 Rodentia,Hystricidae,Hystrix,unk 0.870 Hystrix_indica_JN714143
+OTU6286     0.674 Macaca_arctoides_KJ567055
+OTU6295 20894,unk -2.74076 4 Carnivora,Mustelidae,Melogale,unk 0.769 Melogale_moschata_NC020644
+OTU63 23946,unk -2.32789 4 Primates,Hominidae,Homo,unk 0.763 Homo_sapiens_D38112
+OTU631     0.692 Hystrix_indica_JN714143
+OTU6319     0.731 Hystrix_indica_JN714143
+OTU632 23744,unk -2.62206 4 Primates,Cercopithecidae,Macaca,unk 0.720 Macaca_mulatta_AY360298
+OTU6320 25674,unk -1.71375 4 Rodentia,Hystricidae,Hystrix,unk 0.772 Hystrix_indica_JN714143
+OTU6329 25674,unk -2.43145 4 Rodentia,Hystricidae,Hystrix,unk 0.753 Hystrix_indica_JN714143
+OTU633     0.872 Nisaetus_alboniger_AP008239
+OTU6336     0.710 Nesolagus_timminsi_Andi001
+OTU634     0.742 Nasalis_larvatus_U39012
+OTU6345 20797,unk -0.390366 4 Carnivora,Herpestidae,Herpestes,unk 0.957 Herpestes_semitorquatus_HSE4
+OTU635     0.500 Cheirogaleus_major_AF072412
+OTU6350 27091,unk -1.11736 4 Rodentia,Sciuridae,Tamiops,unk 0.843 Tamiops_swinhoei_KP027416
+OTU64 23744,unk -2.60083 4 Primates,Cercopithecidae,Macaca,unk 0.720 Macaca_nigra_KP072068
+OTU6407 27137 -0.0386793 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU6412 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU6416 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU6431 27183,unk -2.1856 4 Scandentia,Tupaiidae,Tupaia,unk 0.769 Tupaia_belangeri_JF795301
+OTU6440 25674,unk -2.41332 4 Rodentia,Hystricidae,Hystrix,unk 0.755 Hystrix_indica_JN714143
+OTU6449 23335 -0.0153295 4 Lagomorpha,Leporidae,Nesolagus,timminsi 0.957 Nesolagus_timminsi_Andi001
+OTU646 21060,unk -0.772943 4 Carnivora,Viverridae,Paguma,unk 0.900 Paguma_larvata_KP233214
+OTU6472     0.708 Sus_scrofa_JN714158
+OTU6477 23744,unk -2.83516 4 Primates,Cercopithecidae,Macaca,unk 0.742 Macaca_arctoides_KJ567055
+OTU65 26289,unk -0.225595 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_excelsior_JQ927552
+OTU650 21060,unk -0.884421 4 Carnivora,Viverridae,Paguma,unk 0.892 Paguma_larvata_KP233214
+OTU651     0.618 Eumetopias_jubatus_GU475464
+OTU6517 20871,unk -1.74951 4 Carnivora,Mustelidae,Lutra,unk 0.807 Lutra_sumatrana_KY117556
+OTU6536 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU655     0.733 Callorhinus_ursinus_AM181016
+OTU6557 26289,unk -0.945142 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU656     0.722 Prionailurus_planiceps_KR135743
+OTU659     0.685 Equus_zebra_JX312717
+OTU6597 27183,unk -0.511595 4 Scandentia,Tupaiidae,Tupaia,unk 0.934 Tupaia_belangeri_JF795301
+OTU66 23744,unk -0.115879 4 Primates,Cercopithecidae,Macaca,unk 0.892 Macaca_fascicularis_KM851036
+OTU6604 21027 -0.162607 4 Carnivora,Ursidae,Ursus,thibetanus 0.957 Ursus_thibetanus_NC011118
+OTU661 20540,unk -0.0666576 4 Artiodactyla,Cervidae,Muntiacus,unk 0.934 Muntiacus_feae_AF108036
+OTU6624 21027 -0.162607 4 Carnivora,Ursidae,Ursus,thibetanus 0.957 Ursus_thibetanus_NC011118
+OTU6630     0.578 Alouatta_seniculus_HQ644333
+OTU6649 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU665     0.744 Callorhinus_ursinus_AM181016
+OTU6664 20613,unk -0.0694611 4 Artiodactyla,Suidae,Sus,unk 0.914 Sus_barbatus_KP789021
+OTU6672     0.567 Cercopithecus_cephus_JQ256947
+OTU669     0.500 Aotus_trivirgatus_DQ334827
+OTU6695 23946,unk -0.528257 4 Primates,Hominidae,Homo,unk 0.935 Homo_sapiens_KF161459
+OTU6699     0.585 Cercopithecus_pogonias_AF435503
+OTU67     0.567 Aotus_lemurinus_FJ785421
+OTU6709     0.663 Homo_sapiens_JQ702893
+OTU6756     0.425 Cercopithecus_mona_JQ256980
+OTU676     0.753 Symphalangus_syndactylus_AB504750
+OTU677 20719,unk -2.58379 4 Carnivora,Felidae,Catopuma,unk 0.837 Catopuma_temminckii_KX224504
+OTU6786     0.567 Cercopithecus_pogonias_AF435503
+OTU6798      
+OTU68 23744,unk -0.129904 4 Primates,Cercopithecidae,Macaca,unk 0.914 Macaca_assamensis_KF990122
+OTU6816 23948 -0.02124 4 Primates,Hominidae,Homo,sapiens 0.978 Homo_sapiens_KF161924
+OTU6818 23946,unk -0.119995 4 Primates,Hominidae,Homo,unk 0.904 Homo_sapiens_JQ705175
+OTU6820 20622 -0.0273621 4 Artiodactyla,Suidae,Sus,scrofa 0.978 Sus_scrofa_NC014692
+OTU6824 23946,unk -0.376397 4 Primates,Hominidae,Homo,unk 0.931 Homo_sapiens_KF162206
+OTU6825 20613,unk -2.63508 4 Artiodactyla,Suidae,Sus,unk 0.755 Sus_barbatus_KP789021
+OTU6828      
+OTU6831     0.567 Cercopithecus_pogonias_AF435503
+OTU689     0.696 Maxomys_surifer_KY117566
+OTU6892     0.764 Martes_melampus_AB291076
+OTU69     0.689 Callorhinus_ursinus_AM181016
+OTU692 20759,unk -1.2534 4 Carnivora,Felidae,Prionailurus,unk 0.864 Prionailurus_bengalensis_KX857793
+OTU693 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU696 27136,unk -0.138074 4 Rodentia,Spalacidae,Rhizomys,unk 0.879 Rhizomys_pruinosus_NC021478
+OTU6970 20551 -0.192401 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU6971 20540,unk -0.274277 4 Artiodactyla,Cervidae,Muntiacus,unk 0.867 Muntiacus_atherodes_KY117559
+OTU698 20797,unk -0.269872 4 Carnivora,Herpestidae,Herpestes,unk 0.925 Herpestes_semitorquatus_HSE4
+OTU6984 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU6988 21061 -0.22283 4 Carnivora,Viverridae,Paguma,larvata 0.978 Paguma_larvata_KP233214
+OTU6989 20540,unk -0.607412 4 Artiodactyla,Cervidae,Muntiacus,unk 0.935 Muntiacus_crinifrons_EF523631
+OTU699     0.616 Eumetopias_jubatus_GU475464
+OTU7 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU70     0.677 Macaca_mulatta_AY360318
+OTU701     0.567 Cercopithecus_cephus_JQ256947
+OTU7030 20894,unk -0.641592 4 Carnivora,Mustelidae,Melogale,unk 0.910 Melogale_moschata_NC020644
+OTU7031 20343,unk -2.84226 4 Artiodactyla,Bovidae,Capricornis,unk 0.745 Capricornis_sumatraensis_JN093096
+OTU7035 20551 -0.192086 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.978 Muntiacus_vaginalis_KY052092
+OTU7039 26289,unk -0.0521848 4 Rodentia,Muridae,Niviventer,unk 0.956 Niviventer_excelsior_JQ927552
+OTU706     0.711 Arctocephalus_forsteri_AF513820
+OTU708     0.772 Rattus_leucopus_GU570660
+OTU7080     0.652 Homo_sapiens_AY963586
+OTU7092 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU7093     0.696 Callorhinus_ursinus_AM181016
+OTU7094 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU71     0.699 Nasalis_larvatus_U39012
+OTU710     0.544 Aotus_lemurinus_FJ785421
+OTU7114 21061 -0.221852 4 Carnivora,Viverridae,Paguma,larvata 0.978 Paguma_larvata_KP233214
+OTU7121     0.716 Sus_scrofa_KT194217
+OTU7126 20894,unk -2.9555 4 Carnivora,Mustelidae,Melogale,unk 0.779 Melogale_moschata_NC020644
+OTU7150     0.720 Sus_barbatus_KP789021
+OTU717     0.755 Homo_sapiens_EU092752
+OTU7174     0.615 Butorides_striata_KJ190953
+OTU718 17280,unk -2.26837 4 Passeriformes,Timaliidae,Macronus,unk 0.918 Macronus_gularis_AF376911
+OTU7186 23744,unk -2.57161 4 Primates,Cercopithecidae,Macaca,unk 0.747 Macaca_arctoides_KJ567055
+OTU7188 23744,unk -2.51393 4 Primates,Cercopithecidae,Macaca,unk 0.747 Macaca_arctoides_KJ567055
+OTU719     0.728 Xiphorhynchus_lachrymosus_JN622057
+OTU7196 20797,unk -2.15952 4 Carnivora,Herpestidae,Herpestes,unk 0.802 Herpestes_semitorquatus_HSE4
+OTU7197 23744,unk -2.552 4 Primates,Cercopithecidae,Macaca,unk 0.747 Macaca_arctoides_KM360179
+OTU72     0.722 Callorhinus_ursinus_AM181016
+OTU7200 26289,unk -1.42401 4 Rodentia,Muridae,Niviventer,unk 0.789 Niviventer_excelsior_JQ927552
+OTU7202 23744,unk -2.51437 4 Primates,Cercopithecidae,Macaca,unk 0.747 Macaca_arctoides_KJ567055
+OTU7228 25674,unk -0.0764246 4 Rodentia,Hystricidae,Hystrix,unk 0.913 Hystrix_indica_JN714143
+OTU7232 20613,unk -2.50093 4 Artiodactyla,Suidae,Sus,unk 0.760 Sus_scrofa_KT965278
+OTU7235     0.767 Crossarchus_obscurus_KF670742
+OTU7238     0.717 Pteronotus_macleayii_AF407178
+OTU7242     0.696 Hydrochoerus_hydrochaeris_AF069533
+OTU7243     0.824 Canis_lupus_JF342859
+OTU7247 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU725 23744,unk -1.90111 4 Primates,Cercopithecidae,Macaca,unk 0.763 Macaca_nigra_KP072068
+OTU7254 20540,unk -0.254934 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU7262     0.722 Panthera_leo_AF006457
+OTU7269 25674,unk -0.727891 4 Rodentia,Hystricidae,Hystrix,unk 0.815 Hystrix_indica_JN714143
+OTU7278     0.685 Hystrix_indica_JN714143
+OTU73     0.609 Cercopithecus_mona_JQ256980
+OTU730     0.804 Polyplectron_napoleonis_KJ939353
+OTU7313     0.622 Alouatta_seniculus_HQ644333
+OTU7315     0.422 Semnopithecus_vetulus_HQ149049
+OTU7319 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU7325 21060,unk -2.54834 4 Carnivora,Viverridae,Paguma,unk 0.826 Paguma_larvata_KP233214
+OTU7340 26289,unk -1.56608 4 Rodentia,Muridae,Niviventer,unk 0.800 Niviventer_cremoriventer_KY117572
+OTU7346     0.609 Eumetopias_jubatus_GU475464
+OTU7365 26289,unk -2.11153 4 Rodentia,Muridae,Niviventer,unk 0.791 Niviventer_excelsior_JQ927552
+OTU7366 26289,unk -1.51412 4 Rodentia,Muridae,Niviventer,unk 0.807 Niviventer_excelsior_JQ927552
+OTU7369 26289,unk -2.60185 4 Rodentia,Muridae,Niviventer,unk 0.778 Niviventer_confucianus_KJ152220
+OTU7373 20900,unk -1.16943 4 Carnivora,Mustelidae,Mustela,unk 0.833 Mustela_kathiah_NC023210
+OTU7376 20872 -1.21926 4 Carnivora,Mustelidae,Lutra,lutra 0.933 Lutra_lutra_NC011358
+OTU7389     0.700 Rhinolophus_formosae_EU166918
+OTU7392     0.640 Eumetopias_jubatus_GU475464
+OTU74     0.744 Callorhinus_ursinus_AM181016
+OTU7401     0.659 Martes_flavigula_NC012141
+OTU7405 26289,unk -2.1577 4 Rodentia,Muridae,Niviventer,unk 0.791 Niviventer_cremoriventer_KY117572
+OTU7434 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU7437 26798 -0.0384428 4 Rodentia,Sciuridae,Callosciurus,erythraeus 0.978 Callosciurus_erythraeus_KM502568
+OTU744 20900,unk -1.66569 4 Carnivora,Mustelidae,Mustela,unk 0.814 Mustela_altaica_KC815122
+OTU7442 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU7446 20900,unk -1.7797 4 Carnivora,Mustelidae,Mustela,unk 0.809 Mustela_frenata_HM106321
+OTU7455 26289,unk -0.945142 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU7460 21060,unk -2.83458 4 Carnivora,Viverridae,Paguma,unk 0.804 Paguma_larvata_KP233214
+OTU7461     0.791 Rattus_exulans_NC012389
+OTU7492 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU75 20613,unk -0.246707 4 Artiodactyla,Suidae,Sus,unk 0.935 Sus_scrofa_KT965278
+OTU750 20540,unk -0.328168 4 Artiodactyla,Cervidae,Muntiacus,unk 0.867 Muntiacus_atherodes_KY117559
+OTU7511 20894,unk -0.637903 4 Carnivora,Mustelidae,Melogale,unk 0.888 Melogale_moschata_NC020644
+OTU7512     0.443 Aotus_lemurinus_FJ785421
+OTU7515 20540,unk -0.254935 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU7516 20540,unk -0.254939 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU7519     0.622 Alouatta_seniculus_HQ644333
+OTU7523 20540,unk -0.255033 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU7529 20345 -0.062162 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 1.000 Capricornis_milneedwardsii_NC023457
+OTU7542 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU757     0.700 Callorhinus_ursinus_AM181016
+OTU7570 20343,unk -0.576869 4 Artiodactyla,Bovidae,Capricornis,unk 0.846 Capricornis_sumatraensis_JN093096
+OTU7575     0.711 Herpestes_brachyurus_KY117547
+OTU7579     0.744 Rhinolophus_acuminatus_AY956397
+OTU7584 26289,unk -1.41452 4 Rodentia,Muridae,Niviventer,unk 0.789 Niviventer_excelsior_JQ927552
+OTU7590 26289,unk -0.945142 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU7595 27137 -0.0386793 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU7596 20540,unk -0.375186 4 Artiodactyla,Cervidae,Muntiacus,unk 0.844 Muntiacus_reevesi_KY117561
+OTU7597 26289,unk -0.155592 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_confucianus_KJ152220
+OTU7599 23333,unk -1.22517 4 Lagomorpha,Leporidae,Nesolagus,unk 0.775 Nesolagus_timminsi_Andi001
+OTU76     0.700 Eumetopias_jubatus_GU475464
+OTU7608 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU7609 20540,unk -0.254935 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU761     0.632 Eumetopias_jubatus_GU475464
+OTU7610     0.713 Rhizomys_pruinosus_NC021478
+OTU7611 20897 -0.0821335 4 Carnivora,Mustelidae,Melogale,moschata 0.978 Melogale_moschata_NC020644
+OTU762 20569,unk -0.583369 4 Artiodactyla,Cervidae,Rusa,unk 0.912 Rusa_unicolor_NC008414
+OTU7621     0.728 Callorhinus_ursinus_AM181016
+OTU765 20343,unk -0.332541 4 Artiodactyla,Bovidae,Capricornis,unk 0.912 Capricornis_sumatraensis_JN093096
+OTU766 27136,unk -0.198412 4 Rodentia,Spalacidae,Rhizomys,unk 0.868 Rhizomys_pruinosus_NC021478
+OTU7661     0.544 Aotus_lemurinus_FJ785421
+OTU768 20900,unk -0.521998 4 Carnivora,Mustelidae,Mustela,unk 0.888 Mustela_frenata_HM106321
+OTU7688     0.567 Cercopithecus_denti_JQ256988
+OTU77 27136,unk -0.304984 4 Rodentia,Spalacidae,Rhizomys,unk 0.851 Rhizomys_pruinosus_NC021478
+OTU7703     0.544 Miopithecus_talapoin_JQ256996
+OTU7723     0.677 Macaca_mulatta_AY360318
+OTU7770 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU7771     0.648 Chlorocebus_sabaeus_KJ193021
+OTU7777 26289,unk -0.138072 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_cremoriventer_KY117573
+OTU7778     0.489 Equus_caballus_KJ917259
+OTU779 20797,unk -0.469014 4 Carnivora,Herpestidae,Herpestes,unk 0.867 Herpestes_semitorquatus_HSE4
+OTU78     0.722 Gulo_gulo_KR611313
+OTU781 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU782 26794,unk -1.98567 4 Rodentia,Sciuridae,Callosciurus,unk 0.758 Callosciurus_notatus_KY117541
+OTU7829 20613,unk -0.95735 4 Artiodactyla,Suidae,Sus,unk 0.807 Sus_scrofa_KP294522
+OTU783     0.578 Alouatta_seniculus_HQ644333
+OTU7837     0.714 Callorhinus_ursinus_AM181016
+OTU784     0.596 Arctocephalus_forsteri_AF513820
+OTU7850 20797,unk -0.306953 4 Carnivora,Herpestidae,Herpestes,unk 0.934 Herpestes_semitorquatus_HSE4
+OTU787 21060,unk -2.60708 4 Carnivora,Viverridae,Paguma,unk 0.826 Paguma_larvata_KP233214
+OTU788     0.616 Eumetopias_jubatus_GU475464
+OTU7888 20894,unk -0.658015 4 Carnivora,Mustelidae,Melogale,unk 0.933 Melogale_moschata_NC020644
+OTU79     0.689 Callorhinus_ursinus_AM181016
+OTU790     0.700 Callorhinus_ursinus_AM181016
+OTU7904     0.522 Leontopithecus_rosalia_KC757399
+OTU7911     0.578 Ototylomys_phyllotis_DQ179714
+OTU7913 27091,unk -0.821162 4 Rodentia,Sciuridae,Tamiops,unk 0.865 Tamiops_swinhoei_KP027416
+OTU7915     0.659 Maxomys_surifer_KY117566
+OTU7919     0.526 Oligoryzomys_flavescens_JQ627262
+OTU792     0.656 Callorhinus_ursinus_AM181016
+OTU7926 20613,unk -0.111296 4 Artiodactyla,Suidae,Sus,unk 0.926 Sus_barbatus_KP789021
+OTU793 23754 -0.439802 4 Primates,Cercopithecidae,Macaca,mulatta 0.957 Macaca_mulatta_AY360309
+OTU794 26289,unk -2.95839 4 Rodentia,Muridae,Niviventer,unk 0.766 Niviventer_cremoriventer_KY117573
+OTU7955     0.645 Maxomys_surifer_KY117566
+OTU7956     0.674 Macaca_fascicularis_KF305937
+OTU7960     0.560 Ototylomys_phyllotis_DQ179714
+OTU7961     0.670 Maxomys_surifer_KY117566
+OTU7963 20797,unk -0.326883 4 Carnivora,Herpestidae,Herpestes,unk 0.878 Herpestes_semitorquatus_HSE4
+OTU7965     0.691 Maxomys_surifer_KY117566
+OTU797 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU7988     0.688 Sus_barbatus_KP789021
+OTU7997     0.753 Equus_grevyi_JX312725
+OTU8 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU80     0.634 Nasalis_larvatus_U39012
+OTU801 26289,unk -0.166863 4 Rodentia,Muridae,Niviventer,unk 0.900 Niviventer_excelsior_JQ927552
+OTU8050 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU8053 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU8057     0.719 Procyon_lotor_AB462205
+OTU8064 26289,unk -1.8832 4 Rodentia,Muridae,Niviventer,unk 0.800 Niviventer_cremoriventer_KY117573
+OTU8066     0.734 Nesolagus_timminsi_Andi001
+OTU8068     0.719 Haplonycteris_fischeri_GQ410343
+OTU807 20343,unk -0.370217 4 Artiodactyla,Bovidae,Capricornis,unk 0.890 Capricornis_sumatraensis_JN093096
+OTU808 20343,unk -0.595245 4 Artiodactyla,Bovidae,Capricornis,unk 0.844 Capricornis_crispus_U87029
+OTU809 26289,unk -1.29628 4 Rodentia,Muridae,Niviventer,unk 0.791 Niviventer_confucianus_KJ152220
+OTU8099     0.744 Melogale_moschata_NC020644
+OTU81 20551 -0.728666 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.934 Muntiacus_vaginalis_KY052092
+OTU8103 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU8111     0.733 Eumetopias_jubatus_GU475464
+OTU813 20613,unk -1.68044 4 Artiodactyla,Suidae,Sus,unk 0.824 Sus_scrofa_KJ746664
+OTU814     0.500 Duttaphrynus_olivaceus_KT031508
+OTU8176 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU82 23754 -0.0135603 4 Primates,Cercopithecidae,Macaca,mulatta 1.000 Macaca_mulatta_AY360312
+OTU820 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU8226 27137 -0.00897204 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.979 Rhizomys_pruinosus_NC021478
+OTU826 23335 -0.624094 4 Lagomorpha,Leporidae,Nesolagus,timminsi 0.923 Nesolagus_timminsi_Andi001
+OTU8284 20749,unk -1.84421 4 Carnivora,Felidae,Neofelis,unk 0.867 Neofelis_nebulosa_AY499301
+OTU829 20613,unk -0.101751 4 Artiodactyla,Suidae,Sus,unk 0.892 Sus_scrofa_KT965278
+OTU8295 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU83 20797,unk -0.493576 4 Carnivora,Herpestidae,Herpestes,unk 0.899 Herpestes_semitorquatus_HSE4
+OTU8302 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU8304 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU8305 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU8317     0.742 Sus_scrofa_KT965278
+OTU833      
+OTU8337     0.600 Callorhinus_ursinus_AM181016
+OTU834     0.806 Otomys_irroratus_AF141253
+OTU835     0.681 Cercopithecus_cephus_AF435515
+OTU8374 26289,unk -0.812916 4 Rodentia,Muridae,Niviventer,unk 0.822 Niviventer_confucianus_KJ152220
+OTU8381     0.636 Martes_flavigula_NC012141
+OTU8386 25674,unk -0.135812 4 Rodentia,Hystricidae,Hystrix,unk 0.882 Hystrix_indica_JN714143
+OTU8387     0.620 Hystrix_indica_JN714143
+OTU84     0.578 Alouatta_seniculus_HQ644333
+OTU841     0.730 Martes_flavigula_NC012141
+OTU842     0.678 Callorhinus_ursinus_AM181016
+OTU8421 27136,unk -0.960436 4 Rodentia,Spalacidae,Rhizomys,unk 0.798 Rhizomys_pruinosus_NC021478
+OTU8426     0.633 Muntiacus_crinifrons_EF523630
+OTU843 23333,unk -0.280289 4 Lagomorpha,Leporidae,Nesolagus,unk 0.828 Nesolagus_timminsi_Andi001
+OTU8430     0.681 Eumetopias_jubatus_GU475464
+OTU8437     0.645 Rhizomys_pruinosus_NC021478
+OTU844 23333,unk -0.138733 4 Lagomorpha,Leporidae,Nesolagus,unk 0.849 Nesolagus_timminsi_Andi001
+OTU8442     0.689 Cercopithecus_mitis_JQ256964
+OTU8444     0.624 Callorhinus_ursinus_AM181016
+OTU8450     0.611 Rhinolophus_acuminatus_AY956397
+OTU8456     0.745 Babyrousa_babyrussa_GQ338952
+OTU8458 20540,unk -2.21154 4 Artiodactyla,Cervidae,Muntiacus,unk 0.764 Muntiacus_reevesi_KY117561
+OTU8459 20540,unk -1.58635 4 Artiodactyla,Cervidae,Muntiacus,unk 0.780 Muntiacus_atherodes_KY117559
+OTU846     0.644 Arctocephalus_forsteri_AF513820
+OTU8460     0.589 Muntiacus_crinifrons_EF523630
+OTU847 26289,unk -2.78341 4 Rodentia,Muridae,Niviventer,unk 0.739 Niviventer_excelsior_JQ927552
+OTU85 20639 -0.0415848 4 Artiodactyla,Tragulidae,Tragulus,kanchil 0.957 Tragulus_kanchil_NC020753
+OTU850 23333,unk -0.0637011 4 Lagomorpha,Leporidae,Nesolagus,unk 0.879 Nesolagus_timminsi_Andi001
+OTU852 26794,unk -0.167847 4 Rodentia,Sciuridae,Callosciurus,unk 0.889 Callosciurus_erythraeus_KM502568
+OTU8521 23744,unk -1.29143 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_fascicularis_KF305937
+OTU853     0.674 Leopardus_guigna_KF979222
+OTU854     0.518 Lycalopex_culpaeus_DQ402045
+OTU857 20613,unk -0.183672 4 Artiodactyla,Suidae,Sus,unk 0.871 Sus_scrofa_KT965278
+OTU86 20343,unk -0.576869 4 Artiodactyla,Bovidae,Capricornis,unk 0.846 Capricornis_sumatraensis_JN093096
+OTU861 25674,unk -2.41535 4 Rodentia,Hystricidae,Hystrix,unk 0.761 Hystrix_indica_JN714143
+OTU8616 20613,unk -2.80729 4 Artiodactyla,Suidae,Sus,unk 0.755 Sus_scrofa_JN714158
+OTU8633     0.758 Hydrochoerus_hydrochaeris_AF069533
+OTU8649 20613,unk -0.260655 4 Artiodactyla,Suidae,Sus,unk 0.856 Sus_barbatus_KP789021
+OTU865 20540,unk -0.196712 4 Artiodactyla,Cervidae,Muntiacus,unk 0.890 Muntiacus_atherodes_KY117559
+OTU8653 20900,unk -1.48667 4 Carnivora,Mustelidae,Mustela,unk 0.831 Mustela_frenata_HM106321
+OTU8672 26289,unk -0.0522027 4 Rodentia,Muridae,Niviventer,unk 0.956 Niviventer_excelsior_JQ927552
+OTU8675 26289,unk -0.0521848 4 Rodentia,Muridae,Niviventer,unk 0.956 Niviventer_excelsior_JQ927552
+OTU8681     0.636 Leopardus_guigna_KF979222
+OTU869 20797,unk -0.643462 4 Carnivora,Herpestidae,Herpestes,unk 0.872 Herpestes_semitorquatus_HSE4
+OTU8693 26289,unk -2.47424 4 Rodentia,Muridae,Niviventer,unk 0.753 Niviventer_confucianus_KJ152220
+OTU8698     0.633 Aotus_lemurinus_FJ785421
+OTU87 20345 -0.571428 4 Artiodactyla,Bovidae,Capricornis,milneedwardsii 0.934 Capricornis_milneedwardsii_NC023457
+OTU8700     0.589 Aotus_lemurinus_FJ785421
+OTU8708     0.663 Melogale_moschata_NC020644
+OTU871 20540,unk -0.477215 4 Artiodactyla,Cervidae,Muntiacus,unk 0.862 Muntiacus_truongsonensis_AF108033
+OTU8716 20551 -0.231504 4 Artiodactyla,Cervidae,Muntiacus,vaginalis 0.956 Muntiacus_vaginalis_KY052092
+OTU872     0.722 Callorhinus_ursinus_AM181016
+OTU8731     0.682 Eumetopias_jubatus_GU475464
+OTU8740 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU876     0.711 Arctocephalus_forsteri_AF513820
+OTU8761     0.624 Callorhinus_ursinus_AM181016
+OTU8765     0.722 Callorhinus_ursinus_AM181016
+OTU88     0.739 Nasalis_larvatus_NC008216
+OTU8805     0.644 Macaca_assamensis_KF990122
+OTU882 20894,unk -0.609945 4 Carnivora,Mustelidae,Melogale,unk 0.865 Melogale_moschata_NC020644
+OTU883 20894,unk -0.420887 4 Carnivora,Mustelidae,Melogale,unk 0.878 Melogale_moschata_NC020644
+OTU8844     0.733 Macaca_arctoides_KJ567055
+OTU8845     0.478 Aotus_lemurinus_FJ785421
+OTU8854     0.609 Cercopithecus_mona_JQ256980
+OTU886 1824,unk -0.434723 4 Anura,Dicroglossidae,Limnonectes,unk 0.952 Limnonectes_limborgi_GU934358
+OTU8860 23744,unk -0.314186 4 Primates,Cercopithecidae,Macaca,unk 0.849 Macaca_arctoides_KJ567055
+OTU8889 20894,unk -2.61046 4 Carnivora,Mustelidae,Melogale,unk 0.775 Melogale_moschata_NC020644
+OTU8893 20894,unk -2.56882 4 Carnivora,Mustelidae,Melogale,unk 0.775 Melogale_moschata_NC020644
+OTU89 20343,unk -0.576405 4 Artiodactyla,Bovidae,Capricornis,unk 0.868 Capricornis_milneedwardsii_NC023457
+OTU8907      
+OTU8926 20550 -0.685013 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU8943 23333,unk -1.35685 4 Lagomorpha,Leporidae,Nesolagus,unk 0.762 Nesolagus_timminsi_Andi001
+OTU8945 20622 -0.0273621 4 Artiodactyla,Suidae,Sus,scrofa 0.978 Sus_scrofa_NC014692
+OTU8947 23333,unk -0.152872 4 Lagomorpha,Leporidae,Nesolagus,unk 0.843 Nesolagus_timminsi_Andi001
+OTU895 20540,unk -0.425418 4 Artiodactyla,Cervidae,Muntiacus,unk 0.852 Muntiacus_atherodes_KY117559
+OTU8951 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU896     0.720 Nasalis_larvatus_U39012
+OTU8961 20573 -0.0678144 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU8964 20552 -0.280833 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 0.957 Muntiacus_vuquangensis_AF108034
+OTU8965 20622 -0.00891917 4 Artiodactyla,Suidae,Sus,scrofa 1.000 Sus_scrofa_NC014692
+OTU8968 20552 -0.0652332 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 0.978 Muntiacus_vuquangensis_AF108034
+OTU897 23744,unk -1.14721 4 Primates,Cercopithecidae,Macaca,unk 0.785 Macaca_fuscata_KM401548
+OTU8970     0.478 Aotus_lemurinus_FJ785421
+OTU8997 20797,unk -0.170698 4 Carnivora,Herpestidae,Herpestes,unk 0.934 Herpestes_semitorquatus_HSE4
+OTU9 21061 -0.178387 4 Carnivora,Viverridae,Paguma,larvata 1.000 Paguma_larvata_KP233214
+OTU902      
+OTU904 27136,unk -0.144883 4 Rodentia,Spalacidae,Rhizomys,unk 0.879 Rhizomys_pruinosus_NC021478
+OTU9044     0.711 Macaca_assamensis_KF990122
+OTU9049 20343,unk -1.34128 4 Artiodactyla,Bovidae,Capricornis,unk 0.809 Capricornis_milneedwardsii_NC023457
+OTU905     0.756 Callorhinus_ursinus_AM181016
+OTU9058 23756 -1.14061 4 Primates,Cercopithecidae,Macaca,nemestrina 0.957 Macaca_nemestrina_KP765688
+OTU9059 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU906     0.722 Callorhinus_ursinus_AM181016
+OTU9061 20540,unk -0.254794 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU907     0.584 Cercopithecus_denti_JQ256988
+OTU908 27082 -1.42655 4 Rodentia,Sciuridae,Tamias,sonomae 1.000 Tamias_sonomae_AF147696
+OTU91     0.700 Arctocephalus_forsteri_AF513820
+OTU911 20894,unk -0.646816 4 Carnivora,Mustelidae,Melogale,unk 0.857 Melogale_moschata_NC020644
+OTU912     0.722 Callorhinus_ursinus_AM181016
+OTU9125     0.381 Syncope_antenori_KF621139
+OTU9129 20613,unk -0.254272 4 Artiodactyla,Suidae,Sus,unk 0.862 Sus_scrofa_KT965278
+OTU913     0.596 Eumetopias_jubatus_GU475464
+OTU9137     0.620 Muntiacus_truongsonensis_AF108033
+OTU9138 20540,unk -0.254785 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU9139     0.638 Muntiacus_truongsonensis_AF108033
+OTU9140     0.595 Ommatophoca_rossii_AY377385
+OTU9143     0.598 Ommatophoca_rossii_AY377385
+OTU9144 23333,unk -0.44081 4 Lagomorpha,Leporidae,Nesolagus,unk 0.806 Nesolagus_timminsi_Andi001
+OTU9147     0.706 Muntiacus_truongsonensis_AF108033
+OTU9149 23333,unk -0.345589 4 Lagomorpha,Leporidae,Nesolagus,unk 0.813 Nesolagus_timminsi_Andi001
+OTU9150 20540,unk -0.254802 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU9152     0.527 Lynx_rufus_AF006417
+OTU9153      
+OTU9154     0.595 Ommatophoca_rossii_AY377385
+OTU9158 20613,unk -0.366253 4 Artiodactyla,Suidae,Sus,unk 0.843 Sus_barbatus_KP789021
+OTU9159 20613,unk -1.65667 4 Artiodactyla,Suidae,Sus,unk 0.779 Sus_barbatus_KP789021
+OTU9160 23948 -0.112778 4 Primates,Hominidae,Homo,sapiens 0.957 Homo_sapiens_KF161459
+OTU9161     0.455 Sus_scrofa_AY243488
+OTU9162 20550 -0.684914 4 Artiodactyla,Cervidae,Muntiacus,truongsonensis 1.000 Muntiacus_truongsonensis_AF108033
+OTU9165     0.571 Eumetopias_jubatus_GU475464
+OTU9170     0.558 Limnonectes_lauhachindai_KP939072
+OTU9188 20622 -0.0273348 4 Artiodactyla,Suidae,Sus,scrofa 0.978 Sus_scrofa_NC014692
+OTU92 20797,unk -0.306953 4 Carnivora,Herpestidae,Herpestes,unk 0.934 Herpestes_semitorquatus_HSE4
+OTU920 27183,unk -0.126195 4 Scandentia,Tupaiidae,Tupaia,unk 0.890 Tupaia_belangeri_JF795301
+OTU9201 20613,unk -0.615263 4 Artiodactyla,Suidae,Sus,unk 0.824 Sus_scrofa_KJ789952
+OTU9204     0.750 Rattus_lutreolus_GU570661
+OTU9207     0.750 Rattus_lutreolus_GU570661
+OTU9208 27136,unk -2.41805 4 Rodentia,Spalacidae,Rhizomys,unk 0.763 Rhizomys_pruinosus_NC021478
+OTU9222 20573 -0.0678151 4 Artiodactyla,Cervidae,Rusa,unicolor 1.000 Rusa_unicolor_NC008414
+OTU9225 20552 -0.0652256 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 0.978 Muntiacus_vuquangensis_AF108034
+OTU9238     0.778 Leopoldamys_edwardsi_KM434322
+OTU9239 26289,unk -0.0950749 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_confucianus_KJ152220
+OTU924     0.689 Galidia_elegans_AF006403
+OTU9241 20613,unk -1.05848 4 Artiodactyla,Suidae,Sus,unk 0.806 Sus_scrofa_KT965278
+OTU925 20871,unk -0.880877 4 Carnivora,Mustelidae,Lutra,unk 0.888 Lutra_lutra_NC011358
+OTU9251 20552 -0.045853 4 Artiodactyla,Cervidae,Muntiacus,vuquangensis 1.000 Muntiacus_vuquangensis_AF108034
+OTU9253     0.674 Nesolagus_timminsi_Andi001
+OTU9256 23333,unk -0.0910858 4 Lagomorpha,Leporidae,Nesolagus,unk 0.862 Nesolagus_timminsi_Andi001
+OTU9259     0.652 Sus_barbatus_KP789021
+OTU9260     0.638 Nesolagus_timminsi_Andi001
+OTU9262 23333,unk -0.0718818 4 Lagomorpha,Leporidae,Nesolagus,unk 0.871 Nesolagus_timminsi_Andi001
+OTU9263 20657 -1.72917 4 Carnivora,Canidae,Canis,lupus 0.978 Canis_lupus_EF152486
+OTU9270 20657 -1.72917 4 Carnivora,Canidae,Canis,lupus 0.978 Canis_lupus_EF152486
+OTU9271     0.736 Canis_lupus_KU290753
+OTU9276 20651,unk -2.65014 4 Carnivora,Canidae,Canis,unk 0.956 Canis_lupus_EF152486
+OTU9278 20657 -1.74349 4 Carnivora,Canidae,Canis,lupus 0.978 Canis_lupus_AF064568
+OTU9281 20343,unk -2.57061 4 Artiodactyla,Bovidae,Capricornis,unk 0.742 Capricornis_sumatraensis_JN093096
+OTU9285 21061 -0.756233 4 Carnivora,Viverridae,Paguma,larvata 0.935 Paguma_larvata_KP233214
+OTU93     0.567 Cercopithecus_denti_JQ256988
+OTU9304 27137 -0.0386858 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU9308 27137 -0.0386805 4 Rodentia,Spalacidae,Rhizomys,pruinosus 0.957 Rhizomys_pruinosus_NC021478
+OTU9310 27183,unk -1.19198 4 Scandentia,Tupaiidae,Tupaia,unk 0.796 Tupaia_belangeri_JF795301
+OTU9312 23745 -0.0479172 4 Primates,Cercopithecidae,Macaca,arctoides 0.978 Macaca_arctoides_KJ567055
+OTU9332     0.717 Lophocebus_albigena_KJ193115
+OTU9344 26289,unk -0.137307 4 Rodentia,Muridae,Niviventer,unk 0.911 Niviventer_cremoriventer_KY117573
+OTU9346     0.753 Melogale_moschata_NC020644
+OTU9349     0.742 Arctocephalus_forsteri_AF513820
+OTU935 20613,unk -0.129418 4 Artiodactyla,Suidae,Sus,unk 0.884 Sus_scrofa_JN714158
+OTU9352 20894,unk -2.80213 4 Carnivora,Mustelidae,Melogale,unk 0.775 Melogale_moschata_KP726273
+OTU937     0.544 Aotus_lemurinus_FJ785421
+OTU9373 27137 -0.00436945 4 Rodentia,Spalacidae,Rhizomys,pruinosus 1.000 Rhizomys_pruinosus_NC021478
+OTU9374 26289,unk -0.944729 4 Rodentia,Muridae,Niviventer,unk 0.811 Niviventer_excelsior_JQ927552
+OTU9387      
+OTU939 23946,unk -0.188994 4 Primates,Hominidae,Homo,unk 0.923 Homo_sapiens_JQ705175
+OTU9398 26289,unk -0.420095 4 Rodentia,Muridae,Niviventer,unk 0.867 Niviventer_confucianus_KJ152220
+OTU94     0.509 Limnonectes_doriae_GU934330
+OTU9412 20849 -0.224044 4 Carnivora,Mustelidae,Aonyx,cinereus 1.000 Aonyx_cinereus_KY117536
+OTU9419     0.613 Symphalangus_syndactylus_AB504750
+OTU942     0.598 Limnonectes_kohchangae_KR827893
+OTU945 20540,unk -0.197958 4 Artiodactyla,Cervidae,Muntiacus,unk 0.889 Muntiacus_truongsonensis_AF108033
+OTU947 20540,unk -0.266669 4 Artiodactyla,Cervidae,Muntiacus,unk 0.891 Muntiacus_crinifrons_EF523631
+OTU9471     0.633 Arctocephalus_pusillus_AM181018
+OTU9477     0.791 Maxomys_surifer_KY117566
+OTU948     0.689 Arctocephalus_forsteri_AF513820
+OTU95     0.677 Nasalis_larvatus_NC008216
+OTU951     0.667 Eumetopias_jubatus_GU475464
+OTU952 20613,unk -0.894966 4 Artiodactyla,Suidae,Sus,unk 0.777 Sus_scrofa_KT965278
+OTU9525     0.769 Niviventer_confucianus_KJ152220
+OTU9537 23335 -0.00198577 4 Lagomorpha,Leporidae,Nesolagus,timminsi 1.000 Nesolagus_timminsi_Andi001
+OTU9541     0.767 Maxomys_surifer_KY117566
+OTU9543     0.791 Maxomys_surifer_KY117566
+OTU958     0.596 Trachypithecus_cristatus_NC023971
+OTU96     0.544 Aotus_lemurinus_FJ785421
+OTU960     0.830 Dremomys_rufigenis_AY227454
+OTU961 10594 -0.119333 4 Gruiformes,Rallidae,Rallina,eurizonoides 1.000 Rallina_eurizonoides_AP010822
+OTU9638     0.726 Maxomys_rajah_KY117563
+OTU964     0.772 Rattus_fuscipes_GU570664
+OTU9640     0.755 Maxomys_rajah_KY117563
+OTU967     0.678 Callorhinus_ursinus_AM181016
+OTU97 20343,unk -0.39672 4 Artiodactyla,Bovidae,Capricornis,unk 0.934 Capricornis_crispus_U87029
+OTU9711 23946,unk -0.435424 4 Primates,Hominidae,Homo,unk 0.852 Homo_sapiens_HM041971
+OTU9716 23948 -0.00912302 4 Primates,Hominidae,Homo,sapiens 1.000 Homo_sapiens_KF161065
+OTU973     0.720 Nasalis_larvatus_KM889667
+OTU9736     0.744 Gulo_gulo_KR611313
+OTU9739 26289,unk -0.243484 4 Rodentia,Muridae,Niviventer,unk 0.889 Niviventer_cremoriventer_KY117573
+OTU9740     0.644 Arctocephalus_forsteri_AF513820
+OTU975 25671,unk -0.750334 4 Rodentia,Hystricidae,Atherurus,unk 0.872 Atherurus_africanus_KJ193006
+OTU9766     0.733 Bos_grunniens_KM233417
+OTU9775 20343,unk -1.74774 4 Artiodactyla,Bovidae,Capricornis,unk 0.787 Capricornis_milneedwardsii_NC023457
+OTU983 20759,unk -0.837833 4 Carnivora,Felidae,Prionailurus,unk 0.901 Prionailurus_bengalensis_KX857796
+OTU984 20879,unk -2.55329 4 Carnivora,Mustelidae,Martes,unk 0.798 Martes_flavigula_NC012141
+OTU9842     0.708 Martes_flavigula_NC012141
+OTU9849     0.703 Tupaia_belangeri_JF795301
+OTU9874     0.764 Bos_grunniens_KM233417
+OTU9878 20343,unk -0.545116 4 Artiodactyla,Bovidae,Capricornis,unk 0.854 Capricornis_crispus_U87029
+OTU9879 20343,unk -0.640902 4 Artiodactyla,Bovidae,Capricornis,unk 0.854 Capricornis_crispus_U87029
+OTU9896     0.591 Arctocephalus_forsteri_AF513820
+OTU99 23744,unk -0.511213 4 Primates,Cercopithecidae,Macaca,unk 0.828 Macaca_fuscata_KM401548
+OTU990     0.720 Nasalis_larvatus_U39012
+OTU9901 27184 -0.111269 4 Scandentia,Tupaiidae,Tupaia,belangeri 0.956 Tupaia_belangeri_JF795301
+OTU9907 20897 -0.0558895 4 Carnivora,Mustelidae,Melogale,moschata 1.000 Melogale_moschata_NC020644
+OTU9929 26794,unk -2.22841 4 Rodentia,Sciuridae,Callosciurus,unk 0.763 Callosciurus_erythraeus_KM502568
+OTU9946 20540,unk -2.242 4 Artiodactyla,Cervidae,Muntiacus,unk 0.766 Muntiacus_putaoensis_EF523643
+OTU995     0.800 Rattus_exulans_NC012389
+OTU9957 20343,unk -1.46031 4 Artiodactyla,Bovidae,Capricornis,unk 0.809 Capricornis_crispus_U87029
+OTU9962 20459,unk -1.68608 4 Artiodactyla,Bovidae,Pseudoryx,unk 0.764 Pseudoryx_nghetinhensis_EF536352
+OTU9966 20540,unk -0.254934 4 Artiodactyla,Cervidae,Muntiacus,unk 0.978 Muntiacus_truongsonensis_AF108033
+OTU997     0.667 Arctocephalus_forsteri_AF513820
+OTU9982     0.660 Trachypithecus_cristatus_NC023971
+OTU9983     0.518 Macaca_nigra_KY117592
+OTU9984     0.722 Callorhinus_ursinus_AM181016
+OTU9986     0.628 Tupaia_belangeri_JF795301
+OTU9990     0.652 Gulo_gulo_KR611313
