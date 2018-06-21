@@ -5,12 +5,18 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-This protax run was run using the pipeline by Axtner et al., which starts with the Midori database and set high priors for Vietnam species.  The OTU table and OTU representative seqs are in the folder:  Vietnam_leeches_swarm_lulu_20180404, and the Protax outputs are in folder Vietnam_leeches_swarm_lulu_20180404/doug_vietnam_16S_Vietnam_weighted_Protax_20180618
+This protax run was run using the pipeline by Axtner et al., which starts with the Midori database and set high priors for Vietnam species.  
+
+The data files are in the folder:  Vietnam_leeches_swarm_lulu_20180404
+OTU table:  2015WWFWCS_swarm_lulu_otu_table_20180404.xlsx
+OTU representative seqs:  all_2015WWFWCS_otu_table_swarm_lulu_vert16S_20180404.fas
+Sample-to-Site codings:  allWWFWCS_sample_codes_20180621.xlsx
+Protax output files are in:  Vietnam_leeches_swarm_lulu_20180404/doug_vietnam_16S_Vietnam_weighted_Protax_20180618/
 
 Questions:
 
-1. which reserve has higher species richness (iNEXT)? 
-2. nestedness
+1. which reserve has higher species richness and diversity (iNEXT)? 
+2. nestedness or turnover?
 3. nmds
 4. redlisted species?
 
@@ -26,31 +32,29 @@ library(beanplot)
 library(iNEXT)
 library(RColorBrewer)
 library(betapart)
+library(cowplot)
 sessionInfo()
 ```
 
+```{r data folders}
+folder1 <- "Vietnam_leeches_swarm_lulu_20180404"
+folder2 <- "doug_vietnam_16S_Vietnam_weighted_Protax_20180618"
+```
 
-```{r read data}
-lowreadthreshold <- 100
-inputfile <- c("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170518.xlsx")
-leechidna <- read_excel(inputfile, sheet = "16Svert", skip = 1)
-leechidna <- leechidna[ , 2:720] # can't use dplyr::select because some of the columns have duplicate names, and select can't handle that
-
-leechidna <- leechidna %>% filter(Total_reads >= lowreadthreshold | Family %in% c("Manidae", "Lorisidae")) # filter out low-read OTUs but keep slow loris and pangolin. threshold chosen after inspection
-
-reserve <- read_excel(inputfile, sheet = "Site_codes")
+```{r read sample to site database and add reserve codes} 
+reserve <- read_excel(file.path(folder1, "allWWFWCS_sample_codes_20180621.xlsx"), sheet = "Site_codes")
 names(reserve)
 reserve <- reserve %>% dplyr::select(Sample_16SVert_Row2, Worksheet_filename, Country, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID)
 
-# recode reserve names
+# recode reserve names to reservecode
 reserve <- reserve %>% mutate(
 	reservecode = case_when(
-		Protected_Area_Std_Name == "BachMaExt" ~ "BME",
-		Protected_Area_Std_Name == "BachMaNP" ~ "BMNP",
+		Protected_Area_Std_Name == "BachMaExt" ~ "BM",
+		Protected_Area_Std_Name == "BachMaNP" ~ "BM",
 		Protected_Area_Std_Name == "HueSaoLaNR" ~ "HSL",
 		Protected_Area_Std_Name == "Laving Lavern" ~ "LL",
 		Protected_Area_Std_Name == "Phou Si Thone" ~ "PST",
-		Protected_Area_Std_Name == "QuangNamNR" ~ "QNNR",
+		Protected_Area_Std_Name == "QuangNamNR" ~ "QNSL",
 		Protected_Area_Std_Name == "QuangNamSaoLaNR" ~ "QNSL",
 		Protected_Area_Std_Name == "XeSap" ~ "XS"
 	) %>% as.factor()
@@ -58,7 +62,7 @@ reserve <- reserve %>% mutate(
 
 levels(reserve$reservecode)
 
-# combining reserves
+# recode reserve names to reservecode2
 reserve <- reserve %>% mutate(
 	reservecode2 = case_when(
 		Protected_Area_Std_Name == "BachMaExt" ~ "BM",
@@ -73,150 +77,284 @@ reserve <- reserve %>% mutate(
 )
 
 levels(reserve$reservecode2)
-
-# previous code using 20170305 version
-# inputfile <- c("allWWFWCS_BFCusearchMF_CROP98_otu_TAX20161217_20170305.xlsx")
-# reserve <- reserve %>% dplyr::select(Sample_16SVert_Row2, Reserve_StdName, Reserve_SubName, Approx_number_leeches)
 ```
 
+Now, skip down to code chunk:  "1 write leechotu file after visual check" before 
 
-```{r sum read numbers by taxonomy}
-names(leechidna)
-leechidna2 <- leechidna %>% group_by(OTUs_merged_by_taxonomy) %>% summarise_at(vars(WWF1:WWF465), sum)
-names(leechidna2)
-# leechidna2$OTUs_merged_by_taxonomy
-```
+```{r read in protax tables, eval = FALSE}
+rank <- c("order", "family", "genus", "species")
 
+loadFile1 <- function(rank) { 
+   filename <- str_c("all_2015WWFWCS_otu_table_swarm_lulu_vert16S_20180404.fas.w_", rank, "_probs") 
+   # e.g. "all_2015WWFWCS_otu_table_swarm_lulu_vert16S_20180404.fas.w_order_probs"
 
-```{r remove negative controls}
-negctrls <- c("BM","H1s","H2s","H3s","Q1s","Q2s","Q3s","XS2","XS5","XS6","XS7","XS8","XS9","SWG1s","SWG2s","XS1s","XS2s","2015Dec")
+   df <- read_tsv(file.path(folder1, folder2, filename), 
+   	col_names = c("OTU", "taxid", "logprob", "rank", "protax"), 
+  	na = "NA",
+	  col_types = cols(
+	     OTU = col_character(),
+	     taxid = col_number(),
+	     logprob = col_double(),
+	     rank = col_integer(),
+	     protax = col_character()
+	     )
+	 	)
 
-leechidna3 <- leechidna2
+    df$prob <- exp(df$logprob) # add prob column
+    
+    df <- df %>% dplyr::select(OTU, taxid, logprob, prob, rank, protax)
 
-for(i in 1:length(negctrls)) {
-	leechidna3 <- leechidna3 %>% dplyr::select(-starts_with(negctrls[i]))
+    df # output is df
 }
 
-# the slow way
-# names(leechidna3)
-# leechidna3 <- leechidna2 %>% select(-starts_with(neg[1]), -starts_with(neg[2]), -starts_with(neg[3]), -starts_with(neg[4]), -starts_with(neg[5]), -starts_with(neg[6]), -starts_with(neg[7]), -starts_with(neg[8]), -starts_with(neg[9]), -starts_with(neg[10]), -starts_with(neg[11]), -starts_with(neg[12]), -starts_with(neg[13]), -starts_with(neg[14]), -starts_with(neg[15]), -starts_with(neg[16]), -starts_with(neg[17]), -starts_with(neg[18])) 
+for(rank in rank) {
+    assign(str_c("protax_", rank), loadFile1(rank))
+}
 ```
 
+```{r filter and join protax tables, eval = FALSE}
+minprob <- 0
+protax_order <- protax_order %>% dplyr::filter(prob >= minprob)
+protax_family <- protax_family %>% dplyr::filter(prob >= minprob)
+protax_genus <- protax_genus %>% dplyr::filter(prob >= minprob)
+protax_species <- protax_species %>% dplyr::filter(prob >= minprob)
+
+protax_order_family <- left_join(protax_order, protax_family, by = c("OTU"), suffix = c(".order", ".family"))
+
+protax_genus_species <- left_join(protax_genus, protax_species, by = c("OTU"), suffix = c(".genus", ".species"))
+
+protax_all <- left_join(protax_order_family, protax_genus_species, by = c("OTU"))
+
+rm(protax_order_family, protax_genus_species, protax_order, protax_family, protax_genus, protax_species)
+
+# names(protax_all)
+
+# delete rows with NA in the protax.order, protax.family, protax.genus
+protax_all <- protax_all %>% drop_na(protax.order, protax.family, protax.genus)
+
+# copy values of protax.species into protax.consensus if protax.species is not NA, otherwise, just copy value of protax.genus into protax.consensus
+protax_all <- protax_all %>% mutate(protax.consensus = ifelse(!is.na(protax.species), protax.species, protax.genus))
+
+# conditionally copy the probability value
+# protax_all <- protax_all %>% mutate(prob.consensus = ifelse(!is.na(prob.species), prob.species, prob.genus))
+
+# create column with source of consensus taxonomy
+protax_all <- protax_all %>% mutate(source.consensus = ifelse(!is.na(prob.species), "species", "genus"))
+
+protax_all <- protax_all %>% dplyr::select(OTU, protax.consensus, prob.order, prob.family, prob.genus, prob.species, source.consensus)
+
+names(protax_all)
+
+```
+
+```{r read otu table and merge with protax_all, eval = FALSE}
+inputfile <- c("2015WWFWCS_swarm_lulu_otu_table_20180404.xlsx")
+leechotu <- read_excel(file.path(folder1, inputfile), sheet = "filtered_otus")
+# names(leechotu)
+leechotu <- left_join(protax_all, leechotu, by = "OTU")
+leechotu <- leechotu %>% dplyr::select(-(pct_identity:OTU_2))
+# names(leechotu)
+total_reads <- leechotu %>% dplyr::select(BM10x1:XS9x8) %>% rowSums() %>% data_frame()
+colnames(total_reads) <- "total_reads"
+incidence <- leechotu %>% dplyr::select(BM10x1:XS9x8) %>% specnumber(MARGIN=1) %>% data_frame()
+colnames(incidence) <- "incidence"
+leechotu <- bind_cols(total_reads, incidence, leechotu)
+
+names(leechotu)
+rm(incidence)
+rm(total_reads)
+rm(protax_all)
+```
+
+1. now write leechotu file to disk and in excel, visually inspect the protax taxonomies and distribution of reads over samples and manually decide final.taxonomy  
+2. sum read numbers by taxonomy and remove cell values <= 2 reads
+3. save negative control samples
+4. remove negative control samples from leechotu4
+
+```{r 1 write leechotu file after visual check}
+# write_tsv(leechotu, "analysis/leechotu.tsv")
+
+leechotu2 <- read_excel("analysis/leechotu.xlsx", sheet = "leechotu")
+names(leechotu2)
+  #  [1] "total_reads"      "incidence"        "OTU"              "protax.consensus" "prob.order"      
+  #  [6] "prob.family"      "prob.genus"       "prob.species"     "source.consensus" "final.taxonomy"  
+  # [11] "notes"            "RDP_MIDORI_REF"   "BM10x1"           "BM10x10"          "BM10x3"          
+  # [16] "BM10x7"           "BM1x1"            "BM1x2"            "BM1x3"            "BM1x4"    
+```
+
+```{r 2 sum read numbers by taxonomy}
+leechotu3 <- leechotu2 %>% 
+	group_by(final.taxonomy) %>% 
+	summarise_at(vars(BM10x1:XS9x8), sum) %>%  # BM10x1:XS9x8 is all the sample codes
+	dplyr::filter(final.taxonomy != "OMIT")
+names(leechotu3)
+
+# change OTU names to format that is acceptable to R as column names
+leechotu3$final.taxonomy <- make.names(leechotu3$final.taxonomy, unique = TRUE)
+
+# set small cell values (1 or 2) to 0.  this should reduce incidence of species
+leechotu3 <- leechotu3 %>% column_to_rownames(var = "final.taxonomy")
+leechotu3[leechotu3 <= 2] <- 0
+leechotu3 <- rownames_to_column(leechotu3, var = "final.taxonomy")
+```
+
+```{r 3 save negative control samples}
+negctrls <- c("X2015Dec","BM","H1s","H2s","H3s","Q1s","Q2s","Q3s","SWG1s","SWG2s","XS1s","XS2s","XS2x","XS5x","XS6x","XS7x", "XS8x", "XS9x", "XS10x", "XS1x", "XS3x") # "XS10x", "XS1x", "XS3x" inferred as negctrls from having no reads in them and from the column names:  should be 16 more removed samples from these three headings
+
+# save negative controls into leechotu_negctrls (loop doesn't work. i think because this version is an OR, whereas a loop is an AND?)
+leechotu_negctrls <- leechotu3 %>% select(final.taxonomy, starts_with(negctrls[1]), starts_with(negctrls[2]), starts_with(negctrls[3]), starts_with(negctrls[4]), starts_with(negctrls[5]), starts_with(negctrls[6]), starts_with(negctrls[7]), starts_with(negctrls[8]), starts_with(negctrls[9]), starts_with(negctrls[10]), starts_with(negctrls[11]), starts_with(negctrls[12]), starts_with(negctrls[13]), starts_with(negctrls[14]), starts_with(negctrls[15]), starts_with(negctrls[16]), starts_with(negctrls[17]), starts_with(negctrls[18]), starts_with(negctrls[19]), starts_with(negctrls[20]), starts_with(negctrls[21]))
+
+# add some columns
+leechotu_negctrls$total_reads <- leechotu_negctrls %>% select(-final.taxonomy) %>% rowSums() 
+leechotu_negctrls$incidence <- leechotu_negctrls %>% dplyr::select(-final.taxonomy, -total_reads) %>% specnumber(MARGIN=1)
+# add a column with the max number of reads per OTU. this is a pain
+otusonly <- leechotu_negctrls %>% dplyr::select(-final.taxonomy, -total_reads, -incidence) # make an OTUonly table
+maxotu <- apply(X = otusonly, MARGIN = 1, FUN = max) %>% data_frame() # use apply() to apply max() to each row
+colnames(maxotu) <- "maxotu" # add colname
+leechotu_negctrls <- bind_cols(leechotu_negctrls, maxotu) # add back to dataframe
+
+leechotu_negctrls <- leechotu_negctrls %>% dplyr::select(final.taxonomy, total_reads, incidence, maxotu,  everything()) # reorder columns
+names(leechotu_negctrls)
+rm(otusonly, maxotu)
+# write_tsv(leechotu_negctrls, "analysis/leechotu_negctrls.tsv")
+```
+
+```{r 4 remove negative control samples from leechotu4}
+leechotu4 <- leechotu3
+# cycles through the dataset, each time removing columns with a new prefix, until all negctrl prefixes have been removed
+for(i in 1:length(negctrls)) {
+	leechotu4 <- leechotu4 %>% dplyr::select(-starts_with(negctrls[i])) 
+}
+
+# (551-4=) 547 negative ctrl samples + (543-1 =) 542 real samples = 1089 total samples. leechotu3 is 1089 sample columns + 1 final.taxonomy column = 1090 columns.  correct
+
+#  and add some columns
+leechotu4$total_reads <- leechotu4 %>% dplyr::select(-final.taxonomy) %>% rowSums()
+leechotu4$incidence <- leechotu4 %>% dplyr::select(-final.taxonomy, -total_reads) %>% specnumber(MARGIN=1)
+
+# add a column with the max number of reads per OTU. this is a pain
+otusonly <- leechotu4 %>% dplyr::select(-final.taxonomy, -total_reads, -incidence) # make an OTUonly table
+maxotu <- apply(X = otusonly, MARGIN = 1, FUN = max) %>% data_frame() # use apply() to apply max() to each row
+colnames(maxotu) <- "maxotu" # add colname
+leechotu4 <- bind_cols(leechotu4, maxotu) # add back to dataframe
+
+
+leechotu4 <- leechotu4 %>% dplyr::select(final.taxonomy, total_reads, incidence, maxotu, everything()) # reorder columns
+names(leechotu4)  # SWG1:XS9B
+# write_tsv(leechotu4, "analysis/leechotu4.tsv")
+```
 
 ```{r filter by read number, eval=FALSE}
-# if i want to set cells to 0 that have fewer reads than the negative controls for that batch of samples.  I haven't implemented it yet, but i have generated the negative control matrix.
-leechidna_negctrls <- leechidna2
-leechidna_samples <- colnames(leechidna3)
-leechidna_negctrls <- leechidna_negctrls %>% dplyr::select(-one_of(leechidna_samples))
-# leechidna_negctrls
+# this is where i could add code to set to 0 cells that have fewer reads than the max number of reads for that species in the negative controls (leech_negctrls)
+# this is not an easy programming job!
 ```
 
+```{r filter by taxonomy and remove samples with 0 or 1 species only}
+# remove non-mammal taxa
+taxa_to_remove <- c("Accipitriformes|Anseriformes|Anura|Columbiformes|Galliformes|Gruiformes|Passeriformes")
+leechotu5 <- leechotu4 %>% filter(!grepl(taxa_to_remove, final.taxonomy)) # 55 mammalian taxa
 
-```{r add total_reads and incidence columns}
-leechidna3$total_reads <- leechidna3 %>% dplyr::select(-OTUs_merged_by_taxonomy) %>% rowSums()
-
-leechidna3$incidence <- leechidna3 %>% dplyr::select(-OTUs_merged_by_taxonomy, -total_reads) %>% specnumber(MARGIN=1)
-
-names(leechidna3)
-# leechidna3$incidence
-# leechidna3$total_reads
-```
-
-
-```{r filter by taxonomy}
-# change OTU names to format that is acceptable to R as column names
-leechidna3$OTUs_merged_by_taxonomy <- make.names(leechidna3$OTUs_merged_by_taxonomy, unique = TRUE)
-leechidna3$OTUs_merged_by_taxonomy <- gsub("cf..", "cf_", leechidna3$OTUs_merged_by_taxonomy, fixed = TRUE) # fixed = TRUE is to not use grep
-
-# remove some taxa
-taxa_to_remove <- c("Actinopterygii|Amphibia|Archelosauria|lab.contamination|laboratory.contamination")
-leechidna4 <- leechidna3 %>% filter(!grepl(taxa_to_remove, OTUs_merged_by_taxonomy))
-# leechidna4$OTUs_merged_by_taxonomy
+# remove samples (columns) that have 0 or 1 species  # Margin = 1 == rows, MARGIN = 2 == cols
+leechotu5.removedsamples <- leechotu5[, which(specnumber(leechotu5, MARGIN = 2) <= 1)]  
+leechotu5 <- leechotu5[, which(specnumber(leechotu5, MARGIN = 2) > 1)]  
 
 # taxonomic subsets
-leechidna_mammals <- leechidna4 %>% filter(!grepl(c("no.assignment|root"), OTUs_merged_by_taxonomy))
+leechotu5_mammals <- leechotu5
 
-leechidna_carnivora <- leechidna4 %>% filter(grepl(c("Carnivora"), OTUs_merged_by_taxonomy))
+leechotu5_lgmammals <- leechotu5 %>% filter(grepl(c("Carnivora|Artiodactyla|Primates"), final.taxonomy))
 
-leechidna_critters <- leechidna4 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Insectivora|Pholidota"), OTUs_merged_by_taxonomy))
+leechotu5_carnivora <- leechotu5 %>% filter(grepl(c("Carnivora"), final.taxonomy))
 
-leechidna_artiodactyla <- leechidna4 %>% filter(grepl(c("Artiodactyla"), OTUs_merged_by_taxonomy))
+leechotu5_artiodactyla <- leechotu5 %>% filter(grepl(c("Artiodactyla"), final.taxonomy))
 
-leechidna_primates <- leechidna4 %>% filter(grepl(c("Primates"), OTUs_merged_by_taxonomy)) 
-names(leechidna_primates)
+leechotu5_primates <- leechotu5 %>% filter(grepl(c("Primates"), final.taxonomy)) 
+
+leechotu5_critters <- leechotu5 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Soricomorpha|Erinaceomorpha|Chiroptera"), final.taxonomy))
 ```
-
 
 ```{r names of taxonomic subsets}
-varNames <- c("mammals", "carnivora", "critters", "artiodactyla", "primates")
+varNames <- c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 ```
 
-
-```{r transpose to community}
-# create site X species tables from the species X site tables
-# filename outputs:  leechidna_carnivora -> leechidna_carnivora_t  # site X OTU tables
+```{r transpose OTU tables to community tables}
+# create sample X OTU tables from OTU X sample tables
+# filename outputs:  leechotu5_carnivora -> leechotu5_carnivora_t  # sample X OTU tables
 
 for (i in seq_along(varNames)) {
-  d <- get(paste0("leechidna_", varNames[i])) # get a community subset
+  d <- get(paste0("leechotu5_", varNames[i])) # get a community subset
   d_t <- t(d) # transpose
   colnames(d_t) <- d_t[1,] # move taxonomic names to column names
-  d_t <- as.data.frame(d_t) # coerce to dataframe
-  d_t <- rownames_to_column(d_t, var = "site") # add site names to dataframe.  site = "WWF1"
-  d_t <- d_t %>% filter(site != "OTUs_merged_by_taxonomy", site != "incidence", site != "total_reads") # filter out these rows
-  assign(paste0("leechidna_", varNames[i], "_t"), d_t) # assign output to the correct object name
+  d_t <- data.frame(d_t) # coerce to dataframe (prev. as.data.frame())
+  d_t <- rownames_to_column(d_t, var = "sample") # add sample names to dataframe.  sample is a tube = "WWF1"
+  d_t <- d_t %>% filter(sample != "final.taxonomy", sample != "total_reads", sample != "incidence", sample != "maxotu") # filter out these rows
+  assign(paste0("leechotu5_", varNames[i], "_t"), d_t) # assign output to the correct object name
 }
 ```
 
-https://codedocean.wordpress.com/2014/01/14/r-working-with-named-objects-in-a-loop/
-
-```{r create environment and Site_by_OTU datasets}
-# filename outputs:  Site_by_OTU_carnivora and reserve_carnivora
+```{r create environment and sample_by_OTU datasets}
+# filename outputs:  sample_by_OTU_carnivora and reserve_carnivora 
 for (i in seq_along(varNames)) {
-  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
-  dreserve <- left_join(d, reserve, by = c("site" = "Sample_16SVert_Row2")) # use site (e.g. "WWF1") to append environment data in correct order
-  assign(paste0("Site_by_OTU_", varNames[i]), dreserve) # create site X OTU tables for outside use (includes env data)
-  dreserve <- dreserve %>% select(site, Protected_Area_Std_Name, reservecode, reservecode2, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID) # choose the env columns
-  # previous line
-	# dreserve <- dreserve %>% select(site, Reserve_StdName, Approx_number_leeches) # choose the env columns
+  d <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community table
+  dreserve <- left_join(d, reserve, by = c("sample" = "Sample_16SVert_Row2")) # use sample (e.g. "WWF1") to append environment data in correct order
+  assign(paste0("Sample_by_OTU_", varNames[i]), dreserve) # create sample X OTU tables for outside use (includes env data)
+  dreserve <- dreserve %>% dplyr::select(sample, Protected_Area_Std_Name, reservecode, reservecode2, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID) # choose the env columns
   assign(paste0("reserve_", varNames[i]), dreserve) # create env dataset with correct name
-  d <- d %>% select(-site)
-  assign(paste0("leechidna_", varNames[i], "_t"), d)
+  d <- d %>% select(-sample)
+  assign(paste0("leechotu5_", varNames[i], "_t"), d)
 }
 
-# now that site column has been removed from leechidna_carnivora_t, convert the remaining OTU columns to numeric
+# now that sample column has been removed from leechotu5_carnivora_t, convert the remaining OTU columns to numeric
 # http://stackoverflow.com/questions/2288485/how-to-convert-a-data-frame-column-to-numeric-type
 for (i in seq_along(varNames)) {
-  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  d <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community subset
   d <- as.data.frame(sapply(d, function(x) as.numeric(as.character(x)))) 
-  assign(paste0("leechidna_", varNames[i], "_t"), d)
+  assign(paste0("leechotu5_", varNames[i], "_t"), d)
 }
 
-# omit rows that have rowSums = 0, from both OTU and environment datsets
+# omit samples that have rowSums = 0 (species that are entirely absent), from both OTU and environment datsets
 for (i in seq_along(varNames)) {
-  d <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  d <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community subset
   r <- get(paste0("reserve_", varNames[i]))
   r <- r[which(rowSums(d) > 0), ]
   d <- d[which(rowSums(d) > 0), ]
-  assign(paste0("leechidna_", varNames[i], "_t"), d)
+  assign(paste0("leechotu5_", varNames[i], "_t"), d)
   assign(paste0("reserve_", varNames[i]), r)
 }
 
-rm(otu)
 rm(d)
 rm(r)
 rm(d_t)
 rm(dreserve)
 ```
 
-```{r Site_by_OTU tables}
-# change column orders of the site X OTU tables and write to disk
+
+DON'T RUN
+This saves Sample_by_OTU_taxon.tsv tables to make some tables in Excel.  
+```{r sample_by_OTU tables, eval = FALSE}
+# change column orders of the sample X OTU tables and write to disk
 for (i in seq_along(varNames)) {
-  otu <- get(paste0("Site_by_OTU_", varNames[i])) # get a community subset
-  otu <- otu %>% dplyr::select(site, Worksheet_filename, Country, reservecode, reservecode2, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID, everything()) # change the column orders
-  otu <- otu %>% rename(ECEC_code = site)
-  assign(paste0("Site_by_OTU_", varNames[i]), otu) # create object with correct name
-  write.table(get(paste0("Site_by_OTU_", varNames[i])), file = paste0("Site_by_OTU_", varNames[i],".tsv"),sep ="\t", row.names = FALSE)
+  otu <- get(paste0("Sample_by_OTU_", varNames[i])) # get a community subset
+  otu <- otu %>% dplyr::select(sample, Worksheet_filename, Country, reservecode, reservecode2, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID, everything()) # change the column orders
+  otu <- otu %>% rename(KIZ_code = sample)
+  assign(paste0("Sample_by_OTU_", varNames[i]), otu) # create object with correct name
+  write.table(get(paste0("Sample_by_OTU_", varNames[i])), file = paste0("Sample_by_OTU_", varNames[i],".tsv"),sep ="\t", row.names = FALSE)
 }
+```
+
+DON'T RUN
+Find the outlier PST sample, which is SWG53 (Mustela kathiah). i don't need to run this because i've removed this and other 1-species-only samples in the previous codechunk:  "filter by taxonomy and remove samples with 0 or 1 species only"
+```{r find outlier PST community, eval = FALSE}
+
+leechotu5_mammals_pst_t <- leechotu5_mammals_t %>% dplyr::filter(reserve_mammals$reservecode == "PST" & !(reserve_mammals$sample %in% c("SWG53"))) #  
+reserve_mammals_pst <- reserve_mammals %>% dplyr::filter(reservecode == "PST" & !(reserve_mammals$sample %in% c("SWG53")))
+
+community.jmds <- metaMDS(leechotu5_mammals_pst_t, distance = "jaccard", trymax = 40, binary=FALSE)
+community.jmds <- metaMDS(leechotu5_mammals_pst_t, distance = "jaccard", binary = FALSE, previous.best = community.jmds)  
+stressplot(community.jmds)
+tabasco(leechotu5_mammals_pst_t, use = community.jmds, labCol = reserve_mammals_pst$sample)
+plot(community.jmds)
+text(community.jmds, display = "sites", cex=0.7, col="blue")
+text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
 
 
@@ -224,126 +362,142 @@ for (i in seq_along(varNames)) {
 
 ```{r, eval = FALSE}
 xtabs(~ reservecode, reserve_mammals)
- # BME BMNP  HSL   LL  PST QNNR QNSL   XS 
- #  12   11  151   28   66   19  161   38 
-
+  # BM  HSL   LL  PST QNSL   XS 
+  # 23  150   28   63  180   74 
 xtabs(~ reservecode2, reserve_mammals)
-#   BM  HSL  LAO QNSL 
-#   23  151  132  180 
+  # BM  HSL  LAO QNSL 
+  # 23  150  165  180 
 ```
 
 ```{r make binary communities}
 for (i in seq_along(varNames)) {
-  otu <- get(paste0("leechidna_", varNames[i], "_t")) # get a community subset
+  otu <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community subset
   otu[otu > 1] <- 1 # convert to presence/absence
-  assign(paste0("leechidna_", varNames[i], "_tb"), otu) # create object with correct name
+  assign(paste0("leechotu5_", varNames[i], "_tb"), otu) # create object with correct name
 }
+rm(otu)
 ```
 
 #### specpool
 ```{r specpool}
 taxon <- "mammals" 
-# c("mammals", "carnivora", "critters", "artiodactyla", "primates")
+# c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 
 # choose taxon subdataset for downstream analyses
-leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
-specpool(leechidna_tb, reserve_tb$reservecode2)
-specpool(leechidna_tb, reserve_tb$reservecode)
+specpool(leechotu_tb, reserve_tb$reservecode2)
+specpool(leechotu_tb, reserve_tb$reservecode)
 
 par(mfrow=c(2,1))
-beanplot(specnumber(leechidna_tb) ~ reserve_tb$reservecode, col = c("grey", "white"))
-beanplot(specnumber(leechidna_tb) ~ reserve_tb$reservecode2, col = c("grey", "white"))
+beanplot(specnumber(leechotu_tb) ~ reserve_tb$reservecode, col = c("grey", "white"))
+beanplot(specnumber(leechotu_tb) ~ reserve_tb$reservecode2, col = c("grey", "white"))
 par(mfrow=c(1,1))
 ```
 
 Mammals
-Species     chao  chao.se    jack1  jack1.se    jack2     boot   boot.se   n
-BME       49 51.24583 2.373260 55.41667 3.8792539 53.67424 52.81269 2.5403089  12
-BMNP      46 53.42424 5.269337 58.72727 6.3766102 61.34545 52.41017 4.4653216  11
-HSL       60 60.66225 1.298306 61.98675 1.4048479 61.01974 61.26154 0.9676567 151
-LL        49 53.88170 4.295591 57.67857 4.0103501 58.88228 53.64013 2.9011469  28
-PST       60 60.63312 1.106720 62.95455 1.7058076 59.18019 62.26494 1.4489257  66
-QNNR      55 61.06316 5.638836 62.57895 4.0808994 65.51170 58.61652 2.4183328  19
-QNSL      63 63.12422 0.435669 63.99379 0.9937888 61.05575 63.98016 0.9765294 161
-XS        53 57.92928 4.331917 61.76316 3.5252355 62.91536 57.58724 2.6133584  38
+specpool(leechotu_tb, reserve_tb$reservecode2)
+     Species     chao   chao.se    jack1 jack1.se    jack2     boot  boot.se   n
+BM        33 40.74783  6.814181 41.60870 3.738119 45.46838 36.93450 1.937883  23
+HSL       35 37.23500  3.375339 37.98000 1.720504 38.97991 36.48883 1.016310 150
+LAO       45 60.90303 16.395408 52.95152 2.811285 58.89084 48.37956 1.505154 165
+QNSL      37 37.49722  1.026396 38.98889 1.406357 37.03321 38.41188 1.026079 180
+specpool(leechotu_tb, reserve_tb$reservecode)
+     Species     chao  chao.se    jack1 jack1.se    jack2     boot  boot.se   n
+BM        33 40.74783 6.814181 41.60870 3.738119 45.46838 36.93450 1.937883  23
+HSL       35 37.23500 3.375339 37.98000 1.720504 38.97991 36.48883 1.016310 150
+LL        28 29.10204 1.577984 31.85714 2.376544 29.31217 30.43135 1.587379  28
+PST       37 38.10714 1.745834 39.95238 1.704558 39.04659 38.80581 1.187327  63
+QNSL      37 37.49722 1.026396 38.98889 1.406357 37.03321 38.41188 1.026079 180
+XS        32 40.05631 8.171844 38.90541 2.609998 42.83728 35.13200 1.445045  74
 
-     Species     chao   chao.se    jack1 jack1.se    jack2     boot   boot.se   n
-BM        58 75.21739 13.789122 69.47826 4.738931 76.94862 63.15751 2.7936120  23
-HSL       60 60.66225  1.298306 61.98675 1.404848 61.01974 61.26154 0.9676567 151
-LAO       69 75.07860  6.035715 75.94697 2.625708 78.93159 72.26380 1.5540458 132
-QNSL      63 63.00000  0.000000 63.00000 0.000000 59.06654 63.62080 0.7846341 180
+
+Large Mammals
+specpool(leechotu_tb, reserve_tb$reservecode2)
+     Species     chao   chao.se    jack1 jack1.se    jack2     boot  boot.se   n
+BM        24 31.79545  7.923196 30.68182 3.479277 34.44805 26.93841 1.833812  22
+HSL       28 30.23500  3.375339 30.98000 1.720504 31.97991 29.48663 1.015411 150
+LAO       32 44.42424 17.037473 36.96970 2.222516 40.92724 34.09493 1.170602 165
+QNSL      27 27.00000  0.000000 27.00000 0.000000 23.06654 27.62963 0.746845 180
+specpool(leechotu_tb, reserve_tb$reservecode)
+     Species     chao  chao.se    jack1 jack1.se    jack2     boot   boot.se   n
+BM        24 31.79545 7.923196 30.68182 3.479277 34.44805 26.93841 1.8338124  22
+HSL       28 30.23500 3.375339 30.98000 1.720504 31.97991 29.48663 1.0154108 150
+LL        23 23.86786 1.422226 25.89286 1.670192 24.20767 24.77311 1.2098250  28
+PST       26 26.65608 1.288589 27.96825 1.391766 27.04685 27.23961 0.9590933  63
+QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06654 27.62963 0.7468450 180
+XS        23 27.11036 4.822665 27.93243 2.205851 29.91836 25.35445 1.2855733  74
 
 
 #### Species richness by Reserve:  iNEXT analysis
-input is the Site X OTU table (e.g. leechidna_mammals_t), which is subset into habitats by the reserve_named_mammals$reservecode or reservecode2 
+input is the Site X OTU table (e.g. leechotu5_mammals_t), which is subset into habitats by the reserve_named_mammals$reservecode or reservecode2 
 ```{r inext fxn reservecode, eval = FALSE}
 inextcomm <- function(taxon = "mammals") { 
-	# taxon == c("mammals", "carnivora", "critters", "artiodactyla", "primates")
+ # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 
 	# choose taxon subdataset for downstream analyses
-	leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+	leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 	reserve_tb <- get(str_c("reserve_", taxon))
 
 	# reserve subsets
-	BME <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("BME"))
-	BMNP <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("BMNP"))
-	HSL <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("HSL"))
-	LL <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("LL"))
-	PST <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("PST"))
-	QNNR <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("QNNR"))
-	QNSL <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("QNSL"))
-	XS <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("XS"))
+	BM <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("BM"))
+	HSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("HSL"))
+	LL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("LL"))
+	PST <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("PST"))
+	QNSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("QNSL"))
+	XS <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("XS"))
 
-	cname <- c("BME", "BMNP", "HSL", "LL", "PST", "QNNR", "QNSL", "XS")
+	cname <- c("BM", "HSL", "LL", "PST", "QNSL", "XS")
 
-	comm4inext <- matrix(c(colSums(BME), colSums(BMNP), colSums(HSL), colSums(LL), colSums(PST), colSums(QNNR), colSums(QNSL), colSums(XS)), ncol = 8)
+	comm4inext <- matrix(c(colSums(BM), colSums(HSL), colSums(LL), colSums(PST), colSums(QNSL), colSums(XS)), ncol = 6)
 	# rownames(comm4inext) <- rname
 	colnames(comm4inext) <- cname
-	comm4inext <- rbind(c(nrow(BME), nrow(BMNP), nrow(HSL), nrow(LL), nrow(PST), nrow(QNNR), nrow(QNSL), nrow(XS)), comm4inext)
+	comm4inext <- rbind(c(nrow(BM), nrow(HSL), nrow(LL), nrow(PST), nrow(QNSL), nrow(XS)), comm4inext)
 	comm4inext
 }
 
-comm4inext <- inextcomm("artiodactyla")
+comm4inext <- inextcomm("lgmammals")
+   # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 comm4inext
-	# taxondb == c("named_mammals", "carnivora", "critters", "artiodactyla", "primates")
 confnum=0.95 # set confidence here
 
 outcomm0 <- iNEXT(comm4inext, q=0, conf=confnum, datatype="incidence_freq")
 # Hill numbers:  0 = sp richness, 1 = Shannon, 2 = inverse Simpson
-outcomm0$DataInfo
-ChaoRichness(comm4inext, datatype="incidence_freq") # same as specpool results, so i trust that we have done this correctly
-ChaoShannon(comm4inext, datatype="incidence_freq")
+sprich <- ggiNEXT(outcomm0, type=1) + ggtitle("Species richness") + labs(y="Species richness", x = "") + theme(legend.position="none")
 
 outcomm1 <- iNEXT(comm4inext, q=1, conf=confnum, datatype="incidence_freq")
-ggiNEXT(outcomm1, type=1)
-outcomm2 <- iNEXT(comm4inext, q=2, conf=confnum, datatype="incidence_freq")
-ggiNEXT(outcomm2, type=1)
+shannon <- ggiNEXT(outcomm1, type=1)  + ggtitle("Shannon diversity")  + labs(y="Shannon diversity", x = "Number of sampling units") # sample-size-based rarefaction/extrapolation curve:  Shannon
 
-ggiNEXT(outcomm0, type=1) # sample-size-based rarefaction/extrapolation curve:  species richness
-ggiNEXT(outcomm1, type=1) # sample-size-based rarefaction/extrapolation curve:  Shannon
+plot_grid(sprich, shannon, nrow = 2, labels = c("lgmammals", "lgmammals"))
+
+outcomm2 <- iNEXT(comm4inext, q=2, conf=confnum, datatype="incidence_freq")
+ggiNEXT(outcomm2, type=1) # sample-size-based rarefaction/extrapolation curve:  inverse Simpson
 
 ggiNEXT(outcomm0, type=2) # sample completeness curve
 ggiNEXT(outcomm0, type=3) # coverage-based rarefaction/extrapolation curve
+# sample-size-based rarefaction/extrapolation curve:  species richness
+outcomm0$DataInfo
+ChaoRichness(comm4inext, datatype="incidence_freq") # same as specpool results, so i trust that we have done this correctly
+ChaoShannon(comm4inext, datatype="incidence_freq")
 # outcomm0$DataInfo
 # outcomm0$iNextEst
 # outcomm0$AsyEst
 ```
 
 ```{r inext fxn reservecode2, eval = FALSE}
-inextcomm <- function(taxon = "mammals") { 
-	# taxon == c("mammals", "carnivora", "critters", "artiodactyla", "primates")
+inextcomm <- function(taxon = "lgmammals") { 
+	# taxon == c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 
 	# choose taxon subdataset for downstream analyses
-	leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+	leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 	reserve_tb <- get(str_c("reserve_", taxon))
 
 	# reserve subsets
-	BM <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("BM"))
-	HSL <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("HSL"))
-	LAO <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("LAO"))
-	QNSL <- leechidna_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("QNSL"))
+	BM <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("BM"))
+	HSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("HSL"))
+	LAO <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("LAO"))
+	QNSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("QNSL"))
 
 	cname <- c("BM", "HSL", "LAO", "QNSL")
 
@@ -354,13 +508,14 @@ inextcomm <- function(taxon = "mammals") {
 }
 
 
-comm4inext <- inextcomm("mammals")
+comm4inext <- inextcomm("lgmammals")
 comm4inext
 	# taxon == c("mammals", "carnivora", "critters", "artiodactyla", "primates")
 confnum=0.95 # set confidence here
 
 outcomm0 <- iNEXT(comm4inext, q=0, conf=confnum, datatype="incidence_freq")
 # Hill numbers:  0 = sp richness, 1 = Shannon, 2 = inverse Simpson
+ggiNEXT(outcomm0, type=1)
 outcomm0$DataInfo
 ChaoRichness(comm4inext, datatype="incidence_freq") # same as specpool results, so i trust that we have done this correctly
 ChaoShannon(comm4inext, datatype="incidence_freq")
@@ -380,109 +535,104 @@ ggiNEXT(outcomm0, type=3) # coverage-based rarefaction/extrapolation curve
 # outcomm0$AsyEst
 ```
 
-
 #### Community analyses
 
-#### Run tabasco before removing zerotons and singletons
+#### Run tabasco before removing zerotons and singletons (i.e. species that appear in 0 or 1 sample)
 ```{r}
-taxon <- "mammals"
-leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+taxon <- "lgmammals"
+leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
-community.jmds <- metaMDS(leechidna_tb, distance = "jaccard", trymax = 40, binary=TRUE)
-community.jmds <- metaMDS(leechidna_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  
 stressplot(community.jmds)
-tabasco(leechidna_tb, use = community.jmds, labCol = reserve_tb$reservecode2)
+tabasco(leechotu_tb, use = community.jmds, labCol = reserve_tb$reservecode2)
 ```
 
-No visual sign of nestedness, but the betapart analysis finds nestedness
 
 #### Run betapart analyses before removing zerotons and singletons
 ```{r}
-taxon <- "mammals"
-leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+taxon <- "lgmammals"
+leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
 # no nestedness 
-(ALL.dist <- leechidna_tb %>% beta.multi(index.family="jac"))
-# $beta.JTU
-# [1] 0.9941085
-# $beta.JNE
-# [1] 0.002525642
-# $beta.JAC
-# [1] 0.9966341
+(ALL.dist <- leechotu_tb %>% beta.multi(index.family="jac"))
+# $beta.jtu
+# [1] 0.9933299
+# $beta.jne
+# [1] 0.003278213
+# $beta.jac
+# [1] 0.9966081
 
-
-ALL.dist <- leechidna_tb %>% beta.pair(index.family="jac")
+ALL.dist <- leechotu_tb %>% beta.pair(index.family="jac")
 # turnover only
 ALL.dist.subset <- ALL.dist[["beta.jtu"]]
 ALL.dist.jtu.jmds <- metaMDS(ALL.dist.subset)
 ALL.dist.jtu.jmds <- metaMDS(ALL.dist.subset, previous.best = ALL.dist.jtu.jmds)
 stressplot(ALL.dist.jtu.jmds)
 # nestedness only
-ALL.dist.subset <- ALL.dist[["beta.sne"]]
+ALL.dist.subset <- ALL.dist[["beta.jne"]]
 ALL.dist.jne.jmds <- metaMDS(ALL.dist.subset)
 ALL.dist.jne.jmds <- metaMDS(ALL.dist.subset, previous.best = ALL.dist.jne.jmds)
 stressplot(ALL.dist.jne.jmds)
 
 par(mfrow=c(2,2))
-plot(community.jmds, main = "All beta diversity", ylim = c(-1.0, 1.0))
+plot(community.jmds, main = "All beta diversity", xlim=c(-3,3), ylim=c(-2,2))
 
-plot(ALL.dist.sim.jmds, main = "Turnover beta diversity only", ylim = c(-1.0, 1.0))
+plot(ALL.dist.jtu.jmds, main = "Turnover beta diversity only", xlim=c(-3,3), ylim=c(-2,2))
 
-plot(ALL.dist.sne.jmds, main = "Nestedness beta diversity only", ylim = c(-1.0, 1.0))
+plot(ALL.dist.jne.jmds, main = "Nestedness beta diversity only", xlim=c(-3,3), ylim=c(-2,2))
 par(mfrow=c(1,1))
 ```
 
 
 #### Unconstrained ordination
-#### For NMDS, mvabund, and boral analyses, remove zerotons and singletons
-Should be left with 358 species (variables)
-```{r remove zerotons and singletons from communityB}
+#### For NMDS, mvabund, and boral analyses, remove zeroton and singleton species (these are species that appear in 0 or 1 sample). This is dfferent from the previous specnumber filtering step, where i removed samples that had 0 or 1 species only in them, which are samples that cause ordination to create strong outlier points. Such species are needed above for estimating species richness (inext, specpool) but do not provide useful information for ordination, which is driven by shared species
+```{r remove zeroton and singleton species from communityB}
 taxon <- "mammals"
-leechidna_tb <- get(str_c("leechidna_", taxon, "_tb"))
+leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
-leechidna_tb <- leechidna_tb[, which(specnumber(leechidna_tb, MARGIN=2) > 1)]
+leechotu_tb <- leechotu_tb[, which(specnumber(leechotu_tb, MARGIN=2) > 1)]
 ```
 
 ## NMDS ordination
 ```{r NMDS}
 ### do NMDS analysis to quickly see patterns ####
-community.jmds <- metaMDS(leechidna_tb, distance = "jaccard", trymax = 40, binary=TRUE)
-community.jmds <- metaMDS(leechidna_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  # doesn't converge well, with final stress > 0.20
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  # doesn't converge well, with final stress > 0.20
 stressplot(community.jmds)
+community.jmds[["species"]] # shows species loadings
 ```
-
 
 ```{r ordispider plot reservecode}
 #### plot the communities 
 levels(reserve_tb$reservecode)
-# BME BMNP HSL LL  PST QNNR QNSL   XS 
+# "BM" "HSL" "LL" "PST" "QNSL" "XS" 
 levels(reserve_tb$reservecode2)
 # BM  HSL  LAO QNSL 
 
-levels(reserve_tb$reservecode)
-(sprichness <- specnumber(leechidna_tb, MARGIN = 1)) # number of species per site
+(sprichness <- specnumber(leechotu_tb, MARGIN = 1)) # number of species per site
+(speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of sites per species
 colvec <- brewer.pal(5, "Set1")
 
 plot(community.jmds, display="sites", type="n")
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BME"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BMNP"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNNR"))))
-
-with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+# text(community.jmds, display = "sites", cex=0.7, col="blue")
+text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
 
 
@@ -494,19 +644,21 @@ levels(reserve_tb$reservecode2)
 # BM  HSL  LAO QNSL 
 
 levels(reserve_tb$reservecode)
-(sprichness <- specnumber(leechidna_tb, MARGIN = 1)) # number of species per site
+(sprichness <- specnumber(leechotu_tb, MARGIN = 1)) # number of species per site
+(speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of species per site
 colvec <- brewer.pal(5, "Set1")
 
 plot(community.jmds, display="sites", type="n")
 
-with(reserve_tb, ordispider(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LAO"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LAO"))))
 
-with(reserve_tb, ordispider(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
 
+text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
 
 
