@@ -346,7 +346,7 @@ for (i in seq_along(varNames)) {
 ```
 
 DON'T RUN
-This makes simpler summary tables, summed over samples subdivided by reservecode2
+This summary tables, samples summed by reservecode2
 ```{r}
 reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode2, Protected_Area_Std_Name, Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK)
 reservecode_by_OTU$reservecode2 <- as.character(reservecode_by_OTU$reservecode2)
@@ -376,8 +376,8 @@ rm(reservecode_by_OTU_samplecount2)
 rm(reservecode_by_OTU_b)
 rm(reservecode_by_OTU)
 
-write_tsv(reservecode_by_OTU_readsum, "analysis/reservecode_by_OTU_readsum.tsv")
-write_tsv(reservecode_by_OTU_samplecount, "analysis/reservecode_by_OTU_samplecount.tsv")
+# write_tsv(reservecode_by_OTU_readsum, "analysis/reservecode_by_OTU_readsum.tsv")
+# write_tsv(reservecode_by_OTU_samplecount, "analysis/reservecode_by_OTU_samplecount.tsv")
 ```
 
 DON'T RUN
@@ -501,7 +501,7 @@ inextcomm <- function(taxon = "mammals") {
 	comm4inext
 }
 
-taxon <- "carnivora"
+taxon <- "lgmammals"
 comm4inext <- inextcomm(taxon)
    # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 comm4inext
@@ -639,7 +639,7 @@ par(mfrow=c(1,1))
 #### Unconstrained ordination
 #### For NMDS, mvabund, and boral analyses, remove zeroton and singleton species (these are species that appear in 0 or 1 sample). This is dfferent from the previous specnumber filtering step, where i removed samples that had 0 or 1 species only in them, which are samples that cause ordination to create strong outlier points. Such species are needed above for estimating species richness (inext, specpool) but do not provide useful information for ordination, which is driven by shared species
 ```{r remove zeroton and singleton species from communityB}
-taxon <- "mammals"
+taxon <- "lgmammals"
 leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
@@ -654,15 +654,13 @@ community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, prev
 stressplot(community.jmds)
 speciesloadings <- community.jmds[["species"]] # shows species loadings
 speciesloadings <- speciesloadings %>% as.data.frame() %>% rownames_to_column() 
-write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
+# write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
 ```
 
 ```{r plot NMDS by reservecode}
 #### plot the communities 
 levels(reserve_tb$reservecode)
-# "BM" "HSL" "LL" "PST" "QNSL" "XS" 
-levels(reserve_tb$reservecode2)
-# BM  HSL  LAO QNSL 
+# "BM"   "HSL"  "LL"   "PST"  "QNSL" "XS"  
 
 (sprichness <- specnumber(leechotu_tb, MARGIN = 1)) # number of species per site
 (speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of sites per species
@@ -678,36 +676,38 @@ with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon"
 
 with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
-
 with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
 
 # text(community.jmds, display = "sites", cex=0.7, col="blue")
 text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
 
-
 ```{r plot NMDS by reservecode2}
 #### plot the communities 
-levels(reserve_tb$reservecode)
-# BME BMNP HSL LL  PST QNNR QNSL   XS 
 levels(reserve_tb$reservecode2)
-# BM  HSL  LAO QNSL 
+ # "BME"  "BMNP" "HSL"  "LL"   "PST"  "QNSL" "XS"
 
-levels(reserve_tb$reservecode)
 (sprichness <- specnumber(leechotu_tb, MARGIN = 1)) # number of species per site
 (speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of species per site
 colvec <- brewer.pal(5, "Set1")
 
 plot(community.jmds, display="sites", type="n")
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BME"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BMNP"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LAO"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
 
 text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
