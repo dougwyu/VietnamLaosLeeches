@@ -176,9 +176,9 @@ rm(protax_all)
 4. remove negative control samples from leechotu4
 
 ```{r 1 write leechotu file after visual check}
-# write_tsv(leechotu, "analysis/leechotu.tsv")
+# write_tsv(leechotu, "analysis/leechotu_protax.tsv")
 
-leechotu2 <- read_excel("analysis/leechotu.xlsx", sheet = "leechotu")
+leechotu2 <- read_excel("analysis/leechotu_protax.xlsx", sheet = "leechotu")
 names(leechotu2)
   #  [1] "total_reads"      "incidence"        "OTU"              "protax.consensus" "prob.order"      
   #  [6] "prob.family"      "prob.genus"       "prob.species"     "source.consensus" "final.taxonomy"  
