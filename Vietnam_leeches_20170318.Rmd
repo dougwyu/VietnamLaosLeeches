@@ -52,6 +52,8 @@ reserve <- reserve %>% mutate(
 		Protected_Area_Std_Name == "BachMaExt" ~ "BM",
 		Protected_Area_Std_Name == "BachMaNP" ~ "BM",
 		Protected_Area_Std_Name == "HueSaoLaNR" ~ "HSL",
+		Protected_Area_Std_Name == "Hue SNR" ~ "HSL",
+		Protected_Area_Std_Name == "Quang Nam SNR" ~ "QNSL",
 		Protected_Area_Std_Name == "Laving Lavern" ~ "LL",
 		Protected_Area_Std_Name == "Phou Si Thone" ~ "PST",
 		Protected_Area_Std_Name == "QuangNamNR" ~ "QNSL",
@@ -65,14 +67,16 @@ levels(reserve$reservecode)
 # recode reserve names to reservecode2
 reserve <- reserve %>% mutate(
 	reservecode2 = case_when(
-		Protected_Area_Std_Name == "BachMaExt" ~ "BM",
-		Protected_Area_Std_Name == "BachMaNP" ~ "BM",
+		Protected_Area_Std_Name == "BachMaExt" ~ "BME",
+		Protected_Area_Std_Name == "BachMaNP" ~ "BMNP",
 		Protected_Area_Std_Name == "HueSaoLaNR" ~ "HSL",
-		Protected_Area_Std_Name == "Laving Lavern" ~ "LAO",
-		Protected_Area_Std_Name == "Phou Si Thone" ~ "LAO",
+		Protected_Area_Std_Name == "Hue SNR" ~ "HSL",
+		Protected_Area_Std_Name == "Quang Nam SNR" ~ "QNSL",
+		Protected_Area_Std_Name == "Laving Lavern" ~ "LL",
+		Protected_Area_Std_Name == "Phou Si Thone" ~ "PST",
 		Protected_Area_Std_Name == "QuangNamNR" ~ "QNSL",
 		Protected_Area_Std_Name == "QuangNamSaoLaNR" ~ "QNSL",
-		Protected_Area_Std_Name == "XeSap" ~ "LAO"
+		Protected_Area_Std_Name == "XeSap" ~ "XS"
 	) %>% as.factor()
 )
 
@@ -241,7 +245,6 @@ leechotu4 <- bind_cols(leechotu4, maxotu) # add back to dataframe
 
 leechotu4 <- leechotu4 %>% dplyr::select(final.taxonomy, total_reads, incidence, maxotu, everything()) # reorder columns
 names(leechotu4)  # SWG1:XS9B
-# write_tsv(leechotu4, "analysis/leechotu4.tsv")
 ```
 
 ```{r filter by read number, eval=FALSE}
@@ -249,7 +252,7 @@ names(leechotu4)  # SWG1:XS9B
 # this is not an easy programming job!
 ```
 
-```{r filter by taxonomy and remove samples with 0 or 1 species only}
+```{r 5 filter by taxonomy and remove samples with 0 or 1 species only}
 # remove non-mammal taxa
 taxa_to_remove <- c("Accipitriformes|Anseriformes|Anura|Columbiformes|Galliformes|Gruiformes|Passeriformes")
 leechotu5 <- leechotu4 %>% filter(!grepl(taxa_to_remove, final.taxonomy)) # 55 mammalian taxa
@@ -260,6 +263,7 @@ leechotu5 <- leechotu5[, which(specnumber(leechotu5, MARGIN = 2) > 1)]
 
 # taxonomic subsets
 leechotu5_mammals <- leechotu5
+# write_tsv(leechotu5, "analysis/leechotu5_mammals.tsv")
 
 leechotu5_lgmammals <- leechotu5 %>% filter(grepl(c("Carnivora|Artiodactyla|Primates"), final.taxonomy))
 
@@ -272,11 +276,11 @@ leechotu5_primates <- leechotu5 %>% filter(grepl(c("Primates"), final.taxonomy))
 leechotu5_critters <- leechotu5 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Soricomorpha|Erinaceomorpha|Chiroptera"), final.taxonomy))
 ```
 
-```{r names of taxonomic subsets}
+```{r 6 names of taxonomic subsets}
 varNames <- c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 ```
 
-```{r transpose OTU tables to community tables}
+```{r 7 transpose OTU tables to community tables}
 # create sample X OTU tables from OTU X sample tables
 # filename outputs:  leechotu5_carnivora -> leechotu5_carnivora_t  # sample X OTU tables
 
@@ -291,7 +295,7 @@ for (i in seq_along(varNames)) {
 }
 ```
 
-```{r create environment and sample_by_OTU datasets}
+```{r 8 create environment and sample_by_OTU datasets}
 # filename outputs:  sample_by_OTU_carnivora and reserve_carnivora 
 for (i in seq_along(varNames)) {
   d <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community table
@@ -337,8 +341,43 @@ for (i in seq_along(varNames)) {
   otu <- otu %>% dplyr::select(sample, Worksheet_filename, Country, reservecode, reservecode2, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID, everything()) # change the column orders
   otu <- otu %>% rename(KIZ_code = sample)
   assign(paste0("Sample_by_OTU_", varNames[i]), otu) # create object with correct name
-  write.table(get(paste0("Sample_by_OTU_", varNames[i])), file = paste0("Sample_by_OTU_", varNames[i],".tsv"),sep ="\t", row.names = FALSE)
+  write_tsv(get(paste0("Sample_by_OTU_", varNames[i])), file.path("analysis", paste0("Sample_by_OTU_", varNames[i],".tsv")))
 }
+```
+
+DON'T RUN
+This makes simpler summary tables, summed over samples subdivided by reservecode2
+```{r}
+reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode2, Protected_Area_Std_Name, Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK)
+reservecode_by_OTU$reservecode2 <- as.character(reservecode_by_OTU$reservecode2)
+indx <- sapply(reservecode_by_OTU, is.factor)
+reservecode_by_OTU[indx] <- lapply(reservecode_by_OTU[indx], function(x) as.numeric(as.character(x)))
+reservecode_by_OTU$reservecode2 <- as.factor(reservecode_by_OTU$reservecode2)
+
+reservecode_by_OTU_readsum <- reservecode_by_OTU %>% 
+	group_by_at(vars(Country, reservecode2)) %>% 
+	summarise_at(vars(Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
+
+reservecode_by_OTU_b <- reservecode_by_OTU
+reservecode_by_OTU_b$Country <- as.factor(reservecode_by_OTU_b$Country)
+reservecode_by_OTU_b$Protected_Area_Std_Name <- as.factor(reservecode_by_OTU_b$Protected_Area_Std_Name)
+reservecode_by_OTU_b[reservecode_by_OTU_b > 0] <- 1
+reservecode_by_OTU_samplecount <- reservecode_by_OTU_b %>% 
+	group_by_at(vars(Country, reservecode2)) %>% 
+	summarise_at(vars(Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
+
+reservecode_by_OTU_samplecount2 <- reservecode_by_OTU_b %>% 
+	group_by_at(vars(Country, reservecode2)) %>% 
+	summarise(samples = n()) 
+
+reservecode_by_OTU_samplecount <- left_join(reservecode_by_OTU_samplecount2, reservecode_by_OTU_samplecount)
+
+rm(reservecode_by_OTU_samplecount2)
+rm(reservecode_by_OTU_b)
+rm(reservecode_by_OTU)
+
+write_tsv(reservecode_by_OTU_readsum, "analysis/reservecode_by_OTU_readsum.tsv")
+write_tsv(reservecode_by_OTU_samplecount, "analysis/reservecode_by_OTU_samplecount.tsv")
 ```
 
 DON'T RUN
@@ -363,10 +402,10 @@ text(community.jmds, display = "species", cex=0.7, col="blue")
 ```{r, eval = FALSE}
 xtabs(~ reservecode, reserve_mammals)
   # BM  HSL   LL  PST QNSL   XS 
-  # 23  150   28   63  180   74 
+  # 24  160   28   63  189   74 
 xtabs(~ reservecode2, reserve_mammals)
-  # BM  HSL  LAO QNSL 
-  # 23  150  165  180 
+ # BME BMNP  HSL   LL  PST QNSL   XS 
+ #  13   11  160   28   63  189   74 
 ```
 
 ```{r make binary communities}
@@ -380,7 +419,7 @@ rm(otu)
 
 #### specpool
 ```{r specpool}
-taxon <- "mammals" 
+taxon <- "lgmammals" 
 # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 
 # choose taxon subdataset for downstream analyses
@@ -399,34 +438,39 @@ par(mfrow=c(1,1))
 Mammals
 specpool(leechotu_tb, reserve_tb$reservecode2)
      Species     chao   chao.se    jack1 jack1.se    jack2     boot  boot.se   n
-BM        33 40.74783  6.814181 41.60870 3.738119 45.46838 36.93450 1.937883  23
-HSL       35 37.23500  3.375339 37.98000 1.720504 38.97991 36.48883 1.016310 150
-LAO       45 60.90303 16.395408 52.95152 2.811285 58.89084 48.37956 1.505154 165
-QNSL      37 37.49722  1.026396 38.98889 1.406357 37.03321 38.41188 1.026079 180
+BME       29 43.76923 15.261042 36.38462 3.241740 41.60256 32.25520 1.743129  13
+BMNP      24 38.54545 15.037144 31.27273 4.185769 36.34545 27.20364 2.323023  11
+HSL       36 43.95000 11.591160 39.97500 1.987500 42.94371 37.75953 1.083133 160
+LL        28 29.10204  1.577984 31.85714 2.376544 29.31217 30.43135 1.587379  28
+PST       37 38.10714  1.745834 39.95238 1.704558 39.04659 38.80581 1.187327  63
+QNSL      37 37.49735  1.026605 38.98942 1.406731 37.03163 38.37930 1.012102 189
+XS        32 40.05631  8.171844 38.90541 2.609998 42.83728 35.13200 1.445045  74
 specpool(leechotu_tb, reserve_tb$reservecode)
-     Species     chao  chao.se    jack1 jack1.se    jack2     boot  boot.se   n
-BM        33 40.74783 6.814181 41.60870 3.738119 45.46838 36.93450 1.937883  23
-HSL       35 37.23500 3.375339 37.98000 1.720504 38.97991 36.48883 1.016310 150
-LL        28 29.10204 1.577984 31.85714 2.376544 29.31217 30.43135 1.587379  28
-PST       37 38.10714 1.745834 39.95238 1.704558 39.04659 38.80581 1.187327  63
-QNSL      37 37.49722 1.026396 38.98889 1.406357 37.03321 38.41188 1.026079 180
-XS        32 40.05631 8.171844 38.90541 2.609998 42.83728 35.13200 1.445045  74
-
+     Species     chao   chao.se    jack1 jack1.se    jack2     boot  boot.se   n
+BM        33 39.13333  5.697875 40.66667 3.343734 43.61594 36.62165 1.842147  24
+HSL       36 43.95000 11.591160 39.97500 1.987500 42.94371 37.75953 1.083133 160
+LL        28 29.10204  1.577984 31.85714 2.376544 29.31217 30.43135 1.587379  28
+PST       37 38.10714  1.745834 39.95238 1.704558 39.04659 38.80581 1.187327  63
+QNSL      37 37.49735  1.026605 38.98942 1.406731 37.03163 38.37930 1.012102 189
+XS        32 40.05631  8.171844 38.90541 2.609998 42.83728 35.13200 1.445045  74
 
 Large Mammals
 specpool(leechotu_tb, reserve_tb$reservecode2)
-     Species     chao   chao.se    jack1 jack1.se    jack2     boot  boot.se   n
-BM        24 31.79545  7.923196 30.68182 3.479277 34.44805 26.93841 1.833812  22
-HSL       28 30.23500  3.375339 30.98000 1.720504 31.97991 29.48663 1.015411 150
-LAO       32 44.42424 17.037473 36.96970 2.222516 40.92724 34.09493 1.170602 165
-QNSL      27 27.00000  0.000000 27.00000 0.000000 23.06654 27.62963 0.746845 180
-specpool(leechotu_tb, reserve_tb$reservecode)
      Species     chao  chao.se    jack1 jack1.se    jack2     boot   boot.se   n
-BM        24 31.79545 7.923196 30.68182 3.479277 34.44805 26.93841 1.8338124  22
-HSL       28 30.23500 3.375339 30.98000 1.720504 31.97991 29.48663 1.0154108 150
+BME       21 29.30769 9.424882 26.53846 2.967277 30.06410 23.49887 1.6820160  13
+BMNP      19 27.10000 9.200272 24.40000 3.957272 27.77778 21.44498 2.1490120  10
+HSL       28 32.47187 7.150741 30.98125 1.721225 32.96246 29.39202 0.9741726 160
 LL        23 23.86786 1.422226 25.89286 1.670192 24.20767 24.77311 1.2098250  28
 PST       26 26.65608 1.288589 27.96825 1.391766 27.04685 27.23961 0.9590933  63
-QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06654 27.62963 0.7468450 180
+QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06338 27.59689 0.7263517 189
+XS        23 27.11036 4.822665 27.93243 2.205851 29.91836 25.35445 1.2855733  74
+specpool(leechotu_tb, reserve_tb$reservecode)
+     Species     chao  chao.se    jack1 jack1.se    jack2     boot   boot.se   n
+BM        24 28.30435 4.613871 29.73913 3.052162 31.73123 26.70701 1.7293762  23
+HSL       28 32.47187 7.150741 30.98125 1.721225 32.96246 29.39202 0.9741726 160
+LL        23 23.86786 1.422226 25.89286 1.670192 24.20767 24.77311 1.2098250  28
+PST       26 26.65608 1.288589 27.96825 1.391766 27.04685 27.23961 0.9590933  63
+QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06338 27.59689 0.7263517 189
 XS        23 27.11036 4.822665 27.93243 2.205851 29.91836 25.35445 1.2855733  74
 
 
@@ -457,7 +501,8 @@ inextcomm <- function(taxon = "mammals") {
 	comm4inext
 }
 
-comm4inext <- inextcomm("lgmammals")
+taxon <- "carnivora"
+comm4inext <- inextcomm(taxon)
    # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 comm4inext
 confnum=0.95 # set confidence here
@@ -469,7 +514,7 @@ sprich <- ggiNEXT(outcomm0, type=1) + ggtitle("Species richness") + labs(y="Spec
 outcomm1 <- iNEXT(comm4inext, q=1, conf=confnum, datatype="incidence_freq")
 shannon <- ggiNEXT(outcomm1, type=1)  + ggtitle("Shannon diversity")  + labs(y="Shannon diversity", x = "Number of sampling units") # sample-size-based rarefaction/extrapolation curve:  Shannon
 
-plot_grid(sprich, shannon, nrow = 2, labels = c("lgmammals", "lgmammals"))
+plot_grid(sprich, shannon, nrow = 2, labels = c(taxon, taxon))
 
 outcomm2 <- iNEXT(comm4inext, q=2, conf=confnum, datatype="incidence_freq")
 ggiNEXT(outcomm2, type=1) # sample-size-based rarefaction/extrapolation curve:  inverse Simpson
@@ -486,7 +531,7 @@ ChaoShannon(comm4inext, datatype="incidence_freq")
 ```
 
 ```{r inext fxn reservecode2, eval = FALSE}
-inextcomm <- function(taxon = "lgmammals") { 
+inextcomm <- function(taxon = "mammals") { 
 	# taxon == c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 
 	# choose taxon subdataset for downstream analyses
@@ -494,42 +539,46 @@ inextcomm <- function(taxon = "lgmammals") {
 	reserve_tb <- get(str_c("reserve_", taxon))
 
 	# reserve subsets
-	BM <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("BM"))
+	BME <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("BME"))
+	BMNP <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("BMNP"))
 	HSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("HSL"))
-	LAO <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("LAO"))
+	LL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("LL"))
+	PST <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("PST"))
 	QNSL <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("QNSL"))
+	XS <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode2 %in% c("XS"))
 
-	cname <- c("BM", "HSL", "LAO", "QNSL")
+	cname <- c("BME", "BMNP", "HSL", "LL", "PST", "QNSL", "XS")
 
-	comm4inext <- matrix(c(colSums(BM), colSums(HSL), colSums(LAO), colSums(QNSL)), ncol = 4)
+	comm4inext <- matrix(c(colSums(BME), colSums(BMNP), colSums(HSL), colSums(LL), colSums(PST), colSums(QNSL), colSums(XS)), ncol = 7)
 	colnames(comm4inext) <- cname
-	comm4inext <- rbind(c(nrow(BM), nrow(HSL), nrow(LAO), nrow(QNSL)), comm4inext)
+	comm4inext <- rbind(c(nrow(BME), nrow(BMNP), nrow(HSL), nrow(LL), nrow(PST), nrow(QNSL), nrow(XS)), comm4inext)
 	comm4inext
 }
 
-
-comm4inext <- inextcomm("lgmammals")
+taxon <- "critters"
+comm4inext <- inextcomm(taxon)
+   # c("mammals", "lgmammals", "carnivora", "critters", "artiodactyla", "primates")
 comm4inext
-	# taxon == c("mammals", "carnivora", "critters", "artiodactyla", "primates")
 confnum=0.95 # set confidence here
 
 outcomm0 <- iNEXT(comm4inext, q=0, conf=confnum, datatype="incidence_freq")
 # Hill numbers:  0 = sp richness, 1 = Shannon, 2 = inverse Simpson
-ggiNEXT(outcomm0, type=1)
-outcomm0$DataInfo
-ChaoRichness(comm4inext, datatype="incidence_freq") # same as specpool results, so i trust that we have done this correctly
-ChaoShannon(comm4inext, datatype="incidence_freq")
+sprich <- ggiNEXT(outcomm0, type=1) + ggtitle("Species richness") + labs(y="Species richness", x = "") + theme(legend.position="none")
 
 outcomm1 <- iNEXT(comm4inext, q=1, conf=confnum, datatype="incidence_freq")
-ggiNEXT(outcomm1, type=1)
-outcomm2 <- iNEXT(comm4inext, q=2, conf=confnum, datatype="incidence_freq")
-ggiNEXT(outcomm2, type=1)
+shannon <- ggiNEXT(outcomm1, type=1)  + ggtitle("Shannon diversity")  + labs(y="Shannon diversity", x = "Number of sampling units") # sample-size-based rarefaction/extrapolation curve:  Shannon
 
-ggiNEXT(outcomm0, type=1) # sample-size-based rarefaction/extrapolation curve:  species richness
-ggiNEXT(outcomm1, type=1) # sample-size-based rarefaction/extrapolation curve:  Shannon
+plot_grid(sprich, shannon, nrow = 2, labels = c(taxon, taxon))
+
+outcomm2 <- iNEXT(comm4inext, q=2, conf=confnum, datatype="incidence_freq")
+ggiNEXT(outcomm2, type=1) # sample-size-based rarefaction/extrapolation curve:  inverse Simpson
 
 ggiNEXT(outcomm0, type=2) # sample completeness curve
 ggiNEXT(outcomm0, type=3) # coverage-based rarefaction/extrapolation curve
+# sample-size-based rarefaction/extrapolation curve:  species richness
+outcomm0$DataInfo
+ChaoRichness(comm4inext, datatype="incidence_freq") # same as specpool results, so i trust that we have done this correctly
+ChaoShannon(comm4inext, datatype="incidence_freq")
 # outcomm0$DataInfo
 # outcomm0$iNextEst
 # outcomm0$AsyEst
@@ -546,13 +595,13 @@ reserve_tb <- get(str_c("reserve_", taxon))
 community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
 community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  
 stressplot(community.jmds)
-tabasco(leechotu_tb, use = community.jmds, labCol = reserve_tb$reservecode2)
+tabasco(leechotu_tb, use = community.jmds, labCol = reserve_tb$reservecode)
 ```
 
 
 #### Run betapart analyses before removing zerotons and singletons
 ```{r}
-taxon <- "lgmammals"
+taxon <- "mammals"
 leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
@@ -599,14 +648,16 @@ leechotu_tb <- leechotu_tb[, which(specnumber(leechotu_tb, MARGIN=2) > 1)]
 
 ## NMDS ordination
 ```{r NMDS}
-### do NMDS analysis to quickly see patterns ####
+### do NMDS analysis to see overall patterns ####
 community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
 community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  # doesn't converge well, with final stress > 0.20
 stressplot(community.jmds)
-community.jmds[["species"]] # shows species loadings
+speciesloadings <- community.jmds[["species"]] # shows species loadings
+speciesloadings <- speciesloadings %>% as.data.frame() %>% rownames_to_column() 
+write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
 ```
 
-```{r ordispider plot reservecode}
+```{r plot NMDS by reservecode}
 #### plot the communities 
 levels(reserve_tb$reservecode)
 # "BM" "HSL" "LL" "PST" "QNSL" "XS" 
@@ -636,7 +687,7 @@ text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
 
 
-```{r ordispider plot reservecode2}
+```{r plot NMDS by reservecode2}
 #### plot the communities 
 levels(reserve_tb$reservecode)
 # BME BMNP HSL LL  PST QNNR QNSL   XS 
