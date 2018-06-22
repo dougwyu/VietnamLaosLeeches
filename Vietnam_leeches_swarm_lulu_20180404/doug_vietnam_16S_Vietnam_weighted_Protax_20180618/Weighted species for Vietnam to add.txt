@@ -1,5 +1,14 @@
+90% prior
+Bos,taurus     Used to haul timber out of forest.
+Bubalus,bubalis     Feral in some areas (present in Bach Ma NP)
+Canis,familiaris     Dogs are brought with people into the forest.
 Nomascus,siki
 Nomascus,gabriellae
 Niviventer langbianis
 Niviventer fulvescens
 Niviventer confucianus
+
+10% prior?
+Cuon,alpinus   Probably extirpated in the Annamites but potentially present.
+Ursus,malayanus     Probably extirpated in the Annamites but potentially present.
+Bos,gaurus     Probably extirpated in the Annamites but potentially present.
