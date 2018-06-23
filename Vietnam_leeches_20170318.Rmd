@@ -321,7 +321,7 @@ for (i in seq_along(varNames)) {
   d <- get(paste0("leechotu5_", varNames[i], "_t")) # get a community table
   dreserve <- left_join(d, reserve, by = c("sample" = "Sample_16SVert_Row2")) # use sample (e.g. "WWF1") to append environment data in correct order
   assign(paste0("Sample_by_OTU_", varNames[i]), dreserve) # create sample X OTU tables for outside use (includes env data)
-  dreserve <- dreserve %>% dplyr::select(sample, Protected_Area_Std_Name, reservecode, reservecode2, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID) # choose the env columns
+  dreserve <- dreserve %>% dplyr::select(sample, Protected_Area_Std_Name, reservecode, reservecode2, reservecode3, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID) # choose the env columns
   assign(paste0("reserve_", varNames[i]), dreserve) # create env dataset with correct name
   d <- d %>% select(-sample)
   assign(paste0("leechotu5_", varNames[i], "_t"), d)
@@ -367,19 +367,17 @@ for (i in seq_along(varNames)) {
 
 DON'T RUN
 This creates summary tables, samples summed by reservecodes
-```{r}
-reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode, reservecode2,reservecode3, Protected_Area_Std_Name, Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK)
+```{r, reservecode_by_OTU tables, eval = FALSE}
+reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode,reservecode3, Protected_Area_Std_Name, Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK)
 reservecode_by_OTU$reservecode <- as.character(reservecode_by_OTU$reservecode)
-reservecode_by_OTU$reservecode2 <- as.character(reservecode_by_OTU$reservecode2)
 reservecode_by_OTU$reservecode3 <- as.character(reservecode_by_OTU$reservecode3)
 indx <- sapply(reservecode_by_OTU, is.factor) # marks columns that are OTU taxonomic assignments
 reservecode_by_OTU[indx] <- lapply(reservecode_by_OTU[indx], function(x) as.numeric(as.character(x)))
 reservecode_by_OTU$reservecode <- as.factor(reservecode_by_OTU$reservecode)
-reservecode_by_OTU$reservecode2 <- as.factor(reservecode_by_OTU$reservecode2)
 reservecode_by_OTU$reservecode3 <- as.factor(reservecode_by_OTU$reservecode3)
 
 reservecode_by_OTU_readsum <- reservecode_by_OTU %>% 
-	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
+	group_by_at(vars(Country, reservecode, reservecode3)) %>% 
 	summarise_at(vars(Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
 
 reservecode_by_OTU_b <- reservecode_by_OTU
@@ -387,11 +385,11 @@ reservecode_by_OTU_b$Country <- as.factor(reservecode_by_OTU_b$Country)
 reservecode_by_OTU_b$Protected_Area_Std_Name <- as.factor(reservecode_by_OTU_b$Protected_Area_Std_Name)
 reservecode_by_OTU_b[reservecode_by_OTU_b > 0] <- 1 # works since i have set all metadata cols to factor
 reservecode_by_OTU_samplecount <- reservecode_by_OTU_b %>% 
-	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
+	group_by_at(vars(Country, reservecode, reservecode3)) %>% 
 	summarise_at(vars(Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
 
 reservecode_by_OTU_samplecount2 <- reservecode_by_OTU_b %>% 
-	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
+	group_by_at(vars(Country, reservecode, reservecode3)) %>% 
 	summarise(samples = n()) 
 
 reservecode_by_OTU_samplecount <- left_join(reservecode_by_OTU_samplecount2, reservecode_by_OTU_samplecount)
@@ -614,7 +612,7 @@ ChaoShannon(comm4inext, datatype="incidence_freq")
 
 #### Run tabasco before removing zerotons and singletons (i.e. species that appear in 0 or 1 sample)
 ```{r}
-taxon <- "lgmammals"
+taxon <- "mammals"
 leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
@@ -680,7 +678,7 @@ community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, prev
 stressplot(community.jmds)
 speciesloadings <- community.jmds[["species"]] # shows species loadings
 speciesloadings <- speciesloadings %>% as.data.frame() %>% rownames_to_column() 
-# write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
+write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
 ```
 
 ```{r plot NMDS by reservecode}
@@ -734,6 +732,26 @@ with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon
 with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
 
 with(reserve_tb, ordiellipse(community.jmds, reservecode2, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
+
+text(community.jmds, display = "species", cex=0.7, col="blue")
+```
+
+```{r plot NMDS by reservecode3}
+#### plot the communities 
+levels(reserve_tb$reservecode3)
+ # "BMHQNXS"  "LL"   "PST" 
+
+(sprichness <- specnumber(leechotu_tb, MARGIN = 1)) # number of species per site
+(speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of species per site
+colvec <- brewer.pal(5, "Set1")
+
+plot(community.jmds, display="sites", type="n")
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BMHQNXS"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
+
+with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
 
 text(community.jmds, display = "species", cex=0.7, col="blue")
 ```

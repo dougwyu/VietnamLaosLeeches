@@ -1,8 +1,58 @@
-Country	reservecode	reservecode2	reservecode3	samples	Artiodactyla.Bovidae.Bos.taurus	Artiodactyla.Bovidae.Capricornis.milneedwardsii	Artiodactyla.Cervidae.Muntiacus.muntjak_vaginalis	Artiodactyla.Cervidae.Muntiacus.truongsonensis	Artiodactyla.Cervidae.Muntiacus.UNK	Artiodactyla.Cervidae.Muntiacus.vuquangensis	Artiodactyla.Cervidae.Rusa.unicolor	Artiodactyla.Suidae.Sus.scrofa	Artiodactyla.Tragulidae.Tragulus.kanchil	Artiodactyla.Tragulidae.Tragulus.UNK	Carnivora.Canidae.Canis.lupus_familiaris	Carnivora.Felidae.Catopuma.UNK	Carnivora.Felidae.Neofelis.UNK	Carnivora.Felidae.Prionailurus.bengalensis	Carnivora.Felidae.UNK	Carnivora.Herpestidae.Herpestes.UNK	Carnivora.Mustelidae.Aonyx.cinereus	Carnivora.Mustelidae.Arctonyx.collaris	Carnivora.Mustelidae.Lutra.lutra	Carnivora.Mustelidae.Martes.flavigula	Carnivora.Mustelidae.Melogale.moschata	Carnivora.Mustelidae.Mustela.kathiah	Carnivora.Mustelidae.Mustela.UNK	Carnivora.Ursidae.Ursus.thibetanus	Carnivora.Viverridae.Arctictis.UNK	Carnivora.Viverridae.Paguma.larvata	Carnivora.Viverridae.Viverra.UNK1	Carnivora.Viverridae.Viverra.UNK2	Carnivora.Viverridae.Viverra.UNK3	Carnivora.Viverridae.Viverra.UNK4	Chiroptera.Vespertilionidae.Tylonycteris.UNK	Erinaceomorpha.Erinaceidae.Hylomys.suillus	Lagomorpha.Leporidae.Nesolagus.timminsi	Primates.Cercopithecidae.Macaca.arctoides	Primates.Cercopithecidae.Macaca.assamensis	Primates.Cercopithecidae.Macaca.fascicularis	Primates.Cercopithecidae.Macaca.mulatta	Primates.Cercopithecidae.Macaca.UNK	Primates.Hominidae.Homo.sapiens	Primates.Hylobatidae.Nomascus.siki	Rodentia.Hystricidae.Hystrix.UNK	Rodentia.Muridae.Mus.musculus	Rodentia.Muridae.Niviventer.UNK	Rodentia.Sciuridae.Callosciurus.erythraeus	Rodentia.Sciuridae.Callosciurus.UNK1	Rodentia.Sciuridae.Callosciurus.UNK2	Rodentia.Sciuridae.Hylopetes.UNK1	Rodentia.Sciuridae.Hylopetes.UNK2	Rodentia.Sciuridae.Petaurista.philippensis	Rodentia.Sciuridae.Ratufa.bicolor	Rodentia.Sciuridae.Tamiops.UNK	Rodentia.Spalacidae.Rhizomys.pruinosus	Scandentia.Tupaiidae.Tupaia.belangeri	Soricomorpha.Talpidae.Euroscaptor.UNK
-Laos	LL	LL	LL	28	0	15	22	20	20	23	25	28	1	0	2	1	2	1	0	6	0	2	0	2	8	0	3	0	0	9	6	0	0	0	0	0	5	5	2	0	0	4	11	0	2	0	2	0	0	0	0	0	0	0	1	3	0	0
-Laos	PST	PST	PST	63	4	14	20	15	13	1	0	59	0	0	2	0	5	0	14	16	0	20	4	4	38	3	10	0	2	26	2	0	0	0	0	3	4	12	8	0	4	7	44	1	5	0	37	7	6	0	0	0	2	0	37	9	13	1
-Laos	XS	XS	BMHQNXS	74	1	46	4	13	18	0	2	51	0	0	7	0	1	0	27	15	3	2	1	3	42	0	1	0	0	15	0	0	0	1	0	0	43	5	2	0	0	4	23	0	18	0	44	10	0	0	1	0	0	1	3	18	15	0
-Vietnam	BM	BME	BMHQNXS	13	1	7	0	8	3	2	1	13	0	0	3	0	2	1	4	4	0	0	1	0	9	1	0	0	0	3	0	0	0	1	0	0	9	6	3	0	0	5	6	0	8	0	11	3	0	0	0	0	0	1	1	4	4	0
-Vietnam	BM	BMNP	BMHQNXS	11	2	4	1	2	3	0	1	8	0	1	4	0	0	0	3	4	0	0	0	1	4	0	0	0	0	1	0	0	0	1	0	0	8	5	3	0	0	3	7	0	3	0	6	0	1	0	0	0	0	0	1	0	0	0
-Vietnam	HSL	HSL	BMHQNXS	160	6	117	62	57	72	6	39	154	0	3	19	0	9	5	49	67	0	0	2	1	105	0	3	9	3	48	0	0	1	1	0	0	51	56	17	0	6	33	74	0	76	1	52	12	0	0	0	0	0	0	7	30	14	0
-Vietnam	QNSL	QNSL	BMHQNXS	189	9	122	87	118	85	2	4	179	0	0	34	0	35	17	90	77	0	0	20	4	161	5	2	2	6	81	0	4	0	2	1	0	152	44	27	0	0	34	45	0	58	0	112	41	0	3	1	0	0	0	32	109	66	0
+Country	Laos	Laos	Laos	Vietnam	Vietnam	Vietnam
+reservecode	LL	PST	XS	BM	HSL	QNSL
+reservecode3	LL	PST	BMHQNXS	BMHQNXS	BMHQNXS	BMHQNXS
+samples	28	63	74	24	160	189
+Artiodactyla.Bovidae.Bos.taurus	0	4	1	3	6	9
+Artiodactyla.Bovidae.Capricornis.milneedwardsii	15	14	46	11	117	122
+Artiodactyla.Cervidae.Muntiacus.muntjak_vaginalis	22	20	4	1	62	87
+Artiodactyla.Cervidae.Muntiacus.truongsonensis	20	15	13	10	57	118
+Artiodactyla.Cervidae.Muntiacus.UNK	20	13	18	6	72	85
+Artiodactyla.Cervidae.Muntiacus.vuquangensis	23	1	0	2	6	2
+Artiodactyla.Cervidae.Rusa.unicolor	25	0	2	2	39	4
+Artiodactyla.Suidae.Sus.scrofa	28	59	51	21	154	179
+Artiodactyla.Tragulidae.Tragulus.kanchil	1	0	0	0	0	0
+Artiodactyla.Tragulidae.Tragulus.UNK	0	0	0	1	3	0
+Carnivora.Canidae.Canis.lupus_familiaris	2	2	7	7	19	34
+Carnivora.Felidae.Catopuma.UNK	1	0	0	0	0	0
+Carnivora.Felidae.Neofelis.UNK	2	5	1	2	9	35
+Carnivora.Felidae.Prionailurus.bengalensis	1	0	0	1	5	17
+Carnivora.Felidae.UNK	0	14	27	7	49	90
+Carnivora.Herpestidae.Herpestes.UNK	6	16	15	8	67	77
+Carnivora.Mustelidae.Aonyx.cinereus	0	0	3	0	0	0
+Carnivora.Mustelidae.Arctonyx.collaris	2	20	2	0	0	0
+Carnivora.Mustelidae.Lutra.lutra	0	4	1	1	2	20
+Carnivora.Mustelidae.Martes.flavigula	2	4	3	1	1	4
+Carnivora.Mustelidae.Melogale.moschata	8	38	42	13	105	161
+Carnivora.Mustelidae.Mustela.kathiah	0	3	0	1	0	5
+Carnivora.Mustelidae.Mustela.UNK	3	10	1	0	3	2
+Carnivora.Ursidae.Ursus.thibetanus	0	0	0	0	9	2
+Carnivora.Viverridae.Arctictis.UNK	0	2	0	0	3	6
+Carnivora.Viverridae.Paguma.larvata	9	26	15	4	48	81
+Carnivora.Viverridae.Viverra.UNK1	6	2	0	0	0	0
+Carnivora.Viverridae.Viverra.UNK2	0	0	0	0	0	4
+Carnivora.Viverridae.Viverra.UNK3	0	0	0	0	1	0
+Carnivora.Viverridae.Viverra.UNK4	0	0	1	2	1	2
+Chiroptera.Vespertilionidae.Tylonycteris.UNK	0	0	0	0	0	1
+Erinaceomorpha.Erinaceidae.Hylomys.suillus	0	3	0	0	0	0
+Lagomorpha.Leporidae.Nesolagus.timminsi	5	4	43	17	51	152
+Primates.Cercopithecidae.Macaca.arctoides	5	12	5	11	56	44
+Primates.Cercopithecidae.Macaca.assamensis	2	8	2	6	17	27
+Primates.Cercopithecidae.Macaca.fascicularis	0	0	0	0	0	0
+Primates.Cercopithecidae.Macaca.mulatta	0	4	0	0	6	0
+Primates.Cercopithecidae.Macaca.UNK	4	7	4	8	33	34
+Primates.Hominidae.Homo.sapiens	11	44	23	13	74	45
+Primates.Hylobatidae.Nomascus.siki	0	1	0	0	0	0
+Rodentia.Hystricidae.Hystrix.UNK	2	5	18	11	76	58
+Rodentia.Muridae.Mus.musculus	0	0	0	0	1	0
+Rodentia.Muridae.Niviventer.UNK	2	37	44	17	52	112
+Rodentia.Sciuridae.Callosciurus.erythraeus	0	7	10	3	12	41
+Rodentia.Sciuridae.Callosciurus.UNK1	0	6	0	1	0	0
+Rodentia.Sciuridae.Callosciurus.UNK2	0	0	0	0	0	3
+Rodentia.Sciuridae.Hylopetes.UNK1	0	0	1	0	0	1
+Rodentia.Sciuridae.Hylopetes.UNK2	0	0	0	0	0	0
+Rodentia.Sciuridae.Petaurista.philippensis	0	2	0	0	0	0
+Rodentia.Sciuridae.Ratufa.bicolor	0	0	1	1	0	0
+Rodentia.Sciuridae.Tamiops.UNK	1	37	3	2	7	32
+Rodentia.Spalacidae.Rhizomys.pruinosus	3	9	18	4	30	109
+Scandentia.Tupaiidae.Tupaia.belangeri	0	13	15	4	14	66
+Soricomorpha.Talpidae.Euroscaptor.UNK	0	1	0	0	0	0
