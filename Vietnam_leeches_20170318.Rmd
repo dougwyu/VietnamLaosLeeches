@@ -358,7 +358,7 @@ This saves Sample_by_OTU_taxon.tsv tables to make some tables in Excel.
 # change column orders of the sample X OTU tables and write to disk
 for (i in seq_along(varNames)) {
   otu <- get(paste0("Sample_by_OTU_", varNames[i])) # get a community subset
-  otu <- otu %>% dplyr::select(sample, Worksheet_filename, Country, reservecode, reservecode2, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID, everything()) # change the column orders
+  otu <- otu %>% dplyr::select(sample, Worksheet_filename, Country, reservecode, reservecode2, reservecode3, Protected_Area_Std_Name, Date_collected, Forest_Compartment, Original_ID_Code, Approx_number_leeches, WWF_SWG_ID, everything()) # change the column orders
   otu <- otu %>% rename(KIZ_code = sample)
   assign(paste0("Sample_by_OTU_", varNames[i]), otu) # create object with correct name
   write_tsv(get(paste0("Sample_by_OTU_", varNames[i])), file.path("analysis", paste0("Sample_by_OTU_", varNames[i],".tsv")))

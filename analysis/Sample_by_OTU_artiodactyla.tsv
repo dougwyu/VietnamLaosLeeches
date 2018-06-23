@@ -1,539 +1,539 @@
-KIZ_code	Worksheet_filename	Country	reservecode	reservecode2	Protected_Area_Std_Name	Date_collected	Forest_Compartment	Original_ID_Code	Approx_number_leeches	WWF_SWG_ID	Artiodactyla.Bovidae.Bos.taurus	Artiodactyla.Bovidae.Capricornis.milneedwardsii	Artiodactyla.Cervidae.Muntiacus.muntjak_vaginalis	Artiodactyla.Cervidae.Muntiacus.truongsonensis	Artiodactyla.Cervidae.Muntiacus.UNK	Artiodactyla.Cervidae.Muntiacus.vuquangensis	Artiodactyla.Cervidae.Rusa.unicolor	Artiodactyla.Suidae.Sus.scrofa	Artiodactyla.Tragulidae.Tragulus.kanchil	Artiodactyla.Tragulidae.Tragulus.UNK	reservecode3
-SWG1	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	29 09	NA	NA	59	NA	    0	    0	    0	    0	    3	    0	    0	77194	    0	    0	PST
-SWG10	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	29-30  09	NA	NA	13	NA	     0	     0	     0	     0	     0	     0	     0	202944	     0	     0	PST
-SWG11	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	1 10	NA	NA	126	NA	     0	     0	     0	     0	     0	     0	     0	193613	     0	     0	PST
-SWG12	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	1 10	NA	NA	96	NA	     0	     0	   150	     9	     0	     0	     0	110668	     0	     0	PST
-SWG13	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	1 10	NA	NA	80	NA	    0	    0	    0	    0	    0	    0	    0	68750	    0	    0	PST
-SWG14	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	1 10	NA	NA	66	NA	     0	     0	     8	     0	     0	     0	     0	173095	     0	     0	PST
-SWG15	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	30 9	NA	NA	30	NA	     0	     0	     0	     0	     0	     0	     0	131746	     0	     0	PST
-SWG16	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	30  9	NA	NA	27	NA	     0	     0	     0	     0	     0	     0	     0	138919	     0	     0	PST
-SWG17	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	1-3 10	NA	NA	90	NA	     0	     0	     0	     0	     0	     0	     0	125680	     0	     0	PST
-SWG18	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	2 10	NA	NA	78	NA	    0	   11	15625	   68	  123	    0	    0	61439	    0	    0	PST
-SWG19	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	3 10	NA	NA	9	NA	   0	   0	   0	   0	   0	   0	   0	2001	   0	   0	PST
-SWG2	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	29 09	NA	NA	46	NA	     0	     0	     0	     0	     0	     0	     0	230855	     0	     0	PST
-SWG20	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	3 10	NA	NA	NA	NA	    0	    0	    0	    0	    0	    0	    0	87684	    0	    0	PST
-SWG21	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	2 10	NA	NA	158	NA	     0	     0	     7	     0	     0	     0	     0	125161	     0	     0	PST
-SWG22	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	2 10	NA	NA	152	NA	     0	     0	     6	     0	     0	     0	     0	123232	     0	     0	PST
-SWG23	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	6 10	NA	NA	28	NA	  0	  0	  0	 16	  0	  0	  0	130	  0	  0	PST
-SWG24	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	4-6 10	NA	NA	83	NA	    0	  700	    0	    0	    0	    0	    0	39424	    0	    0	PST
-SWG25	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	2 10	NA	NA	31	NA	     0	   371	     0	     0	     0	     0	     0	187621	     0	     0	PST
-SWG26	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	3 -6 10	NA	NA	24	NA	     0	     0	     0	     0	     0	     0	     0	108295	     0	     0	PST
-SWG27	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	3 10	NA	NA	1	NA	     0	   462	205941	 10509	     0	     0	     0	     0	     0	     0	PST
-SWG28	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	6 10	NA	NA	22	NA	 0	 0	 0	 0	 0	 0	 0	15	 0	 0	PST
-SWG29	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	2 10	NA	NA	14	NA	    0	   84	33723	 1698	   78	    0	    0	    0	    0	    0	PST
-SWG3	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	30 09-01 10	NA	NA	70	NA	     0	     0	     0	     0	     0	     0	     0	178769	     0	     0	PST
-SWG30	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	7 10	NA	NA	33	NA	   0	   0	   0	   0	   0	   0	   0	1060	   0	   0	PST
-SWG31	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	8 10	NA	NA	37	NA	    0	   13	20220	  107	   83	    0	    0	   31	    0	    0	PST
-SWG34	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	7 10	NA	NA	71	NA	    0	    0	    0	    0	    0	    0	    0	25380	    0	    0	PST
-SWG35	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	6-8 10	NA	NA	40	NA	     0	    18	     0	     0	     0	     0	     0	209011	     0	     0	PST
-SWG36	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	7 10	NA	NA	26	NA	  0	 58	  0	  0	  0	  0	  0	926	  0	  0	PST
-SWG38	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	8-9 10	NA	NA	75	NA	    0	  137	66977	 2993	   24	    0	    0	 1646	    0	    0	PST
-SWG4	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	30 10	NA	NA	44	NA	    0	    0	    0	    0	    0	    0	    0	45346	    0	    0	PST
-SWG41	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	9 10	NA	NA	183	NA	    0	    0	  694	   18	    0	    0	    0	20657	    0	    0	PST
-SWG43	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	12 10	NA	NA	10	NA	  4038	     0	     0	     0	     0	     0	     0	238973	     0	     0	PST
-SWG44	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	12 10	NA	NA	75	NA	   356	     0	     0	     5	     0	     0	     0	184665	     0	     0	PST
-SWG45	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	9 10	NA	NA	114	NA	     0	     0	     0	     0	     0	     0	     0	189576	     0	     0	PST
-SWG46	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	10 10	NA	NA	35	NA	     0	     0	     0	     0	     0	     0	     0	295773	     0	     0	PST
-SWG49	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	8-10 10	NA	NA	32	NA	     0	   122	 34659	  2506	   183	     0	     0	153176	     0	     0	PST
-SWG5	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	28 09	NA	NA	20	NA	     0	     0	     0	     0	     0	     0	     0	240325	     0	     0	PST
-SWG51	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	11-12 10	NA	NA	133	NA	     0	     0	     0	     0	     0	     0	     0	440666	     0	     0	PST
-SWG52	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	14 10	NA	NA	220	NA	     0	     0	     0	     0	     0	     0	     0	357638	     0	     0	PST
-SWG54	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	16-17 10	NA	NA	122	NA	    0	    0	    0	    0	    0	    0	    0	66290	    0	    0	PST
-SWG55	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	11 10	NA	NA	3	NA	    0	    0	    0	    0	    0	    0	    0	90047	    0	    0	PST
-SWG56	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	12 10	NA	NA	32	NA	    0	   45	18327	  459	    5	    0	    0	    0	    0	    0	PST
-SWG57	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	14 10	NA	NA	221	NA	     0	     0	    65	     0	    30	     0	     0	182796	     0	     0	PST
-SWG58	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	17 10	NA	NA	67	NA	     0	     0	     0	     0	     5	     0	     0	407361	     0	     0	PST
-SWG59	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	11 10	NA	NA	14	NA	     0	378431	     0	     0	     6	     0	     0	     3	     0	     0	PST
-SWG6	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	28 09	NA	NA	17	NA	     0	     0	   205	     9	     3	     0	     0	176061	     0	     0	PST
-SWG60	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	15-17 10	NA	NA	30	NA	8	0	0	0	0	0	0	0	0	0	PST
-SWG61	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	12 10	NA	NA	133	NA	  0	  0	  0	  0	  0	  0	  0	303	  0	  0	PST
-SWG62	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	18 10	NA	NA	241	NA	     0	     0	   194	     0	     0	     0	     0	382201	     0	     0	PST
-SWG63	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13 & 15 10	NA	NA	316	NA	     0	     0	    40	     0	     0	     0	     0	260994	     0	     0	PST
-SWG64	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	19 10	NA	NA	455	NA	     0	     0	     0	     0	     0	     0	     0	376002	     0	     0	PST
-SWG65	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	16-17 10	NA	NA	87	NA	     0	   786	346644	  7908	   668	    14	     0	151241	     0	     0	PST
-SWG66	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13 10	NA	NA	13	NA	 591	   0	   0	   0	   0	   0	   0	1500	   0	   0	PST
-SWG67	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13-14 & 17 10	NA	NA	171	NA	     0	     0	     0	     0	     0	     0	     0	242917	     0	     0	PST
-SWG68	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13-14 10	NA	NA	148	NA	     0	     0	     0	     0	     0	     0	     0	137068	     0	     0	PST
-SWG69	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	10 10	NA	NA	15	NA	     0	     0	    34	     4	     0	     0	     0	225576	     0	     0	PST
-SWG7	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	28-29 09	NA	NA	17	NA	     0	     0	     0	     0	     0	     0	     0	200353	     0	     0	PST
-SWG75	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13 & 15 10	NA	NA	187	NA	     0	     0	     0	     0	     0	     0	     0	352182	     0	     0	PST
-SWG78	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	18 10	NA	NA	425	NA	     0	     0	   191	     0	     0	     0	     0	270826	     0	     0	PST
-SWG79	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	17 10	NA	NA	101	NA	  0	  0	  0	  0	  0	  0	  0	362	  0	  0	PST
-SWG8	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	28-29 09	NA	NA	40	NA	     0	     0	     0	     0	     0	     0	     0	219973	     0	     0	PST
-SWG80	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	13-14 10	NA	NA	44	NA	     0	     9	  5468	   131	    65	     0	     0	121717	     0	     0	PST
-SWG9	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	Phou Si Thone	29 09	NA	NA	10	NA	  0	  0	  0	  0	  0	  0	  0	450	  0	  0	PST
-WWF1	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120724	NA	NA	  0	758	  0	  0	  0	  0	  0	  5	  0	  0	BMHQNXS
-WWF10	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK36_20120812	NA	NA	    0	    5	    0	    0	    0	    0	    0	81357	    0	    0	BMHQNXS
-WWF100	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	19/8/2012	353	27-Hoa	15	H-27	     0	     0	     0	     0	     0	     0	     0	155003	     0	     0	BMHQNXS
-WWF101	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41165	351	40-Hoa	45	H-40	     0	     0	   765	     4	     7	     0	   254	251124	     0	     0	BMHQNXS
-WWF102	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	20/9/2012	347	42-Hoa	10	H-42	     0	     0	     8	     0	     0	     0	     0	155042	     0	     0	BMHQNXS
-WWF103	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	18/6/2012	353	5-Dành	40	H-48	     0	139920	     0	     0	  5319	     0	  2690	 17737	     0	     0	BMHQNXS
-WWF105	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41098	404	14-Dành	10	H-57	    0	   74	    0	    0	    0	    0	 2249	14814	    0	    0	BMHQNXS
-WWF106	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41133	348	23-Dành	3	H-66	     0	     0	    15	     0	     0	     0	     0	308948	     0	     0	BMHQNXS
-WWF107	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	22/8/2012	404	26-Dành	5	H-69	     0	     9	 31925	    75	   331	     0	     0	188898	     0	     0	BMHQNXS
-WWF108	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41155	350	30-Dành	5	H-73	   0	3289	   0	   0	 604	   0	   0	   3	   0	   0	BMHQNXS
-WWF109	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	24/04/2012	405	35-Dành	30	H-78	    0	 1548	  256	    0	    0	    0	12836	 1778	    0	    0	BMHQNXS
-WWF11	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK20_20120819	NA	NA	12881	20670	    0	    5	    0	    0	 1450	 4840	    0	    0	BMHQNXS
-WWF110	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41068	404	2-Thien	25	H-83	     0	     5	  9119	    26	   644	     0	 85317	155247	     0	     0	BMHQNXS
-WWF111	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	16/6/2012	348	6-Thien	25	H-87	     0	   334	     0	   851	     6	     0	     0	126939	     0	     0	BMHQNXS
-WWF112	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	15/07/2012	353	11-Thien	7	H-92	     0	    42	     0	     0	     0	     0	     4	282913	     0	     0	BMHQNXS
-WWF113	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	28/07/2012	405	12-Thien	15	H-93	     0	   150	  1187	     5	    10	     0	     0	118591	     0	     0	BMHQNXS
-WWF114	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41126	345	17-Thien	2	H-98	    0	    0	    0	    0	    0	    0	    0	63548	    0	    0	BMHQNXS
-WWF115	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	20/08/2012	404	19-Thien	10	H-100	  0	  0	865	  0	  0	  0	  0	112	  0	  0	BMHQNXS
-WWF116	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41162	349 and 351	Thien-24	8	H-105	    0	    0	    0	    0	    0	    0	    0	34211	    0	    0	BMHQNXS
-WWF117	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41163	349	Thien-25	12	H-106	    0	 2240	    0	    0	    0	    0	    9	45723	    0	    0	BMHQNXS
-WWF118	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41066	346	1 -Vinh	25	H-113	     0	195129	     0	     0	   701	     0	 24108	262543	     0	     0	BMHQNXS
-WWF119	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41071	345	6 -Vinh	20	H-118	     0	  2957	    18	136160	  2041	     0	     0	106703	     0	     0	BMHQNXS
-WWF12	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK35_20120824	NA	NA	0	0	0	0	0	0	0	5	0	0	BMHQNXS
-WWF120	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	23/6/2012	404	7 -Vinh	25	H-119	     0	     0	   406	     0	    16	     0	  8480	254554	     0	     0	BMHQNXS
-WWF121	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41092	347	11 -Vinh	20	H-123	    0	 1512	    0	    0	    0	    0	  230	89452	    0	    0	BMHQNXS
-WWF123	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	22/8/2012	353	24 -Vinh	22	H-136	     0	  5188	     0	     0	     0	     0	     0	171145	     0	     0	BMHQNXS
-WWF124	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41168	348	35 -Vinh	40	H-147	    0	15715	    0	    0	    0	    0	    0	   44	    0	    0	BMHQNXS
-WWF126	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41284	347	Thien - 32	19	H - 153	     0	    88	     0	     0	     0	     0	     0	355304	     0	     0	BMHQNXS
-WWF127	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41287	347	Thien - 35	45	H - 156	    0	    0	    5	    0	    0	    0	    3	34305	    0	    0	BMHQNXS
-WWF129	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	16/03/2013	352	Tuan - 1	14	H - 160	     0	 21595	     0	     0	    88	     0	 36688	136292	     0	     0	BMHQNXS
-WWF13	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK35_20120825	NA	NA	   0	   0	   0	   0	   0	   0	   0	9214	   0	   0	BMHQNXS
-WWF130	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	24/03/2013	405	Tuan - 5	25	H - 164	     0	     0	     4	     0	    33	     0	273998	 15940	     0	     0	BMHQNXS
-WWF131	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	28/04/2013	346	Tuan - 9	45	H - 168	     0	  1483	  6667	    17	   101	     0	   480	193854	     0	     0	BMHQNXS
-WWF132	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	30/04/2013	346	Tuan - 11	65	H - 170	     0	  4554	     0	     0	     0	     0	161857	 46389	     0	    11	BMHQNXS
-WWF133	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41460	346	Tuan - 13	90	H - 172	    0	    0	    0	    0	    0	    0	61978	 3999	    0	 1963	BMHQNXS
-WWF134	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41290	346	39 - Danh	20	H - 174	    0	 8801	    3	    3	    0	    0	25369	 2232	    0	    0	BMHQNXS
-WWF135	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	16/04/2013	345	43 - Danh	30	H - 178	     0	  2856	     0	     0	     0	     0	188359	 82627	     0	     0	BMHQNXS
-WWF136	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	27/03/2013	348	Vinh -41	15	H - 187	     0	  7076	     0	   763	     6	     0	    24	314850	     0	     4	BMHQNXS
-WWF138	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	18/4/2013	352	Huong -1	31	H - 194	     0	    27	     0	     0	     0	     0	156569	210673	     0	     0	BMHQNXS
-WWF139	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	20/05/2013	405	Huong -5	17	H - 198	     0	    71	 14623	    66	   596	     0	192265	 94132	     0	     0	BMHQNXS
-WWF14	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120826	NA	NA	    0	    5	    0	    0	    0	    0	    0	24415	    0	    0	BMHQNXS
-WWF140	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41264	352	A21/12 I	184	H-202	     0	187296	     0	     0	  4439	     0	     0	     4	     0	     0	BMHQNXS
-WWF141	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41264	352	A21/12 II	40	H-203	   0	 684	9193	 706	  18	   0	   0	2624	   0	   0	BMHQNXS
-WWF142	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41264	352	B21/12 I	20	H-205	     0	 36988	    20	     0	   319	     0	     0	245024	     0	     0	BMHQNXS
-WWF143	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41264	352	C21/12 I	30	H-207	   0	1023	   0	 893	  23	   0	   0	   0	   0	   0	BMHQNXS
-WWF145	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41264	352	D21/12 I	70	H-209	     0	 10133	  2090	    11	    17	     0	     0	224759	     0	     0	BMHQNXS
-WWF147	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41265	352	A22/12 I	121	H-212	    0	 3675	    0	18532	  142	    0	    0	84464	    0	    0	BMHQNXS
-WWF148	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41265	352	A22/12 II	156	H-213	    0	94845	    0	    0	    0	    0	   28	   53	    0	    0	BMHQNXS
-WWF149	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41265	352	B22/12 I	45	H-215	    0	16841	    0	    0	  145	    0	    0	13951	    0	    0	BMHQNXS
-WWF15	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120907	NA	NA	     0	    12	     0	     3	     0	     0	     0	162327	     0	     0	BMHQNXS
-WWF150	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41265	352	C22/12 I	72	H-217	     0	108651	     0	     0	     0	     0	     0	249304	     0	     0	BMHQNXS
-WWF151	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41265	352	D22/12 I	25	H-220	    0	25069	    0	    0	  631	    0	    0	   27	    0	    0	BMHQNXS
-WWF152	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41266	352	A23/12 I	82	H-223	     0	 21851	     0	     0	     0	     0	     0	405671	     0	     0	BMHQNXS
-WWF153	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41266	352	B23/12 I	66	H-225	   0	  52	2515	  13	   0	   0	   0	4698	   0	   0	BMHQNXS
-WWF154	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41266	352	C23/12 I	25	H-226	  0	  0	  0	  0	  0	  0	  0	686	  0	  0	BMHQNXS
-WWF155	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41267	352	A24/12 I	151	H-227	     0	377474	     0	     0	    56	     0	     0	    26	     0	     0	BMHQNXS
-WWF156	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41267	352	A24/12 II	88	H-228	    0	29824	    4	 5327	   13	    0	    0	  578	    0	    0	BMHQNXS
-WWF157	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41267	352	A24/12 III	56	H-230	     0	394334	     0	     0	   635	     0	     0	     0	     0	     0	BMHQNXS
-WWF158	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41267	352	B24/12 I	126	H-231	    0	17706	    0	    0	  450	    0	    0	    3	    0	    0	BMHQNXS
-WWF159	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41267	352	D24/12 I	40	H-233	    0	23176	    0	  402	   59	    0	    0	   11	    0	    0	BMHQNXS
-WWF16	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120908	NA	NA	     0	 57191	     0	     0	     0	     0	     0	112038	     0	     0	BMHQNXS
-WWF160	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41268	352	A25/12 I	79	H-235	     0	    24	     0	     0	     0	     0	  3919	215962	     0	     0	BMHQNXS
-WWF161	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41268	352	B25/12 I	56	H-236	   0	   6	  11	   0	   0	   0	1661	  20	   0	   0	BMHQNXS
-WWF162	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41270	346 and 349	A27/12 I	183	H-237	     0	 33469	     0	  2401	    53	     0	     0	637946	     0	     0	BMHQNXS
-WWF163	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41270	346 and 349	C27/12 II	127	H-238	     0	 37098	     0	 11346	   115	     0	     0	193109	     0	     0	BMHQNXS
-WWF164	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41271	346 and 349	A28/12 I	139	H-239	     0	 15046	     0	     0	     0	     0	     0	146147	     0	     0	BMHQNXS
-WWF165	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41271	346 and 349	A28/12 II	131	H-240	     0	  1521	     0	   117	     0	     0	     0	319451	     0	     0	BMHQNXS
-WWF166	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41271	346 and 349	C28/12 II	65	H-241	     0	 54962	  7568	    26	    24	     0	     0	110619	     0	     0	BMHQNXS
-WWF168	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41272	346 and 349	A29/12 I	122	H-244	     0	   105	   806	301869	   545	     0	     0	 35748	     0	     0	BMHQNXS
-WWF17	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120910	NA	NA	    12	     6	  1653	     9	   227	     0	142957	244793	     0	     0	BMHQNXS
-WWF170	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41272	346 and 349	C29/12 II	57	H-246	     0	   261	     0	  7507	   173	     0	     0	273875	     0	     0	BMHQNXS
-WWF172	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41273	346 and 349	C30/12 II	37	H-251	     0	  5260	    19	148943	   760	     0	     0	188323	     0	     0	BMHQNXS
-WWF173	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41274	346 and 349	A31/12 I	104	H-254	     0	     0	   191	     0	     4	     0	     0	164420	     0	     0	BMHQNXS
-WWF175	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41274	346 and 349	C31/12 II	65	H-256	     0	    53	 65886	   171	   811	     0	     0	151117	     0	     0	BMHQNXS
-WWF176	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41276	348	A02/01/2013 I	108	H-259	     0	  7335	     0	   217	     3	     0	     0	271008	     0	     0	BMHQNXS
-WWF177	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41276	348	A02/01/2013 II	67	H-261	     0	 10428	   182	 12198	   224	     0	     0	270748	     0	     0	BMHQNXS
-WWF178	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41277	348	A03/01/2013 I	120	H-264	     0	  6067	     0	  1406	    25	     0	     0	316250	     0	     0	BMHQNXS
-WWF179	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41277	348	A03/01/2013 V	60	H-266	     0	   379	     0	     0	     0	     0	     0	192196	     0	     0	BMHQNXS
-WWF18	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120919	NA	NA	     0	   284	     0	     0	     0	     0	     0	163486	     0	     0	BMHQNXS
-WWF180	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41277	348	C03/01/2013 I	77	H-268	     0	    24	     0	  1347	    17	     0	     0	155286	     0	     0	BMHQNXS
-WWF182	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41278	348	A04/01/2013 V	81	H-272	     0	  1056	     0	  7573	   138	     0	     0	223214	     0	     0	BMHQNXS
-WWF183	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41278	348	A04/01/2013 II	41	H-274	     0	  2604	    10	     0	     0	     0	     0	168452	     0	     0	BMHQNXS
-WWF185	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41279	348	A05/01/2013 I	110	H-278	     0	 10505	     0	  1883	    38	     0	     0	225440	     0	     0	BMHQNXS
-WWF186	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41279	348	A05/01/2013 II	57	H-279	     0	  3951	     0	 69533	   726	     0	     0	217316	     0	     0	BMHQNXS
-WWF187	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41279	348	B05/01/2013 II	118	H-281	     0	   413	     0	     0	     0	     0	     0	282384	     0	     0	BMHQNXS
-WWF188	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41279	348	C05/01/2013 I	122	H-282	     0	     0	     0	 62421	   616	     0	     0	225668	     0	     0	BMHQNXS
-WWF189	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41279	348	C05/01/2013 II	104	H-283	    0	 8820	    0	41602	  199	    0	    0	97935	    0	    0	BMHQNXS
-WWF19	tube_labels	Vietnam	BM	BME	BachMaExt	NA	NA	TK62_20121021	NA	NA	    0	  947	    0	  231	    0	    0	    0	18920	    0	    0	BMHQNXS
-WWF190	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41280	348	A06/01/2013 I	30	H-285	    0	    0	   11	    0	    0	   14	    0	52279	    0	    0	BMHQNXS
-WWF191	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41280	348	A06/01/2013 II	210	H-286	     0	 17618	    33	145836	   825	     0	     0	 70209	     0	     0	BMHQNXS
-WWF192	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41280	348	C06/01/2013 II	30	H-287	     0	     0	     0	     0	     0	     0	     0	239992	     0	     0	BMHQNXS
-WWF193	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	27/6/2012	47	1 - Tâm	7	QN-1	0	0	0	0	0	0	0	4	0	0	BMHQNXS
-WWF194	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41096	34	3 - Tâm	10	QN-3	    0	44018	13121	   67	    3	    0	    0	 1767	    0	    0	BMHQNXS
-WWF195	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	17/7/2012	37	9 - Tâm	30	QN-9	    0	    0	   80	    0	    0	    0	    0	85693	    0	    0	BMHQNXS
-WWF196	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	27/7/2012	45	13 - Tâm	5	QN-13	  0	118	  0	  0	  0	  0	  0	 58	  0	  0	BMHQNXS
-WWF197	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41128	26	15 - Tâm	10	QN-15	   0	4299	   0	   0	 186	   0	   0	 602	   0	   0	BMHQNXS
-WWF199	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	15/9/2012	37 and 47	25 - Tâm	25	QN-25	    0	    0	    0	    0	    0	    0	    0	86779	    0	    0	BMHQNXS
-WWF2	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120809	NA	NA	    0	    0	    0	    0	    0	    0	    0	71128	    0	    0	BMHQNXS
-WWF20	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK45_20121029	NA	NA	     0	  3762	     0	     0	     0	     0	     0	397943	     0	     0	BMHQNXS
-WWF200	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	26/9/2012	36	28 - Tâm	35	QN-28	  0	  9	  0	  0	  0	  0	  0	102	  0	  0	BMHQNXS
-WWF201	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41192	26	30 - Tâm	15	QN-30	     0	     0	     0	     0	     0	     0	     0	121307	     0	     0	BMHQNXS
-WWF203	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41097	25	5 - Thịnh	10	QN-37	     0	     0	     8	     0	     0	     0	     0	227410	     0	     0	BMHQNXS
-WWF204	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/7/2012	47	12 - Thịnh	20	QN-44	    0	 1460	25074	   88	   16	    0	    0	   26	    0	    0	BMHQNXS
-WWF205	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/7/2012	14	15 - Thịnh	20	QN-47	   0	3443	   0	 684	   0	   0	   0	   0	   0	   0	BMHQNXS
-WWF206	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41123	14	20 - Thịnh	5	QN-52	  0	687	  0	  0	  0	  0	  0	  6	  0	  0	BMHQNXS
-WWF207	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41159	25	24 - Thịnh	30	QN-56	    0	   36	   17	   37	    0	    0	    0	59726	    0	    0	BMHQNXS
-WWF208	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	13/10/2012	22	32 - Tâm	30	QN-32	    0	  148	    0	    5	    0	    0	    0	12719	    0	    0	BMHQNXS
-WWF209	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/9/2012	22	31 - Thịnh	10	QN-63	0	0	0	0	0	0	0	5	0	0	BMHQNXS
-WWF21	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H34	NA	NA	0	0	0	0	0	0	5	0	0	0	BMHQNXS
-WWF210	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	28/9/2012	45	33 - Thịnh	5	QN-65	     0	     6	    63	     0	     0	     0	     0	266762	     0	     0	BMHQNXS
-WWF212	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	24/6/2012	14	1 - Huy	8	QN-71	    0	    0	    0	    0	    0	    0	    0	12086	    0	    0	BMHQNXS
-WWF213	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41092	37	5 - Huy	10	QN-75	    0	35620	    0	    0	    0	    0	    0	48639	    0	    0	BMHQNXS
-WWF215	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	14/7/2012	37	11 - Huy	25	QN-81	     0	   770	     0	     0	     0	     0	     0	135469	     0	     0	BMHQNXS
-WWF216	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	27/7/2012	37	16 - Huy	10	QN-86	     0	  2270	     0	     0	     0	     0	     0	111840	     0	     0	BMHQNXS
-WWF218	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/8/2012	47	27 - Huy	7	QN-97	    0	    0	    0	    0	    0	    0	    0	91725	    0	    0	BMHQNXS
-WWF219	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41159	35	31 - Huy	5	QN-101	    0	  188	    0	    0	    0	    0	    0	87363	    0	    0	BMHQNXS
-WWF22	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H37	NA	NA	     0	     0	     0	     0	     0	     0	     0	339767	     0	     0	BMHQNXS
-WWF221	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41092	45	3 - Triều	15	QN-107	     0	     0	     0	     0	     0	     0	     0	206535	     0	     0	BMHQNXS
-WWF222	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41099	20	5 - Triều	30	QN-109	     0	   465	     3	   350	     6	     0	     0	146718	     0	     0	BMHQNXS
-WWF223	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	24/7/2012	34	11 - Triều	20	QN-115	 0	 0	 0	 0	 0	 0	 0	10	 0	 0	BMHQNXS
-WWF224	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41122	47	13 - Triều	10	QN-117	     0	     3	     0	     0	     0	     0	     0	276158	     0	     0	BMHQNXS
-WWF225	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41132	36	16 - Triều	10	QN-120	    0	   20	    0	 2148	   27	    0	    0	86852	    0	    0	BMHQNXS
-WWF226	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	22/8/2012	35	19 - Triều	20	QN-123	   0	6968	   0	  11	   0	   0	   0	  94	   0	   0	BMHQNXS
-WWF228	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	30/10/2012	45	35 - Triều	25	QN-139	     0	     0	     0	     0	     0	     0	     0	143972	     0	     0	BMHQNXS
-WWF23	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H39	NA	NA	     0	    11	  8677	    20	    25	     0	     0	381007	     0	     0	BMHQNXS
-WWF230	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/03/2013	45	33 - Tâm	1	QN-145	     0	     0	     0	     0	     0	     0	     0	112996	     0	     0	BMHQNXS
-WWF231	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	24/04/2013	44	38 - Tâm	8	QN-149	    0	 1777	    0	    0	    0	    0	    0	42362	    0	    0	BMHQNXS
-WWF232	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41279	36	43 - Tâm	40	QN-154	     0	 12138	     0	     0	     0	     0	     0	105631	     0	     0	BMHQNXS
-WWF233	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	18/05/2013	22	47 - Tâm	5	QN-158	    0	  171	  337	    5	    0	    0	    0	31350	    0	    0	BMHQNXS
-WWF234	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41309	34	43 - Triều	20	QN-164	    0	  295	    0	30177	   17	    0	    0	   62	    0	    0	BMHQNXS
-WWF236	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	26/2/2013	14	60 -Triều	30	QN-282	    0	29503	    0	    0	    0	    0	    0	  117	    0	    0	BMHQNXS
-WWF237	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	23/05/2013	43	56 - Triều	7	QN-175	  0	350	  0	  0	  0	  0	  0	121	  0	  0	BMHQNXS
-WWF238	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41397	20	43 - Thịnh	17	QN-179	   0	3671	9815	  67	  44	   0	   0	 129	   0	   0	BMHQNXS
-WWF239	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/03/2013	34	47 - Thịnh	10	QN-183	   0	 137	  20	   0	   0	   0	   0	7873	   0	   0	BMHQNXS
-WWF24	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H26	NA	NA	     0	     0	     0	     0	     0	     0	     0	284127	     0	     0	BMHQNXS
-WWF241	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41459	36	49 - Thịnh	22	QN-185	     0	    13	     0	  1524	    55	     0	     0	124348	     0	     0	BMHQNXS
-WWF242	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	20/04/2013	21	53 - Thịnh	16	QN-189	    0	    0	    0	    3	    0	    3	    0	91844	    0	    0	BMHQNXS
-WWF243	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41522	13	56 - Thịnh	25	QN-192	     0	    25	 23659	   206	   400	     0	     0	180534	     0	     0	BMHQNXS
-WWF244	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41613	13	59 - Thịnh	63	QN-195	    0	    6	 1497	75523	  170	    0	    0	  197	    0	    0	BMHQNXS
-WWF245	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/05/2013	44	62 - Thịnh	16	QN-198	    0	    0	    0	    0	    0	    0	    0	44208	    0	    0	BMHQNXS
-WWF246	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	24/05/2013	44	66 - Thịnh	23	QN-202	 0	 0	 0	 0	 0	 0	 0	13	 0	 0	BMHQNXS
-WWF247	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/03/2013	25	35 - Huy	17	QN-206	   0	 435	   5	1255	  10	   0	   0	8609	   0	   0	BMHQNXS
-WWF248	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/05/2013	35	41 - Huy	21	QN-212	   0	   0	 494	1174	   3	   0	   0	2006	   0	   0	BMHQNXS
-WWF249	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 I	100	QN-217	    0	   19	30304	   88	   17	    0	    0	    0	    0	    0	BMHQNXS
-WWF25	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H32	NA	NA	    0	    0	    0	    0	    0	    0	    0	14717	    0	    0	BMHQNXS
-WWF250	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 II	86	QN-218	     0	   374	247594	   810	   110	     0	     0	   720	     0	     0	BMHQNXS
-WWF252	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 IV	94	QN-220	     0	     4	  4634	 52071	   389	     0	     0	107958	     0	     0	BMHQNXS
-WWF253	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	20/05/2013	23	A20/05/13 I	77	QN-221	    0	  827	41296	12384	   41	    0	    0	  542	    0	    0	BMHQNXS
-WWF254	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	20/05/2013	23	A20/05/13 IV	75	QN-223	    0	 3942	14725	  584	    6	    0	    0	    5	    0	    0	BMHQNXS
-WWF255	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 I	83	QN-225	 0	 0	32	 0	 0	 0	 0	51	 0	 0	BMHQNXS
-WWF256	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 II	98	QN-226	    0	   46	65899	 1503	  350	    0	    0	94965	    0	    0	BMHQNXS
-WWF257	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 III	63	QN-227	    0	68360	 7746	53347	  324	    0	    0	 1230	    0	    0	BMHQNXS
-WWF258	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/05/2013	43	A25/05/13 I	8	QN-229	 0	 0	 0	 4	 0	 0	 0	78	 0	 0	BMHQNXS
-WWF259	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	26/05/2013	43	A26/05/13 I	13	QN-233	0	0	0	0	0	0	0	6	0	0	BMHQNXS
-WWF26	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H33	NA	NA	   0	4835	   6	   0	 127	   0	   0	   4	   0	   0	BMHQNXS
-WWF260	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	28/05/2013	12	Hùng	65	QN-238	    0	    9	13481	   68	   19	    0	    0	    0	    0	    0	BMHQNXS
-WWF263	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41551	14	Lâm	60	QN-249	    0	  889	    4	84855	  866	    0	29440	  164	    0	    0	BMHQNXS
-WWF264	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41551	14	Cường	50	QN-251	    0	 1258	    0	34591	   93	    0	    0	    0	    0	    0	BMHQNXS
-WWF265	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41551	14	Anh	42	QN-253	   0	 179	5206	  36	   0	   0	   0	   0	   0	   0	BMHQNXS
-WWF266	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41582	14	Lâm	41	QN-255	     0	  4086	    15	224195	   396	     0	    14	     0	     0	     0	BMHQNXS
-WWF267	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41582	14	Thắng	35	QN-258	     0	 39714	     0	126349	   950	     0	     0	   123	     0	     0	BMHQNXS
-WWF268	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41582	14	Hùng	20	QN-261	  0	  0	  0	267	  0	  0	  0	 88	  0	  0	BMHQNXS
-WWF269	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41612	14	Anh	43	QN-264	     0	  1804	     0	  4743	   197	     0	    55	251672	     0	     0	BMHQNXS
-WWF270	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41612	14	Lâm	60	QN-267	   0	1552	   0	8439	  25	   0	   0	 364	   0	   0	BMHQNXS
-WWF271	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	13/4/2013	14	Hùng	26	QN-269	    0	10475	    0	19474	  103	    0	    0	    0	    0	    0	BMHQNXS
-WWF273	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	24/4/2013	21	Lê Ka Thắng	24	QN-273	    0	   14	22688	 1562	  124	   94	    0	62374	    0	    0	BMHQNXS
-WWF274	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/4/2013	21	Lê Ka Thắng	42	QN-277	    0	 2475	  286	    7	    0	    0	    0	79698	    0	    0	BMHQNXS
-WWF275	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/4/2013	21	Nguyễn Văn Thiện	77	QN-279	     0	  2914	     4	  3391	    61	     0	     0	207368	     0	     0	BMHQNXS
-WWF276	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	25/4/2013	21	Bloong Đàm	57	QN-280	     0	 13874	     0	  7030	   735	     0	     0	237138	     0	     0	BMHQNXS
-WWF277	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-40	   0	   0	   6	1024	   0	   0	   0	  17	   0	   0	BMHQNXS
-WWF278	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-41	     0	   311	234969	  1174	     0	     0	     0	   112	     0	     0	BMHQNXS
-WWF28	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H36	NA	NA	     0	     0	     0	     0	     0	     0	     0	428627	     0	     0	BMHQNXS
-WWF280	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-61	 0	 0	 0	 0	 0	 0	 0	19	 0	 0	BMHQNXS
-WWF281	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-92	   0	   0	   0	   0	   0	   0	   0	2438	   0	   0	BMHQNXS
-WWF282	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-93	  0	  0	112	  5	  0	  0	  0	116	  0	  0	BMHQNXS
-WWF283	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-94	  0	  0	 66	  0	  0	  0	  0	106	  0	  0	BMHQNXS
-WWF284	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-96	     0	    72	123175	   540	   356	     0	     0	107912	     0	     0	BMHQNXS
-WWF285	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-111	     0	   739	     0	     3	     0	     0	     0	319489	     0	     0	BMHQNXS
-WWF286	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	NA	Q-211	12	 0	 0	 0	 0	 0	 0	 8	 0	 0	BMHQNXS
-WWF287	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41544	352	NA	50	H001	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-WWF29	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H38	NA	NA	     0	     6	     0	     0	     0	     0	     0	129840	     0	     0	BMHQNXS
-WWF290	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41544	352	NA	50	H009	     0	    25	     0	     0	     0	     0	    10	246738	     0	     0	BMHQNXS
-WWF291	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41544	352	NA	50	H011	4135	  18	   0	   0	   0	   0	   0	2217	   0	   0	BMHQNXS
-WWF293	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41545	352	NA	50	H014	0	0	0	0	0	0	0	4	0	0	BMHQNXS
-WWF294	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41545	352	NA	50	H016	     0	  7500	     0	     0	     0	     0	     0	512237	     0	     0	BMHQNXS
-WWF295	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41545	352	NA	50	H020	     0	     0	     0	     0	     0	     0	     0	634806	     0	     0	BMHQNXS
-WWF298	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41545	352	NA	50	H029	      0	      0	      0	      0	      0	      0	      0	1059080	      0	      0	BMHQNXS
-WWF3	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120823	NA	NA	    0	    0	    0	    0	    0	    0	    0	60224	    0	    0	BMHQNXS
-WWF30	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H40	NA	NA	     0	   565	186219	   464	   359	     0	     0	 29877	     0	     0	BMHQNXS
-WWF301	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41546	352	NA	50	H060	     0	187034	     0	     0	    59	     0	     0	   133	     0	     0	BMHQNXS
-WWF303	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H055	     0	110275	     0	     0	     6	     0	     0	   122	     0	     0	BMHQNXS
-WWF304	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41546	352	NA	50	H040	     0	  1992	    22	     0	     0	     0	     0	368308	     0	     0	BMHQNXS
-WWF305	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41546	352	NA	50	H042	     0	   314	    64	     3	     0	     0	     0	235051	     0	     0	BMHQNXS
-WWF306	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41551	352	NA	50	H103	     0	    16	 41103	   144	  6157	     0	322826	  9318	     0	     0	BMHQNXS
-WWF307	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41551	352	NA	50	H105	  0	  0	615	  0	  0	  0	  0	454	  0	  0	BMHQNXS
-WWF308	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41551	352	NA	50	H108	     0	   227	    39	     0	     0	     3	     0	349017	     0	     0	BMHQNXS
-WWF309	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41551	352	NA	50	H101	  0	  3	 10	  0	  3	  6	439	 30	  0	  0	BMHQNXS
-WWF31	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H56	NA	NA	 0	 0	 0	 0	 0	 0	 0	53	 0	 0	BMHQNXS
-WWF310	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41551	352	NA	50	H102	     0	     0	     0	     0	     0	     0	   405	133417	     0	     0	BMHQNXS
-WWF311	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H113	     0	    10	 54288	   111	   362	     6	     7	315936	     0	     0	BMHQNXS
-WWF312	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H117	     0	  2342	    17	     0	     3	   973	    32	270182	     0	     0	BMHQNXS
-WWF313	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H142	    42	  2734	266462	   899	   456	     0	     0	 23342	     0	     0	BMHQNXS
-WWF314	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H145	     0	  2745	400263	  2238	  1668	    18	     0	373575	     0	     0	BMHQNXS
-WWF315	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H148	     0	     3	     3	     0	     0	     0	     0	297496	     0	     0	BMHQNXS
-WWF316	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H110	    0	 1152	22813	   78	  197	    0	  698	80300	    0	    0	BMHQNXS
-WWF317	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H114	     0	   279	     0	     0	     0	     0	     0	275238	     0	     0	BMHQNXS
-WWF318	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41552	352	NA	50	H120	     0	  3788	  5507	    17	    82	     0	     0	214622	     0	     0	BMHQNXS
-WWF32	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H59	NA	NA	    0	 4175	 3671	   12	    0	    0	    0	52777	    0	    0	BMHQNXS
-WWF320	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	352	NA	50	H122	     0	  1312	  3951	     7	    39	     0	  1375	182859	     0	     0	BMHQNXS
-WWF321	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	352	NA	50	H125	     0	   200	     0	     0	     0	     0	     0	329695	     0	     0	BMHQNXS
-WWF322	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	352	NA	50	H127	    72	   135	   131	     0	     0	     0	     0	150487	     0	     0	BMHQNXS
-WWF323	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H150	     0	     5	   204	     0	     0	     0	     0	364178	     0	     0	BMHQNXS
-WWF324	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	352	NA	50	H152	    0	    0	  286	    0	    0	    0	    0	60092	    0	    0	BMHQNXS
-WWF325	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	351- 352	NA	50	H155	     0	    12	     0	     0	     0	     0	     0	368788	     0	     0	BMHQNXS
-WWF326	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41553	352	NA	50	H157	     0	   799	     0	     0	     0	     0	   372	345021	     0	     0	BMHQNXS
-WWF327	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41555	352	NA	50	H180	  65	   0	   0	   0	   0	   0	   0	1595	   0	   0	BMHQNXS
-WWF329	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41555	352	NA	50	H202	 0	 0	 0	 0	 8	 0	 0	36	 0	 0	BMHQNXS
-WWF33	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H61	NA	NA	     0	184836	     0	     0	   122	     0	     0	     0	     0	     0	BMHQNXS
-WWF330	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H250	     0	  3964	     0	     0	     0	     0	     0	174015	     0	     0	BMHQNXS
-WWF332	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H256	     0	   102	     0	     0	     0	     0	     0	221665	     0	     0	BMHQNXS
-WWF333	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H258	     0	     0	     0	     0	     0	     0	     0	344659	     0	     0	BMHQNXS
-WWF334	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H352	     0	  1883	     0	     0	     0	     0	     0	203804	     0	     0	BMHQNXS
-WWF335	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H356	0	0	0	0	0	0	0	3	0	0	BMHQNXS
-WWF336	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41556	352	NA	50	H300	    0	13481	 1152	  980	    8	    0	    0	10114	    0	    0	BMHQNXS
-WWF337	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H362	     0	     0	     0	     0	     0	     0	     0	253859	     0	     0	BMHQNXS
-WWF338	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H350	     0	     0	     0	     0	     0	     0	     0	268098	     0	     0	BMHQNXS
-WWF34	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H62	NA	NA	     0	     4	     0	234284	   126	     0	     0	   247	     0	     0	BMHQNXS
-WWF340	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H088	     0	     0	     0	     0	     0	     0	     0	255481	     0	     0	BMHQNXS
-WWF341	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H360	     0	  8861	     0	     0	     0	     0	     0	494550	     0	     0	BMHQNXS
-WWF342	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	NA	352	NA	50	H366	    0	18675	    0	 6612	    9	    0	    0	    7	    0	    0	BMHQNXS
-WWF343	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41527	410	NA	50	BM70	     0	     0	     0	   157	     0	     0	     0	208967	     0	     0	BMHQNXS
-WWF344	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	NA	NA	NA	50	BM72	     0	   740	     0	     0	     0	     0	     0	344985	     0	     0	BMHQNXS
-WWF345	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	NA	NA	NA	50	BM74	     0	  4618	     0	117989	  1648	     0	     0	234834	     0	     0	BMHQNXS
-WWF346	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41529	410	NA	50	BM76	    0	  270	    0	    0	    0	    0	    0	44222	    0	    0	BMHQNXS
-WWF347	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41527	410	NA	50	BM65	     0	     0	     0	 23461	   349	    66	     0	263459	     0	     0	BMHQNXS
-WWF348	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	NA	NA	NA	50	BM78	    0	    0	    0	    0	    0	    5	    0	16749	    0	    0	BMHQNXS
-WWF349	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41526	410	NA	50	BM61	    36	     0	     0	     0	     0	     0	     5	171727	     0	     0	BMHQNXS
-WWF35	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H63	NA	NA	 0	 0	 0	99	 0	 0	 0	 5	 0	 0	BMHQNXS
-WWF350	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41526	410	NA	50	BM63	  0	119	  0	 60	  0	  0	  0	 86	  0	  0	BMHQNXS
-WWF351	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41528	410	NA	50	BM66	   0	 520	   0	 321	   0	   0	   0	3275	   0	   0	BMHQNXS
-WWF352	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41529	410	NA	50	BM84	   0	   0	   0	 598	   0	   0	   0	2106	   0	   0	BMHQNXS
-WWF353	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41528	410	NA	50	BM80	    0	 1282	    0	  724	   47	    0	    0	29995	    0	    0	BMHQNXS
-WWF354	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BachMaExt	41529	410	NA	50	BM85	0	0	0	0	0	0	0	4	0	0	BMHQNXS
-WWF355	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41576	21	NA	50	Q101	  0	150	  0	  0	  0	  0	  0	  0	  0	  0	BMHQNXS
-WWF356	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41576	21	NA	50	Q201	   0	   0	 192	1696	   0	   0	   0	  78	   0	   0	BMHQNXS
-WWF357	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41576	21	NA	50	Q203	    0	    0	   15	    3	    0	    0	    0	41635	    0	    0	BMHQNXS
-WWF358	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41576	21	NA	50	Q301	 0	 0	 0	 8	 0	 0	 0	41	 0	 0	BMHQNXS
-WWF359	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41577	21	NA	50	Q02	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-WWF36	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H64	NA	NA	    0	15615	    0	    4	  807	    0	    0	 7122	    0	    0	BMHQNXS
-WWF360	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41577	21	NA	50	Q103	 6	 0	16	16	 3	 0	 0	84	 0	 0	BMHQNXS
-WWF361	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41577	21	NA	50	Q105	  0	651	  0	  0	 68	  0	  0	  3	  0	  0	BMHQNXS
-WWF363	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41577	21	NA	50	Q205	  0	  0	  0	206	  0	  0	  0	 24	  0	  0	BMHQNXS
-WWF364	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41578	21	NA	50	Q03	   0	1467	   0	  16	   8	   0	   0	  46	   0	   0	BMHQNXS
-WWF365	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41578	21	NA	50	Q107	  0	113	  0	  0	  0	  0	  0	230	  0	  0	BMHQNXS
-WWF366	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41578	21	NA	50	Q109	     0	432807	     0	132582	 25153	     0	     0	  9371	     0	     0	BMHQNXS
-WWF368	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41578	21	NA	30	Q306	    0	 1250	    0	 6084	   62	    0	    0	76529	    0	    0	BMHQNXS
-WWF369	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41579	21	NA	50	Q111	  0	209	  0	  0	  0	  0	  0	  6	  0	  0	BMHQNXS
-WWF37	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H65	NA	NA	    0	    0	 1541	    0	    0	    0	    0	15509	    0	    0	BMHQNXS
-WWF370	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41579	21	NA	50	Q06	  0	 39	 19	 65	 23	  0	  0	763	  0	  0	BMHQNXS
-WWF371	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41579	21	NA	50	Q7	  0	669	  0	204	  9	  0	  0	 33	  0	  0	BMHQNXS
-WWF372	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41579	21	NA	50	Q208	    0	   15	    3	39122	  136	    0	    0	  462	    0	    0	BMHQNXS
-WWF373	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41579	21	NA	50	Q307	  0	275	  0	656	  5	  0	  0	532	  0	  0	BMHQNXS
-WWF374	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	NA	NA	NA	50	Q09	   0	 532	 110	1131	  12	   0	   0	 837	   0	   0	BMHQNXS
-WWF375	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41581	20, 21	NA	50	Q113	     0	    23	     0	     0	     0	     0	     0	114891	     0	     0	BMHQNXS
-WWF376	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41581	20	NA	50	Q209	    0	    3	    4	36194	   24	    0	    0	    4	    0	    0	BMHQNXS
-WWF377	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41583	20, 21	NA	50	Q116	 0	40	 0	88	 0	 0	 0	22	 0	 0	BMHQNXS
-WWF378	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41583	20, 21	NA	50	Q118	 0	 0	 0	 0	 0	 0	 0	19	 0	 0	BMHQNXS
-WWF381	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41583	20	NA	50	Q211	  0	149	 18	485	  0	  0	  0	775	  0	  0	BMHQNXS
-WWF382	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41583	20, 21	NA	50	Q310	  0	394	  0	  0	  0	  0	  0	 32	  0	  0	BMHQNXS
-WWF383	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	50	Q11	   0	 287	  37	2980	  31	   0	   0	 161	   0	   0	BMHQNXS
-WWF384	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20, 21	NA	50	Q123	     0	     0	    71	     3	     0	     0	     0	311418	     0	     0	BMHQNXS
-WWF385	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20	NA	50	Q212	    0	    5	    0	  267	   44	    0	    0	51935	    0	    0	BMHQNXS
-WWF386	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20	NA	50	Q214	   0	   0	   0	   0	   0	   0	   0	5508	   0	   0	BMHQNXS
-WWF387	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41584	20, 21	NA	50	Q312	     0	    14	     0	106354	   366	     0	     0	 50669	     0	     0	BMHQNXS
-WWF388	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20, 21	NA	50	Q315	    0	    4	  224	11098	  113	    0	    0	14872	    0	    0	BMHQNXS
-WWF389	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20, 21	NA	50	Q318	    0	    0	    0	14142	  103	    0	    0	13434	    0	    0	BMHQNXS
-WWF390	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41584	20, 21	NA	50	Q13	    0	   32	    0	  132	    0	    0	    0	13654	    0	    0	BMHQNXS
-WWF391	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	NA	NA	50	Q15	    0	    0	    7	    3	    0	    0	    0	63956	    0	    0	BMHQNXS
-WWF393	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41585	20, 21	NA	50	Q19	     0	    12	     4	   474	    73	     0	     0	252953	     0	     0	BMHQNXS
-WWF394	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20, 21	NA	50	Q124	     0	   710	314780	 16753	  1552	     0	     0	160315	     0	     0	BMHQNXS
-WWF396	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	NA	NA	50	Q129	   11	    0	    0	  323	    0	    0	    0	12453	    0	    0	BMHQNXS
-WWF397	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20, 21	NA	50	Q131	0	0	0	0	0	0	0	7	0	0	BMHQNXS
-WWF399	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20, 21	NA	50	Q323	    0	    3	  856	  933	   28	    0	    0	47442	    0	    0	BMHQNXS
-WWF4	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120825	NA	NA	    0	    6	11287	   44	   88	    0	   81	99574	    0	    0	BMHQNXS
-WWF40	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H101	NA	NA	    16	     0	     6	     0	     0	     0	     0	239743	     0	     0	BMHQNXS
-WWF400	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20, 21	NA	50	Q325	    0	    0	    3	    8	    0	    0	    0	66506	    0	    0	BMHQNXS
-WWF401	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20, 21	NA	50	Q327	    0	    7	 2930	   15	   46	    0	    0	70207	    0	    0	BMHQNXS
-WWF402	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41585	20	NA	50	Q216	    0	    5	    0	  163	    5	    0	    0	77476	    0	    0	BMHQNXS
-WWF403	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41586	20, 21	NA	50	Q21	    0	    7	    8	20213	   47	    0	    0	 1500	    0	    0	BMHQNXS
-WWF404	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41586	20, 21	NA	50	Q23	    0	   17	    4	    6	    4	    0	    0	24922	    0	    0	BMHQNXS
-WWF405	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41586	20, 21	NA	50	Q133	    0	    0	    0	    5	    0	    0	    0	44132	    0	    0	BMHQNXS
-WWF406	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41586	20, 21	NA	50	Q220	    0	20251	   18	   36	   19	    0	    0	  230	    0	    0	BMHQNXS
-WWF407	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41586	20, 21	NA	50	Q329	     0	     0	     3	     0	     0	     0	     0	937734	     0	     0	BMHQNXS
-WWF408	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41587	20, 21	NA	50	Q134	    0	 1424	    0	 2323	   86	    0	    0	64074	    0	    0	BMHQNXS
-WWF409	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41587	20, 21	NA	50	Q137	     0	     0	     0	 28610	   532	     0	     0	130057	     0	     0	BMHQNXS
-WWF41	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H102	NA	NA	0	3	0	0	0	0	0	0	0	0	BMHQNXS
-WWF410	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41925	NA	NA	50	Q139	     0	 10830	   561	   421	   750	     0	     0	217478	     0	     0	BMHQNXS
-WWF411	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	NA	NA	NA	50	Q162	  0	927	 18	 75	 62	  0	  0	278	  0	  0	BMHQNXS
-WWF412	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41587	20, 21	NA	50	Q331	     0	    34	     0	     0	     0	     0	     0	228638	     0	     0	BMHQNXS
-WWF413	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41925	NA	NA	50	Q335	    0	  961	   80	 1170	   23	    0	    0	59803	    0	    0	BMHQNXS
-WWF414	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41587	20, 21	NA	50	Q25	    0	 4721	  198	30369	  425	    0	    0	37842	    0	    0	BMHQNXS
-WWF415	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41925	NA	NA	50	Q28	     0	  2741	   481	   584	    28	     0	     0	401213	     0	     0	BMHQNXS
-WWF416	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41925	NA	NA	50	Q30	    0	    0	   25	  181	    5	    0	    0	77187	    0	    0	BMHQNXS
-WWF417	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	50	Q33	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-WWF418	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	NA	NA	NA	50	Q242	 0	 0	 0	81	 0	 0	 0	14	 0	 0	BMHQNXS
-WWF420	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 1002	  0	 16	269	459	  0	  0	  0	392	  0	  0	BMHQNXS
-WWF423	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41616	14	NA	50	QN 1008	     0	     0	     0	     0	     0	     0	     0	347550	     0	     0	BMHQNXS
-WWF424	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41616	14	NA	50	QN 1010	     0	     6	     0	     0	     0	     0	     0	138457	     0	     0	BMHQNXS
-WWF425	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41617	14	NA	50	QN 1013	    0	   15	  164	59960	 2131	    0	    0	54057	    0	    0	BMHQNXS
-WWF426	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41617	14	NA	50	QN 1015	    0	    5	   23	18361	   97	    0	    0	 9824	    0	    0	BMHQNXS
-WWF427	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41618	14	NA	50	QN 1018	   0	   0	1802	3181	  26	   0	   0	 384	   0	   0	BMHQNXS
-WWF428	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41618	14	NA	50	QN 1020	    0	    3	   16	   23	    0	    0	    0	90616	    0	    0	BMHQNXS
-WWF429	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41619	14	NA	50	QN 1022	  0	  0	 48	  0	  0	  0	  0	989	  0	  0	BMHQNXS
-WWF430	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41619	14	NA	50	QN 1024	    0	    0	  178	  620	    6	    0	    0	33748	    0	    0	BMHQNXS
-WWF431	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41619	14	NA	50	QN 1026	    0	   38	29331	  234	  166	    0	    0	46426	    0	    0	BMHQNXS
-WWF432	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41619	14	NA	50	QN 1028	    0	  662	    0	   23	  133	    0	    0	25385	    0	    0	BMHQNXS
-WWF433	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 1030	     0	     0	     0	    35	     0	     0	     0	100353	     0	     0	BMHQNXS
-WWF434	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 1032	    0	    3	    4	  162	    0	    0	    0	64599	    0	    0	BMHQNXS
-WWF435	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 1034	  0	539	  0	  0	  0	  0	  0	285	  0	  0	BMHQNXS
-WWF436	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 1036	  0	  7	  3	  9	  0	  0	  0	140	  0	  0	BMHQNXS
-WWF437	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 1038	   0	 162	   0	   0	   4	   0	   0	1482	   0	   0	BMHQNXS
-WWF438	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 1041	     0	     7	    29	356211	   290	     0	     0	   358	     0	     0	BMHQNXS
-WWF439	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 1043	    0	    4	    7	23739	   58	    0	    0	  529	    0	    0	BMHQNXS
-WWF44	tube_labels	Vietnam	HSL	HSL	HueSaoLaNR	NA	NA	H142	NA	NA	     0	     6	     0	     0	     0	     0	     0	322099	     0	     0	BMHQNXS
-WWF440	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 1045	    0	    0	    0	    0	    0	    0	    0	58886	    0	    0	BMHQNXS
-WWF441	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 1047	     0	     0	     0	     0	     0	     0	     0	138627	     0	     0	BMHQNXS
-WWF442	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 1049	    0	    6	   10	    8	    0	    0	    0	55620	    0	    0	BMHQNXS
-WWF443	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41624	14	NA	50	QN 1051	    0	    0	    0	 1199	    4	    0	    0	15455	    0	    0	BMHQNXS
-WWF444	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 2000	     0	     0	     0	 22808	   195	     0	     0	124710	     0	     0	BMHQNXS
-WWF445	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 2002	   265	     0	     7	  6147	    99	     0	     0	166207	     0	     0	BMHQNXS
-WWF446	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 2004	    0	  472	    0	    0	    0	    0	    0	87530	    0	    0	BMHQNXS
-WWF447	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41616	14	NA	50	QN 2006	  0	  0	  0	  0	  0	  0	  0	422	  0	  0	BMHQNXS
-WWF449	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41617	14	NA	50	QN 2011	     0	     4	    12	 21885	   540	     0	     0	172100	     0	     0	BMHQNXS
-WWF45	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41155	417	Vong - 01	8	BM-1	358	  0	  0	  0	  0	  0	  0	  0	  0	  0	BMHQNXS
-WWF451	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41618	14	NA	50	QN 2016	     0	   123	118188	 13581	   124	     0	     0	 14049	     0	     0	BMHQNXS
-WWF452	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41618	14	NA	50	QN 2018	     7	   700	866345	  2598	   813	     0	     0	  9389	     0	     0	BMHQNXS
-WWF453	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41618	14	NA	50	QN 2020	   0	1462	   0	 213	   4	   0	   0	5181	   0	   0	BMHQNXS
-WWF454	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41618	14	NA	50	QN 2022	  54	  15	  10	  29	   0	   0	   0	3743	   0	   0	BMHQNXS
-WWF455	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41619	14	NA	50	QN 2024	    0	   16	   22	  708	   25	    0	    0	31773	    0	    0	BMHQNXS
-WWF456	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41622	14	NA	50	QN 2027	     0	    62	   409	  1531	    23	     0	     0	172633	     0	     0	BMHQNXS
-WWF457	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 2029	    0	    0	    0	    0	    0	    0	    0	68524	    0	    0	BMHQNXS
-WWF458	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41622	14	NA	50	QN 2031	   0	   4	   6	   7	   0	   0	   0	3555	   0	   0	BMHQNXS
-WWF459	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41623	14	NA	50	QN 2040	    0	  162	    3	 4863	  100	    0	    0	76564	    0	    0	BMHQNXS
-WWF46	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41165	42	Vong - 02	20	BM-2	    19	     0	     0	    39	     0	     0	     0	305664	     0	     0	BMHQNXS
-WWF460	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamNR	41623	14	NA	50	QN 2042	     0	    46	   138	   132	    11	     0	     0	150060	     0	     0	BMHQNXS
-WWF461	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 3000	   0	   4	   0	   0	   0	   0	   0	2061	   0	   0	BMHQNXS
-WWF462	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 3002	     0	     8	     0	     0	     0	     0	     0	109562	     0	     0	BMHQNXS
-WWF463	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 3004	     0	     5	   280	     0	     5	     0	     0	251494	     0	     0	BMHQNXS
-WWF464	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41615	14	NA	50	QN 3006	     0	     0	     0	     0	     0	     0	     0	184740	     0	     0	BMHQNXS
-WWF465	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41616	14	NA	50	QN 3007	   0	   0	   5	 181	   0	   0	   0	5887	   0	   0	BMHQNXS
-WWF467	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41617	14	NA	50	QN 3012	  0	  0	  0	  0	  0	  0	  0	122	  0	  0	BMHQNXS
-WWF468	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	QuangNamSaoLaNR	41617	14	NA	50	QN 3014	     0	     0	     0	     0	     0	     0	     0	157503	     0	     0	BMHQNXS
-WWF47	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41152	418	Vong - 06	6	BM-6	     0	     0	     0	     0	     0	     0	 29993	667316	     0	     0	BMHQNXS
-WWF48	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	24&25/09/2012	419	Dũng - 02	15	BM -12	 0	 0	 0	 0	 0	 0	 0	50	 0	 0	BMHQNXS
-WWF49	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41156	429	Quang - 01	5	BM -15	   0	   6	   0	   0	   0	   0	   0	4994	   0	   0	BMHQNXS
-WWF5	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK47_20120901	NA	NA	    0	    0	    0	    0	    0	    0	    0	40829	    0	    0	BMHQNXS
-WWF50	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41521	429	Nguyễn Văn Thiện	3	BM-20	 0	 0	 0	 0	13	 0	 0	 6	 0	 0	BMHQNXS
-WWF51	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41551	429	Nguyễn Văn Thiện	27	BM-26	   0	 729	   0	   0	   0	   0	   0	1716	   0	   0	BMHQNXS
-WWF52	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41551	429	Huỳnh Đức Huy	7	BM-28	     0	337433	     0	     6	  1364	     0	     0	     3	     0	    17	BMHQNXS
-WWF53	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	41612	429	Nguyễn Văn Thiện	33	BM-37	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-WWF54	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	13/4/2013	429	NA	20	BM-42	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-WWF55	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BachMaNP	13/4/2013	429	NA	38	BM-44	     0	  6753	    18	     0	   157	     0	     0	196732	     0	     0	BMHQNXS
-WWF57	WWF_2013Samples_20140919.xlsx	Laos	XS	XS	XeSap	NA	Laos	XS # 17-2	5	XS-1	     0	    20	  8242	 20282	   765	     0	181506	  4706	     0	     0	BMHQNXS
-WWF58	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-1-13-Rivter	NA	XS-18	     0	     0	     0	     0	     0	     0	    60	275851	     0	     0	LL
-WWF59	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-2-13-Rivter	NA	XS-19	     0	     0	   226	     9	    16	 20769	     0	331201	     0	     0	LL
-WWF6	tube_labels	Vietnam	HSL	HSL	Hue SNR	NA	NA	VINH.BUIHUU_20120909	NA	NA	    0	37233	    0	    0	    0	    0	    3	    3	    0	    0	BMHQNXS
-WWF60	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-3-13-Rivter	NA	XS-20	     0	     3	   259	     6	    18	 20360	    54	379215	     0	     0	LL
-WWF61	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-4-13-Rivter	NA	XS-21	     0	     0	     0	     0	     0	     0	  1063	354218	     0	     0	LL
-WWF62	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-5-14-A-Start	NA	XS-22	     0	    26	  1778	    70	    11	126816	    83	203141	     0	     0	LL
-WWF64	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-7-14-start-E	NA	XS-24	     0	     4	   778	    18	    70	 39559	 10004	498302	     0	     0	LL
-WWF65	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-8-14-start-E	NA	XS-25	     0	     0	   121	     4	   106	  7534	 22758	305259	     0	     0	LL
-WWF66	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-9-15A-start	185+	XS-26	     0	     0	    25	     0	     3	  2501	   809	171714	     0	     0	LL
-WWF67	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-10-15A-start	NA	XS-27	   0	   0	   3	   7	   0	 158	  48	1244	   0	   0	LL
-WWF68	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-11-15-start-F	200+	XS-28	    0	    3	  106	50115	  334	 6717	 9235	79822	    0	    0	LL
-WWF69	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-12-15-L/R	110+	XS-29	     0	     0	     0	   261	     3	     0	 12674	155935	     0	     0	LL
-WWF7	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK36_20120929	NA	NA	     4	     5	     8	104120	   127	     0	     0	 84107	     0	     0	BMHQNXS
-WWF70	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-13-15 - s	8+	XS-30	     0	     0	     0	    21	     0	     0	     0	317784	     0	     0	LL
-WWF71	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-14-15 -L	90+	XS-31	     0	     3	    21	144379	   747	   552	  2916	 25263	     0	     0	LL
-WWF72	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-15-15 - R	140+	XS-32	     0	   155	   617	    29	   156	 47431	 10183	260018	     0	     0	LL
-WWF74	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-17-15-x	60+	XS-34	     0	     4	  1513	    20	  1055	109502	104645	     8	     0	     0	LL
-WWF75	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-18-15 - - G   100	NA	XS-35	     0	     3	   537	    13	   390	 16337	 40875	178380	 26464	     0	LL
-WWF76	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-19-16-Riv-G	NA	XS-36	     0	    17	  2611	    61	     0	207910	    18	     9	     0	     0	LL
-WWF77	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-20-16-G-H	NA	XS-37	     0	    12	  1956	    77	    36	137720	     3	128225	     0	     0	LL
-WWF8	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK37_20121011	NA	NA	    3	    0	    0	    0	    0	    0	    0	17198	    0	    0	BMHQNXS
-WWF80	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-23-16 - A- start	NA	XS-40	     0	    24	  1310	   622	    77	 93021	  1480	114683	     0	     0	LL
-WWF81	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-24-16-x-#1	NA	XS-41	     0	     0	     3	     0	     0	    67	     5	231690	     0	     0	LL
-WWF82	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-25-16-R	NA	XS-42	     0	     0	     0	  2278	    35	     0	  7552	268437	     0	     0	LL
-WWF83	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-26-16 - G	NA	XS-43	     0	     0	    40	     0	     8	  2388	  7451	269633	     0	     0	LL
-WWF84	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-27-16 - L	NA	XS-44	    0	    0	  744	  116	  254	70935	 7595	14304	    0	    0	LL
-WWF85	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-28-17- GG	NA	XS-45	     0	   130	     3	     0	    10	   313	 26871	151418	     0	     0	LL
-WWF86	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-29-17- A - start	NA	XS-46	     0	     0	    42	     0	     6	  3597	  5723	227743	     0	     0	LL
-WWF87	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-30-17- G - H	NA	XS-47	     0	    22	  3224	    91	   502	237854	  9752	  4119	     0	     0	LL
-WWF88	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-31-17 - H - E	NA	XS-48	     0	   614	     0	     0	     0	     6	  1277	111115	     0	     0	LL
-WWF89	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	Laving Lavern	NA	Laos	WCS-32-17 - H - E	NA	XS-49	     0	    27	  3376	    81	     0	284600	     0	  1265	     0	     0	LL
-WWF9	tube_labels	Vietnam	QNSL	QNSL	Quang Nam SNR	NA	NA	TK45_20121028	NA	NA	  0	  0	  0	  0	  0	  0	  0	198	  0	  0	BMHQNXS
-WWF92	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41061	345	1-Hóa	50	H-1	    0	  108	 1152	    0	   44	    0	81108	82958	    0	    0	BMHQNXS
-WWF93	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41063	345	3-Hóa	60	H-3	     0	     0	  8558	    42	    96	     0	     0	216689	     0	     0	BMHQNXS
-WWF94	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	30/6/2012	350	10-Hóa	15	H-10	  0	  5	 16	  0	  0	  0	  0	285	  0	  0	BMHQNXS
-WWF95	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41095	349	12-Hóa	30	H-12	     0	  3037	 25824	   194	   289	     0	     0	227077	     0	     0	BMHQNXS
-WWF96	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	41098	349	15-Hóa	25	H-15	   0	 364	   0	   0	   0	   0	   0	3757	   0	   0	BMHQNXS
-WWF97	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	13/7/2012	353	17-Hóa	25	H-17	     0	     0	  1411	     6	     6	     0	     0	160407	     0	     0	BMHQNXS
-WWF98	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	HueSaoLaNR	16/7/2012	353	20-Hoa	30	H-20	     0	  1083	     3	     0	     0	     0	   733	189634	     0	     0	BMHQNXS
-XS10	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41782	NA	NA	50	NA	   0	  53	   0	   0	   0	   0	   0	4757	   0	   0	BMHQNXS
-XS11	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41782	NA	NA	50	NA	   0	2669	   0	   0	   0	   0	   0	 161	   0	   0	BMHQNXS
-XS12	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41783	NA	NA	50	NA	   0	1399	   0	   0	   0	   0	   0	2756	   0	   0	BMHQNXS
-XS13	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41783	NA	NA	50	NA	    0	27212	    0	    0	    8	    0	    0	   59	    0	    0	BMHQNXS
-XS14A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41784	NA	NA	23	NA	 0	 0	 0	 0	 0	 0	 0	41	 0	 0	BMHQNXS
-XS14B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41784	NA	NA	33	NA	    48	171739	     0	     0	   398	     0	     0	    80	     0	     0	BMHQNXS
-XS15A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	39	NA	 0	 0	 0	 0	 0	 0	 0	32	 0	 0	BMHQNXS
-XS16A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	50	NA	 0	 5	 0	 0	 0	 0	17	18	 0	 0	BMHQNXS
-XS17A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	39	NA	  0	  0	  0	  0	  0	  0	  0	764	  0	  0	BMHQNXS
-XS17B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	11	NA	    0	    0	    0	    0	    0	    0	    0	56609	    0	    0	BMHQNXS
-XS18A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41786	NA	NA	48	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS19A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41786	NA	NA	33	NA	  0	348	  0	  0	  0	  0	  0	 36	  0	  0	BMHQNXS
-XS19B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41786	NA	NA	17	NA	    0	    4	    0	    0	    0	    0	    0	54928	    0	    0	BMHQNXS
-XS2	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41781	NA	NA	50	NA	    0	13835	    0	    0	    0	    0	    0	 3136	    0	    0	BMHQNXS
-XS20A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41786	NA	NA	36	NA	  0	316	  0	  0	  0	  0	  0	  0	  0	  0	BMHQNXS
-XS20B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41786	NA	NA	14	NA	 0	 0	 0	 0	 0	 0	 0	30	 0	 0	BMHQNXS
-XS21A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41788	NA	NA	30	NA	 0	62	 0	 0	 0	 0	 0	 3	 0	 0	BMHQNXS
-XS21B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41788	NA	NA	20	NA	   0	4361	   0	   0	   0	   0	   0	   0	   0	   0	BMHQNXS
-XS22A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	30	NA	  0	  0	  0	147	  0	  0	  0	  7	  0	  0	BMHQNXS
-XS22B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	20	NA	   0	2126	   0	   0	   0	   0	   0	 227	   0	   0	BMHQNXS
-XS23A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	18	NA	0	0	0	0	0	0	0	7	0	0	BMHQNXS
-XS23B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	32	NA	    0	    0	    0	67371	   76	    0	    0	   24	    0	    0	BMHQNXS
-XS24A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	33	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS25A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	23	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS26A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	18	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS26B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	32	NA	     0	122537	     0	     0	     0	     0	     0	     0	     0	     0	BMHQNXS
-XS27A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41791	NA	NA	37	NA	    0	 4528	    0	    0	    0	    0	    0	21492	    0	    0	BMHQNXS
-XS27B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41791	NA	NA	13	NA	   0	   0	   0	   0	   0	   0	   0	1760	   0	   0	BMHQNXS
-XS28A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41791	NA	NA	5	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS29A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41792	NA	NA	37	NA	  0	  0	  0	  0	  0	  0	  0	171	  0	  0	BMHQNXS
-XS3	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41781	NA	NA	50	NA	   0	5830	   0	   0	   0	   0	   0	   0	   0	   0	BMHQNXS
-XS31A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	41	NA	   0	2183	   0	   0	 268	   0	   0	   0	   0	   0	BMHQNXS
-XS31B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41789	NA	NA	9	NA	     0	170124	     0	     0	     0	     0	     0	     0	     0	     0	BMHQNXS
-XS32A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	36	NA	 0	 0	 0	38	 0	 0	 0	16	 0	 0	BMHQNXS
-XS32B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	14	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS33B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	44	NA	 0	 0	 0	 0	 0	 0	 0	32	 0	 0	BMHQNXS
-XS34A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	16	NA	0	0	0	0	0	0	0	8	0	0	BMHQNXS
-XS34B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41790	NA	NA	34	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS35A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41791	NA	NA	50	NA	   0	1632	   0	 250	   0	   0	   0	  13	   0	   0	BMHQNXS
-XS36A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41791	NA	NA	50	NA	    0	25193	    0	    0	    0	    0	    0	  325	    0	    0	BMHQNXS
-XS37A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41792	NA	NA	50	NA	   0	  95	   0	   0	   0	   0	   0	2925	   0	   0	BMHQNXS
-XS38A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	48	NA	   0	   0	   0	3502	  11	   0	   0	   5	   0	   0	BMHQNXS
-XS39A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	39	NA	   0	1272	 108	4016	  12	   0	   0	 102	   0	   0	BMHQNXS
-XS39B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	11	NA	     0	    11	     0	239986	    15	     0	     0	     0	     0	     0	BMHQNXS
-XS4	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41783	NA	NA	50	NA	  0	718	  0	  0	  0	  0	  0	514	  0	  0	BMHQNXS
-XS40A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	4	NA	  0	785	  0	  0	  0	  0	  0	  0	  0	  0	BMHQNXS
-XS40B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	46	NA	    0	    0	    0	33489	  209	    0	    0	   12	    0	    0	BMHQNXS
-XS41A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41794	NA	NA	40	NA	   0	1449	   0	   0	   0	   0	   0	 643	   0	   0	BMHQNXS
-XS41B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41794	NA	NA	10	NA	    0	13314	    0	    0	    0	    0	    0	    0	    0	    0	BMHQNXS
-XS42B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	50	NA	     0	     0	     0	     0	     0	     0	     0	162892	     0	     0	BMHQNXS
-XS43A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41794	NA	NA	50	NA	   0	1876	   0	   0	  36	   0	   0	   0	   0	   0	BMHQNXS
-XS44A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	no_date	NA	NA	NA	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS45A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	no_date	NA	NA	NA	NA	0	0	0	0	0	0	0	6	0	0	BMHQNXS
-XS46A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	no_date	NA	NA	NA	NA	  0	222	  0	  0	  0	  0	  0	  0	  0	  0	BMHQNXS
-XS5	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41784	NA	NA	50	NA	   0	1236	   0	  25	   0	   0	   0	  81	   0	   0	BMHQNXS
-XS50A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41793	NA	NA	40	NA	    0	    0	    0	    0	    0	    0	    0	20172	    0	    0	BMHQNXS
-XS51A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41794	NA	NA	30	NA	    0	  220	    0	    0	    0	    0	    0	69328	    0	    0	BMHQNXS
-XS51B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41794	NA	NA	20	NA	    0	  389	    0	    0	    0	    0	    0	85527	    0	    0	BMHQNXS
-XS52A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	45	NA	   0	3224	   0	   0	  21	   0	   0	   0	   0	   0	BMHQNXS
-XS52B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	5	NA	   0	1582	   0	   0	   0	   0	   0	   0	   0	   0	BMHQNXS
-XS54A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	13	NA	  0	183	  0	  0	  0	  0	  0	  6	  0	  0	BMHQNXS
-XS54B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	37	NA	    0	39980	    0	    0	    0	    0	    0	  218	    0	    0	BMHQNXS
-XS55	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	12	NA	     0	 43446	    11	226027	   516	     0	     0	    12	     0	     0	BMHQNXS
-XS55A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	16	NA	   0	2645	   0	   0	   7	   0	   0	   0	   0	   0	BMHQNXS
-XS55B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41795	NA	NA	2	NA	0	0	0	0	0	0	0	0	0	0	BMHQNXS
-XS6A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41784	NA	NA	32	NA	    0	17541	    0	    0	    9	    0	    0	 2139	    0	    0	BMHQNXS
-XS6B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41784	NA	NA	18	NA	    0	68565	    7	82313	 2943	    0	    0	   21	    0	    0	BMHQNXS
-XS7A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	28	NA	   0	1389	   0	   0	  25	   0	   0	  61	   0	   0	BMHQNXS
-XS7B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	22	NA	     0	149726	     0	     0	   641	     0	     0	  1018	     0	     0	BMHQNXS
-XS8A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	12	NA	0	0	0	0	0	0	0	8	0	0	BMHQNXS
-XS8B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	38	NA	   0	7597	   0	   0	   0	   0	   0	1481	   0	   0	BMHQNXS
-XS9A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	12	NA	 0	16	 0	 0	 0	 0	 0	67	 0	 0	BMHQNXS
-XS9B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	XeSap	41785	NA	NA	38	NA	     0	 12638	     0	   314	    18	     0	     0	134610	     0	     0	BMHQNXS
+KIZ_code	Worksheet_filename	Country	reservecode	reservecode2	reservecode3	Protected_Area_Std_Name	Date_collected	Forest_Compartment	Original_ID_Code	Approx_number_leeches	WWF_SWG_ID	Artiodactyla.Bovidae.Bos.taurus	Artiodactyla.Bovidae.Capricornis.milneedwardsii	Artiodactyla.Cervidae.Muntiacus.muntjak_vaginalis	Artiodactyla.Cervidae.Muntiacus.truongsonensis	Artiodactyla.Cervidae.Muntiacus.UNK	Artiodactyla.Cervidae.Muntiacus.vuquangensis	Artiodactyla.Cervidae.Rusa.unicolor	Artiodactyla.Suidae.Sus.scrofa	Artiodactyla.Tragulidae.Tragulus.kanchil	Artiodactyla.Tragulidae.Tragulus.UNK
+SWG1	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	29 09	NA	NA	59	NA	    0	    0	    0	    0	    3	    0	    0	77194	    0	    0
+SWG10	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	29-30  09	NA	NA	13	NA	     0	     0	     0	     0	     0	     0	     0	202944	     0	     0
+SWG11	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	1 10	NA	NA	126	NA	     0	     0	     0	     0	     0	     0	     0	193613	     0	     0
+SWG12	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	1 10	NA	NA	96	NA	     0	     0	   150	     9	     0	     0	     0	110668	     0	     0
+SWG13	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	1 10	NA	NA	80	NA	    0	    0	    0	    0	    0	    0	    0	68750	    0	    0
+SWG14	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	1 10	NA	NA	66	NA	     0	     0	     8	     0	     0	     0	     0	173095	     0	     0
+SWG15	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	30 9	NA	NA	30	NA	     0	     0	     0	     0	     0	     0	     0	131746	     0	     0
+SWG16	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	30  9	NA	NA	27	NA	     0	     0	     0	     0	     0	     0	     0	138919	     0	     0
+SWG17	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	1-3 10	NA	NA	90	NA	     0	     0	     0	     0	     0	     0	     0	125680	     0	     0
+SWG18	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	2 10	NA	NA	78	NA	    0	   11	15625	   68	  123	    0	    0	61439	    0	    0
+SWG19	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	3 10	NA	NA	9	NA	   0	   0	   0	   0	   0	   0	   0	2001	   0	   0
+SWG2	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	29 09	NA	NA	46	NA	     0	     0	     0	     0	     0	     0	     0	230855	     0	     0
+SWG20	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	3 10	NA	NA	NA	NA	    0	    0	    0	    0	    0	    0	    0	87684	    0	    0
+SWG21	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	2 10	NA	NA	158	NA	     0	     0	     7	     0	     0	     0	     0	125161	     0	     0
+SWG22	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	2 10	NA	NA	152	NA	     0	     0	     6	     0	     0	     0	     0	123232	     0	     0
+SWG23	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	6 10	NA	NA	28	NA	  0	  0	  0	 16	  0	  0	  0	130	  0	  0
+SWG24	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	4-6 10	NA	NA	83	NA	    0	  700	    0	    0	    0	    0	    0	39424	    0	    0
+SWG25	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	2 10	NA	NA	31	NA	     0	   371	     0	     0	     0	     0	     0	187621	     0	     0
+SWG26	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	3 -6 10	NA	NA	24	NA	     0	     0	     0	     0	     0	     0	     0	108295	     0	     0
+SWG27	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	3 10	NA	NA	1	NA	     0	   462	205941	 10509	     0	     0	     0	     0	     0	     0
+SWG28	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	6 10	NA	NA	22	NA	 0	 0	 0	 0	 0	 0	 0	15	 0	 0
+SWG29	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	2 10	NA	NA	14	NA	    0	   84	33723	 1698	   78	    0	    0	    0	    0	    0
+SWG3	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	30 09-01 10	NA	NA	70	NA	     0	     0	     0	     0	     0	     0	     0	178769	     0	     0
+SWG30	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	7 10	NA	NA	33	NA	   0	   0	   0	   0	   0	   0	   0	1060	   0	   0
+SWG31	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	8 10	NA	NA	37	NA	    0	   13	20220	  107	   83	    0	    0	   31	    0	    0
+SWG34	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	7 10	NA	NA	71	NA	    0	    0	    0	    0	    0	    0	    0	25380	    0	    0
+SWG35	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	6-8 10	NA	NA	40	NA	     0	    18	     0	     0	     0	     0	     0	209011	     0	     0
+SWG36	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	7 10	NA	NA	26	NA	  0	 58	  0	  0	  0	  0	  0	926	  0	  0
+SWG38	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	8-9 10	NA	NA	75	NA	    0	  137	66977	 2993	   24	    0	    0	 1646	    0	    0
+SWG4	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	30 10	NA	NA	44	NA	    0	    0	    0	    0	    0	    0	    0	45346	    0	    0
+SWG41	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	9 10	NA	NA	183	NA	    0	    0	  694	   18	    0	    0	    0	20657	    0	    0
+SWG43	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	12 10	NA	NA	10	NA	  4038	     0	     0	     0	     0	     0	     0	238973	     0	     0
+SWG44	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	12 10	NA	NA	75	NA	   356	     0	     0	     5	     0	     0	     0	184665	     0	     0
+SWG45	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	9 10	NA	NA	114	NA	     0	     0	     0	     0	     0	     0	     0	189576	     0	     0
+SWG46	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	10 10	NA	NA	35	NA	     0	     0	     0	     0	     0	     0	     0	295773	     0	     0
+SWG49	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	8-10 10	NA	NA	32	NA	     0	   122	 34659	  2506	   183	     0	     0	153176	     0	     0
+SWG5	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	28 09	NA	NA	20	NA	     0	     0	     0	     0	     0	     0	     0	240325	     0	     0
+SWG51	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	11-12 10	NA	NA	133	NA	     0	     0	     0	     0	     0	     0	     0	440666	     0	     0
+SWG52	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	14 10	NA	NA	220	NA	     0	     0	     0	     0	     0	     0	     0	357638	     0	     0
+SWG54	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	16-17 10	NA	NA	122	NA	    0	    0	    0	    0	    0	    0	    0	66290	    0	    0
+SWG55	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	11 10	NA	NA	3	NA	    0	    0	    0	    0	    0	    0	    0	90047	    0	    0
+SWG56	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	12 10	NA	NA	32	NA	    0	   45	18327	  459	    5	    0	    0	    0	    0	    0
+SWG57	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	14 10	NA	NA	221	NA	     0	     0	    65	     0	    30	     0	     0	182796	     0	     0
+SWG58	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	17 10	NA	NA	67	NA	     0	     0	     0	     0	     5	     0	     0	407361	     0	     0
+SWG59	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	11 10	NA	NA	14	NA	     0	378431	     0	     0	     6	     0	     0	     3	     0	     0
+SWG6	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	28 09	NA	NA	17	NA	     0	     0	   205	     9	     3	     0	     0	176061	     0	     0
+SWG60	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	15-17 10	NA	NA	30	NA	8	0	0	0	0	0	0	0	0	0
+SWG61	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	12 10	NA	NA	133	NA	  0	  0	  0	  0	  0	  0	  0	303	  0	  0
+SWG62	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	18 10	NA	NA	241	NA	     0	     0	   194	     0	     0	     0	     0	382201	     0	     0
+SWG63	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13 & 15 10	NA	NA	316	NA	     0	     0	    40	     0	     0	     0	     0	260994	     0	     0
+SWG64	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	19 10	NA	NA	455	NA	     0	     0	     0	     0	     0	     0	     0	376002	     0	     0
+SWG65	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	16-17 10	NA	NA	87	NA	     0	   786	346644	  7908	   668	    14	     0	151241	     0	     0
+SWG66	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13 10	NA	NA	13	NA	 591	   0	   0	   0	   0	   0	   0	1500	   0	   0
+SWG67	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13-14 & 17 10	NA	NA	171	NA	     0	     0	     0	     0	     0	     0	     0	242917	     0	     0
+SWG68	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13-14 10	NA	NA	148	NA	     0	     0	     0	     0	     0	     0	     0	137068	     0	     0
+SWG69	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	10 10	NA	NA	15	NA	     0	     0	    34	     4	     0	     0	     0	225576	     0	     0
+SWG7	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	28-29 09	NA	NA	17	NA	     0	     0	     0	     0	     0	     0	     0	200353	     0	     0
+SWG75	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13 & 15 10	NA	NA	187	NA	     0	     0	     0	     0	     0	     0	     0	352182	     0	     0
+SWG78	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	18 10	NA	NA	425	NA	     0	     0	   191	     0	     0	     0	     0	270826	     0	     0
+SWG79	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	17 10	NA	NA	101	NA	  0	  0	  0	  0	  0	  0	  0	362	  0	  0
+SWG8	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	28-29 09	NA	NA	40	NA	     0	     0	     0	     0	     0	     0	     0	219973	     0	     0
+SWG80	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	13-14 10	NA	NA	44	NA	     0	     9	  5468	   131	    65	     0	     0	121717	     0	     0
+SWG9	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	PST	PST	PST	Phou Si Thone	29 09	NA	NA	10	NA	  0	  0	  0	  0	  0	  0	  0	450	  0	  0
+WWF1	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120724	NA	NA	  0	758	  0	  0	  0	  0	  0	  5	  0	  0
+WWF10	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK36_20120812	NA	NA	    0	    5	    0	    0	    0	    0	    0	81357	    0	    0
+WWF100	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	19/8/2012	353	27-Hoa	15	H-27	     0	     0	     0	     0	     0	     0	     0	155003	     0	     0
+WWF101	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41165	351	40-Hoa	45	H-40	     0	     0	   765	     4	     7	     0	   254	251124	     0	     0
+WWF102	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	20/9/2012	347	42-Hoa	10	H-42	     0	     0	     8	     0	     0	     0	     0	155042	     0	     0
+WWF103	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	18/6/2012	353	5-Dành	40	H-48	     0	139920	     0	     0	  5319	     0	  2690	 17737	     0	     0
+WWF105	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41098	404	14-Dành	10	H-57	    0	   74	    0	    0	    0	    0	 2249	14814	    0	    0
+WWF106	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41133	348	23-Dành	3	H-66	     0	     0	    15	     0	     0	     0	     0	308948	     0	     0
+WWF107	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	22/8/2012	404	26-Dành	5	H-69	     0	     9	 31925	    75	   331	     0	     0	188898	     0	     0
+WWF108	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41155	350	30-Dành	5	H-73	   0	3289	   0	   0	 604	   0	   0	   3	   0	   0
+WWF109	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	24/04/2012	405	35-Dành	30	H-78	    0	 1548	  256	    0	    0	    0	12836	 1778	    0	    0
+WWF11	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK20_20120819	NA	NA	12881	20670	    0	    5	    0	    0	 1450	 4840	    0	    0
+WWF110	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41068	404	2-Thien	25	H-83	     0	     5	  9119	    26	   644	     0	 85317	155247	     0	     0
+WWF111	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	16/6/2012	348	6-Thien	25	H-87	     0	   334	     0	   851	     6	     0	     0	126939	     0	     0
+WWF112	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	15/07/2012	353	11-Thien	7	H-92	     0	    42	     0	     0	     0	     0	     4	282913	     0	     0
+WWF113	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	28/07/2012	405	12-Thien	15	H-93	     0	   150	  1187	     5	    10	     0	     0	118591	     0	     0
+WWF114	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41126	345	17-Thien	2	H-98	    0	    0	    0	    0	    0	    0	    0	63548	    0	    0
+WWF115	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	20/08/2012	404	19-Thien	10	H-100	  0	  0	865	  0	  0	  0	  0	112	  0	  0
+WWF116	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41162	349 and 351	Thien-24	8	H-105	    0	    0	    0	    0	    0	    0	    0	34211	    0	    0
+WWF117	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41163	349	Thien-25	12	H-106	    0	 2240	    0	    0	    0	    0	    9	45723	    0	    0
+WWF118	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41066	346	1 -Vinh	25	H-113	     0	195129	     0	     0	   701	     0	 24108	262543	     0	     0
+WWF119	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41071	345	6 -Vinh	20	H-118	     0	  2957	    18	136160	  2041	     0	     0	106703	     0	     0
+WWF12	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK35_20120824	NA	NA	0	0	0	0	0	0	0	5	0	0
+WWF120	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	23/6/2012	404	7 -Vinh	25	H-119	     0	     0	   406	     0	    16	     0	  8480	254554	     0	     0
+WWF121	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41092	347	11 -Vinh	20	H-123	    0	 1512	    0	    0	    0	    0	  230	89452	    0	    0
+WWF123	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	22/8/2012	353	24 -Vinh	22	H-136	     0	  5188	     0	     0	     0	     0	     0	171145	     0	     0
+WWF124	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41168	348	35 -Vinh	40	H-147	    0	15715	    0	    0	    0	    0	    0	   44	    0	    0
+WWF126	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41284	347	Thien - 32	19	H - 153	     0	    88	     0	     0	     0	     0	     0	355304	     0	     0
+WWF127	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41287	347	Thien - 35	45	H - 156	    0	    0	    5	    0	    0	    0	    3	34305	    0	    0
+WWF129	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	16/03/2013	352	Tuan - 1	14	H - 160	     0	 21595	     0	     0	    88	     0	 36688	136292	     0	     0
+WWF13	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK35_20120825	NA	NA	   0	   0	   0	   0	   0	   0	   0	9214	   0	   0
+WWF130	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	24/03/2013	405	Tuan - 5	25	H - 164	     0	     0	     4	     0	    33	     0	273998	 15940	     0	     0
+WWF131	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	28/04/2013	346	Tuan - 9	45	H - 168	     0	  1483	  6667	    17	   101	     0	   480	193854	     0	     0
+WWF132	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	30/04/2013	346	Tuan - 11	65	H - 170	     0	  4554	     0	     0	     0	     0	161857	 46389	     0	    11
+WWF133	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41460	346	Tuan - 13	90	H - 172	    0	    0	    0	    0	    0	    0	61978	 3999	    0	 1963
+WWF134	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41290	346	39 - Danh	20	H - 174	    0	 8801	    3	    3	    0	    0	25369	 2232	    0	    0
+WWF135	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	16/04/2013	345	43 - Danh	30	H - 178	     0	  2856	     0	     0	     0	     0	188359	 82627	     0	     0
+WWF136	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	27/03/2013	348	Vinh -41	15	H - 187	     0	  7076	     0	   763	     6	     0	    24	314850	     0	     4
+WWF138	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	18/4/2013	352	Huong -1	31	H - 194	     0	    27	     0	     0	     0	     0	156569	210673	     0	     0
+WWF139	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	20/05/2013	405	Huong -5	17	H - 198	     0	    71	 14623	    66	   596	     0	192265	 94132	     0	     0
+WWF14	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120826	NA	NA	    0	    5	    0	    0	    0	    0	    0	24415	    0	    0
+WWF140	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41264	352	A21/12 I	184	H-202	     0	187296	     0	     0	  4439	     0	     0	     4	     0	     0
+WWF141	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41264	352	A21/12 II	40	H-203	   0	 684	9193	 706	  18	   0	   0	2624	   0	   0
+WWF142	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41264	352	B21/12 I	20	H-205	     0	 36988	    20	     0	   319	     0	     0	245024	     0	     0
+WWF143	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41264	352	C21/12 I	30	H-207	   0	1023	   0	 893	  23	   0	   0	   0	   0	   0
+WWF145	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41264	352	D21/12 I	70	H-209	     0	 10133	  2090	    11	    17	     0	     0	224759	     0	     0
+WWF147	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41265	352	A22/12 I	121	H-212	    0	 3675	    0	18532	  142	    0	    0	84464	    0	    0
+WWF148	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41265	352	A22/12 II	156	H-213	    0	94845	    0	    0	    0	    0	   28	   53	    0	    0
+WWF149	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41265	352	B22/12 I	45	H-215	    0	16841	    0	    0	  145	    0	    0	13951	    0	    0
+WWF15	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120907	NA	NA	     0	    12	     0	     3	     0	     0	     0	162327	     0	     0
+WWF150	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41265	352	C22/12 I	72	H-217	     0	108651	     0	     0	     0	     0	     0	249304	     0	     0
+WWF151	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41265	352	D22/12 I	25	H-220	    0	25069	    0	    0	  631	    0	    0	   27	    0	    0
+WWF152	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41266	352	A23/12 I	82	H-223	     0	 21851	     0	     0	     0	     0	     0	405671	     0	     0
+WWF153	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41266	352	B23/12 I	66	H-225	   0	  52	2515	  13	   0	   0	   0	4698	   0	   0
+WWF154	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41266	352	C23/12 I	25	H-226	  0	  0	  0	  0	  0	  0	  0	686	  0	  0
+WWF155	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41267	352	A24/12 I	151	H-227	     0	377474	     0	     0	    56	     0	     0	    26	     0	     0
+WWF156	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41267	352	A24/12 II	88	H-228	    0	29824	    4	 5327	   13	    0	    0	  578	    0	    0
+WWF157	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41267	352	A24/12 III	56	H-230	     0	394334	     0	     0	   635	     0	     0	     0	     0	     0
+WWF158	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41267	352	B24/12 I	126	H-231	    0	17706	    0	    0	  450	    0	    0	    3	    0	    0
+WWF159	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41267	352	D24/12 I	40	H-233	    0	23176	    0	  402	   59	    0	    0	   11	    0	    0
+WWF16	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120908	NA	NA	     0	 57191	     0	     0	     0	     0	     0	112038	     0	     0
+WWF160	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41268	352	A25/12 I	79	H-235	     0	    24	     0	     0	     0	     0	  3919	215962	     0	     0
+WWF161	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41268	352	B25/12 I	56	H-236	   0	   6	  11	   0	   0	   0	1661	  20	   0	   0
+WWF162	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41270	346 and 349	A27/12 I	183	H-237	     0	 33469	     0	  2401	    53	     0	     0	637946	     0	     0
+WWF163	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41270	346 and 349	C27/12 II	127	H-238	     0	 37098	     0	 11346	   115	     0	     0	193109	     0	     0
+WWF164	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41271	346 and 349	A28/12 I	139	H-239	     0	 15046	     0	     0	     0	     0	     0	146147	     0	     0
+WWF165	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41271	346 and 349	A28/12 II	131	H-240	     0	  1521	     0	   117	     0	     0	     0	319451	     0	     0
+WWF166	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41271	346 and 349	C28/12 II	65	H-241	     0	 54962	  7568	    26	    24	     0	     0	110619	     0	     0
+WWF168	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41272	346 and 349	A29/12 I	122	H-244	     0	   105	   806	301869	   545	     0	     0	 35748	     0	     0
+WWF17	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120910	NA	NA	    12	     6	  1653	     9	   227	     0	142957	244793	     0	     0
+WWF170	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41272	346 and 349	C29/12 II	57	H-246	     0	   261	     0	  7507	   173	     0	     0	273875	     0	     0
+WWF172	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41273	346 and 349	C30/12 II	37	H-251	     0	  5260	    19	148943	   760	     0	     0	188323	     0	     0
+WWF173	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41274	346 and 349	A31/12 I	104	H-254	     0	     0	   191	     0	     4	     0	     0	164420	     0	     0
+WWF175	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41274	346 and 349	C31/12 II	65	H-256	     0	    53	 65886	   171	   811	     0	     0	151117	     0	     0
+WWF176	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41276	348	A02/01/2013 I	108	H-259	     0	  7335	     0	   217	     3	     0	     0	271008	     0	     0
+WWF177	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41276	348	A02/01/2013 II	67	H-261	     0	 10428	   182	 12198	   224	     0	     0	270748	     0	     0
+WWF178	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41277	348	A03/01/2013 I	120	H-264	     0	  6067	     0	  1406	    25	     0	     0	316250	     0	     0
+WWF179	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41277	348	A03/01/2013 V	60	H-266	     0	   379	     0	     0	     0	     0	     0	192196	     0	     0
+WWF18	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120919	NA	NA	     0	   284	     0	     0	     0	     0	     0	163486	     0	     0
+WWF180	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41277	348	C03/01/2013 I	77	H-268	     0	    24	     0	  1347	    17	     0	     0	155286	     0	     0
+WWF182	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41278	348	A04/01/2013 V	81	H-272	     0	  1056	     0	  7573	   138	     0	     0	223214	     0	     0
+WWF183	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41278	348	A04/01/2013 II	41	H-274	     0	  2604	    10	     0	     0	     0	     0	168452	     0	     0
+WWF185	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41279	348	A05/01/2013 I	110	H-278	     0	 10505	     0	  1883	    38	     0	     0	225440	     0	     0
+WWF186	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41279	348	A05/01/2013 II	57	H-279	     0	  3951	     0	 69533	   726	     0	     0	217316	     0	     0
+WWF187	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41279	348	B05/01/2013 II	118	H-281	     0	   413	     0	     0	     0	     0	     0	282384	     0	     0
+WWF188	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41279	348	C05/01/2013 I	122	H-282	     0	     0	     0	 62421	   616	     0	     0	225668	     0	     0
+WWF189	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41279	348	C05/01/2013 II	104	H-283	    0	 8820	    0	41602	  199	    0	    0	97935	    0	    0
+WWF19	tube_labels	Vietnam	BM	BME	BMHQNXS	BachMaExt	NA	NA	TK62_20121021	NA	NA	    0	  947	    0	  231	    0	    0	    0	18920	    0	    0
+WWF190	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41280	348	A06/01/2013 I	30	H-285	    0	    0	   11	    0	    0	   14	    0	52279	    0	    0
+WWF191	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41280	348	A06/01/2013 II	210	H-286	     0	 17618	    33	145836	   825	     0	     0	 70209	     0	     0
+WWF192	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41280	348	C06/01/2013 II	30	H-287	     0	     0	     0	     0	     0	     0	     0	239992	     0	     0
+WWF193	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	27/6/2012	47	1 - Tâm	7	QN-1	0	0	0	0	0	0	0	4	0	0
+WWF194	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41096	34	3 - Tâm	10	QN-3	    0	44018	13121	   67	    3	    0	    0	 1767	    0	    0
+WWF195	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	17/7/2012	37	9 - Tâm	30	QN-9	    0	    0	   80	    0	    0	    0	    0	85693	    0	    0
+WWF196	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	27/7/2012	45	13 - Tâm	5	QN-13	  0	118	  0	  0	  0	  0	  0	 58	  0	  0
+WWF197	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41128	26	15 - Tâm	10	QN-15	   0	4299	   0	   0	 186	   0	   0	 602	   0	   0
+WWF199	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	15/9/2012	37 and 47	25 - Tâm	25	QN-25	    0	    0	    0	    0	    0	    0	    0	86779	    0	    0
+WWF2	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120809	NA	NA	    0	    0	    0	    0	    0	    0	    0	71128	    0	    0
+WWF20	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK45_20121029	NA	NA	     0	  3762	     0	     0	     0	     0	     0	397943	     0	     0
+WWF200	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	26/9/2012	36	28 - Tâm	35	QN-28	  0	  9	  0	  0	  0	  0	  0	102	  0	  0
+WWF201	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41192	26	30 - Tâm	15	QN-30	     0	     0	     0	     0	     0	     0	     0	121307	     0	     0
+WWF203	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41097	25	5 - Thịnh	10	QN-37	     0	     0	     8	     0	     0	     0	     0	227410	     0	     0
+WWF204	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/7/2012	47	12 - Thịnh	20	QN-44	    0	 1460	25074	   88	   16	    0	    0	   26	    0	    0
+WWF205	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/7/2012	14	15 - Thịnh	20	QN-47	   0	3443	   0	 684	   0	   0	   0	   0	   0	   0
+WWF206	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41123	14	20 - Thịnh	5	QN-52	  0	687	  0	  0	  0	  0	  0	  6	  0	  0
+WWF207	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41159	25	24 - Thịnh	30	QN-56	    0	   36	   17	   37	    0	    0	    0	59726	    0	    0
+WWF208	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	13/10/2012	22	32 - Tâm	30	QN-32	    0	  148	    0	    5	    0	    0	    0	12719	    0	    0
+WWF209	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/9/2012	22	31 - Thịnh	10	QN-63	0	0	0	0	0	0	0	5	0	0
+WWF21	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H34	NA	NA	0	0	0	0	0	0	5	0	0	0
+WWF210	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	28/9/2012	45	33 - Thịnh	5	QN-65	     0	     6	    63	     0	     0	     0	     0	266762	     0	     0
+WWF212	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	24/6/2012	14	1 - Huy	8	QN-71	    0	    0	    0	    0	    0	    0	    0	12086	    0	    0
+WWF213	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41092	37	5 - Huy	10	QN-75	    0	35620	    0	    0	    0	    0	    0	48639	    0	    0
+WWF215	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	14/7/2012	37	11 - Huy	25	QN-81	     0	   770	     0	     0	     0	     0	     0	135469	     0	     0
+WWF216	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	27/7/2012	37	16 - Huy	10	QN-86	     0	  2270	     0	     0	     0	     0	     0	111840	     0	     0
+WWF218	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/8/2012	47	27 - Huy	7	QN-97	    0	    0	    0	    0	    0	    0	    0	91725	    0	    0
+WWF219	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41159	35	31 - Huy	5	QN-101	    0	  188	    0	    0	    0	    0	    0	87363	    0	    0
+WWF22	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H37	NA	NA	     0	     0	     0	     0	     0	     0	     0	339767	     0	     0
+WWF221	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41092	45	3 - Triều	15	QN-107	     0	     0	     0	     0	     0	     0	     0	206535	     0	     0
+WWF222	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41099	20	5 - Triều	30	QN-109	     0	   465	     3	   350	     6	     0	     0	146718	     0	     0
+WWF223	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	24/7/2012	34	11 - Triều	20	QN-115	 0	 0	 0	 0	 0	 0	 0	10	 0	 0
+WWF224	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41122	47	13 - Triều	10	QN-117	     0	     3	     0	     0	     0	     0	     0	276158	     0	     0
+WWF225	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41132	36	16 - Triều	10	QN-120	    0	   20	    0	 2148	   27	    0	    0	86852	    0	    0
+WWF226	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	22/8/2012	35	19 - Triều	20	QN-123	   0	6968	   0	  11	   0	   0	   0	  94	   0	   0
+WWF228	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	30/10/2012	45	35 - Triều	25	QN-139	     0	     0	     0	     0	     0	     0	     0	143972	     0	     0
+WWF23	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H39	NA	NA	     0	    11	  8677	    20	    25	     0	     0	381007	     0	     0
+WWF230	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/03/2013	45	33 - Tâm	1	QN-145	     0	     0	     0	     0	     0	     0	     0	112996	     0	     0
+WWF231	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	24/04/2013	44	38 - Tâm	8	QN-149	    0	 1777	    0	    0	    0	    0	    0	42362	    0	    0
+WWF232	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41279	36	43 - Tâm	40	QN-154	     0	 12138	     0	     0	     0	     0	     0	105631	     0	     0
+WWF233	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	18/05/2013	22	47 - Tâm	5	QN-158	    0	  171	  337	    5	    0	    0	    0	31350	    0	    0
+WWF234	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41309	34	43 - Triều	20	QN-164	    0	  295	    0	30177	   17	    0	    0	   62	    0	    0
+WWF236	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	26/2/2013	14	60 -Triều	30	QN-282	    0	29503	    0	    0	    0	    0	    0	  117	    0	    0
+WWF237	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	23/05/2013	43	56 - Triều	7	QN-175	  0	350	  0	  0	  0	  0	  0	121	  0	  0
+WWF238	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41397	20	43 - Thịnh	17	QN-179	   0	3671	9815	  67	  44	   0	   0	 129	   0	   0
+WWF239	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/03/2013	34	47 - Thịnh	10	QN-183	   0	 137	  20	   0	   0	   0	   0	7873	   0	   0
+WWF24	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H26	NA	NA	     0	     0	     0	     0	     0	     0	     0	284127	     0	     0
+WWF241	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41459	36	49 - Thịnh	22	QN-185	     0	    13	     0	  1524	    55	     0	     0	124348	     0	     0
+WWF242	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	20/04/2013	21	53 - Thịnh	16	QN-189	    0	    0	    0	    3	    0	    3	    0	91844	    0	    0
+WWF243	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41522	13	56 - Thịnh	25	QN-192	     0	    25	 23659	   206	   400	     0	     0	180534	     0	     0
+WWF244	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41613	13	59 - Thịnh	63	QN-195	    0	    6	 1497	75523	  170	    0	    0	  197	    0	    0
+WWF245	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/05/2013	44	62 - Thịnh	16	QN-198	    0	    0	    0	    0	    0	    0	    0	44208	    0	    0
+WWF246	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	24/05/2013	44	66 - Thịnh	23	QN-202	 0	 0	 0	 0	 0	 0	 0	13	 0	 0
+WWF247	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/03/2013	25	35 - Huy	17	QN-206	   0	 435	   5	1255	  10	   0	   0	8609	   0	   0
+WWF248	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/05/2013	35	41 - Huy	21	QN-212	   0	   0	 494	1174	   3	   0	   0	2006	   0	   0
+WWF249	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 I	100	QN-217	    0	   19	30304	   88	   17	    0	    0	    0	    0	    0
+WWF25	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H32	NA	NA	    0	    0	    0	    0	    0	    0	    0	14717	    0	    0
+WWF250	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 II	86	QN-218	     0	   374	247594	   810	   110	     0	     0	   720	     0	     0
+WWF252	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	19/05/2013	23	A19/05/13 IV	94	QN-220	     0	     4	  4634	 52071	   389	     0	     0	107958	     0	     0
+WWF253	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	20/05/2013	23	A20/05/13 I	77	QN-221	    0	  827	41296	12384	   41	    0	    0	  542	    0	    0
+WWF254	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	20/05/2013	23	A20/05/13 IV	75	QN-223	    0	 3942	14725	  584	    6	    0	    0	    5	    0	    0
+WWF255	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 I	83	QN-225	 0	 0	32	 0	 0	 0	 0	51	 0	 0
+WWF256	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 II	98	QN-226	    0	   46	65899	 1503	  350	    0	    0	94965	    0	    0
+WWF257	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	21/05/2013	23	A21/05/13 III	63	QN-227	    0	68360	 7746	53347	  324	    0	    0	 1230	    0	    0
+WWF258	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/05/2013	43	A25/05/13 I	8	QN-229	 0	 0	 0	 4	 0	 0	 0	78	 0	 0
+WWF259	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	26/05/2013	43	A26/05/13 I	13	QN-233	0	0	0	0	0	0	0	6	0	0
+WWF26	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H33	NA	NA	   0	4835	   6	   0	 127	   0	   0	   4	   0	   0
+WWF260	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	28/05/2013	12	Hùng	65	QN-238	    0	    9	13481	   68	   19	    0	    0	    0	    0	    0
+WWF263	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41551	14	Lâm	60	QN-249	    0	  889	    4	84855	  866	    0	29440	  164	    0	    0
+WWF264	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41551	14	Cường	50	QN-251	    0	 1258	    0	34591	   93	    0	    0	    0	    0	    0
+WWF265	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41551	14	Anh	42	QN-253	   0	 179	5206	  36	   0	   0	   0	   0	   0	   0
+WWF266	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41582	14	Lâm	41	QN-255	     0	  4086	    15	224195	   396	     0	    14	     0	     0	     0
+WWF267	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41582	14	Thắng	35	QN-258	     0	 39714	     0	126349	   950	     0	     0	   123	     0	     0
+WWF268	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41582	14	Hùng	20	QN-261	  0	  0	  0	267	  0	  0	  0	 88	  0	  0
+WWF269	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41612	14	Anh	43	QN-264	     0	  1804	     0	  4743	   197	     0	    55	251672	     0	     0
+WWF270	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41612	14	Lâm	60	QN-267	   0	1552	   0	8439	  25	   0	   0	 364	   0	   0
+WWF271	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	13/4/2013	14	Hùng	26	QN-269	    0	10475	    0	19474	  103	    0	    0	    0	    0	    0
+WWF273	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	24/4/2013	21	Lê Ka Thắng	24	QN-273	    0	   14	22688	 1562	  124	   94	    0	62374	    0	    0
+WWF274	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/4/2013	21	Lê Ka Thắng	42	QN-277	    0	 2475	  286	    7	    0	    0	    0	79698	    0	    0
+WWF275	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/4/2013	21	Nguyễn Văn Thiện	77	QN-279	     0	  2914	     4	  3391	    61	     0	     0	207368	     0	     0
+WWF276	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	25/4/2013	21	Bloong Đàm	57	QN-280	     0	 13874	     0	  7030	   735	     0	     0	237138	     0	     0
+WWF277	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-40	   0	   0	   6	1024	   0	   0	   0	  17	   0	   0
+WWF278	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-41	     0	   311	234969	  1174	     0	     0	     0	   112	     0	     0
+WWF28	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H36	NA	NA	     0	     0	     0	     0	     0	     0	     0	428627	     0	     0
+WWF280	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-61	 0	 0	 0	 0	 0	 0	 0	19	 0	 0
+WWF281	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-92	   0	   0	   0	   0	   0	   0	   0	2438	   0	   0
+WWF282	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-93	  0	  0	112	  5	  0	  0	  0	116	  0	  0
+WWF283	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-94	  0	  0	 66	  0	  0	  0	  0	106	  0	  0
+WWF284	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-96	     0	    72	123175	   540	   356	     0	     0	107912	     0	     0
+WWF285	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-111	     0	   739	     0	     3	     0	     0	     0	319489	     0	     0
+WWF286	WWF_2013Samples_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	NA	Q-211	12	 0	 0	 0	 0	 0	 0	 8	 0	 0
+WWF287	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41544	352	NA	50	H001	0	0	0	0	0	0	0	0	0	0
+WWF29	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H38	NA	NA	     0	     6	     0	     0	     0	     0	     0	129840	     0	     0
+WWF290	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41544	352	NA	50	H009	     0	    25	     0	     0	     0	     0	    10	246738	     0	     0
+WWF291	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41544	352	NA	50	H011	4135	  18	   0	   0	   0	   0	   0	2217	   0	   0
+WWF293	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41545	352	NA	50	H014	0	0	0	0	0	0	0	4	0	0
+WWF294	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41545	352	NA	50	H016	     0	  7500	     0	     0	     0	     0	     0	512237	     0	     0
+WWF295	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41545	352	NA	50	H020	     0	     0	     0	     0	     0	     0	     0	634806	     0	     0
+WWF298	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41545	352	NA	50	H029	      0	      0	      0	      0	      0	      0	      0	1059080	      0	      0
+WWF3	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120823	NA	NA	    0	    0	    0	    0	    0	    0	    0	60224	    0	    0
+WWF30	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H40	NA	NA	     0	   565	186219	   464	   359	     0	     0	 29877	     0	     0
+WWF301	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41546	352	NA	50	H060	     0	187034	     0	     0	    59	     0	     0	   133	     0	     0
+WWF303	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H055	     0	110275	     0	     0	     6	     0	     0	   122	     0	     0
+WWF304	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41546	352	NA	50	H040	     0	  1992	    22	     0	     0	     0	     0	368308	     0	     0
+WWF305	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41546	352	NA	50	H042	     0	   314	    64	     3	     0	     0	     0	235051	     0	     0
+WWF306	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41551	352	NA	50	H103	     0	    16	 41103	   144	  6157	     0	322826	  9318	     0	     0
+WWF307	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41551	352	NA	50	H105	  0	  0	615	  0	  0	  0	  0	454	  0	  0
+WWF308	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41551	352	NA	50	H108	     0	   227	    39	     0	     0	     3	     0	349017	     0	     0
+WWF309	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41551	352	NA	50	H101	  0	  3	 10	  0	  3	  6	439	 30	  0	  0
+WWF31	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H56	NA	NA	 0	 0	 0	 0	 0	 0	 0	53	 0	 0
+WWF310	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41551	352	NA	50	H102	     0	     0	     0	     0	     0	     0	   405	133417	     0	     0
+WWF311	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H113	     0	    10	 54288	   111	   362	     6	     7	315936	     0	     0
+WWF312	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H117	     0	  2342	    17	     0	     3	   973	    32	270182	     0	     0
+WWF313	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H142	    42	  2734	266462	   899	   456	     0	     0	 23342	     0	     0
+WWF314	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H145	     0	  2745	400263	  2238	  1668	    18	     0	373575	     0	     0
+WWF315	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H148	     0	     3	     3	     0	     0	     0	     0	297496	     0	     0
+WWF316	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H110	    0	 1152	22813	   78	  197	    0	  698	80300	    0	    0
+WWF317	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H114	     0	   279	     0	     0	     0	     0	     0	275238	     0	     0
+WWF318	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41552	352	NA	50	H120	     0	  3788	  5507	    17	    82	     0	     0	214622	     0	     0
+WWF32	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H59	NA	NA	    0	 4175	 3671	   12	    0	    0	    0	52777	    0	    0
+WWF320	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	352	NA	50	H122	     0	  1312	  3951	     7	    39	     0	  1375	182859	     0	     0
+WWF321	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	352	NA	50	H125	     0	   200	     0	     0	     0	     0	     0	329695	     0	     0
+WWF322	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	352	NA	50	H127	    72	   135	   131	     0	     0	     0	     0	150487	     0	     0
+WWF323	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H150	     0	     5	   204	     0	     0	     0	     0	364178	     0	     0
+WWF324	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	352	NA	50	H152	    0	    0	  286	    0	    0	    0	    0	60092	    0	    0
+WWF325	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	351- 352	NA	50	H155	     0	    12	     0	     0	     0	     0	     0	368788	     0	     0
+WWF326	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41553	352	NA	50	H157	     0	   799	     0	     0	     0	     0	   372	345021	     0	     0
+WWF327	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41555	352	NA	50	H180	  65	   0	   0	   0	   0	   0	   0	1595	   0	   0
+WWF329	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41555	352	NA	50	H202	 0	 0	 0	 0	 8	 0	 0	36	 0	 0
+WWF33	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H61	NA	NA	     0	184836	     0	     0	   122	     0	     0	     0	     0	     0
+WWF330	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H250	     0	  3964	     0	     0	     0	     0	     0	174015	     0	     0
+WWF332	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H256	     0	   102	     0	     0	     0	     0	     0	221665	     0	     0
+WWF333	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H258	     0	     0	     0	     0	     0	     0	     0	344659	     0	     0
+WWF334	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H352	     0	  1883	     0	     0	     0	     0	     0	203804	     0	     0
+WWF335	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H356	0	0	0	0	0	0	0	3	0	0
+WWF336	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41556	352	NA	50	H300	    0	13481	 1152	  980	    8	    0	    0	10114	    0	    0
+WWF337	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H362	     0	     0	     0	     0	     0	     0	     0	253859	     0	     0
+WWF338	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H350	     0	     0	     0	     0	     0	     0	     0	268098	     0	     0
+WWF34	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H62	NA	NA	     0	     4	     0	234284	   126	     0	     0	   247	     0	     0
+WWF340	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H088	     0	     0	     0	     0	     0	     0	     0	255481	     0	     0
+WWF341	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H360	     0	  8861	     0	     0	     0	     0	     0	494550	     0	     0
+WWF342	Leech_Combinations_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	352	NA	50	H366	    0	18675	    0	 6612	    9	    0	    0	    7	    0	    0
+WWF343	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41527	410	NA	50	BM70	     0	     0	     0	   157	     0	     0	     0	208967	     0	     0
+WWF344	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	NA	NA	NA	50	BM72	     0	   740	     0	     0	     0	     0	     0	344985	     0	     0
+WWF345	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	NA	NA	NA	50	BM74	     0	  4618	     0	117989	  1648	     0	     0	234834	     0	     0
+WWF346	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41529	410	NA	50	BM76	    0	  270	    0	    0	    0	    0	    0	44222	    0	    0
+WWF347	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41527	410	NA	50	BM65	     0	     0	     0	 23461	   349	    66	     0	263459	     0	     0
+WWF348	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	NA	NA	NA	50	BM78	    0	    0	    0	    0	    0	    5	    0	16749	    0	    0
+WWF349	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41526	410	NA	50	BM61	    36	     0	     0	     0	     0	     0	     5	171727	     0	     0
+WWF35	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H63	NA	NA	 0	 0	 0	99	 0	 0	 0	 5	 0	 0
+WWF350	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41526	410	NA	50	BM63	  0	119	  0	 60	  0	  0	  0	 86	  0	  0
+WWF351	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41528	410	NA	50	BM66	   0	 520	   0	 321	   0	   0	   0	3275	   0	   0
+WWF352	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41529	410	NA	50	BM84	   0	   0	   0	 598	   0	   0	   0	2106	   0	   0
+WWF353	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41528	410	NA	50	BM80	    0	 1282	    0	  724	   47	    0	    0	29995	    0	    0
+WWF354	Leech_Combinations_20140919.xlsx	Vietnam	BM	BME	BMHQNXS	BachMaExt	41529	410	NA	50	BM85	0	0	0	0	0	0	0	4	0	0
+WWF355	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41576	21	NA	50	Q101	  0	150	  0	  0	  0	  0	  0	  0	  0	  0
+WWF356	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41576	21	NA	50	Q201	   0	   0	 192	1696	   0	   0	   0	  78	   0	   0
+WWF357	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41576	21	NA	50	Q203	    0	    0	   15	    3	    0	    0	    0	41635	    0	    0
+WWF358	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41576	21	NA	50	Q301	 0	 0	 0	 8	 0	 0	 0	41	 0	 0
+WWF359	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41577	21	NA	50	Q02	0	0	0	0	0	0	0	0	0	0
+WWF36	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H64	NA	NA	    0	15615	    0	    4	  807	    0	    0	 7122	    0	    0
+WWF360	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41577	21	NA	50	Q103	 6	 0	16	16	 3	 0	 0	84	 0	 0
+WWF361	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41577	21	NA	50	Q105	  0	651	  0	  0	 68	  0	  0	  3	  0	  0
+WWF363	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41577	21	NA	50	Q205	  0	  0	  0	206	  0	  0	  0	 24	  0	  0
+WWF364	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41578	21	NA	50	Q03	   0	1467	   0	  16	   8	   0	   0	  46	   0	   0
+WWF365	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41578	21	NA	50	Q107	  0	113	  0	  0	  0	  0	  0	230	  0	  0
+WWF366	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41578	21	NA	50	Q109	     0	432807	     0	132582	 25153	     0	     0	  9371	     0	     0
+WWF368	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41578	21	NA	30	Q306	    0	 1250	    0	 6084	   62	    0	    0	76529	    0	    0
+WWF369	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41579	21	NA	50	Q111	  0	209	  0	  0	  0	  0	  0	  6	  0	  0
+WWF37	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H65	NA	NA	    0	    0	 1541	    0	    0	    0	    0	15509	    0	    0
+WWF370	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41579	21	NA	50	Q06	  0	 39	 19	 65	 23	  0	  0	763	  0	  0
+WWF371	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41579	21	NA	50	Q7	  0	669	  0	204	  9	  0	  0	 33	  0	  0
+WWF372	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41579	21	NA	50	Q208	    0	   15	    3	39122	  136	    0	    0	  462	    0	    0
+WWF373	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41579	21	NA	50	Q307	  0	275	  0	656	  5	  0	  0	532	  0	  0
+WWF374	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	NA	NA	NA	50	Q09	   0	 532	 110	1131	  12	   0	   0	 837	   0	   0
+WWF375	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41581	20, 21	NA	50	Q113	     0	    23	     0	     0	     0	     0	     0	114891	     0	     0
+WWF376	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41581	20	NA	50	Q209	    0	    3	    4	36194	   24	    0	    0	    4	    0	    0
+WWF377	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41583	20, 21	NA	50	Q116	 0	40	 0	88	 0	 0	 0	22	 0	 0
+WWF378	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41583	20, 21	NA	50	Q118	 0	 0	 0	 0	 0	 0	 0	19	 0	 0
+WWF381	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41583	20	NA	50	Q211	  0	149	 18	485	  0	  0	  0	775	  0	  0
+WWF382	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41583	20, 21	NA	50	Q310	  0	394	  0	  0	  0	  0	  0	 32	  0	  0
+WWF383	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	50	Q11	   0	 287	  37	2980	  31	   0	   0	 161	   0	   0
+WWF384	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20, 21	NA	50	Q123	     0	     0	    71	     3	     0	     0	     0	311418	     0	     0
+WWF385	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20	NA	50	Q212	    0	    5	    0	  267	   44	    0	    0	51935	    0	    0
+WWF386	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20	NA	50	Q214	   0	   0	   0	   0	   0	   0	   0	5508	   0	   0
+WWF387	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41584	20, 21	NA	50	Q312	     0	    14	     0	106354	   366	     0	     0	 50669	     0	     0
+WWF388	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20, 21	NA	50	Q315	    0	    4	  224	11098	  113	    0	    0	14872	    0	    0
+WWF389	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20, 21	NA	50	Q318	    0	    0	    0	14142	  103	    0	    0	13434	    0	    0
+WWF390	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41584	20, 21	NA	50	Q13	    0	   32	    0	  132	    0	    0	    0	13654	    0	    0
+WWF391	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	NA	NA	50	Q15	    0	    0	    7	    3	    0	    0	    0	63956	    0	    0
+WWF393	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41585	20, 21	NA	50	Q19	     0	    12	     4	   474	    73	     0	     0	252953	     0	     0
+WWF394	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20, 21	NA	50	Q124	     0	   710	314780	 16753	  1552	     0	     0	160315	     0	     0
+WWF396	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	NA	NA	50	Q129	   11	    0	    0	  323	    0	    0	    0	12453	    0	    0
+WWF397	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20, 21	NA	50	Q131	0	0	0	0	0	0	0	7	0	0
+WWF399	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20, 21	NA	50	Q323	    0	    3	  856	  933	   28	    0	    0	47442	    0	    0
+WWF4	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120825	NA	NA	    0	    6	11287	   44	   88	    0	   81	99574	    0	    0
+WWF40	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H101	NA	NA	    16	     0	     6	     0	     0	     0	     0	239743	     0	     0
+WWF400	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20, 21	NA	50	Q325	    0	    0	    3	    8	    0	    0	    0	66506	    0	    0
+WWF401	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20, 21	NA	50	Q327	    0	    7	 2930	   15	   46	    0	    0	70207	    0	    0
+WWF402	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41585	20	NA	50	Q216	    0	    5	    0	  163	    5	    0	    0	77476	    0	    0
+WWF403	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41586	20, 21	NA	50	Q21	    0	    7	    8	20213	   47	    0	    0	 1500	    0	    0
+WWF404	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41586	20, 21	NA	50	Q23	    0	   17	    4	    6	    4	    0	    0	24922	    0	    0
+WWF405	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41586	20, 21	NA	50	Q133	    0	    0	    0	    5	    0	    0	    0	44132	    0	    0
+WWF406	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41586	20, 21	NA	50	Q220	    0	20251	   18	   36	   19	    0	    0	  230	    0	    0
+WWF407	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41586	20, 21	NA	50	Q329	     0	     0	     3	     0	     0	     0	     0	937734	     0	     0
+WWF408	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41587	20, 21	NA	50	Q134	    0	 1424	    0	 2323	   86	    0	    0	64074	    0	    0
+WWF409	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41587	20, 21	NA	50	Q137	     0	     0	     0	 28610	   532	     0	     0	130057	     0	     0
+WWF41	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H102	NA	NA	0	3	0	0	0	0	0	0	0	0
+WWF410	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41925	NA	NA	50	Q139	     0	 10830	   561	   421	   750	     0	     0	217478	     0	     0
+WWF411	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	NA	NA	NA	50	Q162	  0	927	 18	 75	 62	  0	  0	278	  0	  0
+WWF412	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41587	20, 21	NA	50	Q331	     0	    34	     0	     0	     0	     0	     0	228638	     0	     0
+WWF413	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41925	NA	NA	50	Q335	    0	  961	   80	 1170	   23	    0	    0	59803	    0	    0
+WWF414	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41587	20, 21	NA	50	Q25	    0	 4721	  198	30369	  425	    0	    0	37842	    0	    0
+WWF415	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41925	NA	NA	50	Q28	     0	  2741	   481	   584	    28	     0	     0	401213	     0	     0
+WWF416	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41925	NA	NA	50	Q30	    0	    0	   25	  181	    5	    0	    0	77187	    0	    0
+WWF417	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	50	Q33	0	0	0	0	0	0	0	0	0	0
+WWF418	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	NA	NA	NA	50	Q242	 0	 0	 0	81	 0	 0	 0	14	 0	 0
+WWF420	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 1002	  0	 16	269	459	  0	  0	  0	392	  0	  0
+WWF423	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41616	14	NA	50	QN 1008	     0	     0	     0	     0	     0	     0	     0	347550	     0	     0
+WWF424	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41616	14	NA	50	QN 1010	     0	     6	     0	     0	     0	     0	     0	138457	     0	     0
+WWF425	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41617	14	NA	50	QN 1013	    0	   15	  164	59960	 2131	    0	    0	54057	    0	    0
+WWF426	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41617	14	NA	50	QN 1015	    0	    5	   23	18361	   97	    0	    0	 9824	    0	    0
+WWF427	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41618	14	NA	50	QN 1018	   0	   0	1802	3181	  26	   0	   0	 384	   0	   0
+WWF428	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41618	14	NA	50	QN 1020	    0	    3	   16	   23	    0	    0	    0	90616	    0	    0
+WWF429	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41619	14	NA	50	QN 1022	  0	  0	 48	  0	  0	  0	  0	989	  0	  0
+WWF430	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41619	14	NA	50	QN 1024	    0	    0	  178	  620	    6	    0	    0	33748	    0	    0
+WWF431	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41619	14	NA	50	QN 1026	    0	   38	29331	  234	  166	    0	    0	46426	    0	    0
+WWF432	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41619	14	NA	50	QN 1028	    0	  662	    0	   23	  133	    0	    0	25385	    0	    0
+WWF433	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 1030	     0	     0	     0	    35	     0	     0	     0	100353	     0	     0
+WWF434	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 1032	    0	    3	    4	  162	    0	    0	    0	64599	    0	    0
+WWF435	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 1034	  0	539	  0	  0	  0	  0	  0	285	  0	  0
+WWF436	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 1036	  0	  7	  3	  9	  0	  0	  0	140	  0	  0
+WWF437	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 1038	   0	 162	   0	   0	   4	   0	   0	1482	   0	   0
+WWF438	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 1041	     0	     7	    29	356211	   290	     0	     0	   358	     0	     0
+WWF439	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 1043	    0	    4	    7	23739	   58	    0	    0	  529	    0	    0
+WWF44	tube_labels	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	NA	NA	H142	NA	NA	     0	     6	     0	     0	     0	     0	     0	322099	     0	     0
+WWF440	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 1045	    0	    0	    0	    0	    0	    0	    0	58886	    0	    0
+WWF441	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 1047	     0	     0	     0	     0	     0	     0	     0	138627	     0	     0
+WWF442	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 1049	    0	    6	   10	    8	    0	    0	    0	55620	    0	    0
+WWF443	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41624	14	NA	50	QN 1051	    0	    0	    0	 1199	    4	    0	    0	15455	    0	    0
+WWF444	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 2000	     0	     0	     0	 22808	   195	     0	     0	124710	     0	     0
+WWF445	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 2002	   265	     0	     7	  6147	    99	     0	     0	166207	     0	     0
+WWF446	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 2004	    0	  472	    0	    0	    0	    0	    0	87530	    0	    0
+WWF447	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41616	14	NA	50	QN 2006	  0	  0	  0	  0	  0	  0	  0	422	  0	  0
+WWF449	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41617	14	NA	50	QN 2011	     0	     4	    12	 21885	   540	     0	     0	172100	     0	     0
+WWF45	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41155	417	Vong - 01	8	BM-1	358	  0	  0	  0	  0	  0	  0	  0	  0	  0
+WWF451	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41618	14	NA	50	QN 2016	     0	   123	118188	 13581	   124	     0	     0	 14049	     0	     0
+WWF452	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41618	14	NA	50	QN 2018	     7	   700	866345	  2598	   813	     0	     0	  9389	     0	     0
+WWF453	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41618	14	NA	50	QN 2020	   0	1462	   0	 213	   4	   0	   0	5181	   0	   0
+WWF454	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41618	14	NA	50	QN 2022	  54	  15	  10	  29	   0	   0	   0	3743	   0	   0
+WWF455	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41619	14	NA	50	QN 2024	    0	   16	   22	  708	   25	    0	    0	31773	    0	    0
+WWF456	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41622	14	NA	50	QN 2027	     0	    62	   409	  1531	    23	     0	     0	172633	     0	     0
+WWF457	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 2029	    0	    0	    0	    0	    0	    0	    0	68524	    0	    0
+WWF458	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41622	14	NA	50	QN 2031	   0	   4	   6	   7	   0	   0	   0	3555	   0	   0
+WWF459	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41623	14	NA	50	QN 2040	    0	  162	    3	 4863	  100	    0	    0	76564	    0	    0
+WWF46	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41165	42	Vong - 02	20	BM-2	    19	     0	     0	    39	     0	     0	     0	305664	     0	     0
+WWF460	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamNR	41623	14	NA	50	QN 2042	     0	    46	   138	   132	    11	     0	     0	150060	     0	     0
+WWF461	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 3000	   0	   4	   0	   0	   0	   0	   0	2061	   0	   0
+WWF462	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 3002	     0	     8	     0	     0	     0	     0	     0	109562	     0	     0
+WWF463	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 3004	     0	     5	   280	     0	     5	     0	     0	251494	     0	     0
+WWF464	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41615	14	NA	50	QN 3006	     0	     0	     0	     0	     0	     0	     0	184740	     0	     0
+WWF465	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41616	14	NA	50	QN 3007	   0	   0	   5	 181	   0	   0	   0	5887	   0	   0
+WWF467	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41617	14	NA	50	QN 3012	  0	  0	  0	  0	  0	  0	  0	122	  0	  0
+WWF468	Leech_Combinations_20140919.xlsx	Vietnam	QNSL	QNSL	BMHQNXS	QuangNamSaoLaNR	41617	14	NA	50	QN 3014	     0	     0	     0	     0	     0	     0	     0	157503	     0	     0
+WWF47	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41152	418	Vong - 06	6	BM-6	     0	     0	     0	     0	     0	     0	 29993	667316	     0	     0
+WWF48	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	24&25/09/2012	419	Dũng - 02	15	BM -12	 0	 0	 0	 0	 0	 0	 0	50	 0	 0
+WWF49	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41156	429	Quang - 01	5	BM -15	   0	   6	   0	   0	   0	   0	   0	4994	   0	   0
+WWF5	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK47_20120901	NA	NA	    0	    0	    0	    0	    0	    0	    0	40829	    0	    0
+WWF50	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41521	429	Nguyễn Văn Thiện	3	BM-20	 0	 0	 0	 0	13	 0	 0	 6	 0	 0
+WWF51	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41551	429	Nguyễn Văn Thiện	27	BM-26	   0	 729	   0	   0	   0	   0	   0	1716	   0	   0
+WWF52	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41551	429	Huỳnh Đức Huy	7	BM-28	     0	337433	     0	     6	  1364	     0	     0	     3	     0	    17
+WWF53	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	41612	429	Nguyễn Văn Thiện	33	BM-37	0	0	0	0	0	0	0	0	0	0
+WWF54	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	13/4/2013	429	NA	20	BM-42	0	0	0	0	0	0	0	0	0	0
+WWF55	WWF_2013Samples_20140919.xlsx	Vietnam	BM	BMNP	BMHQNXS	BachMaNP	13/4/2013	429	NA	38	BM-44	     0	  6753	    18	     0	   157	     0	     0	196732	     0	     0
+WWF57	WWF_2013Samples_20140919.xlsx	Laos	XS	XS	BMHQNXS	XeSap	NA	Laos	XS # 17-2	5	XS-1	     0	    20	  8242	 20282	   765	     0	181506	  4706	     0	     0
+WWF58	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-1-13-Rivter	NA	XS-18	     0	     0	     0	     0	     0	     0	    60	275851	     0	     0
+WWF59	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-2-13-Rivter	NA	XS-19	     0	     0	   226	     9	    16	 20769	     0	331201	     0	     0
+WWF6	tube_labels	Vietnam	HSL	HSL	BMHQNXS	Hue SNR	NA	NA	VINH.BUIHUU_20120909	NA	NA	    0	37233	    0	    0	    0	    0	    3	    3	    0	    0
+WWF60	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-3-13-Rivter	NA	XS-20	     0	     3	   259	     6	    18	 20360	    54	379215	     0	     0
+WWF61	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-4-13-Rivter	NA	XS-21	     0	     0	     0	     0	     0	     0	  1063	354218	     0	     0
+WWF62	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-5-14-A-Start	NA	XS-22	     0	    26	  1778	    70	    11	126816	    83	203141	     0	     0
+WWF64	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-7-14-start-E	NA	XS-24	     0	     4	   778	    18	    70	 39559	 10004	498302	     0	     0
+WWF65	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-8-14-start-E	NA	XS-25	     0	     0	   121	     4	   106	  7534	 22758	305259	     0	     0
+WWF66	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-9-15A-start	185+	XS-26	     0	     0	    25	     0	     3	  2501	   809	171714	     0	     0
+WWF67	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-10-15A-start	NA	XS-27	   0	   0	   3	   7	   0	 158	  48	1244	   0	   0
+WWF68	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-11-15-start-F	200+	XS-28	    0	    3	  106	50115	  334	 6717	 9235	79822	    0	    0
+WWF69	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-12-15-L/R	110+	XS-29	     0	     0	     0	   261	     3	     0	 12674	155935	     0	     0
+WWF7	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK36_20120929	NA	NA	     4	     5	     8	104120	   127	     0	     0	 84107	     0	     0
+WWF70	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-13-15 - s	8+	XS-30	     0	     0	     0	    21	     0	     0	     0	317784	     0	     0
+WWF71	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-14-15 -L	90+	XS-31	     0	     3	    21	144379	   747	   552	  2916	 25263	     0	     0
+WWF72	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-15-15 - R	140+	XS-32	     0	   155	   617	    29	   156	 47431	 10183	260018	     0	     0
+WWF74	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-17-15-x	60+	XS-34	     0	     4	  1513	    20	  1055	109502	104645	     8	     0	     0
+WWF75	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-18-15 - - G   100	NA	XS-35	     0	     3	   537	    13	   390	 16337	 40875	178380	 26464	     0
+WWF76	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-19-16-Riv-G	NA	XS-36	     0	    17	  2611	    61	     0	207910	    18	     9	     0	     0
+WWF77	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-20-16-G-H	NA	XS-37	     0	    12	  1956	    77	    36	137720	     3	128225	     0	     0
+WWF8	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK37_20121011	NA	NA	    3	    0	    0	    0	    0	    0	    0	17198	    0	    0
+WWF80	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-23-16 - A- start	NA	XS-40	     0	    24	  1310	   622	    77	 93021	  1480	114683	     0	     0
+WWF81	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-24-16-x-#1	NA	XS-41	     0	     0	     3	     0	     0	    67	     5	231690	     0	     0
+WWF82	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-25-16-R	NA	XS-42	     0	     0	     0	  2278	    35	     0	  7552	268437	     0	     0
+WWF83	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-26-16 - G	NA	XS-43	     0	     0	    40	     0	     8	  2388	  7451	269633	     0	     0
+WWF84	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-27-16 - L	NA	XS-44	    0	    0	  744	  116	  254	70935	 7595	14304	    0	    0
+WWF85	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-28-17- GG	NA	XS-45	     0	   130	     3	     0	    10	   313	 26871	151418	     0	     0
+WWF86	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-29-17- A - start	NA	XS-46	     0	     0	    42	     0	     6	  3597	  5723	227743	     0	     0
+WWF87	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-30-17- G - H	NA	XS-47	     0	    22	  3224	    91	   502	237854	  9752	  4119	     0	     0
+WWF88	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-31-17 - H - E	NA	XS-48	     0	   614	     0	     0	     0	     6	  1277	111115	     0	     0
+WWF89	WWF_2013Samples_20140919.xlsx	Laos	LL	LL	LL	Laving Lavern	NA	Laos	WCS-32-17 - H - E	NA	XS-49	     0	    27	  3376	    81	     0	284600	     0	  1265	     0	     0
+WWF9	tube_labels	Vietnam	QNSL	QNSL	BMHQNXS	Quang Nam SNR	NA	NA	TK45_20121028	NA	NA	  0	  0	  0	  0	  0	  0	  0	198	  0	  0
+WWF92	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41061	345	1-Hóa	50	H-1	    0	  108	 1152	    0	   44	    0	81108	82958	    0	    0
+WWF93	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41063	345	3-Hóa	60	H-3	     0	     0	  8558	    42	    96	     0	     0	216689	     0	     0
+WWF94	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	30/6/2012	350	10-Hóa	15	H-10	  0	  5	 16	  0	  0	  0	  0	285	  0	  0
+WWF95	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41095	349	12-Hóa	30	H-12	     0	  3037	 25824	   194	   289	     0	     0	227077	     0	     0
+WWF96	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	41098	349	15-Hóa	25	H-15	   0	 364	   0	   0	   0	   0	   0	3757	   0	   0
+WWF97	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	13/7/2012	353	17-Hóa	25	H-17	     0	     0	  1411	     6	     6	     0	     0	160407	     0	     0
+WWF98	WWF_2013Samples_20140919.xlsx	Vietnam	HSL	HSL	BMHQNXS	HueSaoLaNR	16/7/2012	353	20-Hoa	30	H-20	     0	  1083	     3	     0	     0	     0	   733	189634	     0	     0
+XS10	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41782	NA	NA	50	NA	   0	  53	   0	   0	   0	   0	   0	4757	   0	   0
+XS11	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41782	NA	NA	50	NA	   0	2669	   0	   0	   0	   0	   0	 161	   0	   0
+XS12	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41783	NA	NA	50	NA	   0	1399	   0	   0	   0	   0	   0	2756	   0	   0
+XS13	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41783	NA	NA	50	NA	    0	27212	    0	    0	    8	    0	    0	   59	    0	    0
+XS14A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41784	NA	NA	23	NA	 0	 0	 0	 0	 0	 0	 0	41	 0	 0
+XS14B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41784	NA	NA	33	NA	    48	171739	     0	     0	   398	     0	     0	    80	     0	     0
+XS15A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	39	NA	 0	 0	 0	 0	 0	 0	 0	32	 0	 0
+XS16A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	50	NA	 0	 5	 0	 0	 0	 0	17	18	 0	 0
+XS17A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	39	NA	  0	  0	  0	  0	  0	  0	  0	764	  0	  0
+XS17B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	11	NA	    0	    0	    0	    0	    0	    0	    0	56609	    0	    0
+XS18A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41786	NA	NA	48	NA	0	0	0	0	0	0	0	0	0	0
+XS19A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41786	NA	NA	33	NA	  0	348	  0	  0	  0	  0	  0	 36	  0	  0
+XS19B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41786	NA	NA	17	NA	    0	    4	    0	    0	    0	    0	    0	54928	    0	    0
+XS2	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41781	NA	NA	50	NA	    0	13835	    0	    0	    0	    0	    0	 3136	    0	    0
+XS20A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41786	NA	NA	36	NA	  0	316	  0	  0	  0	  0	  0	  0	  0	  0
+XS20B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41786	NA	NA	14	NA	 0	 0	 0	 0	 0	 0	 0	30	 0	 0
+XS21A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41788	NA	NA	30	NA	 0	62	 0	 0	 0	 0	 0	 3	 0	 0
+XS21B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41788	NA	NA	20	NA	   0	4361	   0	   0	   0	   0	   0	   0	   0	   0
+XS22A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	30	NA	  0	  0	  0	147	  0	  0	  0	  7	  0	  0
+XS22B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	20	NA	   0	2126	   0	   0	   0	   0	   0	 227	   0	   0
+XS23A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	18	NA	0	0	0	0	0	0	0	7	0	0
+XS23B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	32	NA	    0	    0	    0	67371	   76	    0	    0	   24	    0	    0
+XS24A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	33	NA	0	0	0	0	0	0	0	0	0	0
+XS25A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	23	NA	0	0	0	0	0	0	0	0	0	0
+XS26A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	18	NA	0	0	0	0	0	0	0	0	0	0
+XS26B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	32	NA	     0	122537	     0	     0	     0	     0	     0	     0	     0	     0
+XS27A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41791	NA	NA	37	NA	    0	 4528	    0	    0	    0	    0	    0	21492	    0	    0
+XS27B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41791	NA	NA	13	NA	   0	   0	   0	   0	   0	   0	   0	1760	   0	   0
+XS28A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41791	NA	NA	5	NA	0	0	0	0	0	0	0	0	0	0
+XS29A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41792	NA	NA	37	NA	  0	  0	  0	  0	  0	  0	  0	171	  0	  0
+XS3	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41781	NA	NA	50	NA	   0	5830	   0	   0	   0	   0	   0	   0	   0	   0
+XS31A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	41	NA	   0	2183	   0	   0	 268	   0	   0	   0	   0	   0
+XS31B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41789	NA	NA	9	NA	     0	170124	     0	     0	     0	     0	     0	     0	     0	     0
+XS32A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	36	NA	 0	 0	 0	38	 0	 0	 0	16	 0	 0
+XS32B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	14	NA	0	0	0	0	0	0	0	0	0	0
+XS33B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	44	NA	 0	 0	 0	 0	 0	 0	 0	32	 0	 0
+XS34A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	16	NA	0	0	0	0	0	0	0	8	0	0
+XS34B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41790	NA	NA	34	NA	0	0	0	0	0	0	0	0	0	0
+XS35A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41791	NA	NA	50	NA	   0	1632	   0	 250	   0	   0	   0	  13	   0	   0
+XS36A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41791	NA	NA	50	NA	    0	25193	    0	    0	    0	    0	    0	  325	    0	    0
+XS37A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41792	NA	NA	50	NA	   0	  95	   0	   0	   0	   0	   0	2925	   0	   0
+XS38A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	48	NA	   0	   0	   0	3502	  11	   0	   0	   5	   0	   0
+XS39A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	39	NA	   0	1272	 108	4016	  12	   0	   0	 102	   0	   0
+XS39B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	11	NA	     0	    11	     0	239986	    15	     0	     0	     0	     0	     0
+XS4	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41783	NA	NA	50	NA	  0	718	  0	  0	  0	  0	  0	514	  0	  0
+XS40A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	4	NA	  0	785	  0	  0	  0	  0	  0	  0	  0	  0
+XS40B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	46	NA	    0	    0	    0	33489	  209	    0	    0	   12	    0	    0
+XS41A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41794	NA	NA	40	NA	   0	1449	   0	   0	   0	   0	   0	 643	   0	   0
+XS41B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41794	NA	NA	10	NA	    0	13314	    0	    0	    0	    0	    0	    0	    0	    0
+XS42B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	50	NA	     0	     0	     0	     0	     0	     0	     0	162892	     0	     0
+XS43A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41794	NA	NA	50	NA	   0	1876	   0	   0	  36	   0	   0	   0	   0	   0
+XS44A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	no_date	NA	NA	NA	NA	0	0	0	0	0	0	0	0	0	0
+XS45A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	no_date	NA	NA	NA	NA	0	0	0	0	0	0	0	6	0	0
+XS46A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	no_date	NA	NA	NA	NA	  0	222	  0	  0	  0	  0	  0	  0	  0	  0
+XS5	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41784	NA	NA	50	NA	   0	1236	   0	  25	   0	   0	   0	  81	   0	   0
+XS50A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41793	NA	NA	40	NA	    0	    0	    0	    0	    0	    0	    0	20172	    0	    0
+XS51A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41794	NA	NA	30	NA	    0	  220	    0	    0	    0	    0	    0	69328	    0	    0
+XS51B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41794	NA	NA	20	NA	    0	  389	    0	    0	    0	    0	    0	85527	    0	    0
+XS52A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	45	NA	   0	3224	   0	   0	  21	   0	   0	   0	   0	   0
+XS52B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	5	NA	   0	1582	   0	   0	   0	   0	   0	   0	   0	   0
+XS54A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	13	NA	  0	183	  0	  0	  0	  0	  0	  6	  0	  0
+XS54B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	37	NA	    0	39980	    0	    0	    0	    0	    0	  218	    0	    0
+XS55	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	12	NA	     0	 43446	    11	226027	   516	     0	     0	    12	     0	     0
+XS55A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	16	NA	   0	2645	   0	   0	   7	   0	   0	   0	   0	   0
+XS55B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41795	NA	NA	2	NA	0	0	0	0	0	0	0	0	0	0
+XS6A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41784	NA	NA	32	NA	    0	17541	    0	    0	    9	    0	    0	 2139	    0	    0
+XS6B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41784	NA	NA	18	NA	    0	68565	    7	82313	 2943	    0	    0	   21	    0	    0
+XS7A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	28	NA	   0	1389	   0	   0	  25	   0	   0	  61	   0	   0
+XS7B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	22	NA	     0	149726	     0	     0	   641	     0	     0	  1018	     0	     0
+XS8A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	12	NA	0	0	0	0	0	0	0	8	0	0
+XS8B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	38	NA	   0	7597	   0	   0	   0	   0	   0	1481	   0	   0
+XS9A	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	12	NA	 0	16	 0	 0	 0	 0	 0	67	 0	 0
+XS9B	WCS_Sample_Status_2015Oct19.xlsx_All	Laos	XS	XS	BMHQNXS	XeSap	41785	NA	NA	38	NA	     0	 12638	     0	   314	    18	     0	     0	134610	     0	     0
