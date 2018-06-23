@@ -663,7 +663,7 @@ par(mfrow=c(1,1))
 #### Unconstrained ordination
 #### For NMDS, mvabund, and boral analyses, remove zeroton and singleton species (these are species that appear in 0 or 1 sample). This is dfferent from the previous specnumber filtering step, where i removed samples that had 0 or 1 species only in them, which are samples that cause ordination to create strong outlier points. Such species are needed above for estimating species richness (inext, specpool) but do not provide useful information for ordination, which is driven by shared species
 ```{r remove zeroton and singleton species from communityB}
-taxon <- "lgmammals"
+taxon <- "mammals"
 leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
@@ -678,7 +678,7 @@ community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, prev
 stressplot(community.jmds)
 speciesloadings <- community.jmds[["species"]] # shows species loadings
 speciesloadings <- speciesloadings %>% as.data.frame() %>% rownames_to_column() 
-write_tsv(speciesloadings, "analysis/speciesloadings.tsv")
+# write_tsv(speciesloadings, "analysis/speciesloadings_mammals.tsv")
 ```
 
 ```{r plot NMDS by reservecode}
@@ -692,17 +692,17 @@ colvec <- brewer.pal(5, "Set1")
 
 plot(community.jmds, display="sites", type="n")
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[2]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("HSL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
+with(reserve_tb, ordispider(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
 
 # text(community.jmds, display = "sites", cex=0.7, col="blue")
 text(community.jmds, display = "species", cex=0.7, col="blue")
@@ -747,11 +747,11 @@ colvec <- brewer.pal(5, "Set1")
 
 plot(community.jmds, display="sites", type="n")
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BMHQNXS"))))
+with(reserve_tb, ordihull(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BMHQNXS"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
+with(reserve_tb, ordihull(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("LL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
+with(reserve_tb, ordihull(community.jmds, reservecode3, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("PST"))))
 
 text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
