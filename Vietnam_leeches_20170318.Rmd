@@ -7,11 +7,13 @@ output: html_document
 
 This protax run was run using the pipeline by Axtner et al., which starts with the Midori database and set high priors for Vietnam species.  
 
-The data files are in the folder:  Vietnam_leeches_swarm_lulu_20180404
+The data files are in the folder:  Vietnam_leeches_swarm_lulu_20180404/
 OTU table:  2015WWFWCS_swarm_lulu_otu_table_20180404.xlsx
 OTU representative seqs:  all_2015WWFWCS_otu_table_swarm_lulu_vert16S_20180404.fas
 Sample-to-Site codings:  allWWFWCS_sample_codes_20180621.xlsx
 Protax output files are in:  Vietnam_leeches_swarm_lulu_20180404/doug_vietnam_16S_Vietnam_weighted_Protax_20180618/
+
+Analysis output is in:  analysis/
 
 Questions:
 
@@ -81,6 +83,23 @@ reserve <- reserve %>% mutate(
 )
 
 levels(reserve$reservecode2)
+
+# recode reserve names to reservecode3
+reserve <- reserve %>% mutate(
+	reservecode3 = case_when(
+		Protected_Area_Std_Name == "BachMaExt" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "BachMaNP" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "HueSaoLaNR" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "Hue SNR" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "Quang Nam SNR" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "Laving Lavern" ~ "LL",
+		Protected_Area_Std_Name == "Phou Si Thone" ~ "PST",
+		Protected_Area_Std_Name == "QuangNamNR" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "QuangNamSaoLaNR" ~ "BMHQNXS",
+		Protected_Area_Std_Name == "XeSap" ~ "BMHQNXS"
+	) %>% as.factor()
+)
+
 ```
 
 Now, skip down to code chunk:  "1 write leechotu file after visual check" before 
@@ -170,7 +189,7 @@ rm(total_reads)
 rm(protax_all)
 ```
 
-1. now write leechotu file to disk and in excel, visually inspect the protax taxonomies and distribution of reads over samples and manually decide final.taxonomy  
+1. now write leechotu file to disk, and switch to Excel, where I visually inspect the protax assignments and the distribution of reads over samples and manually decide final.taxonomy  
 2. sum read numbers by taxonomy and remove cell values <= 2 reads
 3. save negative control samples
 4. remove negative control samples from leechotu4
@@ -347,7 +366,7 @@ for (i in seq_along(varNames)) {
 ```
 
 DON'T RUN
-This summary tables, samples summed by reservecode2
+This creates summary tables, samples summed by reservecode2
 ```{r}
 reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode2, Protected_Area_Std_Name, Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK)
 reservecode_by_OTU$reservecode2 <- as.character(reservecode_by_OTU$reservecode2)
@@ -382,7 +401,7 @@ rm(reservecode_by_OTU)
 ```
 
 DON'T RUN
-Find the outlier PST sample, which is SWG53 (Mustela kathiah). i don't need to run this because i've removed this and other 1-species-only samples in the previous codechunk:  "filter by taxonomy and remove samples with 0 or 1 species only"
+Find the outlier PST sample, which is SWG53 (Mustela kathiah). i don't need to run this because i've removed this and other 1-species-only samples in the codechunk:  "filter by taxonomy and remove samples with 0 or 1 species only"
 ```{r find outlier PST community, eval = FALSE}
 
 leechotu5_mammals_pst_t <- leechotu5_mammals_t %>% dplyr::filter(reserve_mammals$reservecode == "PST" & !(reserve_mammals$sample %in% c("SWG53"))) #  
@@ -396,6 +415,8 @@ plot(community.jmds)
 text(community.jmds, display = "sites", cex=0.7, col="blue")
 text(community.jmds, display = "species", cex=0.7, col="blue")
 ```
+
+https://davetang.org/muse/2018/05/15/making-a-heatmap-in-r-with-the-pheatmap-package/
 
 
 ### Analyses
