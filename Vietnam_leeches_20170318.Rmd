@@ -366,28 +366,32 @@ for (i in seq_along(varNames)) {
 ```
 
 DON'T RUN
-This creates summary tables, samples summed by reservecode2
+This creates summary tables, samples summed by reservecodes
 ```{r}
-reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode2, Protected_Area_Std_Name, Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK)
+reservecode_by_OTU <- Sample_by_OTU_mammals %>% dplyr::select(Country, reservecode, reservecode2,reservecode3, Protected_Area_Std_Name, Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK)
+reservecode_by_OTU$reservecode <- as.character(reservecode_by_OTU$reservecode)
 reservecode_by_OTU$reservecode2 <- as.character(reservecode_by_OTU$reservecode2)
-indx <- sapply(reservecode_by_OTU, is.factor)
+reservecode_by_OTU$reservecode3 <- as.character(reservecode_by_OTU$reservecode3)
+indx <- sapply(reservecode_by_OTU, is.factor) # marks columns that are OTU taxonomic assignments
 reservecode_by_OTU[indx] <- lapply(reservecode_by_OTU[indx], function(x) as.numeric(as.character(x)))
+reservecode_by_OTU$reservecode <- as.factor(reservecode_by_OTU$reservecode)
 reservecode_by_OTU$reservecode2 <- as.factor(reservecode_by_OTU$reservecode2)
+reservecode_by_OTU$reservecode3 <- as.factor(reservecode_by_OTU$reservecode3)
 
 reservecode_by_OTU_readsum <- reservecode_by_OTU %>% 
-	group_by_at(vars(Country, reservecode2)) %>% 
-	summarise_at(vars(Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
+	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
+	summarise_at(vars(Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
 
 reservecode_by_OTU_b <- reservecode_by_OTU
 reservecode_by_OTU_b$Country <- as.factor(reservecode_by_OTU_b$Country)
 reservecode_by_OTU_b$Protected_Area_Std_Name <- as.factor(reservecode_by_OTU_b$Protected_Area_Std_Name)
-reservecode_by_OTU_b[reservecode_by_OTU_b > 0] <- 1
+reservecode_by_OTU_b[reservecode_by_OTU_b > 0] <- 1 # works since i have set all metadata cols to factor
 reservecode_by_OTU_samplecount <- reservecode_by_OTU_b %>% 
-	group_by_at(vars(Country, reservecode2)) %>% 
-	summarise_at(vars(Artiodactyla.Bovidae.Capricornis.milneedwardsii:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
+	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
+	summarise_at(vars(Artiodactyla.Bovidae.Bos.taurus:Soricomorpha.Talpidae.Euroscaptor.UNK), sum) 
 
 reservecode_by_OTU_samplecount2 <- reservecode_by_OTU_b %>% 
-	group_by_at(vars(Country, reservecode2)) %>% 
+	group_by_at(vars(Country, reservecode, reservecode2, reservecode3)) %>% 
 	summarise(samples = n()) 
 
 reservecode_by_OTU_samplecount <- left_join(reservecode_by_OTU_samplecount2, reservecode_by_OTU_samplecount)
@@ -396,8 +400,8 @@ rm(reservecode_by_OTU_samplecount2)
 rm(reservecode_by_OTU_b)
 rm(reservecode_by_OTU)
 
-# write_tsv(reservecode_by_OTU_readsum, "analysis/reservecode_by_OTU_readsum.tsv")
-# write_tsv(reservecode_by_OTU_samplecount, "analysis/reservecode_by_OTU_samplecount.tsv")
+# write_tsv(reservecode_by_OTU_readsum, "analysis/reservecodes_by_OTU_readsum.tsv")
+# write_tsv(reservecode_by_OTU_samplecount, "analysis/reservecodes_by_OTU_samplecount.tsv")
 ```
 
 DON'T RUN
