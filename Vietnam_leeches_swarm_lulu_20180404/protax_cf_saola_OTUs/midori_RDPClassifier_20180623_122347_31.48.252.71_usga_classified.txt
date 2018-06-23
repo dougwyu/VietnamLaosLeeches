@@ -1,0 +1,3 @@
+OTU107		root	root	1.0	Eukaryota	superkingdom	1.0	Chordata	phylum	1.0	Mammalia	class	1.0	Bovidae	family	1.0	Bos	genus	0.97	Bos taurus	species	0.86
+OTU627		root	root	1.0	Eukaryota	superkingdom	1.0	Chordata	phylum	1.0	Mammalia	class	1.0	Bovidae	family	0.99	Bos	genus	0.99	Bos frontalis	species	0.86
+OTU9962		root	root	1.0	Eukaryota	superkingdom	1.0	Chordata	phylum	0.99	Mammalia	class	0.98	Rodentia	order	0.38	Muridae	family	0.35	Leopoldamys	genus	0.29	Leopoldamys edwardsi	species	0.29
