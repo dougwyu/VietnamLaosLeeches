@@ -1,0 +1,260 @@
+taxid	lineage	name	rank	20180624110755_31.48.252.71.fa
+0	null	root	root	1718
+1	root;root;Eukaryota;superkingdom;	Eukaryota	superkingdom	1718
+8	root;root;Eukaryota;superkingdom;Chordata;phylum;	Chordata	phylum	1611
+82	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;	Mammalia	class	1210
+4706	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Suidae;family;	Suidae	family	68
+42162	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Suidae;family;Sus;genus;	Sus	genus	65
+248652	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Suidae;family;Sus;genus;Sus scrofa;species;	Sus scrofa	species	4
+-42163	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Suidae;family;Sus;genus;unclassified_Sus;;	unclassified_Sus		61
+503	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;	Rodentia	order	169
+4578	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Spalacidae;family;	Spalacidae	family	31
+38905	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Spalacidae;family;Rhizomys;genus;	Rhizomys	genus	31
+233098	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Spalacidae;family;Rhizomys;genus;Rhizomys pruinosus;species;	Rhizomys pruinosus	species	30
+-38906	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Spalacidae;family;Rhizomys;genus;unclassified_Rhizomys;;	unclassified_Rhizomys		1
+4447	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;	Sciuridae	family	31
+17136	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Dremomys;genus;	Dremomys	genus	11
+113972	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Dremomys;genus;Dremomys rufigenis;species;	Dremomys rufigenis	species	11
+11375	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Callosciurus;genus;	Callosciurus	genus	8
+79606	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Callosciurus;genus;Callosciurus erythraeus;species;	Callosciurus erythraeus	species	8
+27829	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Menetes;genus;	Menetes	genus	1
+178611	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Menetes;genus;Menetes berdmorei;species;	Menetes berdmorei	species	1
+34438	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Petaurista;genus;	Petaurista	genus	1
+209566	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Petaurista;genus;Petaurista hainana;species;	Petaurista hainana	species	1
+38544	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Ratufa;genus;	Ratufa	genus	1
+231157	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Ratufa;genus;Ratufa bicolor;species;	Ratufa bicolor	species	1
+42643	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Tamias;genus;	Tamias	genus	1
+251278	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;Tamias;genus;Tamias sonomae;species;	Tamias sonomae	species	1
+3295	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;	Muridae	family	47
+25240	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Leopoldamys;genus;	Leopoldamys	genus	26
+158152	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Leopoldamys;genus;Leopoldamys edwardsi;species;	Leopoldamys edwardsi	species	26
+29213	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Mus;genus;	Mus	genus	1
+184755	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Mus;genus;Mus musculus;species;	Mus musculus	species	1
+38543	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Rattus;genus;	Rattus	genus	2
+231100	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Rattus;genus;Rattus rattus;species;	Rattus rattus	species	1
+-38544	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Rattus;genus;unclassified_Rattus;;	unclassified_Rattus		1
+30701	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Niviventer;genus;	Niviventer	genus	1
+-30702	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;Niviventer;genus;unclassified_Niviventer;;	unclassified_Niviventer		1
+-3296	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Muridae;family;unclassified_Muridae;;	unclassified_Muridae		17
+-4448	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Sciuridae;family;unclassified_Sciuridae;;	unclassified_Sciuridae		8
+2687	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Hystricidae;family;	Hystricidae	family	7
+23490	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Hystricidae;family;Hystrix;genus;	Hystrix	genus	5
+149775	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Hystricidae;family;Hystrix;genus;Hystrix indica;species;	Hystrix indica	species	5
+-2688	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;Hystricidae;family;unclassified_Hystricidae;;	unclassified_Hystricidae		2
+-504	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Rodentia;order;unclassified_Rodentia;;	unclassified_Rodentia		53
+-4707	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Suidae;family;unclassified_Suidae;;	unclassified_Suidae		3
+1413	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;	Cervidae	family	89
+29185	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Muntiacus;genus;	Muntiacus	genus	58
+184608	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Muntiacus;genus;Muntiacus vuquangensis;species;	Muntiacus vuquangensis	species	6
+-29186	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Muntiacus;genus;unclassified_Muntiacus;;	unclassified_Muntiacus		52
+39352	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Rusa;genus;	Rusa	genus	8
+234574	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Rusa;genus;Rusa unicolor;species;	Rusa unicolor	species	8
+31269	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Odocoileus;genus;	Odocoileus	genus	2
+-31270	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;Odocoileus;genus;unclassified_Odocoileus;;	unclassified_Odocoileus		2
+508	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Scandentia;order;	Scandentia	order	18
+5006	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Scandentia;order;Tupaiidae;family;	Tupaiidae	family	18
+44741	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Scandentia;order;Tupaiidae;family;Tupaia;genus;	Tupaia	genus	18
+261289	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Scandentia;order;Tupaiidae;family;Tupaia;genus;Tupaia belangeri;species;	Tupaia belangeri	species	16
+-44742	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Scandentia;order;Tupaiidae;family;Tupaia;genus;unclassified_Tupaia;;	unclassified_Tupaia		2
+1173	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;	Bovidae	family	39
+11702	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Capricornis;genus;	Capricornis	genus	7
+-11703	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Capricornis;genus;unclassified_Capricornis;;	unclassified_Capricornis		7
+10471	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bos;genus;	Bos	genus	3
+74861	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bos;genus;Bos taurus;species;	Bos taurus	species	1
+74850	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bos;genus;Bos frontalis;species;	Bos frontalis	species	1
+32370	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Ovis;genus;	Ovis	genus	1
+201084	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Ovis;genus;Ovis aries;species;	Ovis aries	species	1
+10892	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bubalus;genus;	Bubalus	genus	1
+77272	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bubalus;genus;Bubalus bubalis;species;	Bubalus bubalis	species	1
+-10472	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;Bos;genus;unclassified_Bos;;	unclassified_Bos		1
+182	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;	Carnivora	order	197
+3302	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;	Mustelidae	family	79
+27785	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Melogale;genus;	Melogale	genus	46
+178396	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Melogale;genus;Melogale moschata;species;	Melogale moschata	species	46
+29242	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Mustela;genus;	Mustela	genus	5
+184932	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Mustela;genus;Mustela kathiah;species;	Mustela kathiah	species	1
+-29243	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Mustela;genus;unclassified_Mustela;;	unclassified_Mustela		4
+8335	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Arctonyx;genus;	Arctonyx	genus	8
+64069	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Arctonyx;genus;Arctonyx collaris;species;	Arctonyx collaris	species	8
+27227	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Martes;genus;	Martes	genus	2
+175717	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;Martes;genus;Martes flavigula;species;	Martes flavigula	species	2
+5100	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;	Viverridae	family	28
+32665	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;Paguma;genus;	Paguma	genus	25
+202291	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;Paguma;genus;Paguma larvata;species;	Paguma larvata	species	25
+36598	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;Prionodon;genus;	Prionodon	genus	1
+222470	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;Prionodon;genus;Prionodon pardicolor;species;	Prionodon pardicolor	species	1
+1299	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;	Canidae	family	21
+11630	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;Canis;genus;	Canis	genus	18
+81584	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;Canis;genus;Canis lupus;species;	Canis lupus	species	3
+45467	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;Vulpes;genus;	Vulpes	genus	1
+264488	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;Vulpes;genus;Vulpes ferrilata;species;	Vulpes ferrilata	species	1
+-11631	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;Canis;genus;unclassified_Canis;;	unclassified_Canis		15
+2228	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Felidae;family;	Felidae	family	15
+36585	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Felidae;family;Prionailurus;genus;	Prionailurus	genus	1
+222394	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Felidae;family;Prionailurus;genus;Prionailurus bengalensis;species;	Prionailurus bengalensis	species	1
+-2229	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Felidae;family;unclassified_Felidae;;	unclassified_Felidae		14
+-3303	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Mustelidae;family;unclassified_Mustelidae;;	unclassified_Mustelidae		18
+5059	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Ursidae;family;	Ursidae	family	4
+45117	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Ursidae;family;Ursus;genus;	Ursus	genus	4
+263270	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Ursidae;family;Ursus;genus;Ursus thibetanus;species;	Ursus thibetanus	species	3
+-45118	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Ursidae;family;Ursus;genus;unclassified_Ursus;;	unclassified_Ursus		1
+4108	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Procyonidae;family;	Procyonidae	family	1
+36754	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Procyonidae;family;Procyon;genus;	Procyon	genus	1
+223518	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Procyonidae;family;Procyon;genus;Procyon lotor;species;	Procyon lotor	species	1
+-5101	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Viverridae;family;unclassified_Viverridae;;	unclassified_Viverridae		2
+-1300	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;Canidae;family;unclassified_Canidae;;	unclassified_Canidae		2
+-183	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Carnivora;order;unclassified_Carnivora;;	unclassified_Carnivora		49
+-1174	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Bovidae;family;unclassified_Bovidae;;	unclassified_Bovidae		27
+476	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;	Primates	order	56
+1405	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;	Cercopithecidae	family	48
+26644	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;	Macaca	genus	22
+172907	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;Macaca arctoides;species;	Macaca arctoides	species	4
+172922	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;Macaca nigra;species;	Macaca nigra	species	1
+172913	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;Macaca fascicularis;species;	Macaca fascicularis	species	2
+172919	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;Macaca mulatta;species;	Macaca mulatta	species	1
+-26645	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Macaca;genus;unclassified_Macaca;;	unclassified_Macaca		14
+32928	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Papio;genus;	Papio	genus	2
+203634	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;Papio;genus;Papio anubis;species;	Papio anubis	species	2
+-1406	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Cercopithecidae;family;unclassified_Cercopithecidae;;	unclassified_Cercopithecidae		24
+2990	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Lorisidae;family;	Lorisidae	family	1
+31053	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Lorisidae;family;Nycticebus;genus;	Nycticebus	genus	1
+194154	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Lorisidae;family;Nycticebus;genus;Nycticebus pygmaeus;species;	Nycticebus pygmaeus	species	1
+2609	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hominidae;family;	Hominidae	family	3
+22722	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hominidae;family;Homo;genus;	Homo	genus	3
+144163	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hominidae;family;Homo;genus;Homo sapiens;species;	Homo sapiens	species	3
+2662	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hylobatidae;family;	Hylobatidae	family	1
+30744	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hylobatidae;family;Nomascus;genus;	Nomascus	genus	1
+192857	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;Hylobatidae;family;Nomascus;genus;Nomascus leucogenys;species;	Nomascus leucogenys	species	1
+336	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;	Lagomorpha	order	2
+3488	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Ochotonidae;family;	Ochotonidae	family	1
+31168	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Ochotonidae;family;Ochotona;genus;	Ochotona	genus	1
+194765	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Ochotonidae;family;Ochotona;genus;Ochotona curzoniae;species;	Ochotona curzoniae	species	1
+2884	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Leporidae;family;	Leporidae	family	1
+32232	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Leporidae;family;Oryctolagus;genus;	Oryctolagus	genus	1
+200334	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Lagomorpha;order;Leporidae;family;Oryctolagus;genus;Oryctolagus cuniculus;species;	Oryctolagus cuniculus	species	1
+203	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Chiroptera;order;	Chiroptera	order	1
+5091	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Chiroptera;order;Vespertilionidae;family;	Vespertilionidae	family	1
+44814	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Chiroptera;order;Vespertilionidae;family;Tylonycteris;genus;	Tylonycteris	genus	1
+-44815	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Chiroptera;order;Vespertilionidae;family;Tylonycteris;genus;unclassified_Tylonycteris;;	unclassified_Tylonycteris		1
+-1414	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Cervidae;family;unclassified_Cervidae;;	unclassified_Cervidae		21
+447	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Pholidota;order;	Pholidota	order	7
+3074	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Pholidota;order;Manidae;family;	Manidae	family	7
+27088	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Pholidota;order;Manidae;family;Manis;genus;	Manis	genus	7
+-27089	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Pholidota;order;Manidae;family;Manis;genus;unclassified_Manis;;	unclassified_Manis		7
+-477	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Primates;order;unclassified_Primates;;	unclassified_Primates		3
+326	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Insectivora;order;	Insectivora	order	1
+2126	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Insectivora;order;Erinaceidae;family;	Erinaceidae	family	1
+23164	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Insectivora;order;Erinaceidae;family;Hylomys;genus;	Hylomys	genus	1
+146970	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Insectivora;order;Erinaceidae;family;Hylomys;genus;Hylomys suillus;species;	Hylomys suillus	species	1
+4917	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Tragulidae;family;	Tragulidae	family	1
+44094	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Tragulidae;family;Tragulus;genus;	Tragulus	genus	1
+257733	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;Tragulidae;family;Tragulus;genus;Tragulus kanchil;species;	Tragulus kanchil	species	1
+34	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;	Amphibia	class	27
+135	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;	Anura	order	27
+3123	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;	Megophryidae	family	4
+25393	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;Leptobrachium;genus;	Leptobrachium	genus	1
+-25394	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;Leptobrachium;genus;unclassified_Leptobrachium;;	unclassified_Leptobrachium		1
+45722	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;Xenophrys;genus;	Xenophrys	genus	2
+265293	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;Xenophrys;genus;Xenophrys major;species;	Xenophrys major	species	1
+-45723	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;Xenophrys;genus;unclassified_Xenophrys;;	unclassified_Xenophrys		1
+4305	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;	Rhacophoridae	family	7
+24603	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Kurixalus;genus;	Kurixalus	genus	1
+155168	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Kurixalus;genus;Kurixalus banaensis;species;	Kurixalus banaensis	species	1
+34790	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Philautus;genus;	Philautus	genus	1
+211325	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Philautus;genus;Philautus abditus;species;	Philautus abditus	species	1
+38688	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Rhacophorus;genus;	Rhacophorus	genus	2
+231717	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Rhacophorus;genus;Rhacophorus annamensis;species;	Rhacophorus annamensis	species	1
+231748	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Rhacophorus;genus;Rhacophorus maximus;species;	Rhacophorus maximus	species	1
+43383	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Theloderma;genus;	Theloderma	genus	1
+254792	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Theloderma;genus;Theloderma stellatum;species;	Theloderma stellatum	species	1
+36235	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Polypedates;genus;	Polypedates	genus	1
+220444	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Polypedates;genus;Polypedates megacephalus;species;	Polypedates megacephalus	species	1
+38507	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Raorchestes;genus;	Raorchestes	genus	1
+230926	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Rhacophoridae;family;Raorchestes;genus;Raorchestes parvulus;species;	Raorchestes parvulus	species	1
+1890	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;	Dicroglossidae	family	8
+25823	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Limnonectes;genus;	Limnonectes	genus	6
+168611	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Limnonectes;genus;Limnonectes limborgi;species;	Limnonectes limborgi	species	2
+168584	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Limnonectes;genus;Limnonectes blythii;species;	Limnonectes blythii	species	1
+168583	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Limnonectes;genus;Limnonectes bannaensis;species;	Limnonectes bannaensis	species	1
+-25824	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Limnonectes;genus;unclassified_Limnonectes;;	unclassified_Limnonectes		2
+29632	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Nanorana;genus;	Nanorana	genus	1
+187172	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;Nanorana;genus;Nanorana delacouri;species;	Nanorana delacouri	species	1
+1216	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Bufonidae;family;	Bufonidae	family	3
+17319	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Bufonidae;family;Duttaphrynus;genus;	Duttaphrynus	genus	1
+115279	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Bufonidae;family;Duttaphrynus;genus;Duttaphrynus melanostictus;species;	Duttaphrynus melanostictus	species	1
+23787	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Bufonidae;family;Ingerophrynus;genus;	Ingerophrynus	genus	2
+152130	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Bufonidae;family;Ingerophrynus;genus;Ingerophrynus galeatus;species;	Ingerophrynus galeatus	species	2
+4278	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;	Ranidae	family	3
+31353	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Odorrana;genus;	Odorrana	genus	1
+195710	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Odorrana;genus;Odorrana chloronota;species;	Odorrana chloronota	species	1
+6881	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Amolops;genus;	Amolops	genus	1
+-6882	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Amolops;genus;unclassified_Amolops;;	unclassified_Amolops		1
+38492	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Rana;genus;	Rana	genus	1
+-38493	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Ranidae;family;Rana;genus;unclassified_Rana;;	unclassified_Rana		1
+-3124	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Megophryidae;family;unclassified_Megophryidae;;	unclassified_Megophryidae		1
+2661	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Hylidae;family;	Hylidae	family	1
+37205	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Hylidae;family;Pseudacris;genus;	Pseudacris	genus	1
+225325	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Hylidae;family;Pseudacris;genus;Pseudacris crucifer;species;	Pseudacris crucifer	species	1
+-1891	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;Dicroglossidae;family;unclassified_Dicroglossidae;;	unclassified_Dicroglossidae		1
+-136	root;root;Eukaryota;superkingdom;Chordata;phylum;Amphibia;class;Anura;order;unclassified_Anura;;	unclassified_Anura		1
+-83	root;root;Eukaryota;superkingdom;Chordata;phylum;Mammalia;class;unclassified_Mammalia;;	unclassified_Mammalia		562
+42	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;	Aves	class	25
+132	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Anseriformes;order;	Anseriformes	order	1
+800	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Anseriformes;order;Anatidae;family;	Anatidae	family	1
+7136	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Anseriformes;order;Anatidae;family;Anas;genus;	Anas	genus	1
+56646	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Anseriformes;order;Anatidae;family;Anas;genus;Anas poecilorhyncha;species;	Anas poecilorhyncha	species	1
+287	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;	Galliformes	order	5
+3836	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;	Phasianidae	family	5
+20141	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Gallus;genus;	Gallus	genus	1
+131551	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Gallus;genus;Gallus gallus;species;	Gallus gallus	species	1
+8211	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Arborophila;genus;	Arborophila	genus	1
+63664	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Arborophila;genus;Arborophila brunneopectus;species;	Arborophila brunneopectus	species	1
+26309	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Lophura;genus;	Lophura	genus	1
+170814	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;Lophura;genus;Lophura nycthemera;species;	Lophura nycthemera	species	1
+-3837	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Galliformes;order;Phasianidae;family;unclassified_Phasianidae;;	unclassified_Phasianidae		2
+423	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;	Passeriformes	order	11
+2862	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;Leiothrichidae;family;	Leiothrichidae	family	1
+-2863	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;Leiothrichidae;family;unclassified_Leiothrichidae;;	unclassified_Leiothrichidae		1
+4880	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;Timaliidae;family;	Timaliidae	family	1
+-4881	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;Timaliidae;family;unclassified_Timaliidae;;	unclassified_Timaliidae		1
+-424	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Passeriformes;order;unclassified_Passeriformes;;	unclassified_Passeriformes		9
+278	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Falconiformes;order;	Falconiformes	order	1
+622	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Falconiformes;order;Accipitridae;family;	Accipitridae	family	1
+41269	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Falconiformes;order;Accipitridae;family;Spilornis;genus;	Spilornis	genus	1
+244687	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Falconiformes;order;Accipitridae;family;Spilornis;genus;Spilornis cheela;species;	Spilornis cheela	species	1
+296	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Gruiformes;order;	Gruiformes	order	1
+4273	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Gruiformes;order;Rallidae;family;	Rallidae	family	1
+38463	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Gruiformes;order;Rallidae;family;Rallina;genus;	Rallina	genus	1
+230605	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;Gruiformes;order;Rallidae;family;Rallina;genus;Rallina eurizonoides;species;	Rallina eurizonoides	species	1
+-43	root;root;Eukaryota;superkingdom;Chordata;phylum;Aves;class;unclassified_Aves;;	unclassified_Aves		6
+33	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;	Actinopteri	class	16
+233	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;	Cypriniformes	order	13
+1061	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Balitoridae;family;	Balitoridae	family	1
+-1062	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Balitoridae;family;unclassified_Balitoridae;;	unclassified_Balitoridae		1
+1790	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;	Cyprinidae	family	11
+31702	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Onychostoma;genus;	Onychostoma	genus	1
+197559	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Onychostoma;genus;Onychostoma gerlachi;species;	Onychostoma gerlachi	species	1
+20193	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Garra;genus;	Garra	genus	1
+-20194	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Garra;genus;unclassified_Garra;;	unclassified_Garra		1
+39768	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Scaphiodonichthys;genus;	Scaphiodonichthys	genus	2
+236552	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Scaphiodonichthys;genus;Scaphiodonichthys acanthopterus;species;	Scaphiodonichthys acanthopterus	species	2
+30134	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Neolissochilus;genus;	Neolissochilus	genus	1
+189374	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;Neolissochilus;genus;Neolissochilus stracheyi;species;	Neolissochilus stracheyi	species	1
+-1791	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;Cyprinidae;family;unclassified_Cyprinidae;;	unclassified_Cyprinidae		6
+520	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Siluriformes;order;	Siluriformes	order	1
+4550	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Siluriformes;order;Sisoridae;family;	Sisoridae	family	1
+20670	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Siluriformes;order;Sisoridae;family;Glyptothorax;genus;	Glyptothorax	genus	1
+-20671	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Siluriformes;order;Sisoridae;family;Glyptothorax;genus;unclassified_Glyptothorax;;	unclassified_Glyptothorax		1
+198	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Characiformes;order;	Characiformes	order	1
+4510	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Characiformes;order;Serrasalmidae;family;	Serrasalmidae	family	1
+35303	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Characiformes;order;Serrasalmidae;family;Piaractus;genus;	Piaractus	genus	1
+214810	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Characiformes;order;Serrasalmidae;family;Piaractus;genus;Piaractus brachypomus;species;	Piaractus brachypomus	species	1
+-234	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;Cypriniformes;order;unclassified_Cypriniformes;;	unclassified_Cypriniformes		1
+-34	root;root;Eukaryota;superkingdom;Chordata;phylum;Actinopteri;class;unclassified_Actinopteri;;	unclassified_Actinopteri		1
+-9	root;root;Eukaryota;superkingdom;Chordata;phylum;unclassified_Chordata;;	unclassified_Chordata		333
+4	root;root;Eukaryota;superkingdom;Arthropoda;phylum;	Arthropoda	phylum	2
+57	root;root;Eukaryota;superkingdom;Arthropoda;phylum;Collembola;class;	Collembola	class	2
+3727	root;root;Eukaryota;superkingdom;Arthropoda;phylum;Collembola;class;Paronellidae;family;	Paronellidae	family	2
+6276	root;root;Eukaryota;superkingdom;Arthropoda;phylum;Collembola;class;Paronellidae;family;Akabosia;genus;	Akabosia	genus	2
+51663	root;root;Eukaryota;superkingdom;Arthropoda;phylum;Collembola;class;Paronellidae;family;Akabosia;genus;Akabosia matsudoensis;species;	Akabosia matsudoensis	species	2
+-2	root;root;Eukaryota;superkingdom;unclassified_Eukaryota;;	unclassified_Eukaryota		105
