@@ -250,8 +250,6 @@ for(i in 1:length(negctrls)) {
 	leechotu4 <- leechotu4 %>% dplyr::select(-starts_with(negctrls[i])) 
 }
 
-# (551-4=) 547 negative ctrl samples + (543-1 =) 542 real samples = 1089 total samples. leechotu3 is 1089 sample columns + 1 final.taxonomy column = 1090 columns.  correct
-
 #  and add some columns
 leechotu4$total_reads <- leechotu4 %>% dplyr::select(-final.taxonomy) %>% rowSums()
 leechotu4$incidence <- leechotu4 %>% dplyr::select(-final.taxonomy, -total_reads) %>% specnumber(MARGIN=1)
@@ -267,6 +265,8 @@ leechotu4 <- leechotu4 %>% dplyr::select(final.taxonomy, total_reads, incidence,
 names(leechotu4)  # SWG1:XS9B
 ```
 
+(551-4=) 547 negative ctrl samples + (543-1 =) 542 real samples = 1089 total samples. leechotu3 is 1089 sample columns + 1 final.taxonomy column = 1090 columns.  correct
+
 ```{r filter by read number, eval=FALSE}
 # this is where i could add code to set to 0 cells that have fewer reads than the max number of reads for that species in the negative controls (leech_negctrls)
 # this is not an easy programming job!
@@ -279,13 +279,14 @@ leechotu5 <- leechotu4 %>% filter(!grepl(taxa_to_remove, final.taxonomy)) # 55 m
 
 # remove samples (columns) that have 0 or 1 species  # Margin = 1 == rows, MARGIN = 2 == cols
 leechotu5.removedsamples <- leechotu5[, which(specnumber(leechotu5, MARGIN = 2) <= 1)]  
+# Sus scrofa, Mustela kathiah, Homo sapiens, and Niviventer UNK
 leechotu5 <- leechotu5[, which(specnumber(leechotu5, MARGIN = 2) > 1)]  
 
 # taxonomic subsets
 leechotu5_mammals <- leechotu5
 # write_tsv(leechotu5, "analysis/leechotu5_mammals.tsv")
 
-leechotu5_lgmammals <- leechotu5 %>% filter(grepl(c("Carnivora|Artiodactyla|Primates"), final.taxonomy))
+leechotu5_lgmammals <- leechotu5 %>% filter(grepl(c("Carnivora|Artiodactyla|Primates|Lagomorpha"), final.taxonomy))
 
 leechotu5_carnivora <- leechotu5 %>% filter(grepl(c("Carnivora"), final.taxonomy))
 
@@ -293,7 +294,7 @@ leechotu5_artiodactyla <- leechotu5 %>% filter(grepl(c("Artiodactyla"), final.ta
 
 leechotu5_primates <- leechotu5 %>% filter(grepl(c("Primates"), final.taxonomy)) 
 
-leechotu5_critters <- leechotu5 %>% filter(grepl(c("Rodentia|Scandentia|Lagomorpha|Soricomorpha|Erinaceomorpha|Chiroptera"), final.taxonomy))
+leechotu5_critters <- leechotu5 %>% filter(grepl(c("Rodentia|Scandentia|Soricomorpha|Erinaceomorpha|Chiroptera"), final.taxonomy))
 ```
 
 ```{r 6 names of taxonomic subsets}
@@ -479,23 +480,22 @@ QNSL      37 37.49735  1.026605 38.98942 1.406731 37.03163 38.37930 1.012102 189
 XS        32 40.05631  8.171844 38.90541 2.609998 42.83728 35.13200 1.445045  74
 
 Large Mammals
-specpool(leechotu_tb, reserve_tb$reservecode2)
      Species     chao  chao.se    jack1 jack1.se    jack2     boot   boot.se   n
-BME       21 29.30769 9.424882 26.53846 2.967277 30.06410 23.49887 1.6820160  13
-BMNP      19 27.10000 9.200272 24.40000 3.957272 27.77778 21.44498 2.1490120  10
-HSL       28 32.47187 7.150741 30.98125 1.721225 32.96246 29.39202 0.9741726 160
-LL        23 23.86786 1.422226 25.89286 1.670192 24.20767 24.77311 1.2098250  28
-PST       26 26.65608 1.288589 27.96825 1.391766 27.04685 27.23961 0.9590933  63
-QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06338 27.59689 0.7263517 189
-XS        23 27.11036 4.822665 27.93243 2.205851 29.91836 25.35445 1.2855733  74
+BME       22 30.30769 9.424882 27.53846 2.967277 31.06410 24.49887 1.6820162  13
+BMNP      20 28.18182 9.288756 25.45455 3.983437 28.89091 22.47238 2.1820632  11
+HSL       29 33.47187 7.150741 31.98125 1.721225 33.96246 30.39202 0.9741726 160
+LL        24 24.86786 1.422226 26.89286 1.670192 25.20767 25.77717 1.2129507  28
+PST       27 27.65608 1.288589 28.96825 1.391766 28.04685 28.25565 0.9769656  63
+QNSL      28 28.00000 0.000000 28.00000 0.000000 24.06338 28.59689 0.7263517 189
+XS        24 28.11036 4.822665 28.93243 2.205851 30.91836 26.35445 1.2855733  74
 specpool(leechotu_tb, reserve_tb$reservecode)
      Species     chao  chao.se    jack1 jack1.se    jack2     boot   boot.se   n
-BM        24 28.30435 4.613871 29.73913 3.052162 31.73123 26.70701 1.7293762  23
-HSL       28 32.47187 7.150741 30.98125 1.721225 32.96246 29.39202 0.9741726 160
-LL        23 23.86786 1.422226 25.89286 1.670192 24.20767 24.77311 1.2098250  28
-PST       26 26.65608 1.288589 27.96825 1.391766 27.04685 27.23961 0.9590933  63
-QNSL      27 27.00000 0.000000 27.00000 0.000000 23.06338 27.59689 0.7263517 189
-XS        23 27.11036 4.822665 27.93243 2.205851 29.91836 25.35445 1.2855733  74
+BM        25 29.31250 4.621726 30.75000 3.056755 32.74275 27.71187 1.7362861  24
+HSL       29 33.47187 7.150741 31.98125 1.721225 33.96246 30.39202 0.9741726 160
+LL        24 24.86786 1.422226 26.89286 1.670192 25.20767 25.77717 1.2129507  28
+PST       27 27.65608 1.288589 28.96825 1.391766 28.04685 28.25565 0.9769656  63
+QNSL      28 28.00000 0.000000 28.00000 0.000000 24.06338 28.59689 0.7263517 189
+XS        24 28.11036 4.822665 28.93243 2.205851 30.91836 26.35445 1.2855733  74
 
 
 #### Species richness by Reserve:  iNEXT analysis
@@ -610,19 +610,6 @@ ChaoShannon(comm4inext, datatype="incidence_freq")
 
 #### Community analyses
 
-#### Run tabasco before removing zerotons and singletons (i.e. species that appear in 0 or 1 sample)
-```{r}
-taxon <- "mammals"
-leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
-reserve_tb <- get(str_c("reserve_", taxon))
-
-community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
-community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  
-stressplot(community.jmds)
-tabasco(leechotu_tb, use = community.jmds, labCol = reserve_tb$reservecode)
-```
-
-
 #### Run betapart analyses before removing zerotons and singletons
 ```{r}
 taxon <- "mammals"
@@ -660,16 +647,54 @@ par(mfrow=c(1,1))
 ```
 
 
-#### Unconstrained ordination
-#### For NMDS, mvabund, and boral analyses, remove zeroton and singleton species (these are species that appear in 0 or 1 sample). This is dfferent from the previous specnumber filtering step, where i removed samples that had 0 or 1 species only in them, which are samples that cause ordination to create strong outlier points. Such species are needed above for estimating species richness (inext, specpool) but do not provide useful information for ordination, which is driven by shared species
-```{r remove zeroton and singleton species from communityB}
-taxon <- "lgmammals"
+
+
+
+
+
+
+#### Run tabasco before removing zerotons and singletons (i.e. species that appear in 0 or 1 sample)
+```{r}
+taxon <- "mammals"
 leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
 reserve_tb <- get(str_c("reserve_", taxon))
 
-leechotu_tb <- leechotu_tb[, which(specnumber(leechotu_tb, MARGIN=2) > 1)]
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", trymax = 20, binary=TRUE)
+community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, previous.best = community.jmds)  
+stressplot(community.jmds)
+tabasco(leechotu_tb, use = community.jmds, labCol = reserve_tb$reservecode)
 ```
-NMDS_reservecode_carnivora_primates_artiodactyla
+
+
+#### Run tabasco with only species that appear in >= 10 sites and reserves in BM, HSL, QNSL, XS
+```{r}
+taxon <- "lgmammals"
+leechotu_tb_start <- get(str_c("leechotu5_", taxon, "_tb"))
+reserve_tb_start <- get(str_c("reserve_", taxon))
+reserve_tb_min10 <- reserve_tb_start %>% dplyr::filter(reserve_tb_start$reservecode %in% c("BM", "HSL", "QNSL", "XS"))
+leechotu_tb_min10 <- leechotu_tb_start %>% dplyr::filter(reserve_tb_start$reservecode %in% c("BM", "HSL", "QNSL", "XS"))
+leechotu_tb_min10 <- leechotu_tb_min10[, which(specnumber(leechotu_tb_min10, MARGIN=2) >= 10)]
+
+
+community_tabasco.jmds <- metaMDS(leechotu_tb_min10, distance = "jaccard", trymax = 20, binary=TRUE)
+community_tabasco.jmds <- metaMDS(leechotu_tb_min10, distance = "jaccard", binary = TRUE, previous.best = community_tabasco.jmds)  
+stressplot(community_tabasco.jmds)
+tabasco(leechotu_tb_min10, use = community_tabasco.jmds, labCol = reserve_tb_min10$reservecode)
+```
+
+#### Unconstrained ordination
+#### For NMDS, mvabund, and boral analyses, remove zeroton and singleton species (these are species that appear in 0 or 1 sample). This is dfferent from the previous specnumber filtering step, where i removed samples that had 0 or 1 species only in them, which are samples that cause ordination to create strong outlier points. Such species are needed above for estimating species richness (inext, specpool) but do not provide useful information for ordination, which is driven by shared species
+```{r remove low prevalence species from communityB}
+taxon <- "lgmammals"
+leechotu_tb <- get(str_c("leechotu5_", taxon, "_tb"))
+reserve_tb <- get(str_c("reserve_", taxon))
+leechotu_tb <- leechotu_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("BM", "HSL", "QNSL", "XS"))
+reserve_tb <- reserve_tb %>% dplyr::filter(reserve_tb$reservecode %in% c("BM", "HSL", "QNSL", "XS"))
+
+leechotu_tb <- leechotu_tb[, which(specnumber(leechotu_tb, MARGIN=2) >= 2)]
+```
+
+
 ## NMDS ordination
 ```{r NMDS}
 ### do NMDS analysis to see overall patterns ####
@@ -678,7 +703,7 @@ community.jmds <- metaMDS(leechotu_tb, distance = "jaccard", binary = TRUE, prev
 stressplot(community.jmds)
 speciesloadings <- community.jmds[["species"]] # shows species loadings
 speciesloadings <- speciesloadings %>% as.data.frame() %>% rownames_to_column() 
-# write_tsv(speciesloadings, "analysis/speciesloadings_mammals.tsv")
+# write_tsv(speciesloadings, "analysis/speciesloadings_carnivora_primates_artiodactyla_10minsamples.tsv")
 ```
 
 ```{r plot NMDS by reservecode}
@@ -690,7 +715,7 @@ levels(reserve_tb$reservecode)
 (speciesincidence <- specnumber(leechotu_tb, MARGIN = 2)) # number of sites per species
 colvec <- brewer.pal(5, "Set1")
 
-plot(community.jmds, display="sites", type="n")
+plot(community.jmds, display="species")
 
 with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[1]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("BM"))))
 
@@ -702,7 +727,7 @@ with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon"
 
 with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[4]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("QNSL"))))
 
-with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[3]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
+with(reserve_tb, ordiellipse(community.jmds, reservecode, cex=.5, draw="polygon", col=as.character(colvec[5]), alpha=20, kind="se", conf=0.95, label=TRUE, show.groups=(c("XS"))))
 
 # text(community.jmds, display = "sites", cex=0.7, col="blue")
 text(community.jmds, display = "species", cex=0.7, col="blue")
@@ -758,5 +783,14 @@ text(community.jmds, display = "species", cex=0.7, col="blue")
 
 
 
+This is to see the mammal composition of the samples that displayed a positive band in the saola ATP6 PCR test.  None of the samples contained Pseudoryx
+```{r}
+saola_ATP6 <- read_excel(file.path())
+	
+saola_ATP6 <- read_excel(file.path(folder1, "protax_cf_saola_OTUs", "WWF-Samples-Status-2014Sep.xlsx"), sheet = "Sample_Status", col_names = TRUE, skip = 2) %>% dplyr::filter(PCR_ATP6 == "bands observed") %>% dplyr::select(index, ECEC_ID, WWF_information, PCR_ATP6)
 
+reserve_mammals_combined <- bind_cols(reserve_mammals, leechotu5_mammals_t)
+
+saola_ATP6_combined <- left_join(saola_ATP6, reserve_mammals_combined, by = c("ECEC_ID" = "sample"))
+```
 
